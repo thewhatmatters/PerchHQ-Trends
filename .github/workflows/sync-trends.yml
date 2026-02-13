@@ -1,0 +1,27 @@
+name: Sync Daily Trends
+
+on:
+  schedule:
+    # Run at 4:30 AM CST (30 min after research completes)
+    - cron: '30 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Download today's trends
+        run: |
+          # This will be replaced with actual download from research server
+          echo "Downloading trends for $(date +%Y-%m-%d)"
+          # curl -o trends/$(date +%Y-%m-%d).json $RESEARCH_API_URL
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add trends/
+          git commit -m "Add trends for $(date +%Y-%m-%d)" || exit 0
+          git push

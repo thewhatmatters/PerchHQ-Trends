@@ -67,7 +67,9 @@ jobs:
 
             # Insert trends via Supabase REST API (skip duplicates)
             python3 - "$FILE" << 'PYTHON'
-          import json, os, sys, urllib.request, urllib.error
+          import json, os, re, sys, urllib.request, urllib.error
+
+          UUID_RE = re.compile(r'^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$', re.I)
 
           supabase_url = os.environ["SUPABASE_URL"]
           service_key = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
@@ -95,6 +97,11 @@ jobs:
           errors = 0
 
           for trend in trends:
+              # batch_id column is UUID — only include if valid UUID, else omit
+              batch_id = trend.get("batch_id", batch_defaults.get("batch_id"))
+              if batch_id and not UUID_RE.match(str(batch_id)):
+                  batch_id = None
+
               row = {
                   "scraped_at": trend.get("scraped_at", batch_defaults.get("scraped_at")),
                   "headline": trend["headline"],
@@ -107,7 +114,7 @@ jobs:
                   "confidence_score": trend.get("confidence_score"),
                   "relevance_score": trend.get("relevance_score"),
                   "expires_at": trend.get("expires_at", batch_defaults.get("expires_at")),
-                  "batch_id": trend.get("batch_id", batch_defaults.get("batch_id")),
+                  "batch_id": batch_id,
                   "metadata": trend.get("metadata", {}),
               }
 

@@ -55,7 +55,13 @@ jobs:
               exit 1
             fi
 
-            COUNT=$(python3 -c "import json; print(len(json.load(open('$FILE'))))")
+            # Count trends (handle both bare array and wrapped object formats)
+            COUNT=$(python3 -c "
+          import json
+          raw = json.load(open('$FILE'))
+          trends = raw.get('trends', raw) if isinstance(raw, dict) else raw
+          print(len(trends))
+          ")
             echo "Found $COUNT trend(s) in $FILE"
 
             # Insert trends via Supabase REST API (skip duplicates)
@@ -67,7 +73,21 @@ jobs:
           filepath = sys.argv[1]
 
           with open(filepath) as f:
-              trends = json.load(f)
+              raw = json.load(f)
+
+          # Support both formats:
+          #   Bare array:    [{trend}, {trend}, ...]
+          #   Wrapped object: {"batch_id": ..., "scraped_at": ..., "trends": [...]}
+          if isinstance(raw, list):
+              trends = raw
+              batch_defaults = {}
+          else:
+              trends = raw.get("trends", [])
+              batch_defaults = {
+                  "scraped_at": raw.get("scraped_at"),
+                  "expires_at": raw.get("expires_at"),
+                  "batch_id": raw.get("batch_id"),
+              }
 
           inserted = 0
           skipped = 0
@@ -75,7 +95,7 @@ jobs:
 
           for trend in trends:
               row = {
-                  "scraped_at": trend["scraped_at"],
+                  "scraped_at": trend.get("scraped_at", batch_defaults.get("scraped_at")),
                   "headline": trend["headline"],
                   "body": trend["body"],
                   "categories": trend["categories"],
@@ -85,8 +105,8 @@ jobs:
                   "status": trend.get("status", "raw"),
                   "confidence_score": trend.get("confidence_score"),
                   "relevance_score": trend.get("relevance_score"),
-                  "expires_at": trend.get("expires_at"),
-                  "batch_id": trend.get("batch_id"),
+                  "expires_at": trend.get("expires_at", batch_defaults.get("expires_at")),
+                  "batch_id": trend.get("batch_id", batch_defaults.get("batch_id")),
                   "metadata": trend.get("metadata", {}),
               }
 

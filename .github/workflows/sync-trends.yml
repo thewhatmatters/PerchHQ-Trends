@@ -1,27 +1,124 @@
-name: Sync Daily Trends
+name: Sync Trends to Supabase
 
 on:
-  schedule:
-    # Run at 4:30 AM CST (30 min after research completes)
-    - cron: '30 10 * * *'
+  push:
+    paths:
+      - 'trends/*.json'
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Download today's trends
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find changed trend files
+        id: changed
         run: |
-          # This will be replaced with actual download from research server
-          echo "Downloading trends for $(date +%Y-%m-%d)"
-          # curl -o trends/$(date +%Y-%m-%d).json $RESEARCH_API_URL
-      
-      - name: Commit and push
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'trends/*.json' 2>/dev/null || echo "")
+          if [ -z "$FILES" ]; then
+            # On manual dispatch, sync all files
+            FILES=$(ls trends/*.json 2>/dev/null || echo "")
+          fi
+          if [ -z "$FILES" ]; then
+            echo "No trend files found"
+            echo "files=" >> $GITHUB_OUTPUT
+          else
+            echo "Files to sync: $FILES"
+            echo "files=$FILES" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Sync to Supabase
+        if: steps.changed.outputs.files != ''
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add trends/
-          git commit -m "Add trends for $(date +%Y-%m-%d)" || exit 0
-          git push
+          set -e
+
+          for FILE in ${{ steps.changed.outputs.files }}; do
+            echo "========================================="
+            echo "Processing $FILE..."
+            echo "========================================="
+
+            # Validate JSON
+            if ! python3 -c "import json; json.load(open('$FILE'))"; then
+              echo "ERROR: Invalid JSON in $FILE"
+              exit 1
+            fi
+
+            COUNT=$(python3 -c "import json; print(len(json.load(open('$FILE'))))")
+            echo "Found $COUNT trend(s) in $FILE"
+
+            # Insert trends via Supabase REST API (skip duplicates)
+            python3 - "$FILE" << 'PYTHON'
+          import json, os, sys, urllib.request, urllib.error
+
+          supabase_url = os.environ["SUPABASE_URL"]
+          service_key = os.environ["SUPABASE_SERVICE_ROLE_KEY"]
+          filepath = sys.argv[1]
+
+          with open(filepath) as f:
+              trends = json.load(f)
+
+          inserted = 0
+          skipped = 0
+          errors = 0
+
+          for trend in trends:
+              row = {
+                  "scraped_at": trend["scraped_at"],
+                  "headline": trend["headline"],
+                  "body": trend["body"],
+                  "categories": trend["categories"],
+                  "source": trend.get("source"),
+                  "source_url": trend.get("source_url"),
+                  "trend_type": trend.get("trend_type"),
+                  "status": trend.get("status", "raw"),
+                  "confidence_score": trend.get("confidence_score"),
+                  "relevance_score": trend.get("relevance_score"),
+                  "expires_at": trend.get("expires_at"),
+                  "batch_id": trend.get("batch_id"),
+                  "metadata": trend.get("metadata", {}),
+              }
+
+              data = json.dumps(row).encode()
+              req = urllib.request.Request(
+                  f"{supabase_url}/rest/v1/trends",
+                  data=data,
+                  headers={
+                      "apikey": service_key,
+                      "Authorization": f"Bearer {service_key}",
+                      "Content-Type": "application/json",
+                      "Prefer": "resolution=ignore-duplicates",
+                  },
+                  method="POST",
+              )
+
+              try:
+                  urllib.request.urlopen(req)
+                  inserted += 1
+                  print(f"  + {trend['headline'][:70]}")
+              except urllib.error.HTTPError as e:
+                  body = e.read().decode()
+                  if "duplicate" in body.lower() or e.code == 409:
+                      skipped += 1
+                      print(f"  ~ SKIP (duplicate): {trend['headline'][:50]}")
+                  else:
+                      errors += 1
+                      print(f"  ! ERROR: {trend['headline'][:50]} -> {e.code} {body}")
+
+          print(f"\nResult: {inserted} inserted, {skipped} duplicates skipped, {errors} errors")
+          if errors > 0:
+              sys.exit(1)
+          PYTHON
+
+          done
+
+          echo ""
+          echo "Sync complete!"

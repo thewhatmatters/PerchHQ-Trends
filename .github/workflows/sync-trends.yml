@@ -23,11 +23,12 @@ jobs:
       - name: Find changed trend files
         id: changed
         run: |
-          FILES=$(git diff --name-only HEAD~1 HEAD -- 'trends/*.json' 2>/dev/null || echo "")
-          if [ -z "$FILES" ]; then
-            # On manual dispatch, sync all files
-            FILES=$(ls trends/*.json 2>/dev/null || echo "")
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'trends/*.json' 2>/dev/null | tr '\n' ' ')
+          if [ -z "$(echo "$FILES" | tr -d ' ')" ]; then
+            # On manual dispatch or schedule, sync all files
+            FILES=$(ls trends/*.json 2>/dev/null | tr '\n' ' ')
           fi
+          FILES=$(echo "$FILES" | xargs)
           if [ -z "$FILES" ]; then
             echo "No trend files found"
             echo "files=" >> $GITHUB_OUTPUT

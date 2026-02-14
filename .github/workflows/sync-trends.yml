@@ -6,6 +6,9 @@ on:
       - 'trends/*.json'
     branches:
       - main
+  schedule:
+    # 5:30 AM CST (11:30 UTC) daily — safety net in case push trigger misses
+    - cron: '30 11 * * *'
   workflow_dispatch:
 
 jobs:

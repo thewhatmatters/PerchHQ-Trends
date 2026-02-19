@@ -25,28 +25,76 @@ trends/
 └── ...
 ```
 
-## 🔄 Data Format
+## ⚠️ REQUIRED FORMAT (Strict)
 
-Each trend record includes:
+**DO NOT deviate from this schema. All trend files must follow this exact format.**
+
+### File Structure
 
 ```json
 {
-  "id": "uuid",
-  "headline": "What's trending",
-  "body": "Detailed description",
-  "categories": ["Category"],
-  "source": "TikTok | Instagram | X | Reddit",
+  "batch_id": "trends-YYYY-MM-DD",
+  "scraped_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "expires_at": "YYYY-MM-DDTHH:MM:SSZ",
+  "trends": [ ... ]
+}
+```
+
+### Trend Record Schema
+
+```json
+{
+  "headline": "What's trending (short, descriptive)",
+  "body": "Detailed description of the trend",
+  "categories": ["Category1", "Category2"],
+  "source": "TikTok | Instagram | YouTube | Reddit | Web",
+  "source_url": "https://...",
   "trend_type": "product | content_format | viral_moment | hashtag",
   "confidence_score": 0.85,
   "relevance_score": 9,
   "metadata": {
-    "hashtags": ["#trending"],
-    "engagement": { "views": 1000000 },
-    "sentiment": "positive",
-    "related_brands": ["Brand Name"]
+    "hashtags": ["#trending", "#relevant"],
+    "engagement": { "mentions": "high|medium", "editor_approved": true|false },
+    "sentiment": "positive | negative | mixed | neutral",
+    "related_brands": ["Brand1", "Brand2"],
+    "context": "What kind of trend this is (e.g., viral recipe, product launch, fashion week)",
+    "price_point": "budget | mid-range | luxury | various"
   }
 }
 ```
+
+### Field Rules
+
+| Field | Required | Notes |
+|-------|----------|-------|
+| `batch_id` | ✅ | Format: `trends-YYYY-MM-DD` |
+| `scraped_at` | ✅ | ISO 8601 format with `T` and `Z` |
+| `expires_at` | ✅ | 3 days after `scraped_at` |
+| `trends` | ✅ | Array of trend objects |
+| `headline` | ✅ | Short, descriptive title |
+| `body` | ✅ | 1-2 sentence description |
+| `categories` | ✅ | Array from 10 Creator Categories |
+| `source` | ✅ | Platform or publication name |
+| `source_url` | ✅ | Full URL to source |
+| `trend_type` | ✅ | `product`, `content_format`, `viral_moment`, or `hashtag` |
+| `confidence_score` | ✅ | Decimal 0.0-1.0 |
+| `relevance_score` | ✅ | Integer 1-10 |
+| `metadata` | ✅ | Object with all sub-fields |
+| `metadata.hashtags` | ✅ | Array of hashtag strings |
+| `metadata.engagement` | ✅ | Object: `{ "mentions": "high|medium", "editor_approved": true|false }` |
+| `metadata.sentiment` | ✅ | `positive`, `negative`, `mixed`, or `neutral` |
+| `metadata.related_brands` | ✅ | Array of brand names |
+| `metadata.context` | ✅ | Short string describing trend context |
+| `metadata.price_point` | ✅ | `budget`, `mid-range`, `luxury`, or `various` |
+
+### ⚠️ Common Mistakes to Avoid
+
+- ❌ Using `views`, `likes`, `shares` in engagement — use `mentions` + `editor_approved`
+- ❌ Missing `context` field
+- ❌ Missing `price_point` field
+- ❌ Using `date` instead of `batch_id`
+- ❌ Nesting trends under `categories` object — use flat `trends` array
+- ❌ Using null values — always provide a value
 
 ## ⏰ Update Schedule
 

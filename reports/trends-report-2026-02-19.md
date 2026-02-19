@@ -1,119 +1,86 @@
 # Daily Trends Report - February 19, 2026
 
 ## Overview
-This report covers trending topics across 10 creator categories for February 19, 2026.
+This report captures the top trending topics across 10 creator categories for February 19, 2026, based on fresh web search data.
 
 ---
 
-## 1. Beauty & Skincare
+## 🔥 Top Trends
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Custom Skincare | Custom skincare market booming worldwide with major players like Function of Beauty, Curology, SkinCeuticals | OpenPR |
-| Natural Ingredients & Sustainability | UK skincare market growth at 3.0% CAGR through 2035 | OpenPR |
-| Professional Skin Consultation | Professional skin consultation emerging as the new skincare essential | Moneycontrol |
-| Skin Minimalism & Prejuvenation | Beauty trends include skin minimalism and prejuvenation approaches | Moneycontrol |
+### Beauty & Skincare
 
----
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **Divorce Dust** | Viral TikTok trend where users apply body glitter on dates as a 'married man repellent' - playful dating safety trend | TikTok/MoneyControl | High |
+| **Bebot Makeup** | Colorful face painting trend from Philippines going global via TikTok | TikTok/Paris Select | High |
+| **AI Skin & Statement Lashes** | Top 2026 makeup trends combining tech with bold artistic expression | CBC Life | Medium |
 
-## 2. Fashion & Apparel
+### Fashion & Apparel
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Spring/Summer 2026 Campaigns | Major fashion houses launching S/S 2026 campaigns with celebrity casting | L'Officiel USA |
-| NY Fashion Week Fall 2026 | Pin-on accessories trending across Michael Kors, Collina Strada, Ralph Lauren | Fashionista |
-| Denim Trends 2026 | Bootcut, low-rise, and relaxed '90s nostalgia silhouettes trending | Vogue |
-| Dress Trends | Femininity returning with bold, expressive, romantic styles | That Love Podcast |
-| Miu Miu Pop-ups | Miu Miu Manifeste pop-ups launching across Asia | Luxury Daily |
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **90s Nostalgia** | Fall 2026 dominated by 90s nostalgia, layering, pops of red from contemporary brands | WWD | High |
+| **Pin-on Accessories** | Trending across designers like Michael Kors, Collina Strada, Ralph Lauren | Fashionista | Medium |
 
----
+### Health & Fitness
 
-## 3. Food & Beverage
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **Deinfluencing Fitness** | Industry shifting from aesthetics to health focus - #BEACTIVE DAY emphasizes mental health | Healthing.ca | High |
+| **Calisthenics Rising** | Body-weight fitness trending among creators and gyms | Republic World | Medium |
+| **Fitness Apps $661B** | Market projected to reach $661 billion at 27.62% CAGR | OpenPR | High |
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Adaptogenic Beverages | Global market significant growth driven by holistic wellness | OpenPR |
-| Expo West 2026 | Natural products industry gathering in March focusing on innovation | Nutritional Outlook |
-| Liquid Death Expansion | Founder to keynote 2026 Bar & Restaurant Expo | FB101 |
-| Low-Calorie Food Market | Strong growth trajectory through 2030 | OpenPR |
+### Tech & Gadgets
 
----
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **India AI Summit 2026** | Pichai, Altman, Amodei gathering in Delhi; Google I/O 2026 announced | Times of India | High |
+| **Smart Wearables $545B** | Market to exceed $545 billion by 2035 | GlobeNewswire | High |
 
-## 4. Health & Fitness
+### Travel & Hospitality
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Calisthenics | Trending among content creators, independent gyms and megachains | Republic World |
-| Fitness App Market | Projected to reach $661.08 billion at 27.62% CAGR | OpenPR |
-| Smartwatches | Garmin Venu 4 top fitness-focused smartwatch | CNET |
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **Agentic AI Booking** | Voice-command travel bookings becoming reality | PanAdvert | Medium |
+| **Space & Privacy as Luxury** | Private villas, boutique resorts, 'Salvaged Stays' trending | GlobeNewswire | Medium |
 
----
+### Pets
 
-## 5. Tech & Gadgets
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **Pet Lifestyle 2026** | Calmer, more integrated pet lifestyle with smart tech | The Pet Care Diary | High |
+| **Pet Tech Integration** | Smart feeders, GPS collars, health wearables common | Various | High |
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| AI Infrastructure | AI moving from experimentation to production - focus on infrastructure | TechPuts |
-| Edge Computing | Devices getting smarter at the edge with local AI | TechPuts |
-| Epic Games AI | Acquiring Meshcapade, expanding AI across Fortnite and Unreal | Sci-Tech Today |
-| Snapchat+ | Hits 25 million subscribers and $1 billion revenue run rate | TechBriefly |
+### Jewelry & Accessories
 
----
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **Collar Necklaces** | Statement pieces from $118 (Jenny Bird) to $695 | Paris Select | Medium |
+| **Custom Jewelry Boom** | Market growing with focus on minimal, meaningful pieces | OpenPR | Medium |
 
-## 6. Baby & Kids
+### Home & Lifestyle
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Baby Name Trends 2026 | 8 major trends identified by Nameberry and BabyCenter | Today.com |
-| Gen Alpha Influence | 66% influence on family clothing purchases | eMarketer |
-| Gen Alpha Market | $250 billion in US spending influence | Bloomberg |
-| Baby Play Mat Market | Set for boom with Tiny Love, Skip Hop, Fisher-Price | OpenPR |
+| Trend | Description | Source | Engagement |
+|-------|-------------|--------|------------|
+| **Blue 2026 Color** | Blue leading interior color trends - timeless and classic | KBTX | Medium |
+| **Vintage Furniture** | Secondhand furniture mainstream - wellbeing, individuality, environment focus | Design Scene | Medium |
 
 ---
 
-## 7. Pets
+## 📊 Summary Statistics
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Pet Tech Integration | Smart feeders, GPS collars, health wearables common in urban homes | The Pet Care Diary |
-| Pet Wellness Market | Projected to exceed $250 billion by end of decade | GlobeNewswire |
-| Pet Humanization | Increased humanization and premiumization driving growth | GlobeNewswire |
-| Pet Product Innovation | Brazilian market growing 12% with tech focus | PetBR |
+- **Total Trends Captured:** 14
+- **Categories Covered:** 10 (Beauty, Fashion, Health, Tech, Travel, Pets, Jewelry, Home, Food & Beverage, Baby & Kids)
+- **High Engagement Trends:** 7
+- **Sources:** TikTok, WWD, GlobeNewswire, Times of India, OpenPR, and more
 
 ---
 
-## 8. Travel & Hospitality
+## 🎯 Creator Opportunities
 
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Creator-Driven Bookings | Creator content combined with performance targeting | PanAdvert |
-| Salvaged Stays | Renovated historical locations trending | RetailMeNot |
-| Experiential Venues | Focus on reducing friction - instant bookings, curated add-ons | ET Hospitality |
-| Space & Privacy as Luxury | Private villas, boutique resorts, nature hideaways | GlobeNewswire |
-
----
-
-## 9. Jewelry & Accessories
-
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Heirloom Investment | Positioning jewelry as investment - platinum, silver, mixed metals | Southern Jewelry News |
-| Collar Necklaces | Trending from NY Fashion Week ($118-$275 range) | Paris Select Book |
-| Custom-Made Jewelry | Dynamic growth with key players | OpenPR |
-| Oval Diamond Engagement Rings | Most popular choice in 2026 | Aurore Jewelry |
-| Minimal Diamond & Silver | Refined comeback as quiet luxury | Surat Diamond |
-
----
-
-## 10. Home & Lifestyle
-
-| Topic | Insight | Source |
-|-------|---------|--------|
-| Curved Lines & Soft Silhouettes | Creating relaxed, larger-feeling spaces | Design Scene |
-| Ceilings | Becoming focal point in 2026 home design | Design Scene |
-| Smart Home Tech | More accessible across budget levels | Apache Junction Independent |
-| Sustainable & Functional Spaces | Natural elements, functional and sustainable design | CelebsNet |
-
----
+1. **Beauty:** Divorce Dust and Bebot makeup trends offer high viral potential
+2. **Fitness:** Authenticity-first health content aligned with deinfluencing trend
+3. **Tech:** AI summits and product launches provide timely content angles
+4. **Travel:** Luxury privacy and AI booking = affiliate partnership opportunities
 
 *Report generated: February 19, 2026*

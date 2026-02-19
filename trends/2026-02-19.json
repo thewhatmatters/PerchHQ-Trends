@@ -1,271 +1,229 @@
 {
   "date": "2026-02-19",
-  "categories": [
+  "trends": [
     {
-      "id": 1,
-      "name": "Beauty & Skincare",
-      "trends": [
-        {
-          "topic": "Custom Skincare",
-          "insight": "Custom skincare market booming worldwide with major players like Function of Beauty, Curology, SkinCeuticals leading growth",
-          "source": "OpenPR"
-        },
-        {
-          "topic": "Natural Ingredients & Sustainability",
-          "insight": "Natural ingredients and sustainability driving UK skincare market growth at 3.0% CAGR through 2035",
-          "source": "OpenPR"
-        },
-        {
-          "topic": "Professional Skin Consultation",
-          "insight": "Professional skin consultation emerging as the new skincare essential per Delhi dermatologists",
-          "source": "Moneycontrol"
-        },
-        {
-          "topic": "Skin Minimalism & Prejuvenation",
-          "insight": "Beauty trends from 2025 include skin minimalism and prejuvenation approaches",
-          "source": "Moneycontrol"
-        }
-      ]
+      "headline": "Divorce Dust: The Viral 'Married Man Repellent' Beauty Trend",
+      "body": "Divorce dust is the latest viral TikTok beauty trend where users apply body glitter on dates to leave traces if someone gets too close - essentially a 'married man repellent'. The trend has taken over make-up trends with tutorials multiplying across TikTok, adapted to all skin types and budgets. This playful, cheeky trend is resonating with young women who enjoy the humorous approach to dating safety.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.moneycontrol.com/lifestyle/beauty/what-is-divorce-dust-the-viral-married-man-repellent-taking-over-make-up-trends-article-13835260.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DivorceDust", "#MarriedManRepellent", "#TikTokBeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
     },
     {
-      "id": 2,
-      "name": "Fashion & Apparel",
-      "trends": [
-        {
-          "topic": "Spring/Summer 2026 Campaigns",
-          "insight": "Major fashion houses launching S/S 2026 campaigns with celebrity casting and cinematic direction",
-          "source": "L'Officiel USA"
-        },
-        {
-          "topic": "NY Fashion Week Fall 2026",
-          "insight": "Pin-on accessories trending across designers like Michael Kors, Collina Strada, Ralph Lauren, Khaite",
-          "source": "Fashionista"
-        },
-        {
-          "topic": "Denim Trends 2026",
-          "insight": "Bootcut predicted to be big in 2026, along with low-rise and relaxed '90s nostalgia silhouettes",
-          "source": "Vogue"
-        },
-        {
-          "topic": "Dress Trends",
-          "insight": "Femininity returning with bold, expressive, romantic styles - movement away from neutral uniforms",
-          "source": "That Love Podcast"
-        },
-        {
-          "topic": "Miu Miu Pop-ups",
-          "insight": "Miu Miu Manifeste pop-ups launching across Asia",
-          "source": "Luxury Daily"
-        }
-      ]
+      "headline": "Bebot Make-up Trend from Philippines Going Global",
+      "body": "The colorful Bebot make-up trend from the Philippines is spreading globally via TikTok and Instagram. The trend features bold, artistic face painting with vibrant colors and dramatic designs. Tutorials are multiplying weekly, adapted to all skin types and budgets, promising to leave a lasting mark on the beauty landscape.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.parisselectbook.com/en/2026/02/18/bebot-make-up-this-make-up-trend-from-the-philippines-will-invade-tiktok-in-2025/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BebotMakeup", "#PhilippinesBeauty", "#TikTokTrend"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
     },
     {
-      "id": 3,
-      "name": "Food & Beverage",
-      "trends": [
-        {
-          "topic": "Adaptogenic Beverages",
-          "insight": "Global adaptogenic beverages market experiencing significant growth driven by holistic wellness focus",
-          "source": "OpenPR"
-        },
-        {
-          "topic": "Expo West 2026",
-          "insight": "Natural products industry gathering in March 2026 focusing on innovation and sustainability",
-          "source": "Nutritional Outlook"
-        },
-        {
-          "topic": "Liquid Death Expansion",
-          "insight": "Liquid Death founder Mike Cessario to keynote 2026 Bar & Restaurant Expo",
-          "source": "FB101"
-        },
-        {
-          "topic": "Low-Calorie Food Market",
-          "insight": "Low-calorie and meal replacement market showing strong growth trajectory through 2030",
-          "source": "OpenPR"
-        }
-      ]
+      "headline": "AI Skin and Statement Lashes Dominating 2026 Makeup",
+      "body": "AI skin, statement lashes, and blush layering are the top makeup trends pros say you'll see on your feeds in 2026. These trends combine technology with bold artistic expression, creating new content opportunities for beauty creators.",
+      "categories": ["Beauty & Skincare"],
+      "source": "CBC Life",
+      "source_url": "https://www.cbc.ca/life/style/makeup-trends-2026-9.7096070",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AISkin", "#StatementLashes", "#BlushLayering"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
     },
     {
-      "id": 4,
-      "name": "Health & Fitness",
-      "trends": [
-        {
-          "topic": "Calisthenics",
-          "insight": "Calisthenics trending among content creators, independent gyms and megachains",
-          "source": "Republic World"
-        },
-        {
-          "topic": "Fitness App Market",
-          "insight": "Fitness app market projected to reach $661.08 billion at 27.62% CAGR",
-          "source": "OpenPR"
-        },
-        {
-          "topic": "Smartwatch Trends",
-          "insight": "Garmin Venu 4 added as top fitness-focused smartwatch with Body Battery and recovery tracking",
-          "source": "CNET"
-        }
-      ]
+      "headline": "90s Nostalgia Dominating Fall 2026 Fashion",
+      "body": "New York Fashion Week's contemporary brands like Staud, Kate Barton and Vince leaned into '90s nostalgia, layering, and pops of red for Fall 2026. The aesthetic is characterized by bold outerwear, textured fabrics, and intricate layering - creating major content opportunities for fashion creators.",
+      "categories": ["Fashion & Apparel"],
+      "source": "WWD",
+      "source_url": "https://wwd.com/fashion-news/fashion-features/fall-2025-womens-ready-to-wear-fashion-trends-contemporary-1238613094/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#NYFW", "#90sNostalgia", "#Fall2026"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Staud", "Kate Barton", "Vince", "Michael Kors", "Collina Strada"]
+      }
     },
     {
-      "id": 5,
-      "name": "Tech & Gadgets",
-      "trends": [
-        {
-          "topic": "AI Infrastructure",
-          "insight": "AI moving from experimentation to production in 2026 - focus on infrastructure, scale, real-world deployment",
-          "source": "TechPuts"
-        },
-        {
-          "topic": "Edge Computing",
-          "insight": "Devices getting smarter at the edge with local AI processing",
-          "source": "TechPuts"
-        },
-        {
-          "topic": "Epic Games AI",
-          "insight": "Epic Games acquiring Meshcapade, expanding AI tools across Fortnite and Unreal Engine for 3D motion capture",
-          "source": "Sci-Tech Today"
-        },
-        {
-          "topic": "Snapchat+ Growth",
-          "insight": "Snapchat+ hits 25 million subscribers and $1 billion revenue run rate",
-          "source": "TechBriefly"
-        }
-      ]
+      "headline": "Collar Necklaces: The Statement Piece of NYFW 2026",
+      "body": "Statement collar necklaces are trending across designers at New York Fashion Week 2026, from affordable options like Jenny Bird's Dane Collar ($118) to luxurious pieces at $695. This trend offers creators opportunities across price points for affiliate content.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Paris Select Book",
+      "source_url": "https://www.parisselectbook.com/en/2026/02/18/jewelry-trends-2026-7-styles-spotted-on-the-catwalks-of-new-york-fashion-week/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CollarNecklace", "#NYFWJewelry", "#StatementJewelry"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Jenny Bird", "Alexis Bittar"]
+      }
     },
     {
-      "id": 6,
-      "name": "Baby & Kids",
-      "trends": [
-        {
-          "topic": "Baby Name Trends 2026",
-          "insight": "8 major baby name trends identified by Nameberry and BabyCenter experts",
-          "source": "Today.com"
-        },
-        {
-          "topic Influence",
-          "": "Gen Alphainsight": "Gen Alpha already calling shots on family shopping trips - 66% influence on clothing purchases",
-          "source": "eMarketer"
-        },
-        {
-          "topic": "Gen Alpha Market",
-          "insight": "Gen Alpha market trends: $250 billion in US spending influence",
-          "source": "Bloomberg"
-        },
-        {
-          "topic": "Baby Play Mat Market",
-          "insight": "Baby play mat market set for boom with key players like Tiny Love, Skip Hop, Fisher-Price",
-          "source": "OpenPR"
-        }
-      ]
+      "headline": "Deinfluencing Fitness: Health Over Aesthetics in 2026",
+      "body": "The fitness industry is shifting focus from aesthetics to health in 2026. Studios like Orangetheory Fitness blend strength training with heart-rate monitoring for long-term health benefits. The #BEACTIVE DAY initiative focuses on mental health through physical activity. Creators can capitalize on this authenticity-first approach to fitness content.",
+      "categories": ["Health & Fitness"],
+      "source": "Healthing.ca",
+      "source_url": "https://www.healthing.ca/fitness/opinion-deinfluencing-fitness-trends-in-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BEACTIVE", "#Fitness2026", "#HealthOverHustle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Orangetheory Fitness"]
+      }
     },
     {
-      "id": 7,
-      "name": "Pets",
-      "trends": [
-        {
-          "topic": "Pet Tech Integration",
-          "insight": "Smart feeders, automatic litter boxes, GPS tracking collars, health-monitoring wearables common in urban homes",
-          "source": "The Pet Care Diary"
-        },
-        {
-          "topic": "Pet Wellness Market",
-          "insight": "Global pet care market projected to exceed $250 billion by end of decade",
-          "source": "GlobeNewswire"
-        },
-        {
-          "topic": "Pet Humanization",
-          "insight": "Increased pet humanization, premiumization driving market growth",
-          "source": "GlobeNewswire"
-        },
-        {
-          "topic": "Pet Product Innovation",
-          "insight": "Brazilian pet market growing 12% in 2024 with focus on tech, sustainability and premium services",
-          "source": "PetBR"
-        }
-      ]
+      "headline": "Calisthenics Rising Among Content Creators",
+      "body": "Calisthenics is trending significantly among content creators, independent gyms, and megachains. The pandemic accelerated this body-weight fitness movement. Research shows calisthenics can improve muscle strength and aerobic conditioning, creating fresh content angles for fitness creators.",
+      "categories": ["Health & Fitness"],
+      "source": "Republic World",
+      "source_url": "https://www.republicworld.com/lifestyle/fitness/calisthenics-for-fitness-is-body-weight-enough-to-get-a-good-workout",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Calisthenics", "#BodyWeightWorkout", "#FitnessTrend"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
     },
     {
-      "id": 8,
-      "name": "Travel & Hospitality",
-      "trends": [
-        {
-          "topic": "Creator-Driven Bookings",
-          "insight": "Creator content combined with performance targeting driving direct bookings",
-          "source": "PanAdvert"
-        },
-        {
-          "topic": "Salvaged Stays",
-          "insight": "Renovated historical locations trending as 'Salvaged Stays' accommodation option",
-          "source": "RetailMeNot"
-        },
-        {
-          "topic": "Experiential Venues",
-          "insight": "Hospitality innovation focused on reducing friction - instant bookings, clear pricing, curated add-ons",
-          "source": "ET Hospitality"
-        },
-        {
-          "topic": "Space & Privacy as Luxury",
-          "insight": "Spaciousness as luxury expression - private villas, low-density boutique resorts, nature hideaways",
-          "source": "GlobeNewswire"
-        }
-      ]
+      "headline": "India AI Impact Summit 2026: Tech Giants Gather",
+      "body": "The India AI Impact Summit 2026 is bringing together Sundar Pichai (Google), Sam Altman (OpenAI), Dario Amodei (Anthropic), and other tech CEOs in Delhi. Google announced I/O 2026 dates (May 19-20) with focus on Android XR, Gemini-powered smart glasses, and AI hardware demos.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/india-ai-impact-summit-2026-sundar-pichai-sam-altman-dario-amodei-and-full-list-of-ceos-attending-the-summit-in-delhi/articleshow/128373872.cms",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AI2026", "#IndiaAI", "#GoogleIO"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Google", "OpenAI", "Anthropic", "Microsoft"]
+      }
     },
     {
-      "id": 9,
-      "name": "Jewelry & Accessories",
-      "trends": [
-        {
-          "topic": "Heirloom Investment",
-          "insight": "Positioning jewelry as heirloom investment - promoting platinum, sterling silver, mixed metals",
-          "source": "Southern Jewelry News"
-        },
-        {
-          "topic": "Collar Necklaces",
-          "insight": "Collar necklaces trending (Jenny Bird Dane Collar $118, Alexis Bittar $275) from NY Fashion Week",
-          "source": "Paris Select Book"
-        },
-        {
-          "topic": "Custom-Made Jewelry",
-          "insight": "Custom-made jewelry market showing dynamic growth with key players",
-          "source": "OpenPR"
-        },
-        {
-          "topic": "Oval Diamond Engagement Rings",
-          "insight": "Oval diamonds remain most popular engagement ring choice in 2026 (Hailey Bieber effect)",
-          "source": "Aurore Jewelry"
-        },
-        {
-          "topic": "Minimal Diamond & Silver",
-          "insight": "Minimal diamond pieces and silver jewelry making refined comeback as quiet luxury",
-          "source": "Surat Diamond"
-        }
-      ]
+      "headline": "Agentic AI Revolutionizing Travel Booking",
+      "body": "In 2026, Agentic AI allows travelers to voice-command bookings: 'Find me a room with an indoor pool in Oia for next weekend, under €800, and book it.' AI Agents autonomously contact booking engines, compare real-time pricing, and execute reservations - creating new creator partnership opportunities.",
+      "categories": ["Travel & Hospitality"],
+      "source": "PanAdvert",
+      "source_url": "https://www.panadvert.com/blog-posts/top-digital-trends-in-hospitality-2026-the-applied-intelligence-era/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AgenticAI", "#TravelTech", "#SmartBooking"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
     },
     {
-      "id": 10,
-      "name": "Home & Lifestyle",
-      "trends": [
-        {
-          "topic": "Curved Lines & Soft Silhouettes",
-          "insight": "Softer silhouettes creating relaxed atmosphere, making spaces feel larger and more calming",
-          "source": "Design Scene"
-        },
-        {
-          "topic": "Ceiling Design",
-          "insight": "Ceilings becoming focal point in 2026 home design",
-          "source": "Design Scene"
-        },
-        {
-          "topic": "Smart Home Tech",
-          "insight": "Smart home technology more accessible across budget levels",
-          "source": "Apache Junction Independent"
-        },
-        {
-          "topic": "Sustainable & Functional Spaces",
-          "insight": "Trend towards aesthetically pleasing, functional and sustainable home spaces with natural elements",
-          "source": "CelebsNet"
-        }
-      ]
+      "headline": "Space and Privacy as Luxury in Travel 2026",
+      "body": "In 2026, spaciousness is the ultimate expression of luxury - private villas, low-density boutique resorts, and nature-framed hideaways where quiet feels curated. New trends include 'Salvaged Stays' in renovated historical locations and 'Hotel Hopping' for mixing accommodations.",
+      "categories": ["Travel & Hospitality"],
+      "source": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com/news-release/2026/02/18/3240534/0/en/What-s-Trending-in-Travel-in-2026.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LuxuryTravel", "#PrivateVillas", "#SalvagedStays"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Pet Lifestyle 2026: Calm, Considered, Integrated",
+      "body": "Pet lifestyle in 2026 is becoming calmer, more considered, and more integrated into how we already live. Smart feeders, automatic litter boxes, GPS tracking collars, and health-monitoring wearables are common in urban homes. The global pet care market is projected to exceed $250 billion by decade's end.",
+      "categories": ["Pets"],
+      "source": "The Pet Care Diary",
+      "source_url": "https://thepetcarediary.com/pet-lifestyle-trends-2026-how-modern-pet-produ/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PetTech", "#PetWellness", "#PetLifestyle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Blue Leads 2026 Interior Design Color Trends",
+      "body": "Blue is leading color trends for 2026 according to designers, described as 'timeless and classic' pairing well with neutral items and natural elements. Home interior trends focus on vintage and secondhand furniture, reflecting desires for homes that support wellbeing, express individuality, and respect the environment.",
+      "categories": ["Home & Lifestyle"],
+      "source": "KBTX",
+      "source_url": "https://www.kbtx.com/2026/02/18/interior-design-trends-2026-focus-bold-statements-rich-tones/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#InteriorDesign2026", "#BlueHomes", "#VintageFurniture"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Custom-Made Jewelry Market Booming",
+      "body": "The custom-made jewelry market is experiencing dynamic growth with major players like Tiffany & Co. and Blue Nile leading the charge. Buyers are moving toward minimal, comfortable, and emotionally meaningful jewelry that fits real life - creating opportunities for artisan and custom jewelry creators.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "OpenPR",
+      "source_url": "https://www.openpr.com/news/4397004/rising-trends-of-custom-made-jewelry-market-set-for-dynamic",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CustomJewelry", "#HandmadeJewelry", "#MinimalJewelry"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Tiffany & Co.", "Blue Nile"]
+      }
+    },
+    {
+      "headline": "Fitness App Market Reaching $661 Billion",
+      "body": "The fitness app market is projected to reach $661.08 billion at 27.62% CAGR. In January 2026, RightLife launched India's first integrated, AI-powered, wearable-free preventive healthcare platform. The smartwatch market is also booming with Apple Series 11 leading ecosystem integration.",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "OpenPR",
+      "source_url": "https://www.openpr.com/news/4395204/fitness-app-market-research-revenue-to-climb-to-usd-661-08",
+      "trend_type": "product",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FitnessApp", "#HealthTech", "#WearableTech"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Apple", "RightLife", "Garmin"]
+      }
     }
-  ],
-  "generated_at": "2026-02-19T07:52:00-06:00"
+  ]
 }

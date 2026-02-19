@@ -1,196 +1,340 @@
 {
-  "date": "2026-02-18",
+  "batch_id": "trends-2026-02-18",
+  "scraped_at": "2026-02-18T10:00:00Z",
+  "expires_at": "2026-02-21T10:00:00Z",
   "trends": [
     {
       "headline": "2026 is the New 2016 Nostalgia Trend Taking Over TikTok",
       "body": "A viral social media phenomenon where users share content celebrating 2016 internet culture, recreating viral moments like the Bottle Flip Challenge, Mannequin Challenge, and Pokemon Go. TikTok users post throwback content featuring Snapchat puppy-dog filters, early smartphone camera aesthetics, and memes from the mid-2010s. Celebrities and influencers have joined in, driving massive engagement.",
-      "categories": ["Entertainment"],
+      "categories": [
+        "Entertainment"
+      ],
       "source": "TikTok",
       "source_url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016",
       "trend_type": "viral_moment",
       "confidence_score": 0.92,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#2026isTheNew2016", "#2016Nostalgia", "#Throwback"],
-        "engagement": "very high",
+        "hashtags": [
+          "#2026isTheNew2016",
+          "#2016Nostalgia",
+          "#Throwback"
+        ],
+        "engagement": {
+          "mentions": "very high"
+        },
         "sentiment": "positive",
-        "related_brands": ["Snapchat", "Pokemon Go"]
+        "related_brands": [
+          "Snapchat",
+          "Pokemon Go"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Micro-French Manicure Dominates Nail Art Trends",
       "body": "The ultra-thin French tip manicure is gaining massive popularity as a refined, elegant nail art style. Creators share tutorials on achieving the delicate look, which can be customized with chrome finishes or multi-tonal twists. The trend appeals to those seeking understated sophistication over bold nail designs.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.cosmopolitan.com/style-beauty/beauty/a70384157/micro-french-nail-trend/",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#MicroFrench", "#NailArt", "#FrenchManicure"],
-        "engagement": "high",
+        "hashtags": [
+          "#MicroFrench",
+          "#NailArt",
+          "#FrenchManicure"
+        ],
+        "engagement": {
+          "mentions": "high"
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Grocery Store Tourism Emerges as Top Travel Trend",
       "body": "Travelers are increasingly treating local supermarkets as tourist destinations, browsing specialty foods and discovering 'hidden gems' loved by locals. According to Hilton's 2026 trend report, 77% of travelers enjoy exploring food aisles abroad. TikTok's 'grocery store tourism' search yields 50M+ posts, with viral clips getting 1.5-3M views.",
-      "categories": ["Travel"],
+      "categories": [
+        "Travel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.businesstraveller.com/insights/travel-trends-shelf-discovery/",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#GroceryTourism", "#FoodieTravel", "#LocalEats"],
-        "engagement": "high",
+        "hashtags": [
+          "#GroceryTourism",
+          "#FoodieTravel",
+          "#LocalEats"
+        ],
+        "engagement": {
+          "mentions": "high"
+        },
         "sentiment": "positive",
-        "related_brands": ["Hilton"]
+        "related_brands": [
+          "Hilton"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Science Influencers Fighting Misinformation on TikTok",
       "body": "A growing wave of science communicators are going viral on TikTok by creating engaging content that debunks misinformation. Creators like Simon Clark use entertaining formats to explain complex scientific topics, gaining millions of views while promoting scientific literacy.",
-      "categories": ["Entertainment"],
+      "categories": [
+        "Entertainment"
+      ],
       "source": "TikTok",
       "source_url": "https://www.unmc.edu/healthsecurity/transmission/2026/02/18/the-science-influencers-going-viral-on-tiktok-to-fight-misinformation/",
       "trend_type": "viral_moment",
       "confidence_score": 0.82,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#ScienceTok", "#ScienceCommunication", "#FactCheck"],
-        "engagement": "high",
+        "hashtags": [
+          "#ScienceTok",
+          "#ScienceCommunication",
+          "#FactCheck"
+        ],
+        "engagement": {
+          "mentions": "high"
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Fitness Deinfluencing Movement Gains Momentum",
       "body": "A counter-movement is emerging where fitness creators push back against unrealistic wellness trends promoted by influencers. Articles and content emphasize that health is science, not trend, calling out unsubstantiated fitness products and dangerous challenges. Gen Z is spending more on wellness than any other generation, making this backlash particularly relevant.",
-      "categories": ["Fitness & Health"],
+      "categories": [
+        "Fitness & Health"
+      ],
       "source": "TikTok",
       "source_url": "https://www.healthing.ca/fitness/opinion-deinfluencing-fitness-trends-in-2026",
       "trend_type": "hashtag",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#Deinfluencing", "#FitnessTruth", "#WellnessTrends"],
-        "engagement": "medium",
+        "hashtags": [
+          "#Deinfluencing",
+          "#FitnessTruth",
+          "#WellnessTrends"
+        ],
+        "engagement": {
+          "mentions": "medium"
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "DJI Osmo Pocket 4 Rumors Spark Tech Creator Interest",
       "body": "Leaked images of what appears to be the DJI Osmo Pocket 4 are generating buzz among tech and vlogging creators. The 'baby steadicam' device is generating speculation about improved stabilization and features, with TikTok creators sharing excitement about potential content creation upgrades.",
-      "categories": ["Tech"],
+      "categories": [
+        "Tech"
+      ],
       "source": "TikTok",
       "source_url": "https://www.theverge.com/tech/881207/is-this-the-dji-osmo-pocket-4",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#DJIOsmoPocket", "#VloggingGear", "#TechLeaks"],
-        "engagement": "medium",
+        "hashtags": [
+          "#DJIOsmoPocket",
+          "#VloggingGear",
+          "#TechLeaks"
+        ],
+        "engagement": {
+          "mentions": "medium"
+        },
         "sentiment": "positive",
-        "related_brands": ["DJI"]
+        "related_brands": [
+          "DJI"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Lil Poppa's Final Single 'Out Of Town Bae' Goes Viral Post-Death",
       "body": "Following the rapper's death at age 25, his final single 'Out Of Town Bae' (released Feb 13, 2026) is surging on Spotify and TikTok. The tragic circumstances have driven massive streaming numbers and creator usage in tribute content.",
-      "categories": ["Entertainment", "Music"],
+      "categories": [
+        "Entertainment",
+        "Music"
+      ],
       "source": "TikTok",
       "source_url": "https://www.chiangraitimes.com/entertainment/lil-poppa-dead-at-25/",
       "trend_type": "viral_moment",
       "confidence_score": 0.95,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#LilPoppa", "#OutOfTownBae", "#RIP"],
-        "engagement": "very high",
+        "hashtags": [
+          "#LilPoppa",
+          "#OutOfTownBae",
+          "#RIP"
+        ],
+        "engagement": {
+          "mentions": "very high"
+        },
         "sentiment": "mixed",
-        "related_brands": ["Spotify"]
+        "related_brands": [
+          "Spotify"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Creator Economy Market Projected to Reach $894B by 2032",
       "body": "New research forecasts explosive growth in the creator economy, driven by social media monetization and AI tools. TikTok, YouTube, and Instagram remain dominant platforms. This presents major opportunities for creators to capitalize on emerging business models.",
-      "categories": ["Finance & Business"],
+      "categories": [
+        "Finance & Business"
+      ],
       "source": "TikTok",
       "source_url": "https://www.openpr.com/news/4397511/creator-economy-market-set-for-explosive-growth-to-usd-894-84",
       "trend_type": "content_format",
-      "confidence_score": 0.90,
+      "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#CreatorEconomy", "#CreatorBusiness", "#Monetization"],
-        "engagement": "high",
+        "hashtags": [
+          "#CreatorEconomy",
+          "#CreatorBusiness",
+          "#Monetization"
+        ],
+        "engagement": {
+          "mentions": "high"
+        },
         "sentiment": "positive",
-        "related_brands": ["TikTok", "YouTube", "Instagram"]
+        "related_brands": [
+          "TikTok",
+          "YouTube",
+          "Instagram"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Ramadan Home Decor DIY Ideas Trending",
       "body": "With Ramadan approaching, TikTok creators are sharing DIY home decoration ideas including moon mobiles, scented candle displays, and Ramadan lantern crafts. Searches for 'easy Ramadan crafts' and 'Ramadan lantern DIY' are spiking as users create Instagram-worthy spiritual spaces.",
-      "categories": ["Home & DIY"],
+      "categories": [
+        "Home & DIY"
+      ],
       "source": "TikTok",
       "source_url": "https://www.news9live.com/lifestyle/events/ramadan-decoration-ideas-at-home-2933008",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#RamadanDecor", "#RamadanDIY", "#MuslimCreators"],
-        "engagement": "high",
+        "hashtags": [
+          "#RamadanDecor",
+          "#RamadanDIY",
+          "#MuslimCreators"
+        ],
+        "engagement": {
+          "mentions": "high"
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Space and Privacy Define Luxury Travel in 2026",
-      "body": "Travel trends for 2026 emphasize spaciousness as the ultimate luxury—private villas, low-density boutique resorts, and nature-framed hideaways where solitude is curated. Northern Italy is trending due to 2026 Winter Olympics preparations.",
-      "categories": ["Travel"],
+      "body": "Travel trends for 2026 emphasize spaciousness as the ultimate luxury\u2014private villas, low-density boutique resorts, and nature-framed hideaways where solitude is curated. Northern Italy is trending due to 2026 Winter Olympics preparations.",
+      "categories": [
+        "Travel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.globenewswire.com/news-release/2026/02/18/3240534/0/en/What-s-Trending-in-Travel-in-2026.html",
       "trend_type": "hashtag",
       "confidence_score": 0.83,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#LuxuryTravel", "#PrivateVillas", "#WellnessRetreat"],
-        "engagement": "medium",
+        "hashtags": [
+          "#LuxuryTravel",
+          "#PrivateVillas",
+          "#WellnessRetreat"
+        ],
+        "engagement": {
+          "mentions": "medium"
+        },
         "sentiment": "positive",
-        "related_brands": ["Hilton"]
+        "related_brands": [
+          "Hilton"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "Fintech Trends: Digital Silver and RegTech Growth",
       "body": "Digital silver investing is emerging as a new fintech trend, allowing fractional access from just AED 10. RegTech is being viewed as a strategic advantage rather than a cost, with increased investment in cybersecurity and fraud prevention.",
-      "categories": ["Finance & Business"],
+      "categories": [
+        "Finance & Business"
+      ],
       "source": "TikTok",
       "source_url": "https://www.businessnewse.com/2026/02/18/botim-money-expands-precious-metals-investing-suite-with-digital-silver-enabling-fractional-access-from-aed-10/",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#Fintech", "#DigitalSilver", "#Investing"],
-        "engagement": "medium",
+        "hashtags": [
+          "#Fintech",
+          "#DigitalSilver",
+          "#Investing"
+        ],
+        "engagement": {
+          "mentions": "medium"
+        },
         "sentiment": "positive",
-        "related_brands": ["botim"]
+        "related_brands": [
+          "botim"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     },
     {
       "headline": "February 2026 Video Game Releases Spark Creator Content",
       "body": "Major game releases in February 2026 are driving gaming content on TikTok. Creators are covering release dates for PS5, Xbox Series X|S, Nintendo Switch 2, and PC games, with gaming content continuing to compete for attention against social media.",
-      "categories": ["Gaming"],
+      "categories": [
+        "Gaming"
+      ],
       "source": "TikTok",
       "source_url": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#GamingTikTok", "#GameReleases", "#February2026"],
-        "engagement": "high",
+        "hashtags": [
+          "#GamingTikTok",
+          "#GameReleases",
+          "#February2026"
+        ],
+        "engagement": {
+          "mentions": "high"
+        },
         "sentiment": "positive",
-        "related_brands": ["PlayStation", "Xbox", "Nintendo"]
+        "related_brands": [
+          "PlayStation",
+          "Xbox",
+          "Nintendo"
+        ],
+        "context": "",
+        "price_point": "mid-range"
       }
     }
   ]

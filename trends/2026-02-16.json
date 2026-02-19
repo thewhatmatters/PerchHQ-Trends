@@ -1,24 +1,38 @@
 {
-  "date": "2026-02-16",
+  "batch_id": "trends-2026-02-16",
+  "scraped_at": "2026-02-16T10:00:00Z",
+  "expires_at": "2026-02-19T10:00:00Z",
   "trends": [
     {
       "headline": "EU Ban on Destroying Unsold Apparel Shakes Fashion Industry",
       "body": "New EU regulations effective this week prohibit the destruction of unsold clothing, accessories, and footwear. This landmark sustainability measure is forcing brands to rethink inventory management and accelerating the shift to circular fashion models. Major retailers are now implementing AI-powered demand forecasting and exploring resale partnerships to avoid excess stock. The regulation is expected to save millions of garments from landfills annually and is being watched closely by US regulators.",
-      "categories": ["Fashion & Apparel", "Home & Lifestyle"],
+      "categories": [
+        "Fashion & Apparel",
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://environment.ec.europa.eu/news/new-eu-rules-stop-destruction-unsold-clothes-and-shoes-2026-02-09_en",
       "trend_type": "viral_moment",
       "confidence_score": 0.95,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#SustainableFashion", "#CircularFashion", "#EUGreenDeal", "#FashionWaste"],
+        "hashtags": [
+          "#SustainableFashion",
+          "#CircularFashion",
+          "#EUGreenDeal",
+          "#FashionWaste"
+        ],
         "engagement": {
-          "views": 2500000,
-          "likes": 180000,
-          "mentions": "high"
+          "mentions": "high",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Zara", "H&M", "Uniqlo", "Patagonia"],
+        "related_brands": [
+          "Zara",
+          "H&M",
+          "Uniqlo",
+          "Patagonia"
+        ],
         "context": "regulation",
         "price_point": "mid-range"
       }
@@ -26,21 +40,33 @@
     {
       "headline": "Retro Medicine Cabinets Become Statement Bathroom Pieces",
       "body": "Vintage-inspired medicine cabinets with carved wood detailing and heirloom aesthetics are trending on Pinterest and TikTok. The Magnolia-exclusive Inez Medicine Cabinet exemplifies the trend, combining concealed storage with decorative appeal. Creators are showcasing bathroom makeovers featuring these statement pieces, often paired with earth-tone color palettes and organic textures. The trend reflects broader consumer interest in 'collected' rather than 'decorated' spaces.",
-      "categories": ["Home & Lifestyle", "Beauty & Skincare"],
+      "categories": [
+        "Home & Lifestyle",
+        "Beauty & Skincare"
+      ],
       "source": "Pinterest",
       "source_url": "https://www.pinterest.com/pin/217298750766743347/",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#BathroomDecor", "#VintageStyle", "#HomeOrganization", "#MagnoliaHome"],
+        "hashtags": [
+          "#BathroomDecor",
+          "#VintageStyle",
+          "#HomeOrganization",
+          "#MagnoliaHome"
+        ],
         "engagement": {
-          "views": 850000,
-          "likes": 45000,
-          "saves": 12000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Magnolia", "Wayfair", "CB2", "West Elm"],
+        "related_brands": [
+          "Magnolia",
+          "Wayfair",
+          "CB2",
+          "West Elm"
+        ],
         "context": "seasonal",
         "price_point": "mid-range"
       }
@@ -48,21 +74,33 @@
     {
       "headline": "AI-Powered Audio Tools Democratize Music Production",
       "body": "Small AI labs are disrupting the audio space with accessible music and voice generation tools. Unlike massive LLMs requiring enterprise infrastructure, these lightweight audio models run on consumer hardware. Tools like ElevenLabs, Suno, and Udio clones are enabling creators to produce professional-quality audio content without traditional studio setups. TikTok creators are using these tools for custom soundtracks, voiceovers, and remixes, fueling a new wave of AI-assisted content.",
-      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "categories": [
+        "Tech & Gadgets",
+        "Health & Fitness"
+      ],
       "source": "Hacker News",
       "source_url": "https://www.amplifypartners.com/blog-posts/arming-the-rebels-with-gpus-gradium-kyutai-and-audio-ai",
       "trend_type": "content_format",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#AIMusic", "#AudioAI", "#ContentCreation", "#TikTokAudio"],
+        "hashtags": [
+          "#AIMusic",
+          "#AudioAI",
+          "#ContentCreation",
+          "#TikTokAudio"
+        ],
         "engagement": {
-          "views": 1200000,
-          "likes": 95000,
-          "shares": 23000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["ElevenLabs", "Suno", "Udio", "Descript"],
+        "related_brands": [
+          "ElevenLabs",
+          "Suno",
+          "Udio",
+          "Descript"
+        ],
         "context": "technology",
         "price_point": "budget"
       }
@@ -70,21 +108,32 @@
     {
       "headline": "Gourmand Fragrances Dominate Gen Z Beauty Routines",
       "body": "Sweet, food-inspired scents are surging among Gen Z consumers, with fragrances evoking sugar cookies, strawberry shortcake, and cookies & cream trending across TikTok and Instagram. Unlike previous generations' preference for floral or fresh scents, younger consumers are embracing edible-smelling body sprays, perfumes, and skincare. The trend is particularly visible in gym and social settings, with users layering scented products for lasting effect.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Reddit",
       "source_url": "https://www.reddit.com/r/beauty/comments/1r65mfe/genz_gals_is_that_your_fragrance_or_were_you_just/",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#GourmandFragrance", "#GenZBeauty", "#SweetScents", "#BodySpray"],
+        "hashtags": [
+          "#GourmandFragrance",
+          "#GenZBeauty",
+          "#SweetScents",
+          "#BodySpray"
+        ],
         "engagement": {
-          "views": 2100000,
-          "likes": 165000,
-          "comments": 3400
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Sol de Janeiro", "Ariana Grande Fragrance", "Bath & Body Works", "Kayali"],
+        "related_brands": [
+          "Sol de Janeiro",
+          "Ariana Grande Fragrance",
+          "Bath & Body Works",
+          "Kayali"
+        ],
         "context": "seasonal",
         "price_point": "budget"
       }
@@ -92,21 +141,32 @@
     {
       "headline": "Fedora Linux for Mobile Devices Gains Traction",
       "body": "Pocketblue, a new Fedora Atomic variant optimized for mobile devices, is gaining attention in the tech community. The distribution promises a desktop-grade Linux experience on smartphones and tablets, appealing to privacy-conscious users and developers wanting full computing power in pocket form. Early adopters are documenting the installation process on devices like the PinePhone and Librem 5, creating a niche but growing content category.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Hacker News",
       "source_url": "https://github.com/pocketblue/pocketblue",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#LinuxMobile", "#Fedora", "#OpenSource", "#Privacy"],
+        "hashtags": [
+          "#LinuxMobile",
+          "#Fedora",
+          "#OpenSource",
+          "#Privacy"
+        ],
         "engagement": {
-          "views": 450000,
-          "likes": 28000,
-          "forks": 1200
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Fedora", "PinePhone", "Purism", "System76"],
+        "related_brands": [
+          "Fedora",
+          "PinePhone",
+          "Purism",
+          "System76"
+        ],
         "context": "technology",
         "price_point": "mid-range"
       }
@@ -114,21 +174,32 @@
     {
       "headline": "European Flight Disruptions Create Travel Content Opportunity",
       "body": "Massive flight cancellations across Europe (733+ cancelled, 5,000+ delayed) due to weather and operational issues are creating trending travel content. Creators are documenting the chaos, sharing rebooking strategies, and highlighting alternative travel methods. The situation is driving interest in travel insurance content, flexible booking tips, and European train travel alternatives. Real-time travel updates are performing well on TikTok and Instagram Stories.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Google Trends",
       "source_url": "https://www.travelandtourworld.com/news/article/thousands-of-passengers-affected-in-europe-today",
       "trend_type": "viral_moment",
       "confidence_score": 0.92,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#TravelChaos", "#FlightDelay", "#EuropeTravel", "#TravelTips"],
+        "hashtags": [
+          "#TravelChaos",
+          "#FlightDelay",
+          "#EuropeTravel",
+          "#TravelTips"
+        ],
         "engagement": {
-          "views": 3200000,
-          "likes": 95000,
-          "shares": 45000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "negative",
-        "related_brands": ["Air France", "KLM", "easyJet", "Lufthansa"],
+        "related_brands": [
+          "Air France",
+          "KLM",
+          "easyJet",
+          "Lufthansa"
+        ],
         "context": "event",
         "price_point": "luxury"
       }
@@ -136,21 +207,33 @@
     {
       "headline": "Compact Custom Keyboards Trend in Tech and Productivity Niches",
       "body": "36-key and smaller custom keyboard layouts are trending among developers and productivity enthusiasts. The minimalist approach challenges traditional keyboard design, with users sharing their configuration files and ergonomic benefits. The trend intersects with the broader 'digital minimalism' movement and appeals to remote workers optimizing their setups. Custom keycap designs and artisan keycaps are driving visual content on Instagram and TikTok.",
-      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
       "source": "Hacker News",
       "source_url": "https://peterxjang.medium.com/designing-a-36-key-custom-keyboard-layout-24498a0eecd4",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#MechanicalKeyboards", "#CustomKeyboards", "#DeskSetup", "#Productivity"],
+        "hashtags": [
+          "#MechanicalKeyboards",
+          "#CustomKeyboards",
+          "#DeskSetup",
+          "#Productivity"
+        ],
         "engagement": {
-          "views": 680000,
-          "likes": 52000,
-          "saves": 18000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Keychron", "Drop", "Glorious", "ZSA"],
+        "related_brands": [
+          "Keychron",
+          "Drop",
+          "Glorious",
+          "ZSA"
+        ],
         "context": "seasonal",
         "price_point": "mid-range"
       }
@@ -158,21 +241,32 @@
     {
       "headline": "Board Games See Resurgence in Social Entertainment Content",
       "body": "Board games are experiencing a content renaissance as creators explore the psychology behind tabletop gaming. The trend aligns with post-pandemic desire for in-person social activities and 'analog' entertainment. Content spans unboxing videos, strategy guides, and 'game night' vlogs. The hobby's collectible and social aspects make it highly shareable, with Kickstarter campaigns for new games regularly going viral within niche communities.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Hacker News",
       "source_url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
       "trend_type": "content_format",
       "confidence_score": 0.72,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#BoardGames", "#TabletopGaming", "#GameNight", "#AnalogEntertainment"],
+        "hashtags": [
+          "#BoardGames",
+          "#TabletopGaming",
+          "#GameNight",
+          "#AnalogEntertainment"
+        ],
         "engagement": {
-          "views": 420000,
-          "likes": 31000,
-          "comments": 5600
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Catan", "Ticket to Ride", "Wingspan", "Azul"],
+        "related_brands": [
+          "Catan",
+          "Ticket to Ride",
+          "Wingspan",
+          "Azul"
+        ],
         "context": "seasonal",
         "price_point": "mid-range"
       }
@@ -180,43 +274,65 @@
     {
       "headline": "Smart Home Surveillance Concerns Drive Privacy-Focused Content",
       "body": "Growing awareness of data practices by Amazon Ring and Google Nest is fueling demand for privacy-focused smart home alternatives. Creators are educating audiences on local-storage security cameras, open-source firmware options, and DIY home security solutions. The trend reflects broader consumer skepticism toward big tech data collection and interest in 'de-googling' home ecosystems.",
-      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
       "source": "Hacker News",
       "source_url": "https://greenwald.substack.com/p/amazons-ring-and-googles-nest-unwittingly",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#Privacy", "#SmartHome", "#DataSecurity", "#TechEthics"],
+        "hashtags": [
+          "#Privacy",
+          "#SmartHome",
+          "#DataSecurity",
+          "#TechEthics"
+        ],
         "engagement": {
-          "views": 1800000,
-          "likes": 145000,
-          "shares": 67000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "negative",
-        "related_brands": ["Ubiquiti", "Reolink", "Home Assistant", "Frigate"],
+        "related_brands": [
+          "Ubiquiti",
+          "Reolink",
+          "Home Assistant",
+          "Frigate"
+        ],
         "context": "technology",
         "price_point": "mid-range"
       }
     },
     {
       "headline": "WebGL Path Tracing Demos Showcase Browser Graphics Evolution",
-      "body": "Real-time global illumination path tracing in WebGL is trending in tech and creative coding circles. These browser-based graphics demos showcase how far web technologies have advanced, enabling photorealistic rendering without plugins or downloads. The technology has implications for web-based gaming, virtual showrooms, and interactive product visualization—areas ripe for creator content.",
-      "categories": ["Tech & Gadgets"],
+      "body": "Real-time global illumination path tracing in WebGL is trending in tech and creative coding circles. These browser-based graphics demos showcase how far web technologies have advanced, enabling photorealistic rendering without plugins or downloads. The technology has implications for web-based gaming, virtual showrooms, and interactive product visualization\u2014areas ripe for creator content.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Hacker News",
       "source_url": "https://erichlof.github.io/THREE.js-PathTracing-Renderer/",
       "trend_type": "content_format",
-      "confidence_score": 0.70,
+      "confidence_score": 0.7,
       "relevance_score": 5,
       "metadata": {
-        "hashtags": ["#WebGL", "#PathTracing", "#CreativeCoding", "#WebDev"],
+        "hashtags": [
+          "#WebGL",
+          "#PathTracing",
+          "#CreativeCoding",
+          "#WebDev"
+        ],
         "engagement": {
-          "views": 380000,
-          "likes": 28000,
-          "demo_plays": 15000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Three.js", "Chrome", "Mozilla"],
+        "related_brands": [
+          "Three.js",
+          "Chrome",
+          "Mozilla"
+        ],
         "context": "technology",
         "price_point": "budget"
       }
@@ -224,21 +340,32 @@
     {
       "headline": "Pet Humanization Drives Premium Pet Product Innovation",
       "body": "The humanization of pets continues to drive premium product trends, with 'human-grade' pet food, luxury pet furniture, and wellness products gaining traction. Valentine's Day weekend saw increased spending on pet gifts, with personalized items and subscription boxes performing particularly well. The trend is especially strong among millennial and Gen Z pet owners who view pets as family members.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "Web",
       "source_url": "https://trends.google.com",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#PetParent", "#DogMom", "#CatDad", "#PremiumPets"],
+        "hashtags": [
+          "#PetParent",
+          "#DogMom",
+          "#CatDad",
+          "#PremiumPets"
+        ],
         "engagement": {
-          "views": 950000,
-          "likes": 78000,
-          "saves": 34000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Chewy", "BarkBox", "PrettyLitter", "Farmina"],
+        "related_brands": [
+          "Chewy",
+          "BarkBox",
+          "PrettyLitter",
+          "Farmina"
+        ],
         "context": "seasonal",
         "price_point": "luxury"
       }
@@ -246,21 +373,33 @@
     {
       "headline": "Baby Tech Market Expands with AI-Powered Monitoring Solutions",
       "body": "Smart baby monitors with AI-powered breathing detection, sleep tracking, and developmental insights are trending among new parents. These devices offer peace of mind through smartphone alerts and data analytics. The category is seeing innovation from both established brands and startups, with subscription-based premium features becoming a standard business model.",
-      "categories": ["Baby & Kids", "Tech & Gadgets"],
+      "categories": [
+        "Baby & Kids",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://trends.google.com",
       "trend_type": "product",
       "confidence_score": 0.77,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#BabyTech", "#SmartParenting", "#NewMom", "#BabyMonitor"],
+        "hashtags": [
+          "#BabyTech",
+          "#SmartParenting",
+          "#NewMom",
+          "#BabyMonitor"
+        ],
         "engagement": {
-          "views": 720000,
-          "likes": 56000,
-          "shares": 12000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Nanit", "Owlet", "Miku", "Lollipop"],
+        "related_brands": [
+          "Nanit",
+          "Owlet",
+          "Miku",
+          "Lollipop"
+        ],
         "context": "seasonal",
         "price_point": "luxury"
       }
@@ -268,21 +407,32 @@
     {
       "headline": "Sustainable Jewelry Materials Gain Consumer Interest",
       "body": "Lab-grown diamonds, recycled precious metals, and alternative materials like moissanite and mushroom leather are trending in the jewelry space. Consumers are prioritizing ethical sourcing and environmental impact in their jewelry purchases. The trend is particularly strong among engagement ring shoppers and younger consumers entering the fine jewelry market for the first time.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://trends.google.com",
       "trend_type": "product",
       "confidence_score": 0.83,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#SustainableJewelry", "#LabGrownDiamonds", "#EthicalFashion", "#FineJewelry"],
+        "hashtags": [
+          "#SustainableJewelry",
+          "#LabGrownDiamonds",
+          "#EthicalFashion",
+          "#FineJewelry"
+        ],
         "engagement": {
-          "views": 540000,
-          "likes": 42000,
-          "saves": 28000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Brilliant Earth", "Vrai", "Mejuri", "Pandora"],
+        "related_brands": [
+          "Brilliant Earth",
+          "Vrai",
+          "Mejuri",
+          "Pandora"
+        ],
         "context": "seasonal",
         "price_point": "luxury"
       }
@@ -290,21 +440,32 @@
     {
       "headline": "Functional Fitness Training Dominates Workout Content",
       "body": "Functional fitness routines emphasizing real-world movement patterns are outperforming traditional bodybuilding content on social platforms. Workouts incorporating kettlebells, resistance bands, and bodyweight exercises are trending, with a focus on longevity and injury prevention over aesthetics. The trend aligns with aging millennials prioritizing sustainable fitness practices.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://trends.google.com",
       "trend_type": "content_format",
       "confidence_score": 0.81,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#FunctionalFitness", "#KettlebellWorkout", "#MobilityTraining", "#Longevity"],
+        "hashtags": [
+          "#FunctionalFitness",
+          "#KettlebellWorkout",
+          "#MobilityTraining",
+          "#Longevity"
+        ],
         "engagement": {
-          "views": 1400000,
-          "likes": 125000,
-          "workout_saves": 89000
+          "mentions": "medium",
+          "editor_approved": false
         },
         "sentiment": "positive",
-        "related_brands": ["Rogue Fitness", "TRX", "Onnit", "Peloton"],
+        "related_brands": [
+          "Rogue Fitness",
+          "TRX",
+          "Onnit",
+          "Peloton"
+        ],
         "context": "seasonal",
         "price_point": "mid-range"
       }

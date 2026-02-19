@@ -6,17 +6,29 @@
     {
       "headline": "Biodance Collagen Overnight Mask - Korean Skincare Sensation",
       "body": "TikTok and beauty editors can't get enough of Biodance's collagen-enriched sheet masks. The mask gives skin an 'outrageous glow' after sleeping with it overnight. Pre-cut into two pieces for perfect face fit. Part of the Korean skincare wave dominating social media with overnight transformation results.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok / Cosmopolitan",
       "source_url": "https://www.amazon.com/dp/B0B2RM68G2",
       "trend_type": "product",
       "confidence_score": 0.92,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#koreanskincare", "#collagenmask", "#overnightmask", "#glassskin"],
-        "engagement": {"mentions": "high", "editor_approved": true},
+        "hashtags": [
+          "#koreanskincare",
+          "#collagenmask",
+          "#overnightmask",
+          "#glassskin"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Biodance"],
+        "related_brands": [
+          "Biodance"
+        ],
         "context": "Presidents Day sale",
         "price_point": "mid-range"
       }
@@ -24,35 +36,59 @@
     {
       "headline": "JiYu Toning Polish Pads - #1 Facial Exfoliator on Amazon",
       "body": "Currently the #1 facial exfoliator on Amazon, JiYu's toning polish pads are taking the internet by storm with niacinamide, peptide, and snail mucin-infused formula. Thousands of rave reviewers praise ability to improve skin texture without causing redness or irritation. Represents the continued viral power of K-beauty ingredients.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Amazon / TikTok",
       "source_url": "https://www.amazon.com/dp/B0DC156Y5X",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#snailmucin", "#kbeauty", "#exfoliator", "#skincare"],
-        "engagement": {"ranking": "#1 Amazon Beauty", "reviews": "thousands"},
+        "hashtags": [
+          "#snailmucin",
+          "#kbeauty",
+          "#exfoliator",
+          "#skincare"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["JiYu"],
+        "related_brands": [
+          "JiYu"
+        ],
         "context": "viral ingredient trend",
         "price_point": "budget"
       }
     },
     {
       "headline": "WavyTalk Thermal Brush - Viral Hair Styling Tool",
-      "body": "Cosmo editor-approved thermal brush going viral on TikTok. 'I’ve surprised myself with how much I enjoy using it and how often I have been reaching for it,' says Contributing Editor Sam Neibart. Styles whole head quickly while giving intentional, chic look to flat hair. Positioned as Dyson Airwrap alternative at fraction of price.",
-      "categories": ["Beauty & Skincare"],
+      "body": "Cosmo editor-approved thermal brush going viral on TikTok. 'I\u2019ve surprised myself with how much I enjoy using it and how often I have been reaching for it,' says Contributing Editor Sam Neibart. Styles whole head quickly while giving intentional, chic look to flat hair. Positioned as Dyson Airwrap alternative at fraction of price.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok / Cosmopolitan",
       "source_url": "https://www.amazon.com/dp/B0CGVGVS8N",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#thermalbrush", "#hairtutorial", "#blowout", "#hairstyling"],
-        "engagement": {"editor_featured": true, "discount": "33% off"},
+        "hashtags": [
+          "#thermalbrush",
+          "#hairtutorial",
+          "#blowout",
+          "#hairstyling"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["WavyTalk"],
+        "related_brands": [
+          "WavyTalk"
+        ],
         "context": "Presidents Day sale",
         "price_point": "mid-range"
       }
@@ -60,17 +96,30 @@
     {
       "headline": "T3 Aire Styler - Best Dyson Airwrap Dupe",
       "body": "Cosmo editors' favorite Dyson alternative for achieving the fluffiest, most glamorous blowout. Reviewers with long, thick, unruly hair say it's unmatched at taming frizz without causing split ends. Part of the viral hair tool trend as consumers seek salon results at home without premium pricing.",
-      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "categories": [
+        "Beauty & Skincare",
+        "Tech & Gadgets"
+      ],
       "source": "TikTok / Cosmopolitan",
       "source_url": "https://www.amazon.com/dp/B0D3NTPQQG",
       "trend_type": "product",
       "confidence_score": 0.83,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#dysonalternative", "#hairstyler", "#blowout", "#haircare"],
-        "engagement": {"editor_approved": true, "comparison": "vs Dyson Airwrap"},
+        "hashtags": [
+          "#dysonalternative",
+          "#hairstyler",
+          "#blowout",
+          "#haircare"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["T3"],
+        "related_brands": [
+          "T3"
+        ],
         "context": "alternative luxury",
         "price_point": "mid-range"
       }
@@ -78,17 +127,29 @@
     {
       "headline": "Sol de Janeiro Brazilian Bum Bum Cream - Viral Body Care",
       "body": "Name a more viral brand than Sol de Janeiro - the Brazilian Bum Bum Cream has achieved iconic status on TikTok. Sweet, candy-like scent with blend of heliotrope, vanilla, and tropical fruits. Long-lasting formula popular for date nights. Holiday gift favorite.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B09KDMFMX4",
       "trend_type": "product",
-      "confidence_score": 0.90,
+      "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#bumbumcream", "#bodycare", "#soldejaneiro", "#vanilla"],
-        "engagement": {"brand_recognition": "iconic", "scent_trending": true},
+        "hashtags": [
+          "#bumbumcream",
+          "#bodycare",
+          "#soldejaneiro",
+          "#vanilla"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Sol de Janeiro"],
+        "related_brands": [
+          "Sol de Janeiro"
+        ],
         "context": "year-round viral staple",
         "price_point": "mid-range"
       }
@@ -96,17 +157,29 @@
     {
       "headline": "Laneige Lip Sleeping Mask - Winter Essential",
       "body": "The iconic Laneige Lip Sleeping Mask continues its viral reign. Heavy-duty lip care essential during colder months. Stock-up favorite during winter season. Part of the 'TikTok made me buy it' hall of fame with sustained popularity.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0F24YBSKV",
       "trend_type": "product",
       "confidence_score": 0.87,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#laneige", "#lipsleepingmask", "#lipcare", "#winteressentials"],
-        "engagement": {"sustained_viral": true, "seasonal_spike": "winter"},
+        "hashtags": [
+          "#laneige",
+          "#lipsleepingmask",
+          "#lipcare",
+          "#winteressentials"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Laneige"],
+        "related_brands": [
+          "Laneige"
+        ],
         "context": "winter skincare",
         "price_point": "mid-range"
       }
@@ -114,17 +187,29 @@
     {
       "headline": "Adidas Samba Sneakers - Viral Streetwear Staple",
       "body": "Versatile Adidas sneakers going viral on TikTok for going with 'literally everything.' Reviewers say ridiculously comfortable and great for all-day wear. Pairs with jeans, dresses, skirts. Part of the retro sneaker revival dominating fashion trends.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0C2JYLPBW",
       "trend_type": "product",
       "confidence_score": 0.84,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#adidassamba", "#sneakers", "#streetwear", "#outfit"],
-        "engagement": {"style_versatility": "high", "comfort_rating": "excellent"},
+        "hashtags": [
+          "#adidassamba",
+          "#sneakers",
+          "#streetwear",
+          "#outfit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Adidas"],
+        "related_brands": [
+          "Adidas"
+        ],
         "context": "retro revival trend",
         "price_point": "mid-range"
       }
@@ -132,17 +217,29 @@
     {
       "headline": "Levi's Baggy Jeans - TikTok Fashion Favorite",
       "body": "Levi's viral since before TikTok with baggy leg and fitted waist design. Shoppers claim ideal for those with wider hips. Represents the continued shift toward comfortable, oversized silhouettes in denim. Classic brand finding new audience through social.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0FB1FPFDF",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#levis", "#baggyjeans", "#denim", "#ootd"],
-        "engagement": {"fit_popularity": "high", "classic_renewal": true},
+        "hashtags": [
+          "#levis",
+          "#baggyjeans",
+          "#denim",
+          "#ootd"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Levi's"],
+        "related_brands": [
+          "Levi's"
+        ],
         "context": "comfort fashion trend",
         "price_point": "mid-range"
       }
@@ -150,15 +247,26 @@
     {
       "headline": "Platform Faux Fur Slippers - Viral Home Footwear",
       "body": "Influencer-approved platform slippers with snuggly faux fur lining going viral. Equipped with slip-resistant platform sole for indoor/outdoor wear. Pro tip: Look adorable styled with flared leggings. Part of the 'cozy girl' aesthetic dominating TikTok.",
-      "categories": ["Fashion & Apparel", "Home & Lifestyle"],
+      "categories": [
+        "Fashion & Apparel",
+        "Home & Lifestyle"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0D1FVR95R",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#slippers", "#cozyaesthetic", "#platform", "#home"],
-        "engagement": {"styling_trend": "flared leggings combo"},
+        "hashtags": [
+          "#slippers",
+          "#cozyaesthetic",
+          "#platform",
+          "#home"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "cozy girl aesthetic",
@@ -168,15 +276,25 @@
     {
       "headline": "Scuba-Neck Half-Zip Sweatshirt - Elevated Loungewear",
       "body": "Scuba-neck half-zip style taking over TikTok FYP. Feels more elevated than run-of-the-mill hoodie with slightly cropped silhouette preventing cozy fit from losing shape. Part of the 'clean girl' aesthetic and elevated basics trend.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0BKSWW4HB",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#scuba", "#halfzip", "#loungewear", "#cleangirl"],
-        "engagement": {"aesthetic_trend": "clean girl"},
+        "hashtags": [
+          "#scuba",
+          "#halfzip",
+          "#loungewear",
+          "#cleangirl"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "elevated basics",
@@ -186,15 +304,26 @@
     {
       "headline": "Walking Pad Treadmill - Winter Fitness Hack",
       "body": "TikTok's hack for keeping step count up through freezing winter months. Under-desk walking pad with folding handle so users can stream Netflix during workout. 40% off for Presidents Day. Represents the home fitness equipment trend and 'hot girl walk' movement adapted for cold weather.",
-      "categories": ["Health & Fitness", "Home & Lifestyle"],
+      "categories": [
+        "Health & Fitness",
+        "Home & Lifestyle"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0FPX4XWKG",
       "trend_type": "product",
       "confidence_score": 0.86,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#walkingpad", "#hotgirlwalk", "#homefitness", "#winterworkout"],
-        "engagement": {"discount": "40% off", "use_case": "multitasking"},
+        "hashtags": [
+          "#walkingpad",
+          "#hotgirlwalk",
+          "#homefitness",
+          "#winterworkout"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "winter fitness solution",
@@ -204,15 +333,26 @@
     {
       "headline": "Gua Sha Facial Tools - Lymphatic Drainage Trend",
       "body": "TikTok gua sha rabbit holes happening once or twice a year with viral demonstrations of lymphatic drainage and depuffing happening right before viewers' eyes. Tools cost less than a latte. Part of the facial massage and natural beauty tool movement.",
-      "categories": ["Beauty & Skincare", "Health & Fitness"],
+      "categories": [
+        "Beauty & Skincare",
+        "Health & Fitness"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B08RD6S5HF",
       "trend_type": "product",
       "confidence_score": 0.81,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#guasha", "#lymphaticdrainage", "#facialmassage", "#depuff"],
-        "engagement": {"visual_impact": "high", "price_accessibility": "low"},
+        "hashtags": [
+          "#guasha",
+          "#lymphaticdrainage",
+          "#facialmassage",
+          "#depuff"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "natural beauty tools",
@@ -222,15 +362,25 @@
     {
       "headline": "Cross-Legged Armless Desk Chair - Viral Home Office",
       "body": "Armless desk chair went viral for ability to sit cross-legged - a total gamechanger for comfort. Now available for just $60. Represents the home office revolution and focus on ergonomic, comfortable workspace furniture.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0CST2L73B",
       "trend_type": "product",
       "confidence_score": 0.79,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#homeoffice", "#deskchair", "#wfh", "#ergonomic"],
-        "engagement": {"viral_feature": "cross-legged sitting", "price": "$60"},
+        "hashtags": [
+          "#homeoffice",
+          "#deskchair",
+          "#wfh",
+          "#ergonomic"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "WFH furniture trend",
@@ -240,15 +390,25 @@
     {
       "headline": "Digital Camera Revival - Y2K Aesthetic Trend",
       "body": "Every cool girl on TikTok using digital cameras to achieve Insta-worthy photos. Under-$50 model great for entry-level. Easy to use even without photography experience. Part of the Y2K aesthetic revival and reaction to over-processed smartphone photos.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0BTCZ2RR9",
       "trend_type": "product",
       "confidence_score": 0.83,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#digitalcamera", "#y2k", "#aesthetic", "#photography"],
-        "engagement": {"aesthetic_movement": "Y2K revival", "entry_price": "<$50"},
+        "hashtags": [
+          "#digitalcamera",
+          "#y2k",
+          "#aesthetic",
+          "#photography"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "retro tech revival",
@@ -258,17 +418,30 @@
     {
       "headline": "Cricut DIY Machine - Bachelorette & Event Planning Essential",
       "body": "TikTokers showing how they DIY incredible signage, invitations, decals, stickers using Cricut. Popular for bachelorette parties and events. Can even use for calligraphy. Represents the DIY and personalization trend in events and celebrations.",
-      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0BJGRH85F",
       "trend_type": "product",
       "confidence_score": 0.77,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#cricut", "#diy", "#bachelorette", "#crafts"],
-        "engagement": {"use_cases": ["events", "signage", "personalization"]},
+        "hashtags": [
+          "#cricut",
+          "#diy",
+          "#bachelorette",
+          "#crafts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Cricut"],
+        "related_brands": [
+          "Cricut"
+        ],
         "context": "DIY personalization trend",
         "price_point": "mid-range"
       }
@@ -276,17 +449,29 @@
     {
       "headline": "Dexas MudBuster Portable Dog Paw Cleaner",
       "body": "Handy paw washer gently scrubs away dirt with soft bristles, making post-walk cleanups quick and easy. For dogs it's a soothing mini spa treatment. For parents, less mopping and fewer carpet stains. Compact and portable - perfect for car, park, or home.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok / iHeartDogs",
       "source_url": "https://amzn.to/3VCPLE7",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#dogmom", "#pawcleaner", "#petcare", "#tiktokmademebuyit"],
-        "engagement": {"problem_solved": "muddy paws", "pet_approved": true},
+        "hashtags": [
+          "#dogmom",
+          "#pawcleaner",
+          "#petcare",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Dexas"],
+        "related_brands": [
+          "Dexas"
+        ],
         "context": "pet parent convenience",
         "price_point": "budget"
       }
@@ -294,17 +479,29 @@
     {
       "headline": "Oneisall Dog Vacuum & Dryer 8-in-1 Grooming Kit",
       "body": "All-in-one grooming kit featuring clippers, brushes, and built-in vacuum and dryer. Handles shedding, trimming, and cleanup effortlessly. Gentler grooming in stress-free routine for dogs. Less hair around house and professional results without salon bill.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok / iHeartDogs",
       "source_url": "https://amzn.to/46WbVYk",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#doggrooming", "#pethair", "#dogmom", "#groomingkit"],
-        "engagement": {"feature_count": 8, "solves": "shedding cleanup"},
+        "hashtags": [
+          "#doggrooming",
+          "#pethair",
+          "#dogmom",
+          "#groomingkit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["oneisall"],
+        "related_brands": [
+          "oneisall"
+        ],
         "context": "at-home grooming trend",
         "price_point": "mid-range"
       }
@@ -312,17 +509,29 @@
     {
       "headline": "WOOF LickMat - Enrichment & Anxiety Relief",
       "body": "Treat time meets relaxation with versatile mat. Spread with peanut butter or yogurt for happy licking that reduces stress and boredom. Tool for grooming sessions, crate training, or calming anxious moments. Turns everyday moments into positive experiences.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok / iHeartDogs",
       "source_url": "https://amzn.to/46QIEhH",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#lickmat", "#dogenrichment", "#anxietyrelief", "#dogmom"],
-        "engagement": {"use_cases": ["crate training", "grooming", "calming"]},
+        "hashtags": [
+          "#lickmat",
+          "#dogenrichment",
+          "#anxietyrelief",
+          "#dogmom"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["WOOF"],
+        "related_brands": [
+          "WOOF"
+        ],
         "context": "pet mental health",
         "price_point": "budget"
       }
@@ -330,17 +539,29 @@
     {
       "headline": "Flashseen LED Dog Collar - Night Safety",
       "body": "Rechargeable LED collar bright, adjustable, and weather-resistant for nighttime visibility. Keeps pup visible and safe after dark. Reassurance that drivers, cyclists, and neighbors can always spot furry companion. Lightweight and comfortable.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok / iHeartDogs",
       "source_url": "https://amzn.to/4nl8WhN",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#dogsafety", "#ledcollar", "#nightwalks", "#dogmom"],
-        "engagement": {"safety_feature": "visibility", "rechargeable": true},
+        "hashtags": [
+          "#dogsafety",
+          "#ledcollar",
+          "#nightwalks",
+          "#dogmom"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Flashseen"],
+        "related_brands": [
+          "Flashseen"
+        ],
         "context": "pet safety equipment",
         "price_point": "budget"
       }
@@ -348,17 +569,29 @@
     {
       "headline": "Cheerble Wicked Ball AIR - Smart Interactive Toy",
       "body": "Smart, motion-activated ball that rolls, bounces, and reacts unpredictably to keep dogs engaged in solo play. Exciting stimulation and exercise that burns off energy. Peace of mind for busy owners knowing dog stays active. Durable, rechargeable, and lightweight.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok / iHeartDogs",
       "source_url": "https://amzn.to/4pEjp9B",
       "trend_type": "product",
       "confidence_score": 0.79,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#dogtoy", "#interactive", "#smarttoy", "#dogenrichment"],
-        "engagement": {"tech_feature": "motion-activated", "play_type": "solo"},
+        "hashtags": [
+          "#dogtoy",
+          "#interactive",
+          "#smarttoy",
+          "#dogenrichment"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Cheerble"],
+        "related_brands": [
+          "Cheerble"
+        ],
         "context": "smart pet tech",
         "price_point": "mid-range"
       }
@@ -366,15 +599,25 @@
     {
       "headline": "Baked Feta Pasta with Miso Twist - Viral Recipe 2.0",
       "body": "Japanese twist on viral feta pasta trend: Misozuke Pasta using miso-marinated tofu as vegan feta alternative. Creamy, rich and tangy - perfect easy weeknight dinner. 2026 food trends showing Caesar salads and classics incorporating bold umami elements like miso, tahini, nori.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "TikTok / Food Media",
       "source_url": "https://www.okonomikitchen.com/misozuke-feta-pasta/",
       "trend_type": "content_format",
       "confidence_score": 0.81,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#bakedfetapasta", "#misopasta", "#recipe", "#foodtok"],
-        "engagement": {"trend_evolution": "2.0 version", "cuisine_fusion": "Japanese"},
+        "hashtags": [
+          "#bakedfetapasta",
+          "#misopasta",
+          "#recipe",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "recipe trend evolution",
@@ -384,15 +627,24 @@
     {
       "headline": "Instagram 'Valentine's Day Hint' Trend - 192K Posts",
       "body": "Trend hilariously reveals obvious hints partners drop before February 14. 'Apparently the real Valentine's gift is... paying attention.' Audio by wellace.asti. Perfect for couples content and relatable relationship humor.",
-      "categories": ["Content Format"],
+      "categories": [
+        "Content Format"
+      ],
       "source": "Instagram Reels",
       "source_url": "https://www.instagram.com/reels/audio/33765302366393920/",
       "trend_type": "content_format",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#valentinesday", "#relationship", "#couplestrend"],
-        "engagement": {"posts": 192000, "audio": "wellace.asti"},
+        "hashtags": [
+          "#valentinesday",
+          "#relationship",
+          "#couplestrend"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "Valentine's Day seasonal",
@@ -402,15 +654,24 @@
     {
       "headline": "Instagram 'Highlight Switch' Trend - Product Showcases",
       "body": "Sound acts as spotlight with rhythm. Creators syncing product features, outfit details, and key moments to each beat for satisfying clean switch-up. Simple concept, elite execution. Audio by The Desperados - Let's Have Some Fun Alt.",
-      "categories": ["Content Format"],
+      "categories": [
+        "Content Format"
+      ],
       "source": "Instagram Reels",
       "source_url": "https://www.instagram.com/reels/audio/1336013760489689",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#highlightswitch", "#productshowcase", "#transition"],
-        "engagement": {"posts": 26000},
+        "hashtags": [
+          "#highlightswitch",
+          "#productshowcase",
+          "#transition"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "product marketing",
@@ -420,15 +681,25 @@
     {
       "headline": "Instagram 'Reality TV Show' Trend - Work Drama",
       "body": "Creators editing their 9-5 like full-blown reality TV show with dramatic zoom-ins, confessionals, and 'next week on...' energy. Work drama simply too good not to document. Perfect for behind-the-scenes office content.",
-      "categories": ["Content Format"],
+      "categories": [
+        "Content Format"
+      ],
       "source": "Instagram Reels",
       "source_url": "https://www.instagram.com/reels/audio/25459784500359604/",
       "trend_type": "content_format",
       "confidence_score": 0.82,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#realitytv", "#worklife", "#officetok", "#bts"],
-        "engagement": {"posts": 913, "emerging": true},
+        "hashtags": [
+          "#realitytv",
+          "#worklife",
+          "#officetok",
+          "#bts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
         "related_brands": [],
         "context": "workplace content",
@@ -438,17 +709,30 @@
     {
       "headline": "Instagram 'Bridgerton' Trend - 700K Posts",
       "body": "Dearest Gentle Reader trend celebrating Season 4. 'Everyday life, but make it Bridgerton' aesthetic. Audio by Archer Marsh - Give Me Everything (Stripped Down). Cross-category appeal for fashion, lifestyle, and entertainment content.",
-      "categories": ["Content Format", "Fashion & Apparel"],
+      "categories": [
+        "Content Format",
+        "Fashion & Apparel"
+      ],
       "source": "Instagram Reels",
       "source_url": "https://www.instagram.com/reels/audio/804208024981355",
       "trend_type": "viral_moment",
       "confidence_score": 0.91,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#bridgerton", "#periodaesthetic", "#regency", "#netflix"],
-        "engagement": {"posts": 700000, "show": "Bridgerton S4"},
+        "hashtags": [
+          "#bridgerton",
+          "#periodaesthetic",
+          "#regency",
+          "#netflix"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Netflix"],
+        "related_brands": [
+          "Netflix"
+        ],
         "context": "entertainment crossover",
         "price_point": null
       }
@@ -456,17 +740,30 @@
     {
       "headline": "Bagsmart Tote Bag - Travel & Gym Essential",
       "body": "Popular Bagsmart pick for gym bag, work tote, or personal item for flights. Earned thousands of five-star ratings for lightweight feel and convenient pockets including padded laptop sleeve. Part of the organized travel and 'girl who has her life together' aesthetic.",
-      "categories": ["Fashion & Apparel", "Travel & Hospitality"],
+      "categories": [
+        "Fashion & Apparel",
+        "Travel & Hospitality"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0CS2R1S1B",
       "trend_type": "product",
       "confidence_score": 0.76,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#totebag", "#travel", "#gymbag", "#organization"],
-        "engagement": {"rating": "thousands 5-star", "features": ["laptop sleeve"]},
+        "hashtags": [
+          "#totebag",
+          "#travel",
+          "#gymbag",
+          "#organization"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Bagsmart"],
+        "related_brands": [
+          "Bagsmart"
+        ],
         "context": "travel organization",
         "price_point": "budget"
       }
@@ -474,17 +771,29 @@
     {
       "headline": "Yankee Candle Vanilla & Sandalwood - Cozy Home",
       "body": "Notes of vanilla, sandalwood, and amber silk for sophisticated, subtly sweet scent. Part of the 'expensive smelling' candle trend at budget price. Steeply discounted for Presidents Day. Home fragrance as affordable luxury.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "TikTok / Amazon",
       "source_url": "https://www.amazon.com/dp/B0F3DSD3Q7",
       "trend_type": "product",
       "confidence_score": 0.74,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#candle", "#homefragrance", "#cozy", "#vanilla"],
-        "engagement": {"discount": "40% off", "scent_profile": "warm"},
+        "hashtags": [
+          "#candle",
+          "#homefragrance",
+          "#cozy",
+          "#vanilla"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Yankee Candle"],
+        "related_brands": [
+          "Yankee Candle"
+        ],
         "context": "home ambiance",
         "price_point": "budget"
       }

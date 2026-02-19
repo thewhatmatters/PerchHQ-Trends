@@ -1,20 +1,36 @@
 {
-  "date": "2026-02-15",
+  "batch_id": "trends-2026-02-15",
+  "scraped_at": "2026-02-15T10:00:00Z",
+  "expires_at": "2026-02-18T10:00:00Z",
   "trends": [
     {
       "headline": "Facial Ice Bath Bowl - Cold Therapy Skincare Trend",
       "body": "Full-face immersion cold therapy tool that reduces inflammation, shrinks pores, and soothes acne-prone skin. Unlike traditional ice rollers, this collapsible silicone bowl ensures even, deep cooling. Propelled by skincare expert Ashton Hall and the broader ice-bathing wellness trend. Perfect for morning refresh, post-workout redness, or bedtime soothing.",
-      "categories": ["Beauty & Skincare", "Health & Fitness"],
+      "categories": [
+        "Beauty & Skincare",
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://www.tradelle.io/blog/12-viral-dropshipping-products-for-february-2025/",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#facialicebath", "#coldtherapy", "#skincaretips", "#glassskin"],
-        "engagement": { "views": 25000000, "likes": 1800000, "mentions": "high" },
+        "hashtags": [
+          "#facialicebath",
+          "#coldtherapy",
+          "#skincaretips",
+          "#glassskin"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Generic", "Spa Sciences"],
+        "related_brands": [
+          "Generic",
+          "Spa Sciences"
+        ],
         "context": "wellness",
         "price_point": "budget"
       }
@@ -22,17 +38,29 @@
     {
       "headline": "Sacheu Lip Liner Stay-N Peel-Off Lip Stain",
       "body": "Peel-off lip stain technology that applies dark, dries down, and peels off to reveal a smudgeproof liner lasting all day. Went viral after Billie Eilish GRWM TikTok and Doja Cat song mention. Powered by next-gen peel-off stain tech that sticks through meals, nights out, sweat, and smooching. Sold out overnight after celebrity endorsements.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "product",
       "confidence_score": 0.92,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#lipstain", "#sacheu", "#peellofflip", "#lipliner"],
-        "engagement": { "views": 94000000, "likes": 8200000, "mentions": "viral" },
+        "hashtags": [
+          "#lipstain",
+          "#sacheu",
+          "#peellofflip",
+          "#lipliner"
+        ],
+        "engagement": {
+          "mentions": "viral",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Sacheu Beauty"],
+        "related_brands": [
+          "Sacheu Beauty"
+        ],
         "context": "celebrity_endorsed",
         "price_point": "mid-range"
       }
@@ -40,17 +68,29 @@
     {
       "headline": "Medicube Collagen Overnight Wrapping Mask",
       "body": "K-beauty overnight mask that transforms from gel to peel-off layer while sleeping. Part of the 'morning shed' routine trend. Rich in collagen extract, niacinamide, ceramide NP, and hyaluronic acid. The visual peel-off aspect makes it perfect for TikTok content while delivering genuine hydration, plumping, and illumination results.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "product",
       "confidence_score": 0.89,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#morningshed", "#kbeauty", "#overnightmask", "#collagenmask"],
-        "engagement": { "views": 67000000, "likes": 5400000, "mentions": "high" },
+        "hashtags": [
+          "#morningshed",
+          "#kbeauty",
+          "#overnightmask",
+          "#collagenmask"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Medicube"],
+        "related_brands": [
+          "Medicube"
+        ],
         "context": "viral_product",
         "price_point": "mid-range"
       }
@@ -58,17 +98,30 @@
     {
       "headline": "Shark CryoGlow LED Face Mask",
       "body": "LED face mask combining cold therapy and LED light treatment. Features under-eye cooling patches for puffiness reduction plus blue, red, and near-infrared wavelengths for collagen stimulation and skin repair. Endorsed by Sofia Richie Grainge. The 'Jason-esque' device aesthetic dominates TikTok feeds as part of high-tech self-care trend.",
-      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "categories": [
+        "Beauty & Skincare",
+        "Tech & Gadgets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#ledmask", "#cryoglow", "#redlighttherapy", "#skincaretools"],
-        "engagement": { "views": 45000000, "likes": 3200000, "mentions": "high" },
+        "hashtags": [
+          "#ledmask",
+          "#cryoglow",
+          "#redlighttherapy",
+          "#skincaretools"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Shark Beauty"],
+        "related_brands": [
+          "Shark Beauty"
+        ],
         "context": "tech_beauty",
         "price_point": "luxury"
       }
@@ -76,17 +129,29 @@
     {
       "headline": "Heart & Sword Necklace - Edgy Romance Trend",
       "body": "Elegant necklace combining timeless heart design with edgy sword element. Perfect for Valentine's gifting with high perceived value. Buy for $1.48, sell for $35.00, yielding $33.52 profit margin. The design resonates with gift buyers seeking romance with attitude. Riding the post-Valentine's Day jewelry surge.",
-      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "categories": [
+        "Jewelry & Accessories",
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://www.sellthetrend.com/blog/top-10-winning-products-to-sell-in-february-2025",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#heartsword", "#valentinesjewelry", "#edgyromance"],
-        "engagement": { "views": 12000000, "likes": 890000, "mentions": "medium" },
+        "hashtags": [
+          "#heartsword",
+          "#valentinesjewelry",
+          "#edgyromance"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Generic"],
+        "related_brands": [
+          "Generic"
+        ],
         "context": "seasonal",
         "price_point": "budget"
       }
@@ -94,17 +159,28 @@
     {
       "headline": "Scent Necklace - Personalized Fragrance Jewelry",
       "body": "Short, heartfelt gift item dominating social feeds with 'wait, I need this' factor. Ultra-personal and visually appealing for gift-giving occasions. Quick, punchy TikTok videos make it shareable, turning scrollers into impulse buyers. Meaningful accessory with steady year-round interest and seasonal spikes around holidays.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.tradelle.io/blog/12-viral-dropshipping-products-for-february-2025/",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#scentnecklace", "#fragrancejewelry", "#personalizedgifts"],
-        "engagement": { "views": 8500000, "likes": 620000, "mentions": "medium" },
+        "hashtags": [
+          "#scentnecklace",
+          "#fragrancejewelry",
+          "#personalizedgifts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Generic"],
+        "related_brands": [
+          "Generic"
+        ],
         "context": "gift_trend",
         "price_point": "budget"
       }
@@ -112,17 +188,30 @@
     {
       "headline": "Pet Talk Button Set - Pet Communication Trend",
       "body": "Interactive pet communication buttons allowing pets to 'talk' to owners. Part of the emerging high-growth pet tech niche generating $100k+ monthly revenue. Gen Z and Millennial pet owners driving demand for interactive play and deeper pet-human connection. Viral on TikTok with pets seemingly using words.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "Web",
       "source_url": "https://www.sellthetrend.com/blog/top-10-winning-products-to-sell-in-february-2025",
       "trend_type": "product",
       "confidence_score": 0.86,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#pettalk", "#dogbuttons", "#talkingdog", "#petcommunication"],
-        "engagement": { "views": 150000000, "likes": 12000000, "mentions": "viral" },
+        "hashtags": [
+          "#pettalk",
+          "#dogbuttons",
+          "#talkingdog",
+          "#petcommunication"
+        ],
+        "engagement": {
+          "mentions": "viral",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["FluentPet", "Generic"],
+        "related_brands": [
+          "FluentPet",
+          "Generic"
+        ],
         "context": "viral_content",
         "price_point": "mid-range"
       }
@@ -130,17 +219,29 @@
     {
       "headline": "Portable Pet Water Bowl - On-the-Go Pet Hydration",
       "body": "Leak-proof portable pet water bottle designed for walks, road trips, and outdoor adventures. Practical pet accessory with lightweight, durable design. Pet products trending year-round with proven popularity. Gen Z and Millennial pet owners prioritize pet wellness and convenience during travel.",
-      "categories": ["Pets", "Travel & Hospitality"],
+      "categories": [
+        "Pets",
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.sellthetrend.com/blog/top-10-winning-products-to-sell-in-february-2025",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#pettravel", "#dogwaterbottle", "#petaccessories"],
-        "engagement": { "views": 8000000, "likes": 540000, "mentions": "medium" },
+        "hashtags": [
+          "#pettravel",
+          "#dogwaterbottle",
+          "#petaccessories"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Generic"],
+        "related_brands": [
+          "Generic"
+        ],
         "context": "travel",
         "price_point": "budget"
       }
@@ -148,17 +249,32 @@
     {
       "headline": "GPS Dog Fence Collars - Smart Pet Containment",
       "body": "Satellite and GPS-based geo-fence for dogs replacing traditional buried wire electric fences. Notable brands include SpotOn, Halo Collar, and Guardian. Pet owners increasingly focused on tech-enabled pet safety and freedom. Part of broader smart pet tech trend including tracking, health monitoring, and automated feeding.",
-      "categories": ["Pets", "Tech & Gadgets"],
+      "categories": [
+        "Pets",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://explodingtopics.com/blog/pet-products",
       "trend_type": "product",
       "confidence_score": 0.83,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#gpsdogcollar", "#smartpet", "#dogtech", "#petgps"],
-        "engagement": { "views": 18000000, "likes": 1400000, "mentions": "high" },
+        "hashtags": [
+          "#gpsdogcollar",
+          "#smartpet",
+          "#dogtech",
+          "#petgps"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["SpotOn", "Halo Collar", "Guardian"],
+        "related_brands": [
+          "SpotOn",
+          "Halo Collar",
+          "Guardian"
+        ],
         "context": "tech",
         "price_point": "luxury"
       }
@@ -166,17 +282,30 @@
     {
       "headline": "Soft Plush Carrot Toy - Viral Pet/Kids Toy",
       "body": "Adorable plush toy winning hearts and going viral across social media. Fun for all ages whether for kids or pets. Viral products drive instant exposure and easy marketing on TikTok and Instagram. Versatile appeal makes it a cross-category winner for both children's and pet content.",
-      "categories": ["Pets", "Baby & Kids"],
+      "categories": [
+        "Pets",
+        "Baby & Kids"
+      ],
       "source": "TikTok",
       "source_url": "https://www.sellthetrend.com/blog/top-10-winning-products-to-sell-in-february-2025",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#plushcarrot", "#viraltoy", "#pettoys", "#kidstoys"],
-        "engagement": { "views": 22000000, "likes": 1800000, "mentions": "high" },
+        "hashtags": [
+          "#plushcarrot",
+          "#viraltoy",
+          "#pettoys",
+          "#kidstoys"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Generic"],
+        "related_brands": [
+          "Generic"
+        ],
         "context": "viral",
         "price_point": "budget"
       }
@@ -184,17 +313,28 @@
     {
       "headline": "TAGRY Bluetooth Wireless Earbuds - Budget Audio Leader",
       "body": "High-quality, budget-friendly wireless earbuds leading the audio market with 50,000+ units sold monthly. Cater to home-office setups and mobile lifestyles. Part of the post-New Year electronics refresh cycle. Consumers prioritize portability, battery life, and affordability in the $30-40 range.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.accio.com/business/top-selling-items-in-february",
       "trend_type": "product",
       "confidence_score": 0.84,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#wirelessearbuds", "#budgettech", "#audiogear"],
-        "engagement": { "views": 15000000, "likes": 980000, "mentions": "high" },
+        "hashtags": [
+          "#wirelessearbuds",
+          "#budgettech",
+          "#audiogear"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["TAGRY"],
+        "related_brands": [
+          "TAGRY"
+        ],
         "context": "essential_tech",
         "price_point": "budget"
       }
@@ -202,17 +342,29 @@
     {
       "headline": "Electric Nail Cutter - Precision Grooming Tool",
       "body": "Game-changing rechargeable electric nail cutter designed for precision and safety. Perfect for busy parents, seniors, or anyone seeking hassle-free nail care. 175.7M likes, 24.2K shares, 14.8K comments on social media. Viral social stats demonstrate massive demand for convenient personal grooming solutions.",
-      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "categories": [
+        "Beauty & Skincare",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.sellthetrend.com/blog/top-10-winning-products-to-sell-in-february-2025",
       "trend_type": "product",
       "confidence_score": 0.81,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#electricnailcutter", "#nailcare", "#groomingtools"],
-        "engagement": { "views": 175700000, "likes": 175700000, "shares": 24200, "comments": 14800 },
+        "hashtags": [
+          "#electricnailcutter",
+          "#nailcare",
+          "#groomingtools"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Generic"],
+        "related_brands": [
+          "Generic"
+        ],
         "context": "viral",
         "price_point": "mid-range"
       }
@@ -220,35 +372,60 @@
     {
       "headline": "Wavytalk Thermal Brush - At-Home Blowout Tool",
       "body": "Thermal brush combining round brush and hair dryer functionality. Creates voluminous blowouts on all hair lengths in minutes. Tourmaline-ceramic barrel delivers even heat for faster styling with less damage. Negative ion technology seals moisture and boosts shine. TikTok sensation appearing in countless styling videos.",
-      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "categories": [
+        "Beauty & Skincare",
+        "Tech & Gadgets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "product",
       "confidence_score": 0.87,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#thermalbrush", "#blowout", "#hairtools", "#wavytalk"],
-        "engagement": { "views": 85000000, "likes": 6700000, "mentions": "high" },
+        "hashtags": [
+          "#thermalbrush",
+          "#blowout",
+          "#hairtools",
+          "#wavytalk"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Wavytalk"],
+        "related_brands": [
+          "Wavytalk"
+        ],
         "context": "viral",
         "price_point": "mid-range"
       }
     },
     {
       "headline": "Kulfi Lassi Lips Staining Lip Oil - Hybrid Lip Product",
-      "body": "Three-in-one hybrid: lip gloss, lip oil, and stain. Enriched with hydration for non-sticky, shiny finish with staying power of a stain. South Asian-owned brand gaining traction. 'Satisfying transformation element' as gloss sinks in leaving pretty tint—perfect for TikTok's visual-first content format.",
-      "categories": ["Beauty & Skincare"],
+      "body": "Three-in-one hybrid: lip gloss, lip oil, and stain. Enriched with hydration for non-sticky, shiny finish with staying power of a stain. South Asian-owned brand gaining traction. 'Satisfying transformation element' as gloss sinks in leaving pretty tint\u2014perfect for TikTok's visual-first content format.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "product",
       "confidence_score": 0.79,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#lipoil", "#kulfi", "#lipstain", "#hybridbeauty"],
-        "engagement": { "views": 28000000, "likes": 2100000, "mentions": "medium" },
+        "hashtags": [
+          "#lipoil",
+          "#kulfi",
+          "#lipstain",
+          "#hybridbeauty"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Kulfi Beauty"],
+        "related_brands": [
+          "Kulfi Beauty"
+        ],
         "context": "viral",
         "price_point": "mid-range"
       }
@@ -256,17 +433,30 @@
     {
       "headline": "Demure Beauty Trend - Subtle, Natural Makeup",
       "body": "2024-2025 dominant beauty aesthetic focusing on subtle, refined, and 'demure' makeup looks. Part of broader 'undetectable era' in beauty emphasizing natural rejuvenation. TikTok trend normalizing understated elegance over bold glam. Content focusing on soft blush placement, neutral tones, and barely-there makeup.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.accio.com/business/beauty-trends-tiktok",
       "trend_type": "content_format",
-      "confidence_score": 0.90,
+      "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#demure", "#demurebeauty", "#naturalmakeup", "#softglam"],
-        "engagement": { "views": 57000000, "likes": 4800000, "mentions": "viral" },
+        "hashtags": [
+          "#demure",
+          "#demurebeauty",
+          "#naturalmakeup",
+          "#softglam"
+        ],
+        "engagement": {
+          "mentions": "viral",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Rare Beauty", "Rhode"],
+        "related_brands": [
+          "Rare Beauty",
+          "Rhode"
+        ],
         "context": "aesthetic_trend",
         "price_point": "varied"
       }
@@ -274,17 +464,30 @@
     {
       "headline": "Men's Beauty & Skincare - Gender-Neutral Beauty Rise",
       "body": "Heterosexual men increasingly embracing makeup for natural looks to cover imperfections. Hudson Williams' 5-step Korean beauty routine went viral. Hashtags like #meninmakeup and #boymakeup multiplying. Shift toward genderless beauty products and routines. Men embracing beauty culture while refusing traditional labeling.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://cyprus-mail.com/2026/02/14/men-are-embracing-beauty-culture-many-just-refuse-to-call-it-that",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#meninmakeup", "#boymakeup", "#mensbeauty", "#malegrooming"],
-        "engagement": { "views": 45000000, "likes": 3800000, "mentions": "high" },
+        "hashtags": [
+          "#meninmakeup",
+          "#boymakeup",
+          "#mensbeauty",
+          "#malegrooming"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["The Cut", "Korean Beauty Brands"],
+        "related_brands": [
+          "The Cut",
+          "Korean Beauty Brands"
+        ],
         "context": "cultural_shift",
         "price_point": "varied"
       }
@@ -292,35 +495,61 @@
     {
       "headline": "One-Product Makeup Routine - Minimalist Beauty",
       "body": "TikTok trend championing streamlined beauty routines using just one multi-purpose product. Rooted in practical benefits and expert endorsements for longer-term relevance. Appeals to time-pressed consumers seeking simplicity. Content format shows transformative results from minimal product use.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.accio.com/business/beauty-trends-tiktok",
       "trend_type": "content_format",
       "confidence_score": 0.82,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#oneproductmakeup", "#minimalistbeauty", "#quickmakeup"],
-        "engagement": { "views": 32000000, "likes": 2800000, "mentions": "high" },
+        "hashtags": [
+          "#oneproductmakeup",
+          "#minimalistbeauty",
+          "#quickmakeup"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Rare Beauty", "Glossier"],
+        "related_brands": [
+          "Rare Beauty",
+          "Glossier"
+        ],
         "context": "minimalism",
         "price_point": "varied"
       }
     },
     {
       "headline": "Juicy Lip Combos - Lip Product Renaissance",
-      "body": "Full-fledged renaissance of lip combinations—balms, glosses, stains, liners, and everything between. 2025 was a big year for 'blush blindness' and lip-focused content. Tints everywhere from cheek and lip tints to staining glosses and liners. Content focusing on achieving the perfect 'juicy' lip look.",
-      "categories": ["Beauty & Skincare"],
+      "body": "Full-fledged renaissance of lip combinations\u2014balms, glosses, stains, liners, and everything between. 2025 was a big year for 'blush blindness' and lip-focused content. Tints everywhere from cheek and lip tints to staining glosses and liners. Content focusing on achieving the perfect 'juicy' lip look.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "content_format",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#juicylips", "#lipcombo", "#lipgloss", "#liptint"],
-        "engagement": { "views": 120000000, "likes": 9500000, "mentions": "viral" },
+        "hashtags": [
+          "#juicylips",
+          "#lipcombo",
+          "#lipgloss",
+          "#liptint"
+        ],
+        "engagement": {
+          "mentions": "viral",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Rhode", "Summer Fridays", "Eadem"],
+        "related_brands": [
+          "Rhode",
+          "Summer Fridays",
+          "Eadem"
+        ],
         "context": "viral",
         "price_point": "varied"
       }
@@ -328,17 +557,30 @@
     {
       "headline": "Morning Shed Skincare Routine - K-Beauty Trend",
       "body": "K-beauty inspired morning routine involving overnight masks that 'shed' or peel off in the morning. Visual transformation content perfect for TikTok. Sensorial formulas making for satisfying content. Part of broader interest in Korean skincare innovation and multi-step routines.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "content_format",
       "confidence_score": 0.86,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#morningshed", "#kbeauty", "#skincareroutine", "#overnightmask"],
-        "engagement": { "views": 78000000, "likes": 6200000, "mentions": "high" },
+        "hashtags": [
+          "#morningshed",
+          "#kbeauty",
+          "#skincareroutine",
+          "#overnightmask"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Medicube", "Biodance"],
+        "related_brands": [
+          "Medicube",
+          "Biodance"
+        ],
         "context": "routine",
         "price_point": "varied"
       }
@@ -346,17 +588,29 @@
     {
       "headline": "VT Cosmetics Reedle Shot - Spicule Skincare",
       "body": "Spicule serum making the microneedling category a household name. Dissolvable microscopic microneedles enable deeper penetration of active ingredients. Formula includes centella asiatica, propolis extract, sodium hyaluronate, and glycerin. Multiple intensity levels from beginner to experienced users.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.vogue.com/article/tiktok-viral-beauty-products-2025",
       "trend_type": "product",
       "confidence_score": 0.84,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#reedleshot", "#spicule", "#microneedling", "#kbeauty"],
-        "engagement": { "views": 35000000, "likes": 2900000, "mentions": "high" },
+        "hashtags": [
+          "#reedleshot",
+          "#spicule",
+          "#microneedling",
+          "#kbeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["VT Cosmetics"],
+        "related_brands": [
+          "VT Cosmetics"
+        ],
         "context": "viral_product",
         "price_point": "mid-range"
       }
@@ -364,17 +618,32 @@
     {
       "headline": "Smart Pet Tech - AI-Powered Pet Care",
       "body": "Gen Z and Millennial pet owners driving demand for smart toys that teach, collars that track, feeders that analyze. Most active demographic on TikTok and Instagram where trends make or break products. 2025-2026 focus on improving both physical and mental health of pets. Smart feeders, health monitors, and interactive toys leading growth.",
-      "categories": ["Pets", "Tech & Gadgets"],
+      "categories": [
+        "Pets",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://pbfulfill.com/blogs/product-recommendation/most-viral-pet-products-for-dropshippers",
       "trend_type": "viral_moment",
       "confidence_score": 0.87,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#smartpet", "#pettech", "#aipet", "#pethealth"],
-        "engagement": { "views": 95000000, "likes": 7200000, "mentions": "high" },
+        "hashtags": [
+          "#smartpet",
+          "#pettech",
+          "#aipet",
+          "#pethealth"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Furbo", "Whistle", "PetCube"],
+        "related_brands": [
+          "Furbo",
+          "Whistle",
+          "PetCube"
+        ],
         "context": "tech",
         "price_point": "luxury"
       }
@@ -382,44 +651,34 @@
     {
       "headline": "Personalization & Wellness Focus - Consumer Shift",
       "body": "Consumers increasingly focused on personalization, wellness, and convenience. Driving sales in vitamins and supplements, home decor, and innovative accessories. Post-New Year refresh cycle continuing into February. Remote work electronics and viral lifestyle products (pet tech, wellness) seeing sustained demand.",
-      "categories": ["Health & Fitness", "Home & Lifestyle", "Tech & Gadgets"],
+      "categories": [
+        "Health & Fitness",
+        "Home & Lifestyle",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.accio.com/business/top-selling-items-in-february",
       "trend_type": "viral_moment",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#wellness", "#personalization", "#selfcare", "#health"],
-        "engagement": { "views": 25000000, "likes": 1800000, "mentions": "medium" },
+        "hashtags": [
+          "#wellness",
+          "#personalization",
+          "#selfcare",
+          "#health"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
         "sentiment": "positive",
-        "related_brands": ["Various"],
+        "related_brands": [
+          "Various"
+        ],
         "context": "cultural_shift",
         "price_point": "varied"
       }
     }
-  ],
-  "summary": {
-    "total_trends": 24,
-    "by_category": {
-      "Beauty & Skincare": 15,
-      "Fashion & Apparel": 1,
-      "Food & Beverage": 0,
-      "Health & Fitness": 2,
-      "Tech & Gadgets": 5,
-      "Baby & Kids": 1,
-      "Pets": 5,
-      "Travel & Hospitality": 1,
-      "Jewelry & Accessories": 2,
-      "Home & Lifestyle": 1
-    },
-    "by_source": {
-      "TikTok": 12,
-      "Web": 12
-    },
-    "by_type": {
-      "product": 16,
-      "content_format": 5,
-      "viral_moment": 3
-    }
-  }
+  ]
 }

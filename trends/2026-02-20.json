@@ -1,0 +1,245 @@
+{
+  "date": "2026-02-20",
+  "trends": [
+    {
+      "headline": "Frosty Lipstick & 2006 Beauty Nostalgia Taking Over 2026",
+      "body": "2026's top beauty trends are taking us back to 2006 with frosty lipstick, matte makeup, and side bangs leading the charge. Senior beauty editors predict frosty lipstick will be everywhere this year. The nostalgic Y2K revival continues to dominate beauty content, creating major opportunities for retro beauty content creators.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/beauty/beauty-trends-making-a-comeback-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FrostyLipstick", "#Y2KBeauty", "#2006Nostalgia"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "NYFW 2026 Beauty: Gothic Glam & Anti-'Mar-a-Lago Face'",
+      "body": "New York Fashion Week 2026 beauty trends are embracing gothic glam with dark, moody aesthetics. The 'Anti-Mar-a-Lago Face' trend is rejecting overly polished looks in favor of more artistic, deconstructive approaches. Collina Strada's 'The World Is a Vampire' collection featured dramatic eye makeup using Ben Nye and Make Up For Ever products.",
+      "categories": ["Beauty & Skincare"],
+      "source": "BeautyMatter",
+      "source_url": "https://beautymatter.com/articles/nyfw-2026-beauty-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#NYFW", "#GothicGlam", "#AntiMaraLagoFace"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Ben Nye", "Make Up For Ever", "Collina Strada"]
+      }
+    },
+    {
+      "headline": "90s Nostalgia & Layering Dominate Fall 2026 Fashion",
+      "body": "New York Fashion Week's contemporary brands like Staud, Kate Barton, and Vince leaned into 90s nostalgia, layering, and pops of red for Fall 2026. The aesthetic is characterized by bold outerwear, textured fabrics, and intricate layering. The 'Love Story: John F. Kennedy Jr. and Carolyn Bessette' renewed interest in 90s slipdresses and minimalist glamour.",
+      "categories": ["Fashion & Apparel"],
+      "source": "WWD",
+      "source_url": "https://wwd.com/fashion-news/fashion-features/fall-2025-womens-ready-to-wear-fashion-trends-contemporary-1238613094/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#NYFW", "#90sNostalgia", "#Fall2026", "#Fall2026Fashion"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Staud", "Kate Barton", "Vince", "Theory", "Derek Lam"]
+      }
+    },
+    {
+      "headline": "Capri Leggings & 2000s Activewear: Gen Z vs Millennial Style Divide",
+      "body": "Capri leggings are the most controversial Spring 2026 trend, with both Gen Z and millennials embracing them in similar fashion. Despite being divisive, the trend is not going anywhere. Both generations are also uniting around other 2000s activewear revivals, creating cross-generational content opportunities.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/spring/gen-z-versus-millennial-fashion-trends-spring-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CapriLeggings", "#GenZ", "#Millennial", "#Spring2026"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Statement Brooches & Lace-Trimmed Scarves: Spring 2026 Accessories",
+      "body": "Spring 2026 is all about elevated statement accessories. Bold brooches that elevate basic white button-downs and jeans, pretty lace-trimmed scarves transforming tank tops and linen trousers from basic to cool. The accessory trend offers opportunities across price points for affiliate content.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/spring-accessory-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#StatementBrooch", "#Spring2026", "#AccessoryTrends"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Japanese Walking: 2,986% Surge in Fitness Interest",
+      "body": "Japanese walking has seen a staggering 2,986 percent surge in interest, making it one of the fastest-growing fitness trends for 2026 according to PureGym's annual fitness report. TikTok has been instrumental in spreading this trend. The low-impact exercise focuses on posture and mindful movement, appealing to those seeking gentle fitness alternatives.",
+      "categories": ["Health & Fitness"],
+      "source": "PureWow",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseWalking", "#FitnessTrends2026", "#TikTokFitness"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["PureGym"]
+      }
+    },
+    {
+      "headline": "Deinfluencing Fitness: Health Over Aesthetics in 2026",
+      "body": "The fitness industry continues its shift from aesthetics to authentic health benefits. Studios like Orangetheory blend strength training with heart-rate monitoring for long-term health. The #BEACTIVE DAY initiative focuses on mental health through physical activity. Creators can capitalize on this authenticity-first approach to fitness content.",
+      "categories": ["Health & Fitness"],
+      "source": "Healthing.ca",
+      "source_url": "https://www.healthing.ca/fitness/opinion-deinfluencing-fitness-trends-in-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BEACTIVE", "#Fitness2026", "#HealthOverHustle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Orangetheory Fitness"]
+      }
+    },
+    {
+      "headline": "AI Coding Tools Now Run for Full Hour, Create Credible Websites",
+      "body": "AI coding tools have dramatically improved, now running for a full hour and creating whole, designed websites and apps that may be flawed but are credible. The AI disruption has arrived and is transforming how creators and developers work, lowering barriers to entry for content creation and app development.",
+      "categories": ["Tech & Gadgets"],
+      "source": "NY Times",
+      "source_url": "https://www.nytimes.com/2026/02/18/opinion/ai-software.html",
+      "trend_type": "product",
+      "confidence_score": 0.94,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AICoding", "#AITools", "#WebDevelopment"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "India AI Impact Summit 2026: Tech Giants Gather",
+      "body": "The India AI Impact Summit 2026 brings together Sundar Pichai (Google), Sam Altman (OpenAI), Dario Amodei (Anthropic), and other tech CEOs in Delhi. Google announced I/O 2026 dates (May 19-20) with focus on Android XR, Gemini-powered smart glasses, and AI hardware demos. Major tech investments in India are being announced.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Times of India",
+      "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/india-ai-impact-summit-2026-sundar-pichai-sam-altman-dario-amodei-and-full-list-of-ceos-attending-the-summit-in-delhi/articleshow/128373872.cms",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AI2026", "#IndiaAI", "#GoogleIO"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Google", "OpenAI", "Anthropic", "Microsoft"]
+      }
+    },
+    {
+      "headline": "Luxury Travel: Space & Privacy as Ultimate Luxury in 2026",
+      "body": "Spaciousness is the ultimate expression of luxury in 2026 - private villas, low-density boutique resorts, and nature-framed hideaways where quiet feels curated. New trends include 'Salvaged Stays' in renovated historical locations, 'Hotel Hopping' for mixing accommodations, and expansion into eco-conscious destinations.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Hospitality Net",
+      "source_url": "https://www.hospitalitynet.org/list/1-10/all-latest-news.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LuxuryTravel", "#PrivateVillas", "#SalvagedStays", "#HotelHopping"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["COMO Hotels", "Nobu"]
+      }
+    },
+    {
+      "headline": "Italy Tourism Soars: New Luxury Hotels 2026",
+      "body": "Italy's hospitality market is soaring with tourism recovery and new luxury travel trends. Rome, Florence, and Milan are building more luxury hotels to accommodate affluent tourists. Global tourism growth is increasingly concentrated in secondary destinations seeking authentic, less crowded experiences.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Travel And Tour World",
+      "source_url": "https://www.travelandtourworld.com/news/article/italy-tourism-and-hospitality-market-soars-with-tourism-recovery-and-new-luxury-travel-trends-everything-you-need-to-know/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ItalyTravel", "#LuxuryHotels", "#Tourism2026"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Pet Supplements Market Growing at 8% CAGR",
+      "body": "The pet supplements industry is experiencing significant growth with rising demand for customized pet nutrition, online sales channels, and supplements targeting immune and digestive health. The global pet care market is projected to exceed $250 billion by decade's end, driven by pet humanization and premiumization.",
+      "categories": ["Pets"],
+      "source": "OpenPR",
+      "source_url": "https://www.openpr.com/news/4397116/analysis-of-key-market-segments-driving-the-pet-supplements",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PetSupplements", "#PetWellness", "#PetCareMarket"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Mature Warmth: 2026 Interior Design Color Trends",
+      "body": "Home palettes shift from sterile minimalism to 'mature warmth' using deep, muddy, and dusty earth tones. Interiors now feature honey tones, tobacco leather, and dark woods for a deeper, more emotional feel. Curtain fabrics are moving beyond linen and cotton to velvet, silk, and wool for added depth.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Chaos Blog",
+      "source_url": "https://blog.chaos.com/interior-design-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#InteriorDesign2026", "#MatureWarmth", "#HomeTrends"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Food Microtrends: Thoughtful Selections Over Viral Crazes",
+      "body": "The overarching theme for 2026 dining revolves around thoughtful selections, cherished experiences, and a return to basics of flavor. While viral TikTok foods continue (like Canes sauce and WingStop chicken), there's a growing counter-movement toward more meaningful, less consumerism-driven food content.",
+      "categories": ["Food & Cooking"],
+      "source": "GQ South Africa",
+      "source_url": "https://gq.co.za/culture/food-drink/2026-02-19-food-trends-for-2026-whats-on-the-south-african-table/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#FoodTrends2026", "#Foodie", "#MindfulEating"],
+        "engagement": "medium",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Mobile Gaming 2026: Real-Time Collaboration & User-Generated Content",
+      "body": "Mobile gaming in 2026 is defined by real-time communication tools, collaborative gameplay modes, and live events creating shared experiences. User-generated content platforms like Roblox and Fortnite demonstrate how community-driven experiences sustain engagement. Major releases including GTA VI and Monster Hunter Wilds are anticipated.",
+      "categories": ["Gaming & Entertainment"],
+      "source": "Wikipedia/Blooloop",
+      "source_url": "https://en.wikipedia.org/wiki/2022%E2%80%932025_video_game_industry_layoffs",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MobileGaming2026", "#GamingTrends", "#UserGeneratedContent"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Roblox", "Fortnite"]
+      }
+    }
+  ]
+}

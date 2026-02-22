@@ -1,0 +1,55 @@
+{
+  "date": "2026-02-21",
+  "categories": [
+    {
+      "name": "Beauty",
+      "topics": [
+        {"title": "Skinimalism 2.0", "summary": "Minimalist skincare with focus on barrier repair and microbiome-friendly products. Double cleansing fading in favor of single-step routines.", "url": ""},
+        {"title": "Vitamin C Serums", "summary": "Stable vitamin C formulations with ferulic acid remain holy grail. New encapsulation tech improving stability.", "url": ""},
+        {"title": "Guasha Tools", "summary": "Jade guasha evolving to include LED-integrated tools for light therapy + massage.", "url": ""},
+        {"title": "Clean Beauty Standards", "summary": "Industry moving toward stricter 'free-from' lists. EU regulations driving reformulations.", "url": ""},
+        {"title": "At-Home Devices", "summary": "Microcurrent and LED masks gaining mainstream adoption. Pricing becoming accessible.", "url": ""}
+      ]
+    },
+    {
+      "name": "Fashion",
+      "topics": [
+        {"title": "Oversized Blazers", "summary": "Power shoulders and宽松剪裁 dominating. Thrifted vintage blazers trending hard.", "url": ""},
+        {"title": "Mermaidcore", "summary": "Ocean-inspired sequins, scales, iridescent fabrics. Post-Mermaid era driving aesthetic.", "url": ""},
+        {"title": "Cargo Pockets", "summary": "Utility mania continuing. More functional, less chunky iterations emerging.", "url": ""},
+        {"title": "Quiet Luxury Evolution", "summary": "Still strong but getting louder. Logomania returning with subtlety.", "url": ""},
+        {"title": "Platform Sandals", "summary": "Chunky platform sandals replacing rain boots as summer staple.", "url": ""}
+      ]
+    },
+    {
+      "name": "Food",
+      "topics": [
+        {"title": "Fermentation Stations", "summary": "Home kombucha and kimchi kits exploding. DIY culture driving probiotic consumption.", "url": ""},
+        {"title": "Air Fryer meals", "summary": "Air fryers becoming kitchen command centers. Recipe content dominating TikTok.", "url": ""},
+        {"title": "Alternative Proteins", "summary": "Plant-based getting more realistic. Cultivated meat entering select restaurants.", "url": ""},
+        {"title": "Collagen Everything", "summary": "Collagen supplements going mainstream. Adding to coffee, matcha, baked goods.", "url": ""},
+        {"title": "Global Spice Routes", "summary": "Less Italian/French, more Ethiopian, Jamaican, Filipino flavors trending.", "url": ""}
+      ]
+    },
+    {
+      "name": "Tech",
+      "topics": [
+        {"title": "AI Companions", "summary": "AI pets and companions trending. Emotional AI devices gaining adoption.", "url": ""},
+        {"title": "Smart Glasses", "summary": "Second attempt at smart glasses finally working. Fashion brands collaborating.", "url": ""},
+        {"title": "Home Energy Management", "summary": "Smart panels and energy monitoring systems trending as costs rise.", "url": ""},
+        {"title": "Mechanical Keyboards", "summary": "Custom keyboard hobby exploding. Artisan keycaps becoming collectibles.", "url": ""},
+        {"title": "e-Readers", "summary": "e-ink devices having a moment. Kindle color and Boox leading refresh cycles.", "url": ""}
+      ]
+    },
+    {
+      "name": "Travel",
+      "topics": [
+        {"title": "Workcation Hubs", "summary": "Digital nomad visas expanding. Portugal, Bali, Mexico still leading destinations.", "url": ""},
+        {"title": "Sleep Tourism", "summary": "Hotels competing on sleep quality. Onsen and spa destinations trending.", "url": ""},
+        {"title": "Slow Travel", "summary": "Fewer trips, longer stays. Deep local experiences over bucket lists.", "url": ""},
+        {"title": "Train Travel Renaissance", "summary": "Night trains Europe-wide. Sleeper trains as romantic alternative to flying.", "url": ""},
+        {"title": "Microcations", "summary": "3-day weekend getaways. Quick resets over big vacations.", "url": ""}
+      ]
+    }
+  ]
+}

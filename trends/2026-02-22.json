@@ -1,0 +1,246 @@
+{
+  "date": "2026-02-22",
+  "trends": [
+    {
+      "headline": "TikTok Local Feed Feature Launch",
+      "body": "TikTok launched Local Feed in February 2026, a new feature designed to help users connect with their community and discover local events and updates. This represents a major shift toward hyper-local content discovery, giving creators opportunities to build geographically-relevant audiences. The feature is expected to boost local business promotion and community-driven content.",
+      "categories": ["Social Media", "Tech"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/TikTok",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#LocalFeed", "#TikTokLocal", "#CommunityContent"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "Instagram Reels February 2026 Trending Sounds",
+      "body": "The top trending sounds on Instagram Reels for February 2026 include: DtMF, Temperature x Sweet Dreams (Altego Mix), Skyfall, Frozen Heart, and Funny Song. Harry Styles' new album tease is also driving massive engagement with creators making versatile content around his tracks. The 'Go Go Juice' by Sabrina Carpenter trend is perfect for feel-good, celebratory content across lifestyle, retail, and food accounts.",
+      "categories": ["Entertainment", "Music"],
+      "source": "Instagram",
+      "source_url": "https://www.socialpilot.co/blog/instagram-reels-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#ReelsTrends", "#InstagramTrends", "#DtMF", "#SabrinaCarpenter"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Instagram", "Harry Styles", "Sabrina Carpenter"]
+      }
+    },
+    {
+      "headline": "Coquette Aesthetic Dominates Fashion with 15.3 Billion Views",
+      "body": "The coquette aesthetic has emerged as the biggest fashion trend on TikTok with over 15.3 billion views. Characterized by hyper-feminine, romantic, and vintage-inspired styling, this trend includes elements like bows, lace, pastels, and delicate accessories. The trend represents a continued push toward hyper-feminine vibes that started with the 'pink Pilates princess' aesthetic and shows no signs of slowing down in 2026.",
+      "categories": ["Fashion", "Beauty"],
+      "source": "TikTok",
+      "source_url": "https://iol.co.za/lifestyle/style-beauty/fashion/2026-02-06-tiktok-takes-the-runway-fashion-trends-you-cant-ignore-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coquette", "#CoquetteAesthetic", "#HyperFeminine", "#FashionTrends"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Saint Laurent"]
+      }
+    },
+    {
+      "headline": "Korean Overnight Masks Anti-Aging Trend",
+      "body": "Korean overnight masks for anti-aging are dominating beauty rankings in 2026, with Hwahae's rankings showing top-rated products based on 10M+ real user reviews. The 'Wake Up' eye gel is going viral for making users look like they got eight hours of sleep. Korean beauty continues to drive global skincare trends with innovative formulas and minimalist routines that deliver visible results.",
+      "categories": ["Beauty", "Skincare"],
+      "source": "Web",
+      "source_url": "https://www.hwahae.com/en/rankings?english_name=trending&theme_id=5271",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#KoreanSkincare", "#OvernightMask", "#AntiAging", "#KBeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Hwahae"]
+      }
+    },
+    {
+      "headline": "Soft Girl 2.0 and Gorpcore Lite Fashion Aesthetics",
+      "body": "Two major fashion aesthetics are trending for 2026: Soft Girl 2.0 (an evolution of the original with more sophisticated styling) and Gorpcore Lite (outdoor/athletic wear adapted for everyday fashion). These trends emphasize comfort while maintaining style, reflecting the ongoing 'comfort-first' movement in fashion. Real-life outfit ideas show these aesthetics are wearable beyond social media.",
+      "categories": ["Fashion", "Lifestyle"],
+      "source": "Web",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SoftGirl", "#Gorpcore", "#FashionAesthetic", "#OOTD"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Marc Jacobs", "Perry Ellis"]
+      }
+    },
+    {
+      "headline": "YouTube Shorts 50-60 Second Sweet Spot",
+      "body": "Data shows that 50-60 second YouTube Shorts perform best, achieving a 76% watch-through rate. Trending audio boosts reach by 21% when used in the first 5 seconds. Top performing niches include mini vlogs, food challenges, DIY projects, dances, pet tricks, and transformation videos. Successful creators are blending short-form for discovery with long-form for deeper engagement.",
+      "categories": ["Tech", "Entertainment", "Education"],
+      "source": "YouTube",
+      "source_url": "https://www.loopexdigital.com/blog/youtube-shorts-statistics",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#YouTubeShorts", "#ShortFormContent", "#ContentCreation"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["YouTube"]
+      }
+    },
+    {
+      "headline": "TikTok Made Me Buy It - Viral Shopping Phenomenon",
+      "body": "The 'TikTok Made Me Buy It' phenomenon continues to drive massive sales in 2026, with shopping becoming an impulse activity rather than scheduled. ASMR videos, unboxing hauls, and pet reaction clips are the highest-converting content formats. Pet products are especially ripe for viral moments, with cute animals driving shareable content that converts to sales.",
+      "categories": ["E-commerce", "Product", "Business"],
+      "source": "TikTok",
+      "source_url": "https://www.topdowntrading.co.uk/blog/tiktok-made-me-buy-it-the-power-of-viral-shopping-in-2026.html",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "related_brands": ["TikTok Shop"],
+      "metadata": {
+        "hashtags": ["#TikTokMadeMeBuyIt", "#ViralProduct", "#ASMR", "#Unboxing"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "Gaming Genre Mashups and Social Gaming",
+      "body": "Fortnite, Minecraft, and Roblox remain the most popular games worldwide in 2026, with cross-platform play driving engagement. The biggest trend is genre mashups and bold new mechanics combined with social hangout features. Gaming is increasingly becoming a social space rather than just gameplay, with TikTok content showing Skibidi chaos in Minecraft and moody lo-fi gaming walks trending.",
+      "categories": ["Gaming", "Entertainment"],
+      "source": "TikTok",
+      "source_url": "https://www.demandsage.com/most-played-games-right-now/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Gaming", "#Fortnite", "#Minecraft", "#Roblox", "#GamingTrends"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Epic Games", "Microsoft", "Roblox Corporation"]
+      }
+    },
+    {
+      "headline": "Confused Ramadan Cat Trend Returns",
+      "body": "The 'confused Ramadan cat' trend is going viral again in 2026, featuring sleepy felines staring at bright kitchen lights during suhoor with hilarious reactions set to the famous 'Tob Tobi Tob Tob' song. This seasonal trend highlights how recurring cultural moments create predictable viral content opportunities for pet creators.",
+      "categories": ["Entertainment", "Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.aprasi.com/blogs/trending-topics/confused-ramadan-cat-trend-2026-viral-tiktok-song-suhoor-reactions-why-cats-are-so-confused",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#RamadanCat", "#ConfusedCat", "#TobTobi", "#PetTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Greek Yogurt Cheesecake Shortage",
+      "body": "A viral minimalist Greek yogurt cheesecake trend gained such significant traction in early 2026 that it led to reported shortages of Greek yogurt in some regions. This highlights the significant impact viral food trends can have on ingredient availability and supply chains. The trend is characterized by its minimalist approach, yielding a visually appealing and remarkably light dessert.",
+      "categories": ["Food", "Cooking"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-feb-22-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#GreekYogurtCheesecake", "#ViralRecipe", "#FoodTok", "#Dessert"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Dance Fitness and Kettlebell Workouts Trending",
+      "body": "TikTok fitness trends that actually work include dance fitness, dumbbell workouts, kettlebell routines, and hula-hooping. The Hot Girl Walk and Treadmill Strut continue to dominate cardio content. These accessible workout formats require minimal equipment and are easy to film for content creators, driving high engagement in the fitness community.",
+      "categories": ["Fitness", "Health"],
+      "source": "TikTok",
+      "source_url": "https://www.womenshealthmag.com/fitness/a69989274/tiktok-fitness-trends-that-work/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#HotGirlWalk", "#TreadmillStrut", "#KettlebellWorkout", "#FitnessTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Sparkle Therapy Rhinestone DIY Trend",
+      "body": "DIY sparkle therapy using rhinestone kits is trending heavily on TikTok. Creators are blinging out everything from phone chargers to accessories using bedazzle kits. The trend taps into the 'analog in 2026' movement where people are seeking tactile, creative offline activities. Materials are commonly sourced from Amazon, Hobby Lobby, and Michaels.",
+      "categories": ["DIY", "Crafts"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-craft-trends",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#SparkleTherapy", "#RhinestoneDIY", "#Bling", "#5MinuteCrafts"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Amazon", "Hobby Lobby", "Michaels"]
+      }
+    },
+    {
+      "headline": "Travel Searches Up 131% on TikTok",
+      "body": "TikTok has become the new travel agent with searches for travel up 131% year-on-year. Top content formats include solo travel diaries ('3 Days in Tokyo as a Solo Traveler'), luxury travel showcases ('48 Hours in Paris: From Michelin Meals to Private Tours'), and budget travel guides ('Weekend in Budapest for Under $200'). The 2026 Kia Camper Van is trending for delivering convenience and comfort while keeping costs low.",
+      "categories": ["Travel", "Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.dailymail.co.uk/travel/article-15445659/Tiktok-travel-trends-hot-destinations-2026.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TravelTok", "#SoloTravel", "#VanLife", "#BudgetTravel"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Trip.com", "Kia"]
+      }
+    },
+    {
+      "headline": "Cash Stuffing Savings Trend for Gen Z",
+      "body": "Cash stuffing - organizing cash into color-coded envelopes and binders - remains a popular savings strategy among Gen Z in 2026. Financial content creators on TikTok and YouTube have turned budgeting into aesthetic content, making personal finance more accessible and engaging for younger audiences. This tangible approach to money management contrasts with digital banking trends.",
+      "categories": ["Finance", "Business"],
+      "source": "Web",
+      "source_url": "https://finance.yahoo.com/personal-finance/banking/article/best-and-worst-savings-trends-201059695.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CashStuffing", "#SavingsChallenge", "#GenZFinance", "#Budgeting"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok as Language Learning Tool in Higher Education",
+      "body": "Educational institutions are increasingly adopting TikTok as a teaching-learning tool. The platform's Duets feature is being used for language learning with engaging, relatable content. Research shows students acknowledge TikTok strengthens educational platforms by giving them more ways to learn languages beyond traditional methods. This represents a shift in how educational content is consumed by Gen Z.",
+      "categories": ["Education", "Tech"],
+      "source": "Web",
+      "source_url": "https://awej.org/the-acceptance-of-tiktok-as-a-tool-in-english-language-learning-among-university-students/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#LearnOnTikTok", "#LanguageLearning", "#EdTok", "#StudyTips"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    }
+  ]
+}

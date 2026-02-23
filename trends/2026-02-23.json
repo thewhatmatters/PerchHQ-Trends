@@ -1,0 +1,213 @@
+{
+  "date": "2026-02-23",
+  "trends": [
+    {
+      "headline": "TirTir Foundation Crowned Hottest Makeup Product of 2026",
+      "body": "TirTir has surpassed major brands like Huda Beauty and Kylie Cosmetics to claim the top spot on the Cosmetify Popularity Index. The Korean brand's cushion foundation has dominated social media conversation, reflecting the growing demand for Korean makeup and skincare products on TikTok and Instagram.",
+      "categories": ["Beauty"],
+      "source": "Web",
+      "source_url": "https://evoke.ie/2026/02/23/style/beauty/hottest-makeup-product-2026-viral",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TirTir", "#KoreanBeauty", "#ViralMakeup"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["TirTir", "Huda Beauty", "Kylie Cosmetics"]
+      }
+    },
+    {
+      "headline": "'2026 is the New 2016' Nostalgia Trend Takes Over TikTok",
+      "body": "Beginning in late 2025 and gaining momentum into early 2026, the phrase '2026 is the new 2016' became a rallying cry across platforms. TikTok has become a hub for this trend, with millions of videos using 2016-style filters and hashtags like #2016 and #BringBack2016 gaining massive traction.",
+      "categories": ["Entertainment", "Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/world-history-insight-feb-22-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#2016", "#BringBack2016", "#2026isTheNew2016"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Two-Ingredient Japanese Cheesecake Named Best Food Trend of 2026",
+      "body": "The two-ingredient Japanese cheesecake has been crowned the best food trend of 2026 on TikTok. This minimalist dessert is visually appealing and remarkably light. The trend has been so popular it led to a reported shortage of Greek yogurt in some regions.",
+      "categories": ["Food & Cooking"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/food-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JapaneseCheesecake", "#FoodTrend", "#TwoIngredient"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Comfort Food Renaissance: Elevated Nostalgic Recipes Dominate 2026",
+      "body": "The early months of 2026 are witnessing a pronounced return to comforting, familiar dishes - a trend that goes beyond mere nostalgia. Creators are reimagining classic comfort food with modern techniques, creating 'elevated comfort food' content that resonates with audiences seeking emotional comfort.",
+      "categories": ["Food & Cooking"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-feb-23-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ComfortFood", "#FoodTikTok", "#NostalgiaCooking"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Launches 'Local Feed' Feature for Community Discovery",
+      "body": "In February 2026, TikTok launched Local Feed, a feature intended to help users connect with their community and discover local events and updates. This presents new opportunities for local creators and businesses to reach nearby audiences.",
+      "categories": ["Tech", "Business"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/TikTok",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#LocalFeed", "#TikTokFeature"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "e.l.f. Cosmetics AI Pimple Patch Goes Viral with Humorous Campaign",
+      "body": "e.l.f. Cosmetics launched an AI Pimple Patch with a humorous TikTok video that garnered millions of likes. The creative social media campaign leveraged trending topics and resonated with audiences, demonstrating how AI-powered products can succeed with the right comedic approach.",
+      "categories": ["Beauty", "Business"],
+      "source": "TikTok",
+      "source_url": "https://www.unixcommerce.com/2026/02/22/5-creative-social-media-campaigns-that-went-viral/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#AIPimplePatch", "#ELFCosmetics", "#ViralMarketing"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["e.l.f. Cosmetics"]
+      }
+    },
+    {
+      "headline": "Travel 2026: Cinematic Experiences & Dramatic Landscapes in Demand",
+      "body": "In 2026, travelers are searching for dramatic landscapes, atmospheric architecture, richly layered cultures and experiences that evoke emotion and capture the feeling of their favorite cinematic worlds. Travel creators should focus on visually stunning, cinematic content.",
+      "categories": ["Travel"],
+      "source": "Web",
+      "source_url": "https://northcountrynow.com/premium/familyfeatures/stories/whats-trending-in-travel-in-2026,356110",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Travel2026", "#CinematicTravel", "#Wanderlust"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "'Girl Dinner' & 'Boy Kibble' Trends Spark Food Culture Debate",
+      "body": "TikTok trends 'girl dinner' and 'boy kibble' continue to police how people eat, with critics arguing these stereotypes romanticize food restriction. The trends remain popular but are generating significant discussion about food culture and body image.",
+      "categories": ["Food & Cooking", "Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://dailyorange.com/2026/02/opinion-girl-dinner-boy-kibble-trends-romanticize-food-restriction/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#GirlDinner", "#BoyKibble", "#FoodTrends"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Overwatch 'Rose Crosshair' Trend Dominates Gaming TikTok",
+      "body": "The Overwatch Rose Crosshair trend is trending on TikTok with content around 'No One Can Hide from My Rose Overwatch'. Gaming creators are producing content around this specific in-game cosmetic, driving engagement in the gaming community.",
+      "categories": ["Gaming"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/i-am-using-my-rose-overwatch",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Overwatch", "#RoseCrosshair", "#GamingTikTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Overwatch", "Blizzard"]
+      }
+    },
+    {
+      "headline": "Filipino Party Dance Trends Going Viral on TikTok",
+      "body": "New TikTok mashups featuring Philippine party music and viral dance trends are gaining significant traction. Content creators in the Filipino diaspora and local creators are producing dance content set to popular Philippine party music, with these videos trending in the Philippines and among global Filipino audiences.",
+      "categories": ["Entertainment"],
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=kis2XDowq1Q",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#TikTokDance", "#FilipinoParty", "#ViralDance"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Skin-First Beauty Trend Dominates Social Media",
+      "body": "The trend of 'skin-first beauty' is most visible on TikTok and Instagram Reels, where short-form videos demonstrate minimalist makeup looks that enhance rather than cover. This aligns with growing demand for makeup that benefits the skin while providing subtle enhancement.",
+      "categories": ["Beauty"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/beauty-tips-insight-feb-23-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SkinFirst", "#CleanGirlAesthetic", "#MinimalistBeauty"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Nutrient Timing Fitness Trend Questions Science",
+      "body": "TikTok videos showcasing quick recipes designed to be consumed within minutes of a workout are trending, often featuring exotic or expensive ingredients. However, systematic reviews suggest the impact of nutrient timing on muscle growth for general fitness enthusiasts is far less dramatic than social media suggests.",
+      "categories": ["Fitness & Health"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/the-nutrient-timing-trend-is-your-workout-window-closing-faster-than-you-think/",
+      "trend_type": "content_format",
+      "confidence_score": 0.70,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#NutrientTiming", "#FitnessTok", "#PostWorkout"],
+        "engagement": "medium",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Interactive Reels Formats: Beat Drop Freeze & Click to Build",
+      "body": "New interactive TikTok and Instagram Reels trends are emerging, including 'Beat Drop Freeze' (toss and pause products mid-air for cinematic reveal), 'Trackpad Tap' (click to cycle through options), and 'Click to Build' (selection-based content building). These formats offer brands new ways to engage audiences.",
+      "categories": ["Business", "Entertainment"],
+      "source": "Instagram",
+      "source_url": "https://www.tiktok.com/discover/weekly-trends-social-media",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BeatDropFreeze", "#ClickToBuild", "#InteractiveContent"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

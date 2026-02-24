@@ -1,0 +1,245 @@
+{
+  "date": "2026-02-24",
+  "trends": [
+    {
+      "headline": "霧化する言語 (Atomized Language) Music Trend",
+      "body": "Yasuhiro Soda's atmospheric track has generated 414.4K TikTok videos. Creates dreamy, ethereal introspective content. Works best for storytelling, slow-motion visuals, creative process content, and soft transitions. A refreshing alternative to fast-paced content.",
+      "categories": ["Music & Entertainment", "Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/music/Atomized-Language-7596970562758395920",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#atomizedlanguage", "#yasuhirosoda"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Two Birds by Regina Spektor Viral Audio",
+      "body": "Classic Regina Spektor song generating 455.2K TikTok videos. Soft, reflective vibe perfect for personal growth content, before/after stories, and life updates. Creates authentic emotional connection without overproduction.",
+      "categories": ["Music & Entertainment", "Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/music/Two-Birds-224778763098886144",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#twobirds", "#reginaspektor"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Ain't Shit by Doja Cat Trend",
+      "body": "Doja Cat's bold track with 200K videos. Perfect for confident POVs, relatable callouts, before/after reveals with attitude. Sharp lyrics and expressive tone work well for quick, punchy content.",
+      "categories": ["Music & Entertainment"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/music/Ain",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#aintshit", "#dojacat"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Zoomer Perm Hair Trend Explosion",
+      "body": "Gen Z-approved perm style with +1,939% search growth. Features faded sides with curly top. Major trend among younger demographics. Opportunity for hair stylists, beauty influencers, and fashion creators.",
+      "categories": ["Beauty & Fashion"],
+      "source": "Web",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#zoomerm", "#genzhair"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Gemini Hair Color Trend",
+      "body": "Split dyed hair in contrasting colors seeing +641% growth. Popular on TikTok with bold color combinations. Creates high visual impact for beauty content. Opportunity for hair colorists and beauty influencers.",
+      "categories": ["Beauty & Fashion"],
+      "source": "TikTok",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#geminihair", "#splithair"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Raccoon Hair Goes Mainstream",
+      "body": "Emo-inspired hair trend (+70% growth) made popular on TikTok and seen on Olympic figure skater Alysa Liu. Redefining alternative hair aesthetics. Strong engagement from Gen Z and younger millennials.",
+      "categories": ["Beauty & Fashion"],
+      "source": "TikTok",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#racoonhair", "#emohair"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Syncopated Swing Audio Trend",
+      "body": "Kairo Vibe's playful track with 120.6K videos. Retro-cool bouncy rhythm that guides movement and timing naturally. Perfect for transformation videos, product reveals, and snappy transitions.",
+      "categories": ["Music & Entertainment", "Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/music/Syncopated-Swing-7548283939489892386",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#syncopatedswing"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Love & War Emotional Audio",
+      "body": "Lill Poppa's intense track at 18.1K videos. Carries emotional weight for glow-up stories, hard truths, and resilience content. Works well for brand storytelling around overcoming challenges.",
+      "categories": ["Music & Entertainment", "Business & Finance"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/music/Love-War-6956792036741613569",
+      "trend_type": "content_format",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#loveandwar"],
+        "engagement": "medium",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Comfort Food Renaissance",
+      "body": "Major return to comforting, familiar dishes in early 2026. Beyond nostalgia - represents culinary evolution. Opportunity for food creators to put fresh spins on classic comfort recipes.",
+      "categories": ["Food & Cooking"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-feb-23-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#comfortfood", "#homecooking"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Preppy Menswear Styles Rising",
+      "body": "Mens fitted polo (+25%), stripe shirt (+40%), and slacks (+49%) trending. Vintage baseball hats up +107%. Strong opportunity for menswear creators and fashion influencers.",
+      "categories": ["Beauty & Fashion"],
+      "source": "Web",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#preppy", "#menswear", "#mensfashion"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Ralph Lauren", "Lacoste"]
+      }
+    },
+    {
+      "headline": "Equestrian Boots & Bowler Bags",
+      "body": "Equestrian boots (+115%) and bowler bags (+154%) continuing strong. Fashion-forward accessories with street-style appeal. Great for fashion and lifestyle creators.",
+      "categories": ["Beauty & Fashion"],
+      "source": "Web",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#equestrianstyle", "#bowlerbag"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "More Challenge 2026 Goes Viral",
+      "body": "Dance challenge trending on TikTok with amapiano music. Filipino-Korean collaboration featuring dance at City of Dreams. Shows cross-cultural viral potential.",
+      "categories": ["Music & Entertainment"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/en/trending/detail/more-challenge-2026-goes-viral",
+      "trend_type": "hashtag",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#morechallenge", "#amapiano"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Color Melting Hair Technique",
+      "body": "Seamlessly blended hair colors up +343%. Popular for creating natural-looking multi-tone results. Beauty creators can showcase technique tutorials and transformations.",
+      "categories": ["Beauty & Fashion"],
+      "source": "Web",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#colormelting", "#haircolor"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Na Favelinha Dance Battle",
+      "body": "Dance competition format trending on TikTok. Community-driven dance event with voting for champions. Shows potential for interactive creator content.",
+      "categories": ["Music & Entertainment"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/2026-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#nafavelinha", "#dancebattle"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "High Top Sneakers Dominating Kids Market",
+      "body": "High tops (+21%) and sneaker mules (+51%) key trends. Vans Authentic (+21%) and Nike Air Superfly (+104%) leading. Strong opportunity for kids fashion and parenting creators.",
+      "categories": ["Parenting & Family", "Beauty & Fashion"],
+      "source": "Web",
+      "source_url": "https://blog.trendalytics.co/february-2026-top-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#kidsfashion", "#sneakers"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Vans", "Nike"]
+      }
+    }
+  ]
+}

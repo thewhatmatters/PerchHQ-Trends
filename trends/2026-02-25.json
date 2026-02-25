@@ -1,0 +1,309 @@
+{
+  "date": "2026-02-25",
+  "trends": [
+    {
+      "headline": "SACHEU Launches Nationwide at Target Beauty",
+      "body": "SACHEU, a viral color brand, is taking its full longwear lineup into Target beauty aisles nationwide beginning late February 2026. Moving from TikTok viral hit status into scaled masstige color player with multi-category shelf space across lips, face, and eyes.",
+      "categories": ["Beauty"],
+      "source": "Web",
+      "source_url": "https://retailboss.co/sacheu-launches-nationwide-target-beauty/",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["SACHEU", "Target"]
+      }
+    },
+    {
+      "headline": "Ilia Super Serum Skin Tint Continues Viral Reign",
+      "body": "Ilia's internet-viral Super Serum Skin Tint continues to dominate beauty conversations. It delivers light coverage with a dewy finish40, and features, offers SPF  serum-grade ingredients. A top spring break beauty essential.",
+      "categories": ["Beauty"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/beauty/revolve-spring-break-shopping-list",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Ilia"]
+      }
+    },
+    {
+      "headline": "Ballet-Slipper Lips Top Spring Beauty Trend",
+      "body": "Ballet-slipper lips are the nostalgic beauty trend dominating Spring 2026. This soft, romantic lip look is emerging as a key trend from Fashion Week AW26, described as 'the future of beauty' by editors.",
+      "categories": ["Beauty"],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.co.uk/beauty/make-up/these-are-the-standout-beauty-looks-from-fashion-week-aw26",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#balletslipperlips"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Noughties Fashion Makes Major Comeback",
+      "body": "Noughties trends are back in full force across Fashion Week AW26. Key elements include pin-straight hair, low-slung jeans, hot pants, and hot pink. Statement necklaces, skinny jeans, and peplum tops are leading the millennial fashion revival at NYFW 2026.",
+      "categories": ["Fashion"],
+      "source": "Web",
+      "source_url": "https://www.rte.ie/lifestyle/fashion/2026/0224/1560151-5-trends-from-london-fashion-week-to-invest-in-now/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#noughties", "#millennial"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Rihanna Declares Puma as 2026 It-Sneaker",
+      "body": "Rihanna has declared a mysterious pair of Pumas as her 2026 it-sneaker, driving major interest in the brand. Spring 2026 sneaker trends include chunky silhouettes and retro revivals. Brands like Puma, Adidas, and Isabel Marant are leading the trending trainer market.",
+      "categories": ["Fashion"],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-2026-sneaker-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#puma", "#sneakers"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Puma", "Adidas", "Isabel Marant"]
+      }
+    },
+    {
+      "headline": "Sheer Fashion Dominates Street Style",
+      "body": "Sheer tops over bralettes, pants with transparent panels, and sheer socks paired with chunky boots are dominating both runway and street style. The transparency trend extends beyond couture into relatable, wearable everyday fashion.",
+      "categories": ["Fashion"],
+      "source": "Web",
+      "source_url": "https://www.purewow.com/fashion/fashion-week-trends-fall-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#sheerfashion"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "'Boy Kibble' TikTok Trend Goes Viral",
+      "body": "The viral 'boy kibble' TikTok trend has men eating simple ground beef and rice bowls for easy, affordable meal prep that supports fitness goals. This simple, protein-heavy meal trend is gaining massive traction on social media.",
+      "categories": ["Food"],
+      "source": "TikTok",
+      "source_url": "https://www.foxnews.com/food-drink/boy-kibble-trend-has-men-eating-like-dogs-seven-times-week-gains",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#boykibble"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Crab Rangoon Recipes Trending on Social Media",
+      "body": "Crab rangoon recipes are having a moment, with creators putting viral spins on the classic appetizer. King Hawaiian Rolls based dinner roll versions are particularly popular.",
+      "categories": ["Food"],
+      "source": "Web",
+      "source_url": "https://spoonuniversity.com/recipe/crab-rangoon-recipes/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#crabrangoon"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "High-Protein Products Dominate Wellness",
+      "body": "High-protein products, hydration, and women's health are top wellness trends in 2026. Displayed prominently at CHFA NOW Vancouver 2026, the natural health trade show. Consumers are focused on functional nutrition.",
+      "categories": ["Health"],
+      "source": "Web",
+      "source_url": "https://bcliving.ca/health-fitness/general/biggest-health-wellness-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Biophilic Design Continues to Grow in Home Decor",
+      "body": "Biophilic design remains strong in 2026 home decor, focusing on bringing nature indoors. Indoor plants as sculptural elements, natural materials, and living spaces that promote calm are key. The trend emphasizes spaces that look like somebody actually lives in them.",
+      "categories": ["Home"],
+      "source": "Web",
+      "source_url": "https://idealmagazine.co.uk/home-decor-trends-for-2026-how-to-make-your-space-feel-current-without-starting-from-scratch/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#biophilic"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Warmer Neutrals and Black/White Graphics in Home",
+      "body": "Neutral palettes are still popular but warmer, richer, and more emotive in 2026. Black and white graphic imagery including checkerboards and stripes has returned to home decor. Natural wood and balanced color palettes guide luxury interiors.",
+      "categories": ["Home"],
+      "source": "Web",
+      "source_url": "https://www.kimlayneinteriors.com/post/2026-interior-design-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.81,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Samsung Galaxy S26 Series Launches Today",
+      "body": "Samsung Galaxy S26 Ultra, Galaxy S26 Plus, and Galaxy S26 launch on February 25, 2026. The Reno15 Series also trending with AI Portrait Camera features. MWC 2026 showcased innovative phones and gadgets generating significant buzz.",
+      "categories": ["Tech"],
+      "source": "Web",
+      "source_url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/samsung-galaxy-s26-ultra-galaxy-s26-plus-and-galaxy-s26-to-launch-day-how-to-watch-the-event-what-to-expect-and-more/articleshow/128769116.cms",
+      "trend_type": "product",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#GalaxyS26"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Samsung", "OPPO"]
+      }
+    },
+    {
+      "headline": "AI Companion Gadgets and Minimalist Tech Trend",
+      "body": "2026 tech trends include AI-equipped cooking gadgets that coach rather than just help, and minimalist focus-preserving devices like e-paper readers and notification-only smartwatches. A shift from 'machines that help' to 'tools that coach'.",
+      "categories": ["Tech"],
+      "source": "Web",
+      "source_url": "https://thegadgetflow.com/blog/top-tech-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Eco-Friendly and Nostalgic Toys Lead 2026",
+      "body": "Top toy trends from Toy Fair 2026 include eco-friendly innovations, nostalgia-driven play, cozy culture, and K-Pop Demon Hunters. The biggest toy trends blend classic American Girl dolls with modern STEM and open-ended play.",
+      "categories": ["Baby"],
+      "source": "Web",
+      "source_url": "https://theeverymom.com/toy-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Premium Pet Wellness Brands Rising",
+      "body": "Premium pet wellness brands are on the rise in 2026. Skin and coat supplements are particularly popular for dogs prone to irritation or seasonal allergies. Supporting the skin barrier and healthy fur growth has become part of daily pet routines.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://thebrandhopper.com/2026/02/24/the-rise-of-premium-pet-wellness-brands-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Luxury Travel Sees Record Growth",
+      "body": "Luxury travel market booms in 2026 with record growth. The Maldives, French Riviera, and Aspen remain top luxury destinations. Private island rentals and luxury yacht charters driving 25% increase in bookings. Travelers seeking privacy and exclusive experiences.",
+      "categories": ["Travel"],
+      "source": "Web",
+      "source_url": "https://www.worldattractionspro.com/archives/11809",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Asian Destinations Surge for Chinese Travelers",
+      "body": "Singapore, Malaysia, Vietnam, Thailand, and South Korea see major tourism boosts from Chinese travelers. Spring Festival 2026 shows record-breaking arrivals. Japan sees a notable decline in Chinese visitors as shorter, more accessible regional destinations preferred.",
+      "categories": ["Travel"],
+      "source": "Web",
+      "source_url": "https://www.travelandtourworld.com/news/article/singapore-joins-malaysia-vietnam-thailand-south-korea-and-more-in-boosting-tourism-as-chinese-travelers-choose-shorter-more-accessible-regional-destinations-for-spring-festival-2026-with-japan-s/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Bold Art Deco Jewelry Dominates 2026",
+      "body": "Bold Art Deco-inspired earrings have taken over minimalist designs. From statement pendants to avant-garde rings, jewelry has become wearable art. Sculptural forms and color-forward pieces lead the trend.",
+      "categories": ["Jewelry"],
+      "source": "Web",
+      "source_url": "https://outhouse-jewellery.com/blogs/the-outline/2026-jewellery-trends-we-expect-to-see",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#artdeco"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Citrine and Clear Quartz Top Gemstone Trends",
+      "body": "Citrine and clear quartz embody the light-filled spectrum of 2026 gemstone trends. Citrine's golden hue aligns with current color trends favoring positive, luminous tones. These gemstones celebrate transparency, radiance, and renewal.",
+      "categories": ["Jewelry"],
+      "source": "Web",
+      "source_url": "https://clichemag.com/fashion/jewelry-fashion/top-5-gemstones-predicted-to-be-trending-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

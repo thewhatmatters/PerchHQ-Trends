@@ -1,0 +1,213 @@
+{
+  "date": "2026-02-26",
+  "trends": [
+    {
+      "headline": "FaceTub Cold Ice Bath Takes Over TikTok FYP",
+      "body": "The FaceTub viral cold ice bath trend is dominating TikTok's FYP with estheticians reviewing the viral skincare device. Celeb estheticians explain benefits and whether it's worth the hype. Cold therapy for skin is emerging as the next big wellness trend in beauty.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.eonline.com/news/1428989/esthetician-reviews-tiktok-viral-facetub-cold-ice-bath",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FaceTub", "#skincare", "#coldtherapy"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["FaceTub"]
+      }
+    },
+    {
+      "headline": "TikTok Shop Fragrance Brands Driving Sales Surge",
+      "body": "TikTok Shop has become the modern fragrance counter where discovery happens through storytelling. Top 10 brands driving fragrance sales are leveraging creator storytelling beyond just reciting notes - explaining how scents fit into routines, moods, and personal identities. Scent wardrobing and layering trends are particularly popular.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.beautyindependent.com/top-10-brands-driving-fragrance-sales-tiktok-shop/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#fragrance", "#scenttok", "#TikTokShop"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Various fragrance brands on TikTok Shop"]
+      }
+    },
+    {
+      "headline": "TikTok Named 10 Food Creators to Watch for 2026",
+      "body": "TikTok released their 2026 Discover List featuring food creators. Key themes: fusion mashups (dumpling lasagna, scallion pancake croissants), easy 2-ingredient Japanese yogurt 'cheesecake', and scroll-stopping visuals. Food content has evolved beyond one-off viral hits - creators inspire viewers to tweak, remix and make recipes their own.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.goodhousekeeping.com/food-products/a70478239/tiktok-discover-list-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#FoodTok", "#TikTokDiscover", "#viralrecipes"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "Japanese Yogurt Cheesecake Hack Still Going Strong",
+      "body": "The 2-ingredient Japanese yogurt 'cheesecake' hack continues to trend into 2026, representing the low-effort high-reward recipe format that resonates with TikTok audiences. This follows the baked feta pasta and Dubai chocolate trends of previous years.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-feb-25-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JapaneseYogurtCheesecake", "#easyrecipes", "#FoodTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Arnold Schwarzenegger Slams TikTok Fitness Trends",
+      "body": "Arnold Schwarzenegger is calling out viral TikTok fitness trends, warning that social media is turning workouts into entertainment instead of education. He specifically criticizes berberine supplements being marketed as 'natural Ozempic' without scientific evidence. 97% of TikTok users have followed a recipe they found on the app.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.menshealth.com/uk/fitness/a70489045/arnold-schwarzenegger-tiktok-fitness-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FitnessTok", "#ArnoldSchwarzenegger", "#workout"],
+        "engagement": "very high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Chinamaxxing: Western Users Adopt Chinese Wellness Practices",
+      "body": "A new viral trend where Western users adopt Chinese lifestyle and wellness practices like sipping warm water and longevity exercises. 'Chinamaxxing' signifies a notable shift in cultural perception, reframing Chinese lifestyle as desirable. Content creators are driving this cultural exchange.",
+      "categories": ["Health & Fitness", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.thedailyjagran.com/world/what-is-chinamaxxing-the-viral-trend-reshaping-chinas-image-10300653",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Chinamaxxing", "#wellness", "#lifestyle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "2026 Home Design Trends from Amazon",
+      "body": "Real Simple rounds up 6 home design trends with Amazon products. Interior designers predict what's trending for 2026 - focusing on practical yet stylish items available on Amazon. Categories include organization, decor refreshes, and seasonal updates.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.realsimple.com/interior-designer-2026-home-trends-amazon-picks-february-2026-11912729",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#HomeDecor", "#AmazonFinds", "#interiordesign"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Amazon"]
+      }
+    },
+    {
+      "headline": "CES 2026: 29 Cool New Gadgets to Watch",
+      "body": "Gear Patrol highlights 29 cool new gadgets from CES 2026 edition.涵盖最新科技产品，包括智能家居、可穿戴设备等。Creators are already making content around these upcoming releases.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.gearpatrol.com/tech/best-new-tech-releases-ces-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CES2026", "#gadgets", "#tech"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Various tech brands"]
+      }
+    },
+    {
+      "headline": "Tesla FSD Goes Viral in Australia",
+      "body": "Tesla Full Self-Driving hits Australia with viral TikTok content. Australian TikToker Seb Laz goes viral showing Tesla Model Y FSD demo, exclaiming 'THIS CAR CAN DRIVE ITSELF' as Australia becomes one of the first right-hand-drive markets to get Tesla's supervised autonomy.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://greekcitytimes.com/2026/02/26/tesla-fsd-australia-viral-tiktok-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TeslaFSD", "#Tesla", "#autonomous"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Tesla"]
+      }
+    },
+    {
+      "headline": "'TikTokInfluence': 49% Trust TikTok Over Ads for Travel",
+      "body": "Travel Trends 2026 report shows 49% of travelers give more credibility to real experiences and practical recommendations on TikTok than conventional advertising. Milan-Cortina Winter Olympics driving 10% increase in Italy travel bookings. 'Whycations' (purpose-driven travel) and TikTok as travel inspiration are major trends.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://forbes.es/forbestravel/879460/viajes-con-proposito-inspiracion-en-tik-tok-y-whycations-las-tendencias-viajeras-que-mandaran-en-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TravelTok", "#TikTokInfluence", "#whycations"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Milan-Cortina 2026"]
+      }
+    },
+    {
+      "headline": "Chunky Silver Jewelry Dominating 2026",
+      "body": "2026 jewelry trends feature bold accessories making a comeback. Chunky silver jewelry is set to dominate, along with large scale bracelets and necklaces. Statement makers are back in force as accessories do the heavy lifting for outfits.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.yourgirlknows.com/jewelry-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JewelryTrends", "#ChunkySilver", "#statementjewelry"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Bebot Makeup: Filipino Y2K Beauty Trend",
+      "body": "The Bebot makeup trend is going viral - a beauty trend inspired by Filipino women of the 2000s. Y2K aesthetics continue to influence beauty content on TikTok with creators recreating looks from that era.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://hypebae.com/2026/2/bebot-filipino-y2k-makeup-beauty-trend-explainer",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#BebotMakeup", "#Y2KBeauty", "#FilipinoBeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Fashion Reinvention: Faster Trend Cycles",
+      "body": "BBC explores how TikTok is becoming the new frontier for fashion reinvention. Social media has accelerated trend cycles - some argue too fast for sustainable consumption. Creators posting development of fashion lines from initial designs to mock-ups are getting engagement.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.bbc.com/news/articles/cze0rn1dygxo",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#FashionTok", "#fashion", "#trends"],
+        "engagement": "medium",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    }
+  ]
+}

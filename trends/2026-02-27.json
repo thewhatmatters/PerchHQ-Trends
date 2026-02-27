@@ -1,0 +1,245 @@
+{
+  "date": "2026-02-27",
+  "trends": [
+    {
+      "headline": "FaceTub Cold Ice Bath Viral on TikTok",
+      "body": "The FaceTub, a viral cold ice bath device for facial skincare, is trending on TikTok's FYP. Estheticians are reviewing the product, discussing benefits and whether it's worth the hype. The cold water therapy trend for skincare continues to gain momentum.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.eonline.com/news/1428989/esthetician-reviews-tiktok-viral-facetub-cold-ice-bath",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FaceTub", "#skincaretiktok", "#coldtheraphy"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["FaceTub"]
+      }
+    },
+    {
+      "headline": "TikTok Shop Fragrance Sales Surge",
+      "body": "Fragrance is performing exceptionally well on TikTok Shop, with creators moving beyond simply listing scent notes to explaining how fragrances fit into routines, moods, and personal identities. Scent wardrobing and layering trends are driving sales.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.beautyindependent.com/top-10-brands-driving-fragrance-sales-tiktok-shop/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#fragrance", "#scenttok", "#perfumtok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Various fragrance brands"]
+      }
+    },
+    {
+      "headline": "Gen Z Rejecting Fast Beauty Trends",
+      "body": "Gen Z and Gen Alpha are slowing down the beauty playbook, rejecting trend velocity in favor of sustainable, emotionally grounding products that can't be replicated algorithmically. Brands are building based on what's sustainable rather than what's viral.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://beautymatter.com/articles/how-gen-z-and-gen-alpha-are-slowing-down-the-beauty-playbook",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#slowbeauty", "#consciousbeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Revitalist15"]
+      }
+    },
+    {
+      "headline": "Spring 2026 Statement Fashion Trends",
+      "body": "Supersize your style with exaggerated motifs, statement headwear, and dramatic silhouettes. Major brands like Balenciaga, Chanel are leading the return of bold, attention-grabbing fashion for Spring 2026.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Instagram",
+      "source_url": "https://www.elle.com/fashion/trend-reports/a70290808/spring-2026-statement-fashion-trends-photos/",
+      "trend_type": "content_format",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#spring2026", "#statementfashion", "#boldstyle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Balenciaga", "Chanel"]
+      }
+    },
+    {
+      "headline": "Lingerie-Inspired Dressing Continues",
+      "body": "Lingerie-inspired dressing remains strong for 2026. Bralettes, crisp white shirts layered over black bras, lace-trimmed shorts and 90s-inspired slip dresses and skirts continue to dominate fashion narratives.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://insideretail.asia/2026/02/25/the-real-fashion-trends-retailers-can-bank-on-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#lingerieinspired", "#slipdress", "#90sfashion"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Shop Taking Over Reselling in 2026",
+      "body": "TikTok Shop is set to take over in 2026, with both live and video selling now accessible to regular users, not just influencers. Fashion reselling platforms are adapting to this shift.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.topdowntrading.co.uk/blog/best-reselling-platforms-for-2026-where-uk-sellers-are-making-real-money.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#tiktokshop", "#reselling", "#sidehustle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Depop", "TikTok Shop"]
+      }
+    },
+    {
+      "headline": "Bissell Little Green Carpet Cleaner Viral",
+      "body": "The Bissell Little Green carpet cleaner has become a viral sensation on TikTok for pet stain removal. Currently at its lowest price of the year, this cleaning gadget is trending heavily.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.goodhousekeeping.com/life/money/a70516051/bissell-little-green-sale-february-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["# BissellLittleGreen", "#cleaningtiktok", "#petstains"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Bissell"]
+      }
+    },
+    {
+      "headline": "Spring Home Decor Updates Trending",
+      "body": "Spring home decor ideas are trending with focus on small updates that make a big difference. Popular items include silver vases, ceramic bowls, alpaca boucle throws, and handblown glass pitchers.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://jacquelynclark.com/2026/02/27/spring-decor-ideas/",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#springdecor", "#homedecor", "#interiordesign"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "CES 2026 Gadgets Preview",
+      "body": "29 cool new gadgets from CES 2026 are generating buzz in the tech community. The annual tech showcase reveals upcoming consumer electronics that will shape the year ahead.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.gearpatrol.com/tech/best-new-tech-releases-ces-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CES2026", "#gadgets", "#newtech"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Various tech brands"]
+      }
+    },
+    {
+      "headline": "TikTok Discover List 2026 Announced",
+      "body": "TikTok unveiled its annual Discover List 2026, highlighting 50 creators to watch across five categories: Educators, Foodies, Icons, Innovators, and Originators. Five Sub-Saharan African creators made the list, reflecting the region's growing influence.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://identity-mag.com/the-discover-list-meet-the-2026-tiktok-creators-to-watch/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TikTokDiscoverList", "#creators"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "School Wars Social Media Trend Warning",
+      "body": "Police and schools are warning parents about the 'School War' social media trend on TikTok and Snapchat that is creating arbitrary rivalry and encouraging violence between pupils. Parents urged to monitor children's phones.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.bbc.com/news/articles/clyzqd42x9do",
+      "trend_type": "hashtag",
+      "confidence_score": 0.92,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#schoolwars", "#parenting", "#socialmedia"],
+        "engagement": "very high",
+        "sentiment": "negative",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Parents Seeking Offline, Experience-Rich Parenting",
+      "body": "Pinterest's Parent Trend Report reveals parents are pushing for offline, experience-rich parenting. Hands-on activities for children are trending as parents seek to reduce screen time.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://www.eastidahonews.com/2026/02/pinterest-search-trends-reveal-parents-push-for-offline-and-experience-rich-parenting/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#offlineparenting", "#experienceparenting"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Pinterest"]
+      }
+    },
+    {
+      "headline": "Wellness and Local Experiences Define Travel 2026",
+      "body": "According to Barceló Hotel Group's Travel Trends 2026 report, travel planning is no longer about accumulating destinations but searching for emotional wellness, local authenticity, and meaningful experiences.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://mensajero.com.ar/mundo/bienestar--tiktok-y-experiencias-locales--las-claves-que-definiran-los-viajes-en-2026_a699f6289c1bf09a656e0b4a0",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#travel2026", "#wellnesstravel", "#localexperiences"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Barceló Hotel Group"]
+      }
+    },
+    {
+      "headline": "Chinese Good Luck Jewelry Surge",
+      "body": "Chinese good luck jewelry including Pixiu bracelets and jade pieces are seeing a +210% increase in searches since January 2024. TikTok and Instagram exposure introduced these items to non-Asian audiences, with price points climbing to $25-65.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://www.shelftrend.com/fashion/chinese-good-luck-jewelry-market-analysis-seller-profit-guide-2026",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pixiu", "#jadeluck", "#goodluckjewelry"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Karma & Luck", "Buddha Stones"]
+      }
+    },
+    {
+      "headline": "2026 Jewelry Trends: End of Minimalism",
+      "body": "2026-2027 jewelry trends feature long sautoir necklaces, couture brooches, scarf rings, retro clips, and the end of minimalism. Bold, statement pieces are in demand.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.orzyla.com/en/8-accessoires-et-bijoux-tendance-en-2026-2027/",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#jewelrytrends2026", "#statementjewelry", "#retro"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

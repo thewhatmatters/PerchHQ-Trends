@@ -1,0 +1,229 @@
+{
+  "date": "2026-03-01",
+  "trends": [
+    {
+      "headline": "AI-Driven Beauty Diagnostics Go Mainstream",
+      "body": "Consumers are actively seeking brands that offer AI-driven skincare advice, with many feeling more confident in products recommended by digital diagnostics. This trend is fueled by a growing scientific curiosity and obsession with personalization and authenticity, as noted by dermatologists. The conversation around AI in beauty is increasingly grounded in scientific evidence and dermatologist-backed insights.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/beauty-tips-insight-feb-28-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AIBeauty", "#SkincareTech"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Sunscreen Continues Viral Success",
+      "body": "The Relief Sun: Rice + Probiotics SPF 50+ from Beauty of Joseon remains a cult favorite on skincare TikTok, frequently appearing in 'holy grail' routines. The pale mint tube has built a following significant enough to make Western brands take notice.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://empowerherfame.com/beauty/beauty-of-joseon-sunscreen-review/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BeautyOfJoseon", "#KoreanSkincare", "#Sunscreen"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon"]
+      }
+    },
+    {
+      "headline": "Midsize Fashion Gains Mainstream Traction on TikTok",
+      "body": "Midsize fashion gained greater exposure on TikTok after many creators opened up about not being able to find clothing sizes that fit them well. Women's apparel can roughly be divided into petite, straight, and plus sizes, leaving significant gaps. Realistic videos about how differently pieces fit are driving change in the industry.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/TikTok",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MidsizeFashion", "#SizeInclusive"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Sepedi Traditional Attire Goes Viral on South African TikTok",
+      "body": "Modern interpretations of Pedi traditional clothing are going viral on South African TikTok, appealing to a contemporary audience. Retailers are noting increased interest and sales for these traditional outfits.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.sarichandfamous.com/2026/02/28/sepedi-traditional-attire-trends-on-sa-tiktok/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Sepedi", "#TraditionalAttire", "#AfricanFashion"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Cottage Cheese Resurgence Driven by Social Media",
+      "body": "The resurgence of cottage cheese has been driven by a wave of food influencers posting recipes on social media. Graham's Family Dairy in Scotland has seen increased interest thanks to viral TikTok recipes featuring cottage cheese as a versatile ingredient.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.the-independent.com/life-style/food-and-drink/cottage-cheese-tiktok-grahams-family-dairy-scotland-b2929381.html",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CottageCheese", "#FoodTok", "#HighProtein"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Graham's Family Dairy"]
+      }
+    },
+    {
+      "headline": "50 Jump Challenge for Lymphatic Drainage Goes Viral",
+      "body": "TikTok's trending 50 Jump Challenge promises simple lymphatic drainage from home. However, experts are warning against it, creating debate and engagement around the trend.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.marieclaire.co.uk/life/health-fitness/50-jumps-every-morning-challenge",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#50JumpChallenge", "#LymphaticDrainage", "#FitnessChallenge"],
+        "engagement": "very high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "7-7-7 Kettlebell Workout Gains Popularity",
+      "body": "The wildly viral 7-7-7 Kettlebell Workout has gained popularity for boosting endurance and mental strength. Content creators are sharing their experiences with this fitness routine.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.marieclaire.co.uk/life/health-fitness/50-jumps-every-morning-challenge",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#KettlebellWorkout", "#FitnessTok", "#7-7-7"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Biophilic Decluttering and Sustainable Storage Trends",
+      "body": "Home organization in 2026 is moving away from plastic bins and embracing natural materials like bamboo, rattan, seagrass, wood, and woven baskets. This 'biophilic decluttering' trend focuses on storage that blends beautifully with decor while being sustainable.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.livingetc.com/advice/home-organization-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BiophilicDesign", "#SustainableLiving", "#HomeOrganization"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Digital Wardrobes and Less Aggressive Decluttering",
+      "body": "2026 home organization trends include digital wardrobes for clothing management and a shift toward 'less aggressive' decluttering approaches. Users are seeking sustainable, long-lasting storage solutions.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.livingetc.com/advice/home-organization-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#DigitalWardrobe", "#Decluttering", "#OrganizationTips"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Brooch is the Accessory of 2026",
+      "body": "The brooch is officially the accessory of 2026, with searches for 'brooch aesthetic' up 110% on Pinterest. Maximalist accessories are trending, with the brooch sitting at the forefront of this fashion revival.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.forbes.com/sites/poojashah/2026/02/28/3-jewelry-trends-turning-heads-at-londons-collect-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Brooch", "#MaximalistAccessories", "#JewelryTrends"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Ties as Statement Accessories for 2026",
+      "body": "Fashion editors are excited about ties making a comeback as accessories in 2026, adding something extra to the chest and torso area. This ties into the broader maximalist accessories trend.",
+      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/dated-fashion-trends-spring-2026",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#TieAccessorizing", "#Maximalism", "#SpringFashion"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Lonely Planet's Best Travel Destinations 2026",
+      "body": "Lonely Planet releases its annual list of best travel destinations for 2026, featuring expertly curated adventures worldwide from top cities to unforgettable experiences.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.lonelyplanet.com/best-in-travel",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Travel2026", "#BestDestinations", "#LonelyPlanet"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Lonely Planet"]
+      }
+    },
+    {
+      "headline": "TikTok Local Feed Feature Launches",
+      "body": "In February 2026, TikTok launched Local Feed, a feature intended to help users connect with their community and discover local events and updates. This could impact how local trends spread.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/TikTok",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#LocalFeed", "#TikTokUpdate", "#SocialMedia"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "Korean Beauty Rankings Trend on TikTok",
+      "body": "Hwahae's 2026 rankings show trending products in Korea's beauty scene, from viral skincare to top-rated makeup picks. Based on 10M+ real reviews, these rankings are influencing creator content.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.hwahae.com/en/rankings",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#KoreanBeauty", "#Hwahae", "#SkincareRanking"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Hwahae"]
+      }
+    }
+  ]
+}

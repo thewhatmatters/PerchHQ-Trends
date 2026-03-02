@@ -1,0 +1,504 @@
+{
+  "date": "2026-02-28",
+  "trends": [
+    {
+      "headline": "Japanese J-Beauty Ingredients Taking Over Skincare",
+      "body": "Japanese skincare ingredients like sakura, camellia oil (tsubaki), matcha, konjac, and yuzu are revolutionizing global skincare. These time-tested natural ingredients focus on balance, hydration, and protection rather than aggressive exfoliation. Matcha provides antioxidant armor with EGCG catechins, camellia oil mimics human sebum for deep hydration, and sakura extract fights glycation for anti-aging benefits.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.news18.com/lifestyle/beauty/matcha-to-sakura-5-japanese-secrets-transforming-the-global-skincare-game-aa-9927229.html",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#JBeauty",
+          "#JapaneseSkincare",
+          "#matcha",
+          "#sakura",
+          "#camelliaoil"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Various J-Beauty brands"
+        ],
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Lip Products Are The Moment - February Beauty Launches",
+      "body": "February 2026 has been dominated by innovative lip products. Lashify's Puffy Lip Plumper provides all-day plumping, Dr. Dennis Gross launched much-anticipated Derminfusions Lip Tints, MERIT Beauty's Signature Lip Blush offers velvety sheer finish, and VIOLET_FR expanded their Lip Nectar shade range. Korean toner pads from Glow Recipe are also trending with three formulations targeting different skin concerns.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.womanandhome.com/beauty/best-new-beauty-products-february-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#liptint",
+          "#lipplumper",
+          "#kbeauty",
+          "#tonerpads"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Lashify",
+          "Dr. Dennis Gross",
+          "MERIT Beauty",
+          "VIOLET_FR",
+          "Glow Recipe"
+        ],
+        "price_point": "mid-range to luxury"
+      }
+    },
+    {
+      "headline": "Cobalt Blue Fashion Trend Goes Mainstream",
+      "body": "Cobalt blue (IKB shade) is having a major moment in 2026 fashion. First endorsed in 2025 but lacking wholesale enthusiasm, the color is now dominating spring 2026 shows from Tove to Chanel and Fforme. The trend has moved from runway to street style and red carpet, with Bella Hadid in Saint Laurent and Amelia Gray in Gucci sporting the striking shade.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.vogue.com/article/top-of-the-carts-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cobaltblue",
+          "#IKB",
+          "#spring2026",
+          "#fashiontrend"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Chanel",
+          "Tove",
+          "Fforme",
+          "Saint Laurent",
+          "Gucci"
+        ],
+        "context": "season"
+      }
+    },
+    {
+      "headline": "London Fashion Week February 2026: Sculptural Tailoring and Fluid Evening Wear",
+      "body": "London Fashion Week showcased sculptural tailoring, fluid evening wear, and jewel-toned silk dresses. Labrum's salon-style presentation highlighted modern yet timeless aesthetics prioritizing cut and proportion. Sequinned gold gowns and layered silk dresses in deep jewel tones were standout moments, signaling a return to glamour for AW26.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.forbes.com/sites/joanneshurvell/2026/02/27/london-fashion-week-february-2026--highlights-and-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#LFW",
+          "#LondonFashionWeek",
+          "#AW26",
+          "#sculpturaltailoring"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Labrum",
+          "British Fashion Council"
+        ],
+        "context": "event"
+      }
+    },
+    {
+      "headline": "50 Jumps Every Morning Fitness Trend Goes Viral",
+      "body": "The '50 jumps every morning' trend is viral across fitness social media, with creators claiming it wakes up the cardiovascular system and provides multiple health benefits. However, fitness experts are cautioning that daily fitness challenges rarely deliver on overinflated promises and may play on health anxiety. The 12-3-30 workout continues its reign as one of the most talked-about fitness trends.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://www.independent.co.uk/health-and-fitness/viral-trend-50-jumps-every-day-b2919217.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#50jumps",
+          "#morningroutine",
+          "#fitnesstrend",
+          "#12330workout"
+        ],
+        "engagement": "very high",
+        "sentiment": "mixed",
+        "context": "viral_challenge"
+      }
+    },
+    {
+      "headline": "Nervous System Regulation Trending in Wellness",
+      "body": "Nervous system regulation is trending on TikTok with over 260,000 posts tagged #nervoussystemregulation. Gen Z and Gen Alpha are increasingly integrating self-care and emotional well-being into daily routines, prioritizing inner peace over aggressive optimization. This represents a shift from 'hustle culture' to sustainable wellness practices.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://beautymatter.com/articles/how-gen-z-and-gen-alpha-are-slowing-down-the-beauty-playbook",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#nervoussystemregulation",
+          "#wellness",
+          "#selfcare",
+          "#mentalhealth"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "context": "cultural_shift"
+      }
+    },
+    {
+      "headline": "Home Design Goes Beyond Aesthetics: Heirloom and Vintage Revival",
+      "body": "2026 home design trends emphasize meaning over mere aesthetics. Vintage finds, heirloom pieces, and decor that evokes memory - including quilted textiles and classic checkered tiles - are being styled in fresh, modern ways. Small details like artisanal cabinet hardware and tactile metals are getting big attention, turning functional elements into design statements.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.dailycamera.com/2026/02/27/going-beyond-aesthetics-7-home-design-trends-for-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#homedecor",
+          "#vintagestyle",
+          "#interiordesign",
+          "#heirloom"
+        ],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "MWC 2026: Modular Phones and Ultra-Thin Devices",
+      "body": "Mobile World Congress 2026 in Barcelona is showcasing the future of mobile tech. Tecno is introducing a modular magnetic concept phone with attachable power banks, telephoto lenses, and action cameras. Xiaomi's UltraThin Magnetic Power Bank at just 6mm thick is turning heads, while Honor's MagicPad 4 is now the world's thinnest Android tablet at 4.8mm.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.theverge.com/tech/882980/mwc-2026-news-phones-gadgets-announcements",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#MWC2026",
+          "#modularphone",
+          "#Xiaomi",
+          "#Honor",
+          "#techtrends"
+        ],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Tecno",
+          "Xiaomi",
+          "Honor",
+          "Samsung",
+          "Google"
+        ],
+        "context": "event"
+      }
+    },
+    {
+      "headline": "Safari Tourism Reimagined for 2026",
+      "body": "Wildlife-led travel is experiencing a 90% surge in search interest between October 2025 and January 2026. South Africa is emerging as a front-runner, with modern safari travelers expecting immersion and comfort in equal measure. The trend moves beyond ticking off the Big Five to storytelling through conservation, local knowledge, and slow observation.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com.au/life/travel/2026-travel-trends-desitnations/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#safari",
+          "#southafrica",
+          "#wildlife",
+          "#travel2026"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Club Med",
+          "Royal Caribbean"
+        ],
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Soft Return Travel Trend: The Slow-End Holiday",
+      "body": "Travelers are tacking deliberate rest days onto the end of high-energy trips, dubbed the 'Slow-End Holiday.' Bookings to Bintan Island are up 18% year-on-year as travelers pair fast-paced Singapore stopovers with genuine switch-off time. The trend prioritizes arriving home restored rather than wrung out from travel.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com.au/life/travel/2026-travel-trends-desitnations/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#softreturn",
+          "#slowtravel",
+          "#slowendholiday",
+          "#traveltrends"
+        ],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "context": "cultural_shift"
+      }
+    },
+    {
+      "headline": "Under-The-Radar Cities Trend for 2026 Travel",
+      "body": "As headline cities strain under overtourism, travelers are discovering lesser-known destinations. \u0160ibenik in Croatia is emerging as a compelling alternative to Dubrovnik with medieval architecture and UNESCO-listed sites. Slovenia bookings are up 286% year-on-year, while Montenegro is tracking 20% growth with its dramatic Bay of Kotor.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com.au/life/travel/2026-travel-trends-desitnations/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#underrateddestinations",
+          "#slovenia",
+          "#croatia",
+          "#montenegro"
+        ],
+        "engagement": "medium",
+        "sentiment": "positive"
+      }
+    },
+    {
+      "headline": "Kochi, India Named Top 10 Global Trending Destination",
+      "body": "Kochi in Keralam (Kerala) has been named a Top 10 global trending travel destination for 2026 by Booking.com. The Indian coastal city is gaining recognition for its rich culture, history, and vibrant art scene, putting South Indian tourism firmly on the global map.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://www.firstpost.com/lifestyle/kochi-top-10-global-trending-travel-destinations-2026-kerala-keralam-things-to-do-in-kochi-13984249.html/amp",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#Kochi",
+          "#Kerala",
+          "#IncredibleIndia",
+          "#travel2026"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "context": "recognition"
+      }
+    },
+    {
+      "headline": "Savory Cocktails and Functional Ingredients Take Over 2026",
+      "body": "The spirits industry is seeing a major shift toward savory and culinary-inspired cocktails in 2026. Consumers are craving umami-rich complexity, with bartenders borrowing techniques directly from the kitchen. Tequila, particularly reposado varieties with warm, spicy notes, complements these savory profiles perfectly. Additionally, functional ingredients and adaptogens are on the rise, with consumers seeking low ABV options and 'better for you' cocktails that don't compromise on taste.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://www.themanual.com/food-and-drink/2026-spirits-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cocktails",
+          "#functionalingredients",
+          "#savorycocktails",
+          "#lowABV"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Cuervo",
+          "Proximo"
+        ],
+        "context": "cultural_shift"
+      }
+    },
+    {
+      "headline": "Gut Health Beverages Expand Beyond Digestive Claims",
+      "body": "In 2026, gut health in beverages is evolving into a platform for innovation, with digestive claims expanding into energy, mood support, and immunity. 44% of consumers notice full-body benefits when they improve their gut health. Prebiotic and probiotic sodas are seeing sharp growth, while fiber sources like cassava, soluble corn, and inulin agave are the fastest growing in launches. Beauty-from-within beverages with collagen and antioxidants are also accelerating as consumers prioritize functional benefits.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://www.innovamarketinsights.com/trends/top-global-beverage-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#guthealth",
+          "#probiotics",
+          "#prebiotics",
+          "#functionalbeverages"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Various functional beverage brands"
+        ],
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Najell Easy Vol. 2 Baby Carrier Goes Viral Among Parents",
+      "body": "Swedish brand Najell's new Easy Vol. 2 baby carrier is taking over parent social media feeds. The carrier features revolutionary magnetic one-hand fastening, ergonomic design suitable from newborn to 3 years without inserts, and a stylish Scandi aesthetic seen on celebrities like Lily Collins. Priced at \u00a3160-170, it's positioned as a premium yet accessible option that prioritizes ease of use and comfort.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://metro.co.uk/2026/02/27/swore-viral-baby-products-najells-new-carrier-may-humble-27122536/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#babycarrier",
+          "#Najell",
+          "#parenting",
+          "#viralbabyproducts"
+        ],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Najell"
+        ],
+        "price_point": "premium",
+        "context": "viral_product"
+      }
+    },
+    {
+      "headline": "Pet Enrichment Toys and Mental Health Products Boom",
+      "body": "Pet enrichment has emerged as a core focus in 2026, with products designed to engage animals' natural instincts and reduce boredom. From puzzle feeders and treat-dispensing toys to snuffle mats and scent games, these products give pets meaningful stimulation. The trend has gained traction among urban pet owners whose pets may have less access to open space. Viral training videos and #dogenrichment hashtags are pushing the movement mainstream.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#petenrichment",
+          "#dogenrichment",
+          "#mentalhealth",
+          "#puzzlefeeders"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Various pet brands"
+        ],
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet Tech Goes Mainstream: Smart Collars and Automated Care",
+      "body": "The pet tech market is projected to reach $6.89 billion by 2030, with smart collars, GPS trackers, and automated products leading the way. Wearable tech for pets now monitors location, activity, rest patterns, and even health metrics. Self-cleaning litter boxes generate over half a billion dollars annually, while AI-powered cameras detect behavioral changes. Millennials and Gen Z pet parents are driving demand for subscription-based pet wellness tech.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/product-recommendation/most-viral-pet-products-for-dropshippers",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#pettech",
+          "#smartcollars",
+          "#GPS",
+          "#automation"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Fi",
+          "Litter-Robot"
+        ],
+        "price_point": "premium",
+        "context": "technology"
+      }
+    },
+    {
+      "headline": "Bold Metallics and Sculptural Jewelry Dominate 2026",
+      "body": "Big, bold metal is back in jewelry for 2026. Elsa Peretti-esque sculptural silver was a standout on Spring 2026 runways, while vintage-inspired gold jewelry makes an elegant impact. Deco-inspired gold pieces including brooches, chunky rings, and cuffs add warmth to looks. The trend moves away from minimalism toward expressive, personality-driven jewelry.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com/fashion/jewelry-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#boldmetallics",
+          "#sculpturaljewelry",
+          "#gold",
+          "#silver"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Chanel",
+          "Saint Laurent",
+          "Jenny Bird"
+        ],
+        "context": "fashion_trend"
+      }
+    },
+    {
+      "headline": "Sea-Inspired and Colorful Beaded Jewelry Trend",
+      "body": "Ocean motifs and colorful beads are trending in jewelry for 2026, extending beyond summer wear. Shell and coral shapes, pearls, turquoise stones, and cord necklaces are being styled year-round. Buzzy brands like Don't Let Disco and Eliou are giving candy-hued beads a grown-up, handcrafted treatment.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://www.elle.com/fashion/trend-reports/a70259098/2026-jewelry-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#seainspired",
+          "#beadedjewelry",
+          "#pearls",
+          "#shells"
+        ],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": [
+          "Eliou",
+          "Jennifer Behr",
+          "Chan Luu"
+        ],
+        "context": "fashion_trend"
+      }
+    }
+  ]
+}

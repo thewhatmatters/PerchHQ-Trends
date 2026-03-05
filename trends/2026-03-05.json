@@ -1,0 +1,229 @@
+{
+  "date": "2026-03-05",
+  "trends": [
+    {
+      "headline": "\"2026 is the New 2016\" Nostalgia Trend Takes Over Social Media",
+      "body": "A viral social media trend celebrating 2010s fashion, music, and culture has exploded across TikTok, Instagram, and Facebook. Users share throwback content featuring period-accurate fashion, music, and online aesthetics. Celebrities and influencers have joined in, making it a major cultural moment. Creators can capitalize by reposting vintage content, doing 'get ready with 2016 me' formats, or creating 'POV: you're in 2016' content.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#2026isTheNew2016", "#2016Throwback", "#2016Trend"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "MWC 2026: AI Wearables Dominate - Pendants, Pins, Smart Glasses",
+      "body": "The Mobile World Congress 2026 showcased the explosion of AI wearables including pendant-style AI devices, smart pins, and display-free smart glasses. Companies are targeting gadget makers to create AI wearables for everyday use. MediaTek demonstrated AI glasses with emergency satellite alerts. This represents a major shift in consumer tech toward ambient AI accessories.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.theverge.com/tech/882980/mwc-2026-news-phones-gadgets-announcements",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AIWearables", "#MWC2026", "#SmartGlasses"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["MediaTek", "Google", "Samsung"]
+      }
+    },
+    {
+      "headline": "\"Swicy\" Trend: Sweet + Spicy Foods Taking Over",
+      "body": "The 'swicy' (sweet + spicy) food trend continues to gain momentum. Skittles Gummies Fuego (spicy gummy Skittles) is the latest example of this flavor combination going viral. This follows the broader trend of combining contrasting flavors. Creators in the food space can capitalize by creating swicy recipes, product reviews, and challenge content.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.tastingtable.com/2114706/new-snack-list-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Swicy", "#SpicySweet", "#FoodTikTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Skittles", "Mars"]
+      }
+    },
+    {
+      "headline": "Spring 2026 Beauty: Baby Blue Eyeshadow & Bobs Return",
+      "body": "Spring 2026 beauty trends are defined by the return of baby blue eyeshadow and bob haircuts. Experts highlight these as the top hair, makeup, and nail trends for the season. The look emphasizes playful, nostalgic aesthetics that align with the broader '2016 is the new 2026' cultural moment. Tutorial content around these techniques is trending.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.elle.com/beauty/makeup-skin-care/a70608788/spring-2026-best-beauty-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BabyBlueEyeshadow", "#BobHaircut", "#SpringBeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Hybrid Skincare-Makeup Products Surge in 2026",
+      "body": "The beauty industry is seeing a massive shift toward hybrid products that combine skincare with makeup. Products like Rare Beauty liquid blush (which pioneered skin care-infused blush) continue to drive this trend. Innovation is focused on products that provide cosmetic benefits while delivering advanced skincare. Creators can review and demo these multi-tasking products.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://professionalbeauty.co.uk/beauty-industry-report-2026-uk",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#HybridBeauty", "#SkincareMakeup", "#MultiTaskingBeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Rare Beauty"]
+      }
+    },
+    {
+      "headline": "\"Grandma Decor\" & Skirted Furniture Take Over Interiors",
+      "body": "TikTok's 'grandma decor' trend has landed in interior design with surprising force. Skirted furniture - featuring fabric-draped bases with 'dressmaker details' like contrast piping, box pleats, and tailored hems - is everywhere. This ties into the broader nostalgic design movement. Content showing furniture transformations and styling tips is trending.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.yahoo.com/lifestyle/articles/tiktok-design-trends-everywhere-now-130000544.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#GrandmaDecor", "#SkirtedFurniture", "#DressmakerDetails"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Whimsical Maximalism Dominates Home Design",
+      "body": "Whimsical home decor is 2026's biggest trend according to 100+ designers. The look embraces 'happily busy patterns and layers of color' - letting homes be wonderfully weird. This maximalist approach contrasts with minimalism and represents a shift toward playful, personalized spaces. DIY and room transformation content performs well with this trend.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.countryliving.com/home-design/decorating-ideas/a70477839/whimsical-home-decor-trend-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WhimsicalDecor", "#Maximalism", "#ColorfulHome"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Humanoid Robots Emerge at MWC 2026",
+      "body": "CES 2026 and MWC 2026 featured waves of humanoid robot demos. Boston Dynamics unveiled its electric Atlas and announced a partnership with Google DeepMind to integrate Gemini Robotics models. This represents a major tech trend for content creators covering AI, robotics, and future technology.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://blog.bytebytego.com/p/whats-next-in-ai-five-trends-to-watch",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#HumanoidRobot", "#AI", "#MWC2026"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": ["Boston Dynamics", "Google DeepMind"]
+      }
+    },
+    {
+      "headline": "Trü Frü Continues Viral Success - 85% Sales Growth",
+      "body": "Trü Frü, the TikTok-born frozen fruit brand, continues its explosive growth with 85% sales increase since UK debut in 2024. The brand has transitioned from viral TikTok trend to commercial powerhouse, growing 7x faster than the overall market. This is a case study in how viral social media can translate to retail success.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.foodanddrinktechnology.com/news/64814/viral-sensation-tru-fru-expands-uk-portfolio/",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TruFru", "#ViralSnack", "#TikTokMadeMeBuyIt"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Mars"]
+      }
+    },
+    {
+      "headline": "Cádiz Carnaval Trending for March 2026 Travel",
+      "body": "Spain's Cádiz Carnaval (February/March) is one of the country's biggest annual celebrations, featuring extravagantly costumed revelers, parades, fireworks, and dancing. Named in Lonely Planet's Best Travel 2026 list. Unique destinations like Jorhat, Jaffna, and Muscat are also trending alongside traditional favorites like Japan and the Amalfi Coast.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.lonelyplanet.com/best-in-travel",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CadizCarnaval", "#Travel2026", "#SpainTravel"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Spring 2026 Fashion: March New Arrivals",
+      "body": "Spring fashion arrivals for March 2026 are here with early warm-weather pieces and transitional items. The season bridges winter and summer with versatile layering pieces. Who What Wear highlights key items worth investing in now. Content around capsule wardrobes and spring capsule building is performing well.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/new-arrivals-march-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#SpringFashion", "#NewArrivals", "#MarchStyle"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Viral Maternity Products: Cup Cozy Deluxe Pillow",
+      "body": "The Cup Cozy Deluxe Pillow has gone viral on TikTok as a must-have for new moms. Marketed as perfect for maternity leave, it provides comfort while holding drinks and essentials. This highlights the trending category of viral maternity and baby products on TikTok Shop.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.buzzfeed.com/hbraga/good-every-day-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#MomTok", "#MaternityEssentials", "#BabyGear"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Spring Jewelry & Accessories Trends 2026",
+      "body": "Spring 2026 accessories are trending with emphasis on pretty jewelry, handbags, and shoes. Who What Wear editors highlight must-have items for the season. Dainty jewelry continues to dominate while statement pieces gain momentum for summer events.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/shopping/best-spring-shoes-handbags-accessories-march-2026",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#SpringJewelry", "#Accessories", "#StatementJewelry"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Set-Jetting: Travel to Iconic Film Locations",
+      "body": "Set-jetting - traveling to destinations featured in movies and TV shows - continues to trend in 2026. Japan and the Amalfi Coast are particularly trending due to culture, scenery, and improved accessibility. Content creators can capitalize with travel vlogs and location guides.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.akbartravels.com/in/blogs/travel-trends-ideas-that-will-rule-your-itineraries/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.75,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#SetJetting", "#FilmTourism", "#TravelTok"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

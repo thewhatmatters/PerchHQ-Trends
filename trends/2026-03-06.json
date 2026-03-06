@@ -1,0 +1,229 @@
+{
+  "date": "2026-03-06",
+  "trends": [
+    {
+      "headline": "Spicules: The Viral K-Beauty 'Liquid Microneedling' Trend",
+      "body": "Spicules are microscopic marine sponge fragments being marketed as a revolutionary K-beauty ingredient offering 'liquid microneedling' experience. The trend has swept TikTok and Instagram Reels in early 2026, though dermatologists are questioning its safety and efficacy. Creators are praising it for skin tightening while critics warn about potential pore-clogging risks.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/spicules-the-viral-k-beauty-trend-under-the-microscope-miracle-ingredient-or-pore-clogging-panic/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#spicules #kbeauty #skincaretok #liquidmicroneedling"],
+        "engagement": "very high",
+        "sentiment": "mixed",
+        "related_brands": ["K-beauty brands", "Marine skincare"]
+      }
+    },
+    {
+      "headline": "Air Fryer Beans on Toast Goes Viral",
+      "body": "TikTok's latest food hack upgrades the classic British comfort food by cooking beans in an air fryer instead of a pan. The trend has gained massive traction with creators claiming it creates a crispier, more flavorful dish. Published in The Independent as a legitimate food trend.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.the-independent.com/life-style/food-and-drink/recipes/tiktok-air-fryer-beans-on-toast-recipe-b2932458.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#beansontoast #airfryer #foodtok #britishfood"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Tiaras: The Princess-Core Fashion Comeback",
+      "body": "Tiaras are quietly becoming the next big viral fashion trend in 2026. From red carpets to TikTok fits, everyday tiaras are turning casual outfits into bold princess-core statements. Designers are experimenting with styling options that work with casual wear, trending across Instagram and TikTok.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://www.indiatimes.com/trending/why-tiaras-are-quietly-becoming-the-next-big-viral-trend-in-fashion/articleshow/129070546.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#tiaras #princesscore #fashiontok #fashiontrend"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Luxury fashion houses"]
+      }
+    },
+    {
+      "headline": "Sephora Opening in Glasgow Silverburn",
+      "body": "Viral TikTok claims about Sephora opening a new store in Glasgow's Silverburn shopping centre have sparked excitement. Beauty fans are speculating about the launch, with construction potentially starting in coming weeks. This represents continued expansion of major beauty retailers in the UK.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.glasgowtimes.co.uk/news/scottish-news/25910558.viral-tiktok-claims-sephora-opening-glasgows-silverburn/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#sephora #glasgow #beautynews #ukbeauty"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Sephora"]
+      }
+    },
+    {
+      "headline": "Biodance Mask Continues Viral Success",
+      "body": "The Biodance mask remains one of the most talked-about TikTok viral skincare products, with users reporting it creates a tight, shiny 'glass skin' effect comparable to professional facials. Featured in BuzzFeed's viral products roundup as a top performer.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.buzzfeed.com/celiafunderburk/results-youll-be-amazed-by-tiktok-an",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#biodance #glassskin #facemask #skincaretips"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Biodance"]
+      }
+    },
+    {
+      "headline": "Spring 2026 Jewelry Trends: Crystals, Cords & Tiny Watches",
+      "body": "Cosmopolitan reports the top jewelry trends for Spring/Summer 2026 include cords, crystals, tiny watches, and minimalist pieces. Runway-inspired looks are driving creator content with designers taking creative lead on jewelry from show inception.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Instagram",
+      "source_url": "https://www.cosmopolitan.com/style-beauty/fashion/a70596536/spring-2026-jewelry-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#jewelrytrend #spring2026 #crystals #minimalistjewelry"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Various designers"]
+      }
+    },
+    {
+      "headline": "CES 2026 Gadgets Trending",
+      "body": "The latest CES 2026 gadgets are generating buzz with 29 cool new tech products highlighted by Gear Patrol. From innovative devices to cutting-edge electronics, tech creators are covering the announcements with enthusiasm.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.gearpatrol.com/tech/best-new-tech-releases-ces-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CES2026 #gadgets #technews #newtech"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Various tech companies"]
+      }
+    },
+    {
+      "headline": "Bath & Body Works Easter Peeps Collection",
+      "body": "Bath & Body Works' Easter Peeps collection is generating buzz with celebrity approval. The collection includes scented products, candles, and Peeps-themed accessories. Viral on social media as a seasonal must-have.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.elitedaily.com/lifestyle/bath-body-works-peeps-collection-review",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bathandbodyworks #easter #peeps #springdecor"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Bath & Body Works"]
+      }
+    },
+    {
+      "headline": "Aldi £5 Shower Oil Dupes £43 L'Occitane",
+      "body": "Aldi's £5 shower oil is going viral after shoppers claim it smells identical to the £43 L'Occitane version. The dupe trend continues in beauty with budget-friendly alternatives gaining massive traction on TikTok.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.liverpoolecho.co.uk/whats-on/shopping/aldi-shopper-cant-tell-difference-33536449",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#aldidupe #budgetbeauty #skincaredupes #viralbeauty"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Aldi", "L'Occitane"]
+      }
+    },
+    {
+      "headline": "Daus Mendoza: From TikTok to Times Square",
+      "body": "Viral influencer Daus Mendoza is redefining beauty standards, partnering with Rare Beauty and Kylie Cosmetics, and launching his own DTC waist trainer that earned over $1 million in sales in less than a month.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.yahoo.com/entertainment/celebrity/articles/tiktok-times-square-viral-influencer-204519646.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dausmendoza #beautyinfluencer #viraltiktok"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Rare Beauty", "Kylie Cosmetics"]
+      }
+    },
+    {
+      "headline": "e.l.f. Primer Continues Viral Success",
+      "body": "The $11 e.l.f. primer is gaining renewed attention as a TikTok viral gem, with creators praising its ability to create smoother, longer-lasting makeup application. Featured in Cosmopolitan as a top drugstore beauty find.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cosmopolitan.com/style-beauty/beauty/a70622592/elf-primer-review/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#elfprimer #drugstorebeauty #makeuptok #viralproducts"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["e.l.f. Cosmetics"]
+      }
+    },
+    {
+      "headline": "Rosemary Skincare Backed by Science",
+      "body": "Scientists have confirmed that a compound in rosemary actually works for skincare, specifically helping wounds heal without scarring. The viral rosemary skincare trend that spread across social media now has scientific validation.",
+      "categories": ["Beauty & Skincare", "Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.sciencedaily.com/releases/2025/12/251207031329.htm",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#rosemaryskincare #viralbeauty #sciencetoskincare"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Petfluencer Marketing: BarkBox Strategy",
+      "body": "Pet influencer collaborations are trending with BarkBox's toy launch strategy as a case study. Time-sensitive offers paired with influencer content drive immediate conversions on TikTok and Instagram.",
+      "categories": ["Pets"],
+      "source": "Instagram",
+      "source_url": "https://www.5wpr.com/new/tiktok-instagram-youtube-pet-focus-for-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#petfluencer #dogtok #petmarketing #barkbox"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["BarkBox"]
+      }
+    },
+    {
+      "headline": "6-7 Meme Continues Viral Spread",
+      "body": "The 6-7 meme continues its viral spread across TikTok and was recently featured in South Park season 28. The meme has spawned variants and continues to generate creator content.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/6-7_meme",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#6-7 #meme #viral #tiktokmeme"],
+        "engagement": "very high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    }
+  ]
+}

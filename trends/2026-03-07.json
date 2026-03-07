@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-07",
+  "trends": [
+    {
+      "headline": "Kojic Acid Skincare Products Explode on TikTok",
+      "body": "Kojic acid, a skin-lightening ingredient used to treat hyperpigmentation, has become one of the fastest-climbing trends on TikTok in the last 30 days. Top posts have received over 300,000 likes. Both powder and serum formats are trending separately. This presents a major opportunity for beauty creators and E-commerce businesses focusing on brightening and even skin tone products.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://explodingtopics.com/blog/tiktok-trends",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#kojicacid", "#skincare", "#brightening", "#skintoning"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "The Globbles Toy Going Viral Among Kids",
+      "body": "The Globbles are trending as a popular toy among children. Parents report these were a last-minute Santa gift add-on that kids love. This presents opportunities for toy reviewers, parenting content creators, and gift-guide creators.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.buzzfeed.com/danielboan/tiktok-items-begging-you-add-to-cart-an",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theglobbles", "#toys", "#kids", "#giftideas"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Toi et Moi Rings Dominating Engagement Ring Trends",
+      "body": "The Toi et Moi (two-stone) engagement ring is one of 2026's biggest jewelry trends. Moving beyond traditional solitaire styles, this romantic design featuring two stones has taken over red carpets and luxury proposals seen on Instagram and TikTok. Jewelry creators and influencers can capitalize on this trend through styling content and proposal inspiration.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Instagram",
+      "source_url": "https://www.lifeandstylemag.com/contributors/toi-et-moi-ring-trend-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#toietmoi", "#engagementring", "#jewelry", "#wedding"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Pet Grooming Wipes and Kits Trending on TikTok Shop",
+      "body": "Specially-designed pet grooming wipes to help keep pets clean and reduce odors are seeing rapid growth on TikTok. Pet grooming kits are also trending as low-cost, clear-use household goods that perform well on TikTok Shop with short-form video content.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://explodingtopics.com/blog/tiktok-trends",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#petgrooming", "#dogsupplies", "#catsupplies", "#petshop"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Low-pH Cleansers Dominating Korean Skincare",
+      "body": "In 2026, low-pH cleansers are extremely trending in the Korean skincare space. These mild cleansers don't leave skin feeling overly dry (which actually indicates damage). Beauty creators focusing on Korean skincare routines can leverage this trend.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.wildglow.in/blogs/skincare/breaking-down-the-11-step-korean-skincare-routine",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#koreanskincare", "#lowphcleanser", "#kbeauty", "#skincare"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "AI Wearable Devices Gaining Mainstream Traction",
+      "body": "Life-changing AI wearable devices are trending in 2026. From smart companions to productivity tools, AI wearables are becoming a major tech category. Tech reviewers and influencers can create content around usability, practicality, and pricing of these devices.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.plaud.ai/blogs/articles/9-life-changing-ai-wearable-devices-in-2026",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#aiwearables", "#tech", "#gadgets", "#aidevices"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Plaud"]
+      }
+    },
+    {
+      "headline": "Glow Up Transition Trend Taking Over TikTok",
+      "body": "The 'Dab and suddenly… glow up' transition is trending heavily. This transition features instant before-and-after transformations using a quick movement synced to the sound. Perfect for outfit changes, location reveals, or showing product transformations. Creators can use this for fashion, beauty, and product showcases.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://later.com/blog/tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#glowup", "#transitions", "#transformation", "#trendingaudio"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "6-7 Meme Trending After South Park Episode",
+      "body": "The 6-7 meme is trending heavily following a South Park episode (Season 28) that prominently features the meme. The meme was created by TikTok creator Spartan Swot. This presents opportunities for meme creators and pop culture commentators.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://en.wikipedia.org/wiki/6-7_meme",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#67meme", "#southpark", "#meme", "#viral"],
+        "engagement": "very high",
+        "sentiment": "mixed",
+        "related_brands": ["South Park"]
+      }
+    },
+    {
+      "headline": "Wellness Trends: Micro-Workouts and Smart Recovery",
+      "body": "Fitness enthusiasts in 2026 are embracing smarter recovery, wearable technology, and data-driven wellness. Key trends include micro-workouts, massage guns, biomarker testing, and smart hydration. Health and fitness creators can capitalize on this tech-forward wellness movement.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.boxrox.com/7-wellness-trends-fitness-enthusiasts-are-exploring-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#wellness", "#microworkouts", "#fitness", "#recovery"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Nicki Minaj-Inspired Heels Trend on Instagram",
+      "body": "A Nicki Minaj-inspired trend featuring fierce heels and incredible balance is trending on Instagram Reels. Fashion creators can participate by showcasing their heel-walking skills and stylish footwear.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Instagram",
+      "source_url": "https://later.com/blog/instagram-reels-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#nickiminaj", "#heels", "#fashion", "#fitcheck"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Dracula (JENNIE Remix) Trending Sound",
+      "body": "The JENNIE & Tame Impala 'Dracula (JENNIE Remix)' is a trending audio track being used across TikTok. Creators can leverage this sound for transformation, fashion, and lifestyle content.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare", "Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://later.com/blog/tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#dracula", "#jennie", "#tameimpala", "#trendingaudio"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Brightening Soap Viral on Amazon",
+      "body": "A $9 brightening soap containing niacinamide and kojic acid is going viral among shoppers who swear it 'fades' uneven skin areas. This ties into the broader kojic acid trend and presents affiliate opportunities for beauty creators.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.usmagazine.com/shopping/news/skin-brightening-bar-soap-dark-spots-amazon/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#brightening", "#skincare", "# KojicAcid", "#amazonfinds"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Travel Content Using 'Everything is Romantic' Audio",
+      "body": "The Charli XCX remixed audio 'Everything is romantic' is trending for travel content. Creators can use this sound to showcase travel highlights, wedding moments, and romantic experiences.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://later.com/blog/tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charlixcx", "#travel", "#romantic", "#vacation"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Lipstick Lesbians Launching Leaked Labs Beauty Brand",
+      "body": "The Lipstick Lesbians, with over 1.2 million TikTok followers, are launching their own beauty brand called Leaked Labs. The first product is Amplify Flexi Powder. This influencer-founded brand shows the continued trend of creators launching their own beauty lines.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.goodhousekeeping.com/beauty-products/a70455487/lipstick-lesbians-beauty-brand-review/",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#lipsticklesbians", "#leakedlabs", "#beautybrand", "#influencer"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Leaked Labs"]
+      }
+    },
+    {
+      "headline": "Nordstrom Trending Fashion Items March 2026",
+      "body": "Nordstrom is featuring trending fashion items for March 2026, showcasing what's hot in retail right now. Fashion creators can reference these items for shopping guides and style content.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/shopping/best-nordstrom-clothing-march-2026",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#nordstrom", "#fashion", "#shopping", "#trending"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Nordstrom"]
+      }
+    }
+  ]
+}

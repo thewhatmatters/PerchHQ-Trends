@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-10",
+  "trends": [
+    {
+      "headline": "Butter Baby Trend - Dangerous Viral Challenge Feeding Butter to Infants",
+      "body": "A concerning new TikTok trend called 'Butter Baby' is encouraging parents to feed stick butter to infants, racking up millions of views. Health experts warn this is dangerous as infants under 1 year should not consume straight butter due to fat content and potential choking hazards. This represents a dangerous viral moment that creators are reacting to.",
+      "categories": ["Baby"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/butter-baby-trend",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#butterbaby"],
+        "engagement": "very high",
+        "sentiment": "negative",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Shop Beauty Brands Going Viral - John Lewis Mother's Day Beauty Box Sold Out",
+      "body": "John Lewis Mother's Day Beauty Box sold out featuring Jo Malone London, Augustinus Bader and Estee Lauder. Beauty brands are finding success through TikTok Shop by leveraging viral moments and trend-led products. The British Beauty Council reports brands should focus on narrative and exclusivity to drive conversions.",
+      "categories": ["Beauty"],
+      "source": "Web",
+      "source_url": "https://britishbeautycouncil.com/how-to-go-viral-a-masterclass-from-the-biggest-tiktok-beauty-brands/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#tiktokshop", "#beautybox", "#mothersday"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["John Lewis", "Jo Malone", "Augustinus Bader", "Estee Lauder"]
+      }
+    },
+    {
+      "headline": "Y2K Fashion and Coquette Aesthetics Dominating TikTok Fashion",
+      "body": "Y2K fashion continues to dominate TikTok with styles like funky tights, mini shorts, band tees, and babydoll tops. The 'My Yes in Fashion' trend shows users choosing between different brand aesthetics like Victoria's Secret coquette vs downtown Chanel looks. Platform boots and vintage accessories remain popular.",
+      "categories": ["Fashion"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/my-yes-in-fashion-trend",
+      "trend_type": "hashtag",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#y2kfashion", "#coquette", "#myyesinfashion", "#vintagefashion"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Victoria's Secret", "Brand Melville", "Chanel"]
+      }
+    },
+    {
+      "headline": "Hoodie Challenge Trend Going Viral on TikTok",
+      "body": "The #hoodiechallenge continues trending with creators showcasing outfit transformations featuring hoodies from brands like Aelfric Eden. Discount codes like 'evaf25' are being promoted as part of the viral content. Streetwear aesthetic hoodies are a key fashion item trending now.",
+      "categories": ["Fashion"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/hoodie-trend",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#hoodiechallenge", "#streetwear", "#outfit"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Aelfric Eden"]
+      }
+    },
+    {
+      "headline": "Chefs Try Internet's Worst Viral Recipes YouTube Trend",
+      "body": "A popular content format where professional chefs attempt the internet's weirdest viral recipes is trending on YouTube. Videos titled 'Chefs Try The Internet's Worst Recipes' are getting significant views, with creators testing ridiculous food trends from TikTok. This represents a popular reaction content format.",
+      "categories": ["Food"],
+      "source": "YouTube",
+      "source_url": "https://www.youtube.com/watch?v=zfxOOeNJfUA",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#viralrecipe", "#foodtrend", "#chefchallenge"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Chili's Honey Chipotle Going Viral on TikTok",
+      "body": "Chili's Honey Chipotle menu item is trending on TikTok with creators raving about the mozzarella sticks combo. User-generated content promoting specific menu items is driving restaurant traffic. This represents a food industry viral marketing moment.",
+      "categories": ["Food"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/chilis-trend-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#chilis", "#honeychipotle", "#mozzarellasticks"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Chili's"]
+      }
+    },
+    {
+      "headline": "iHerb Wellness Supplements Trending on TikTok",
+      "body": "iHerb is promoting wellness products including magnesium, methylfolate and supplements through TikTok Shop. Wellness trends featuring nutritionists advice, cycle syncing workouts, liver cleanse trends, and infrared saunas are popular. Health creators are monetizing through affiliate partnerships.",
+      "categories": ["Health"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/health-and-wellness-ads",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#wellness", "#supplements", "#iHerb", "#nutrition"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["iHerb"]
+      }
+    },
+    {
+      "headline": "Hobby Lobby Olive Tree Going Viral for Home Decor",
+      "body": "The Hobby Lobby olive tree has become a viral home decor item, with creators sharing styling tips for these faux trees. Wicker baskets and African woven baskets are also trending as decorative storage solutions. Interior design content focusing on cozy, warm vibes is performing well.",
+      "categories": ["Home"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/hobby-lobby-olive-tree",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#hobbylobby", "#olivetree", "#homedecor", "#interiordesign"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Hobby Lobby"]
+      }
+    },
+    {
+      "headline": "New Tech Gadgets Week of March 8 2026",
+      "body": "Gear Patrol highlights 13 cool new gadgets to keep on your radar from the past week's releases. New tech products announced this week include various gadgets across categories. Tech review content and 'What's New' formats are trending.",
+      "categories": ["Tech"],
+      "source": "Web",
+      "source_url": "https://www.gearpatrol.com/tech/best-new-tech-releases-3-8-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#tech", "#gadgets", "#newrelease"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Petfluencer Noodles the Maltese Poodle Mix Has 2 Million Followers",
+      "body": "Noodles the Maltese poodle mix has become a major pet influencer with over 2 million social media followers. Petfluencers are big business with pet affiliate programs growing. Content featuring pet transformations, funny pet moments, and pet product reviews performs well.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://www.insideedition.com/media/videos/petfluencers-take-over-social-media-92979",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#petfluencer", "#dogtok", "#pettiktok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Tulum Mexico Top Travel Destination Trending",
+      "body": "Tulum continues to be a trending travel destination on TikTok with #traveltiktok showing Paris and Tulum as popular spots. The 'Flight TikTok Trend' showing airport experiences and travel tips is popular. Lonely Planet's Best Travel Destinations 2026 features Réunion Island as a top pick.",
+      "categories": ["Travel"],
+      "source": "TikTok",
+      "source_url": "https://www.lonelyplanet.com/best-in-travel",
+      "trend_type": "hashtag",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#traveltiktok", "#tulum", "#paris", "#vacation"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Pokerface Dance Challenge Trending on TikTok",
+      "body": "The #pokerface dance challenge is trending on TikTok with creators learning choreography. Dance challenges remain a dominant content format. Related trends include the 'Giddy Down' country song dance challenge and various mashup trends.",
+      "categories": ["Fashion", "Music"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pokerface", "#dancechallenge", "#trending"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Reborn Baby Dolls Trending on TikTok",
+      "body": "Reborn baby dolls are trending with creators showing realistic baby dolls being used as gifts and collectibles. Walmart finds featuring realistic dolls under $20 are being highlighted. This represents a unique collectibles trend.",
+      "categories": ["Baby"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/reborn-baby-haitian-walmart",
+      "trend_type": "product",
+      "confidence_score": 0.65,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#reborndoll", "#baby", "#collectibles"],
+        "engagement": "medium",
+        "sentiment": "mixed",
+        "related_brands": ["Walmart"]
+      }
+    },
+    {
+      "headline": "Summer Fashion Australia 2026 Trends",
+      "body": "Australian summer fashion for 2026 is trending with resort prints, chic mini dresses, and playful polka dots. Content featuring summer style lookbooks, hauls, and seasonal transitions is popular as US heads into spring.",
+      "categories": ["Fashion"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/summer-style-australia",
+      "trend_type": "hashtag",
+      "confidence_score": 0.7,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#summerfashion", "#australia", "#resortwear"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Shop Beauty Product Reviews Driving Sales",
+      "body": "Mikayla Nogueira and other beauty influencers are driving major sales through TikTok Shop product reviews. The platform notes that products going viral on TikTok often sell out quickly. John Lewis reports investing in TikTok presence for customer discovery.",
+      "categories": ["Beauty"],
+      "source": "Web",
+      "source_url": "https://channelx.world/2026/03/john-lewis-adopts-tiktok-and-agentic-commerce/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#beautyreview", "#tiktokmademebuyit", "#viraltiktok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["John Lewis"]
+      }
+    }
+  ]
+}

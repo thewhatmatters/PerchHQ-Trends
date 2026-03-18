@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-18",
+  "trends": [
+    {
+      "headline": "Charlotte Tilbury Flawless Filter Goes Viral on Amazon Big Spring Sale",
+      "body": "Charlotte Tilbury's viral Flawless Filter is dominating TikTok and Amazon's Big Spring Sale. Celebrities like Gigi Hadid swear by its skin-perfecting finish. The product has become a must-have for makeup artists and beauty enthusiasts seeking that glass-skin glow.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cosmopolitan.com/style-beauty/fashion/g36623568/viral-tiktok-items-amazon-sale/",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#skincare", "#makeup", "#flawlessfilter", "#viralbeauty"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Charlotte Tilbury"]
+      }
+    },
+    {
+      "headline": "Boots K-Beauty Edit featuring Viral Korean Skincare Heroes",
+      "body": "Korean skincare continues its dominance with Boots launching a K-Beauty Edit featuring viral heroes. The collection includes cult favorites and rising viral products allowing consumers to test different textures, actives and formats from cleansing to sun protection.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.nationalworld.com/recommended/boots-k-beauty-skincare-edit-5936326",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#kbeauty", "#koreanskincare", "#skincare", "#viral"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Boots"]
+      }
+    },
+    {
+      "headline": "Dermatologists Push 'Skinimalism' - Less is More in Skincare",
+      "body": "Contrary to the 10-step routine craze, dermatologists are now advocating for simplified skincare. The message: overloading skin with too many products can cause more harm than good. This anti-trend is gaining traction as consumers seek minimalist, effective routines.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.indiatvnews.com/lifestyle/beauty/skincare-routine-too-complicated-dermatologist-advice-2026-03-18-1034123",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#skinimalism", "#skincare", "#minimalism", "#dermatologist"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Fashion Influencers Now Drive Mainstream Trends",
+      "body": "TikTok creators filming in their bedrooms can now put a look in front of millions within hours. The algorithm rewards personality over polish, making TikTok fashion feel more authentic and wearable than traditional fashion media. Viral outfits spread rapidly because they look like something real people would actually wear.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.fashiontimes.com/why-tiktok-fashion-influencers-now-decide-which-viral-outfits-actually-matter-13933",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#fashion", "#ootd", "#style", "#fashiontok"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Frothy Cold Foams and Airy Milkshakes Dominate Beverage Trends",
+      "body": "Fluff has become essential in beverages - from frothy cold foams topping coffee drinks to airy milkshakes and smoothies. This textural trend is reshaping cafe menus and home beverage creation alike.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.restaurantbusinessonline.com/consumer-trends/3-viral-food-drink-trends-ready-rock-menus",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coffee", "#coldfoam", "#milkshake", "#foodtok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Cottage Cheese with Mustard Goes Viral as High-Protein Snack",
+      "body": "The viral cottage cheese with mustard trend continues to have staying power according to Oura data. This high-protein, low-calorie snack has become a staple for health-conscious consumers, particularly women tracking functional wellness.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://ouraring.com/blog/global-food-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cottagecheese", "#highprotein", "#healthysnacks", "#wellness"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Oura"]
+      }
+    },
+    {
+      "headline": "Italian Brainrot and Corporate Jargon Trends Take Over TikTok",
+      "body": "March 2026's viral content formats include 'Italian brainrot' memes, old-school cartoon chase formats, and corporate jargon parodies. These trends are driving massive engagement with Gen Z audiences who appreciate absurdist humor.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#italianbrainrot", "#corporate", "#meme", "#viral"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Design Trends Drive Furniture Buying Decisions",
+      "body": "Half of all furniture buyers now begin their inspiration phase on social platforms weeks or months before purchase. Design-adjacent hashtags regularly pull billions of cumulative views, making TikTok the new catalog for home design.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.elledecor.com/design-decorate/trends/a70591177/tiktok-interior-design-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#homedecor", "#interiordesign", "#hometok", "#design"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Sunshine Boy Trend Pairs Winter vs Summer Photo Carousels",
+      "body": "The 'Sunshine Boy' trend uses Rihanna's 'Kiss It Better' to drive seasonal photo comparisons. The format works for lifestyle, travel, or seasonal brands and has been approved for business use on TikTok.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#sunshineboy", "#wintervssummer", "#seasonal", "#lifestyle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Loop Experience 2 Earplugs Become Viral Fashion Accessory",
+      "body": "The $35 Loop Experience 2 earplugs have maintained viral status as jewelry-like hearing protectors. They dampen sound without muffling it, making them popular for concerts and everyday wear. WIRED notes they deliver exactly what they promise.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.techbuzz.ai/articles/tiktok-s-most-hyped-gadgets-which-ones-actually-deliver",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#earplugs", "#loop", "#tech", "#gadgets"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Loop"]
+      }
+    },
+    {
+      "headline": "Smart Home Devices and Kitchen Tools Go Viral on TechTok",
+      "body": "2026 gadgets including smart appliances, kitchen tools, and home inventions are trending on TikTok's TechTok community. Consumers are seeking innovative products that solve everyday problems with style.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/latest-gadgets",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#techtok", "#gadgets", "#smarthome", "#innovation"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "MomCozy Bottle Sterilizer Goes Viral Among New Parents",
+      "body": "The MomCozy bottle sterilizer and dryer has become a TikTok must-have for new parents. This 3-layer space-saving device offers fast sterilization and drying, making it an essential baby gear item for 2026.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-baby-products-2024",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#babyproducts", "#momtok", "#newmom", "#babyessentials"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["MomCozy"]
+      }
+    },
+    {
+      "headline": "Honey Bear Straw Cup Remains Viral Baby Product Favorite",
+      "body": "The viral Honey Bear Straw Cup continues to dominate baby product recommendations on TikTok. This simple but effective tool helps babies transition to straw drinking and has been tested and approved by twin moms.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#babyproducts", "#feeding", "#toddlers", "#momlife"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Vapor Hair Comb for Pets Goes Viral on TikTok",
+      "body": "The vapor hair comb for pets is trending as the best grooming tool for 2026. This innovative device uses steam/vapor technology to detangle and smooth pet fur, making grooming sessions easier for both pets and owners.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#petproducts", "#dogs", "#cats", "#tiktokmademebuyit"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Flying Bird Toy Keeps Pets Active and Entertained",
+      "body": "The flying bird toy that flaps, spins, and soars through the air is trending among pet owners. This interactive toy keeps dogs and cats active, curious, and full of joy, solving the common problem of pet boredom.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#pettoys", "#dogs", "#cats", "#petentertainment"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

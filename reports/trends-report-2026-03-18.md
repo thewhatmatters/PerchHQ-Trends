@@ -1,192 +1,174 @@
 # Daily Trends Report - March 18, 2026
 
-## Overview
-Today's trending topics span beauty minimalism, authentic fashion, frothy beverages, and innovative pet products. TikTok continues to drive mainstream trends across all categories.
+## Executive Summary
+
+Researched 10 creator categories: Beauty & Skincare, Fashion & Apparel, Food & Beverage, Health & Fitness, Home & Lifestyle, Tech & Gadgets, Baby & Kids, Pets, Travel & Hospitality, Jewelry & Accessories.
+
+**15 trending topics identified** with high engagement signals and creator angles.
 
 ---
 
-## Beauty & Skincare
+## Top Trending Topics
 
-### 🌟 Charlotte Tilbury Flawless Filter Goes Viral on Amazon Big Spring Sale
-**Trend Type:** Product | **Source:** TikTok | **Engagement:** Very High
+### 1. Amazon Big Spring Sale Features 70+ Viral TikTok Products 🔥
+- **Categories:** Beauty, Fashion, Tech
+- **Engagement:** Very High
+- **Source:** [Cosmopolitan](https://www.cosmopolitan.com/style-beauty/fashion/g36623568/viral-tiktok-items-amazon-sale/)
 
-Charlotte Tilbury's viral Flawless Filter is dominating TikTok and Amazon's Big Spring Sale. Celebrities like Gigi Hadid swear by its skin-perfecting finish. The product has become a must-have for makeup artists and beauty enthusiasts seeking that glass-skin glow.
-
-**Key Hashtags:** #skincare #makeup #flawlessfilter #viralbeauty
-
----
-
-### ✨ Boots K-Beauty Edit featuring Viral Korean Skincare Heroes
-**Trend Type:** Product | **Source:** Web | **Engagement:** High
-
-Korean skincare continues its dominance with Boots launching a K-Beauty Edit featuring viral heroes. The collection includes cult favorites and rising viral products allowing consumers to test different textures, actives and formats from cleansing to sun protection.
-
-**Key Hashtags:** #kbeauty #koreanskincare #skincare #viral
+Curated list includes K-Beauty skincare, #BookTok romantasy novels, travel hacks, and Carolyn Bessette Kennedy-inspired fashion.
 
 ---
 
-### 🧴 Dermatologists Push 'Skinimalism' - Less is More in Skincare
-**Trend Type:** Content Format | **Source:** Web | **Engagement:** High
+### 2. K-Beauty Dominates - Beauty of Joseon SPF Leads
+- **Categories:** Beauty & Skincare
+- **Engagement:** High
+- **Source:** [Who What Wear](https://www.whowhatwear.com/beauty/skin/best-sulwashoo-products)
 
-Contrary to the 10-step routine craze, dermatologists are now advocating for simplified skincare. The message: overloading skin with too many products can cause more harm than good. This anti-trend is gaining traction as consumers seek minimalist, effective routines.
-
-**Key Hashtags:** #skinimalism #skincare #minimalism #dermatologist
-
----
-
-## Fashion & Apparel
-
-### 👗 TikTok Fashion Influencers Now Drive Mainstream Trends
-**Trend Type:** Content Format | **Source:** Web | **Engagement:** Very High
-
-TikTok creators filming in their bedrooms can now put a look in front of millions within hours. The algorithm rewards personality over polish, making TikTok fashion feel more authentic and wearable than traditional fashion media. Viral outfits spread rapidly because they look like something real people would actually wear.
-
-**Key Hashtags:** #fashion #ootd #style #fashiontok
+Korean skincare continues viral dominance. New launches from Beauty of Sulwhasoo and K-Beauty through Boots.
 
 ---
 
-## Food & Beverage
+### 3. John Galliano x Zara 2-Year Collaboration
+- **Categories:** Fashion & Apparel
+- **Engagement:** High
+- **Source:** [WWD](https://wwd.com/)
 
-### ☕ Frothy Cold Foams and Airy Milkshakes Dominate Beverage Trends
-**Trend Type:** Product | **Source:** Web | **Engagement:** High
-
-Fluff has become essential in beverages - from frothy cold foams topping coffee drinks to airy milkshakes and smoothies. This textural trend is reshaping cafe menus and home beverage creation alike.
-
-**Key Hashtags:** #coffee #coldfoam #milkshake #foodtok
+High fashion meets fast fashion with John Galliano riffing on Zara archives for a two-year collaboration.
 
 ---
 
-### 🧀 Cottage Cheese with Mustard Goes Viral as High-Protein Snack
-**Trend Type:** Viral Moment | **Source:** Web | **Engagement:** Medium
+### 4. Fashion's 20-Year Cycle: Low-Rise Jeans Revival
+- **Categories:** Fashion & Apparel
+- **Engagement:** Medium
+- **Source:** [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-15653305/Fashion-20-year-cycle-trends-low-rise-jeans.html)
 
-The viral cottage cheese with mustard trend continues to have staying power according to Oura data. This high-protein, low-calorie snack has become a staple for health-conscious consumers, particularly women tracking functional wellness.
-
-**Key Hashtags:** #cottagecheese #highprotein #healthysnacks #wellness
-
----
-
-## Health & Fitness
-
-### 🧠 Italian Brainrot and Corporate Jargon Trends Take Over TikTok
-**Trend Type:** Content Format | **Source:** TikTok | **Engagement:** Very High
-
-March 2026's viral content formats include 'Italian brainrot' memes, old-school cartoon chase formats, and corporate jargon parodies. These trends are driving massive engagement with Gen Z audiences who appreciate absurdist humor.
-
-**Key Hashtags:** #italianbrainrot #corporate #meme #viral
+Mathematicians reveal women's trends repeat every 20 years. Low-rise jeans, oversized belts, bodycon dresses seeing revival.
 
 ---
 
-## Home & Lifestyle
+### 5. Soft Serve Margaritas Go Viral - Texas Restaurants 🍹
+- **Categories:** Food & Beverage
+- **Engagement:** Very High
+- **Source:** [Houston Chronicle](https://www.houstonchronicle.com/food-restaurants/article/houston-soft-serve-margaritas-22073357.php)
 
-### 🏠 TikTok Design Trends Drive Furniture Buying Decisions
-**Trend Type:** Content Format | **Source:** Web | **Engagement:** High
-
-Half of all furniture buyers now begin their inspiration phase on social platforms weeks or months before purchase. Design-adjacent hashtags regularly pull billions of cumulative views, making TikTok the new catalog for home design.
-
-**Key Hashtags:** #homedecor #interiordesign #hometok #design
+La Playa Mexican Food sparked the trend. Bar & Bones in Dallas and Houston serving frozen margaritas in soft-serve form.
 
 ---
 
-### ☀️ Sunshine Boy Trend Pairs Winter vs Summer Photo Carousels
-**Trend Type:** Content Format | **Source:** TikTok | **Engagement:** High
+### 6. Cottage Cheese with Mustard - Viral Wellness Trend
+- **Categories:** Food & Beverage, Health & Fitness
+- **Engagement:** High
+- **Source:** [Oura](https://ouraring.com/blog/global-food-trends/)
 
-The 'Sunshine Boy' trend uses Rihanna's 'Kiss It Better' to drive seasonal photo comparisons. The format works for lifestyle, travel, or seasonal brands and has been approved for business use on TikTok.
-
-**Key Hashtags:** #sunshineboy #wintervssummer #seasonal #lifestyle
-
----
-
-## Tech & Gadgets
-
-### 🎧 Loop Experience 2 Earplugs Become Viral Fashion Accessory
-**Trend Type:** Product | **Source:** Web | **Engagement:** High
-
-The $35 Loop Experience 2 earplugs have maintained viral status as jewelry-like hearing protectors. They dampen sound without muffling it, making them popular for concerts and everyday wear. WIRED notes they deliver exactly what they promise.
-
-**Key Hashtags:** #earplugs #loop #tech #gadgets
+Oura data shows cottage cheese with mustard has staying power as a functional wellness food.
 
 ---
 
-### 🏠 Smart Home Devices and Kitchen Tools Go Viral on TechTok
-**Trend Type:** Product | **Source:** TikTok | **Engagement:** High
+### 7. TikTok Viral Workouts Analyzed by Science
+- **Categories:** Health & Fitness
+- **Engagement:** High
+- **Source:** [Shape Greece](https://www.shape.gr/fitness/tips-askisis/1018880/viral-gumnastiki-sto-tiktok-ti-leei-pragmatika-i-epistimi-gia-ta-pio-dimofili-trends/)
 
-2026 gadgets including smart appliances, kitchen tools, and home inventions are trending on TikTok's TechTok community. Consumers are seeking innovative products that solve everyday problems with style.
-
-**Key Hashtags:** #techtok #gadgets #smarthome #innovation
-
----
-
-## Baby & Kids
-
-### 🍼 MomCozy Bottle Sterilizer Goes Viral Among New Parents
-**Trend Type:** Product | **Source:** TikTok | **Engagement:** High
-
-The MomCozy bottle sterilizer and dryer has become a TikTok must-have for new parents. This 3-layer space-saving device offers fast sterilization and drying, making it an essential baby gear item for 2026.
-
-**Key Hashtags:** #babyproducts #momtok #newmom #babyessentials
+Science weighs in on viral TikTok fitness trends. House burping trend also trending.
 
 ---
 
-### 🍯 Honey Bear Straw Cup Remains Viral Baby Product Favorite
-**Trend Type:** Product | **Source:** Web | **Engagement:** High
+### 8. Vitamin Deficiency Discovery Goes Viral
+- **Categories:** Health & Fitness
+- **Engagement:** Very High
+- **Source:** [OK! Magazine](https://www.ok.co.uk/lifestyle/fitness/bleeding-gums-could-sign-your-36880192)
 
-The viral Honey Bear Straw Cup continues to dominate baby product recommendations on TikTok. This simple but effective tool helps babies transition to straw drinking and has been tested and approved by twin moms.
-
-**Key Hashtags:** #babyproducts #feeding #toddlers #momlife
-
----
-
-## Pets
-
-### 🐾 Vapor Hair Comb for Pets Goes Viral on TikTok
-**Trend Type:** Product | **Source:** TikTok | **Engagement:** High
-
-The vapor hair comb for pets is trending as the best grooming tool for 2026. This innovative device uses steam/vapor technology to detangle and smooth pet fur, making grooming sessions easier for both pets and owners.
-
-**Key Hashtags:** #petproducts #dogs #cats #tiktokmademebuyit
+Dr. Eric Berg (2.3M followers, 30M likes) highlights bleeding gums as vitamin deficiency sign.
 
 ---
 
-### 🐦 Flying Bird Toy Keeps Pets Active and Entertained
-**Trend Type:** Product | **Source:** TikTok | **Engagement:** Medium
+### 9. Physical Wellness Market Booming
+- **Categories:** Health & Fitness, Tech & Gadgets
+- **Engagement:** High
+- **Source:** [OpenPR](https://www.openpr.com/news/4428218/physical-wellness-market-is-booming-worldwide-peloton-apple)
 
-The flying bird toy that flaps, spins, and soars through the air is trending among pet owners. This interactive toy keeps dogs and cats active, curious, and full of joy, solving the common problem of pet boredom.
-
-**Key Hashtags:** #pettoys #dogs #cats #petentertainment
-
----
-
-## Travel & Hospitality
-
-*No major trending items reported for today in this category.*
+Wearable fitness devices and health tracking apps driving massive market growth. Peloton, Apple, Nike leading.
 
 ---
 
-## Jewelry & Accessories
+### 10. Spirit Airlines Chaos Goes Viral ✈️
+- **Categories:** Travel & Hospitality
+- **Engagement:** Very High
+- **Source:** [Fox News](https://www.foxnews.com/travel/budget-airline-blasted-viral-video-perfect-honeymoon-week-ends-travel-chaos)
 
-*No major trending items reported for today in this category.*
-
----
-
-## Summary Statistics
-
-| Category | Trends Count | Top Trend Type |
-|----------|--------------|----------------|
-| Beauty & Skincare | 3 | Product |
-| Fashion & Apparel | 1 | Content Format |
-| Food & Beverage | 2 | Product |
-| Health & Fitness | 1 | Content Format |
-| Home & Lifestyle | 2 | Content Format |
-| Tech & Gadgets | 2 | Product |
-| Baby & Kids | 2 | Product |
-| Pets | 2 | Product |
-| Travel & Hospitality | 0 | - |
-| Jewelry & Accessories | 0 | - |
-
-**Total Trends:** 15
-**Top Platforms:** TikTok, Instagram
-**Date Generated:** March 18, 2026
+Fort Lauderdale flight cancellations spark TikTok outrage amid DHS shutdown and severe weather.
 
 ---
 
-*Report generated by PerchHQ Trends Automation*
+### 11. OPPO Find N6 Foldable Launch
+- **Categories:** Tech & Gadgets
+- **Engagement:** Medium
+- **Source:** [Business Standard](https://www.business-standard.com/technology/tech-news)
+
+March 17 launch features redesigned hinge, "Zero-Feel Crease" display, AI-powered stylus.
+
+---
+
+### 12. Minecraft 'Biggest Bird' Sound Goes Viral 🎮
+- **Categories:** Baby & Kids, Pets
+- **Engagement:** Very High
+- **Source:** [Epidemic Sound](https://www.epidemicsound.com/blog/latest-tiktok-trends/)
+
+Theo's "I'M THE BIGGEST BIRD" catchphrase trending across TikTok. Honda and Minecraft joined in.
+
+---
+
+### 13. Emotional Pet Content: Dog Realizes Backyard 🐕
+- **Categories:** Pets
+- **Engagement:** High
+- **Source:** [Newsweek](https://www.newsweek.com/moment-anxious-apartment-dog-realizes-new-home-backyard-viral-11685186)
+
+Barbie the apartment dog seeing her first yard after 3 years melts hearts. 165 comments.
+
+---
+
+### 14. Natalie Portman x Tiffany & Co. Ambassador
+- **Categories:** Jewelry & Accessories
+- **Engagement:** Medium
+- **Source:** [Fashion Times](https://www.fashiontimes.com/natalie-portman-tiffany-cos-new-ambassador-diamonds-are-worth-every-carat-13925)
+
+Sixteen Stone collection draws from Jean Schlumberger's archive with cross-stitch pattern.
+
+---
+
+### 15. Kate Middleton's Rare Emerald Earrings 💎
+- **Categories:** Jewelry & Accessories, Fashion
+- **Engagement:** High
+- **Source:** [InStyle](https://www.instyle.com/kate-middleton-rare-emerald-diamond-earrings-st-patricks-day-11928070)
+
+$11,300 emerald and diamond earrings for St. Patrick's Day. Alexander McQueen coat, Cornelia James gloves.
+
+---
+
+## Hashtag Highlights
+
+| Hashtag | Category |
+|---------|----------|
+| #BookTok | Beauty, Fashion |
+| #KBeauty | Beauty |
+| #TikTokFitness | Health |
+| #TravelTikTok | Travel |
+| #PetTikTok | Pets |
+| #TiffanyAndCo | Jewelry |
+| #Minecraft | Kids, Pets |
+| #FortLauderdale | Travel |
+
+---
+
+## Engagement Summary
+
+- **Very High:** 5 trends (Amazon Sale, Soft Serve Margaritas, Vitamin Deficiency, Spirit Airlines, Minecraft Sound)
+- **High:** 7 trends
+- **Medium:** 3 trends
+
+**Sentiment:** Mostly positive (12), Mixed (1), Negative (1)
+
+---
+
+*Report generated: 2026-03-18*
+*Data sources: TikTok, Instagram, Web (Brave Search)*

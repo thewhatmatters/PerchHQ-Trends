@@ -2,243 +2,243 @@
   "date": "2026-03-18",
   "trends": [
     {
-      "headline": "Charlotte Tilbury Flawless Filter Goes Viral on Amazon Big Spring Sale",
-      "body": "Charlotte Tilbury's viral Flawless Filter is dominating TikTok and Amazon's Big Spring Sale. Celebrities like Gigi Hadid swear by its skin-perfecting finish. The product has become a must-have for makeup artists and beauty enthusiasts seeking that glass-skin glow.",
-      "categories": ["Beauty & Skincare"],
-      "source": "TikTok",
+      "headline": "Amazon Big Spring Sale Features 70+ Viral TikTok Products",
+      "body": "Cosmopolitan editors curated 70+ viral TikTok products on sale for Amazon's Big Spring Sale. Categories include K-Beauty skincare, #BookTok romantasy novels, travel hacks, fashion essentials inspired by Carolyn Bessette Kennedy, and more.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel", "Tech & Gadgets"],
+      "source": "TikTok | Instagram | Web",
       "source_url": "https://www.cosmopolitan.com/style-beauty/fashion/g36623568/viral-tiktok-items-amazon-sale/",
       "trend_type": "product",
-      "confidence_score": 0.92,
-      "relevance_score": 9,
+      "confidence_score": 0.95,
+      "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#skincare", "#makeup", "#flawlessfilter", "#viralbeauty"],
+        "hashtags": ["#BookTok", "#AmazonSale", "#TikTokFinds"],
         "engagement": "very high",
         "sentiment": "positive",
-        "related_brands": ["Charlotte Tilbury"]
+        "related_brands": ["Amazon", "Various viral brands"]
       }
     },
     {
-      "headline": "Boots K-Beauty Edit featuring Viral Korean Skincare Heroes",
-      "body": "Korean skincare continues its dominance with Boots launching a K-Beauty Edit featuring viral heroes. The collection includes cult favorites and rising viral products allowing consumers to test different textures, actives and formats from cleansing to sun protection.",
+      "headline": "K-Beauty Dominates Skincare - Beauty of Joseon SPF Leads",
+      "body": "Korean skincare continues to dominate viral trends. Beauty of Joseon's SPF remains the most viral product, with new launches. Sulwhasoo and other K-Beauty brands seeing renewed interest through Boots K-Beauty Edit.",
       "categories": ["Beauty & Skincare"],
-      "source": "Web",
-      "source_url": "https://www.nationalworld.com/recommended/boots-k-beauty-skincare-edit-5936326",
+      "source": "TikTok | Web",
+      "source_url": "https://www.whowhatwear.com/beauty/skin/best-sulwashoo-products",
       "trend_type": "product",
-      "confidence_score": 0.88,
-      "relevance_score": 8,
+      "confidence_score": 0.9,
+      "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#kbeauty", "#koreanskincare", "#skincare", "#viral"],
+        "hashtags": ["#KBeauty", "#KoreanSkincare", "#BeautyOfJoseon"],
         "engagement": "high",
         "sentiment": "positive",
-        "related_brands": ["Boots"]
+        "related_brands": ["Beauty of Joseon", "Sulwhasoo", "Boots"]
       }
     },
     {
-      "headline": "Dermatologists Push 'Skinimalism' - Less is More in Skincare",
-      "body": "Contrary to the 10-step routine craze, dermatologists are now advocating for simplified skincare. The message: overloading skin with too many products can cause more harm than good. This anti-trend is gaining traction as consumers seek minimalist, effective routines.",
-      "categories": ["Beauty & Skincare"],
+      "headline": "John Galliano x Zara 2-Year Collaboration",
+      "body": "John Galliano lands at Zara with a two-year collaboration, riffing on the brand's archives. This high-fashion meets fast-fashion partnership signals ongoing democratization of luxury design.",
+      "categories": ["Fashion & Apparel"],
       "source": "Web",
-      "source_url": "https://www.indiatvnews.com/lifestyle/beauty/skincare-routine-too-complicated-dermatologist-advice-2026-03-18-1034123",
-      "trend_type": "content_format",
+      "source_url": "https://wwd.com/",
+      "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#skinimalism", "#skincare", "#minimalism", "#dermatologist"],
+        "hashtags": ["#JohnGalliano", "#ZaraCollaboration", "#HighFashion"],
         "engagement": "high",
-        "sentiment": "mixed",
-        "related_brands": []
-      }
-    },
-    {
-      "headline": "TikTok Fashion Influencers Now Drive Mainstream Trends",
-      "body": "TikTok creators filming in their bedrooms can now put a look in front of millions within hours. The algorithm rewards personality over polish, making TikTok fashion feel more authentic and wearable than traditional fashion media. Viral outfits spread rapidly because they look like something real people would actually wear.",
-      "categories": ["Fashion & Apparel"],
-      "source": "Web",
-      "source_url": "https://www.fashiontimes.com/why-tiktok-fashion-influencers-now-decide-which-viral-outfits-actually-matter-13933",
-      "trend_type": "content_format",
-      "confidence_score": 0.90,
-      "relevance_score": 9,
-      "metadata": {
-        "hashtags": ["#fashion", "#ootd", "#style", "#fashiontok"],
-        "engagement": "very high",
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": ["Zara", "John Galliano"]
       }
     },
     {
-      "headline": "Frothy Cold Foams and Airy Milkshakes Dominate Beverage Trends",
-      "body": "Fluff has become essential in beverages - from frothy cold foams topping coffee drinks to airy milkshakes and smoothies. This textural trend is reshaping cafe menus and home beverage creation alike.",
-      "categories": ["Food & Beverage"],
-      "source": "Web",
-      "source_url": "https://www.restaurantbusinessonline.com/consumer-trends/3-viral-food-drink-trends-ready-rock-menus",
-      "trend_type": "product",
-      "confidence_score": 0.87,
+      "headline": "Fashion's 20-Year Cycle: Low-Rise Jeans Revival",
+      "body": "Mathematicians reveal women's fashion trends repeat every 20 years. Low-rise jeans, oversized belts, and bodycon dresses seeing revival. Creators leveraging retro nostalgia in styling content.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok | Instagram | Web",
+      "source_url": "https://www.dailymail.co.uk/sciencetech/article-15653305/Fashion-20-year-cycle-trends-low-rise-jeans.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#coffee", "#coldfoam", "#milkshake", "#foodtok"],
-        "engagement": "high",
+        "hashtags": ["#LowRiseJeans", "#FashionCycle", "#Y2K"],
+        "engagement": "medium",
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": ["Various Fashion Brands"]
       }
     },
     {
-      "headline": "Cottage Cheese with Mustard Goes Viral as High-Protein Snack",
-      "body": "The viral cottage cheese with mustard trend continues to have staying power according to Oura data. This high-protein, low-calorie snack has become a staple for health-conscious consumers, particularly women tracking functional wellness.",
+      "headline": "Soft Serve Margaritas Go Viral - Texas Restaurants Embrace Trend",
+      "body": "Soft serve margaritas trending nationwide after Ohio's La Playa Mexican Food sparked the trend. Bar & Bones in Dallas and Houston now serving the frozen margarita in soft-serve form. Nostalgic ice-cream texture meets classic drink.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok | Web",
+      "source_url": "https://www.houstonchronicle.com/food-restaurants/article/houston-soft-serve-margaritas-22073357.php",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#SoftServeMargarita", "#FoodTikTok", "#TexasEats"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["La Playa Mexican Food", "Bar & Bones"]
+      }
+    },
+    {
+      "headline": "Cottage Cheese with Mustard - Viral Food Trend with Staying Power",
+      "body": "Oura data reveals cottage cheese with mustard as a top 'unique' food log for women - a viral trend that has staying power. Functional wellness foods including spearmint tea and matcha dominating.",
       "categories": ["Food & Beverage", "Health & Fitness"],
       "source": "Web",
       "source_url": "https://ouraring.com/blog/global-food-trends/",
-      "trend_type": "viral_moment",
-      "confidence_score": 0.82,
-      "relevance_score": 7,
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#cottagecheese", "#highprotein", "#healthysnacks", "#wellness"],
-        "engagement": "medium",
+        "hashtags": ["#CottageCheese", "#FoodTrend", "#Wellness"],
+        "engagement": "high",
         "sentiment": "positive",
         "related_brands": ["Oura"]
       }
     },
     {
-      "headline": "Italian Brainrot and Corporate Jargon Trends Take Over TikTok",
-      "body": "March 2026's viral content formats include 'Italian brainrot' memes, old-school cartoon chase formats, and corporate jargon parodies. These trends are driving massive engagement with Gen Z audiences who appreciate absurdist humor.",
+      "headline": "TikTok Viral Workouts Analyzed by Science",
+      "body": "Greek publication analyzes viral TikTok fitness workouts and what science says about them. House burping trend for reducing virus transmission also trending. Fitness influencers driving engagement.",
       "categories": ["Health & Fitness"],
+      "source": "TikTok | Web",
+      "source_url": "https://www.shape.gr/fitness/tips-askisis/1018880/viral-gumnastiki-sto-tiktok-ti-leei-pragmatika-i-epistimi-gia-ta-pio-dimofili-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#TikTokFitness", "#ViralWorkout", "#HomeGym"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": ["Various Fitness Influencers"]
+      }
+    },
+    {
+      "headline": "Vitamin Deficiency Discovery by Dr. Eric Berg Goes Viral",
+      "body": "Dr. Eric Berg (2.3M followers, 30M likes) highlights bleeding gums as sign of vitamin deficiency. Health-focused TikTok content driving engagement around wellness education.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.ok.co.uk/lifestyle/fitness/bleeding-gums-could-sign-your-36880192",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#HealthTok", "#VitaminDeficiency", "#DrEricBerg"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Dr. Eric Berg"]
+      }
+    },
+    {
+      "headline": "Physical Wellness Market Booming - Wearables Drive Growth",
+      "body": "Physical wellness market booming worldwide. Adoption of wearable fitness devices and health tracking applications increasing rapidly. Peloton, Apple, Nike leading market growth.",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.openpr.com/news/4428218/physical-wellness-market-is-booming-worldwide-peloton-apple",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Wearables", "#FitnessTech", "#WellnessMarket"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Peloton", "Apple", "Nike"]
+      }
+    },
+    {
+      "headline": "Spirit Airlines Fort Lauderdale Chaos Goes Viral",
+      "body": "Spirit Airlines flight cancellations and delays at Fort Lauderdale sparked viral outrage on TikTok amid DHS shutdown, severe weather, and staffing shortages. Perfect honeymoon week ruined.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok | Web",
+      "source_url": "https://www.foxnews.com/travel/budget-airline-blasted-viral-video-perfect-honeymoon-week-ends-travel-chaos",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#SpiritAirlines", "#TravelChaos", "#FortLauderdale"],
+        "engagement": "very high",
+        "sentiment": "negative",
+        "related_brands": ["Spirit Airlines"]
+      }
+    },
+    {
+      "headline": "OPPO Find N6 Foldable Launch - March 17",
+      "body": "OPPO unveiling Find N6 foldable smartphone featuring redesigned hinge, 'Zero-Feel Crease' display technology, AI-powered stylus tools and flagship hardware.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.business-standard.com/technology/tech-news",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#OPPOFindN6", "#FoldablePhone", "#TechLaunch"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["OPPO"]
+      }
+    },
+    {
+      "headline": "Minecraft 'Biggest Bird' Sound Goes Viral",
+      "body": "Tied to Theo's catchphrase 'I'M THE BIGGEST BIRD,' the track went viral across TikTok. Honda Motorcycles and official Minecraft account joined in. Creators using for pet, parenting, fashion, and food content.",
+      "categories": ["Baby & Kids", "Pets"],
       "source": "TikTok",
       "source_url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
       "trend_type": "content_format",
-      "confidence_score": 0.88,
+      "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#italianbrainrot", "#corporate", "#meme", "#viral"],
+        "hashtags": ["#Minecraft", "#BiggestBird", "#TikTokSound"],
         "engagement": "very high",
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": ["Minecraft", "Honda"]
       }
     },
     {
-      "headline": "TikTok Design Trends Drive Furniture Buying Decisions",
-      "body": "Half of all furniture buyers now begin their inspiration phase on social platforms weeks or months before purchase. Design-adjacent hashtags regularly pull billions of cumulative views, making TikTok the new catalog for home design.",
-      "categories": ["Home & Lifestyle"],
-      "source": "Web",
-      "source_url": "https://www.elledecor.com/design-decorate/trends/a70591177/tiktok-interior-design-trends-2026/",
-      "trend_type": "content_format",
-      "confidence_score": 0.90,
-      "relevance_score": 9,
-      "metadata": {
-        "hashtags": ["#homedecor", "#interiordesign", "#hometok", "#design"],
-        "engagement": "high",
-        "sentiment": "positive",
-        "related_brands": []
-      }
-    },
-    {
-      "headline": "Sunshine Boy Trend Pairs Winter vs Summer Photo Carousels",
-      "body": "The 'Sunshine Boy' trend uses Rihanna's 'Kiss It Better' to drive seasonal photo comparisons. The format works for lifestyle, travel, or seasonal brands and has been approved for business use on TikTok.",
-      "categories": ["Home & Lifestyle"],
-      "source": "TikTok",
-      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
-      "trend_type": "content_format",
-      "confidence_score": 0.85,
-      "relevance_score": 7,
-      "metadata": {
-        "hashtags": ["#sunshineboy", "#wintervssummer", "#seasonal", "#lifestyle"],
-        "engagement": "high",
-        "sentiment": "positive",
-        "related_brands": []
-      }
-    },
-    {
-      "headline": "Loop Experience 2 Earplugs Become Viral Fashion Accessory",
-      "body": "The $35 Loop Experience 2 earplugs have maintained viral status as jewelry-like hearing protectors. They dampen sound without muffling it, making them popular for concerts and everyday wear. WIRED notes they deliver exactly what they promise.",
-      "categories": ["Tech & Gadgets"],
-      "source": "Web",
-      "source_url": "https://www.techbuzz.ai/articles/tiktok-s-most-hyped-gadgets-which-ones-actually-deliver",
-      "trend_type": "product",
-      "confidence_score": 0.86,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#earplugs", "#loop", "#tech", "#gadgets"],
-        "engagement": "high",
-        "sentiment": "positive",
-        "related_brands": ["Loop"]
-      }
-    },
-    {
-      "headline": "Smart Home Devices and Kitchen Tools Go Viral on TechTok",
-      "body": "2026 gadgets including smart appliances, kitchen tools, and home inventions are trending on TikTok's TechTok community. Consumers are seeking innovative products that solve everyday problems with style.",
-      "categories": ["Tech & Gadgets"],
-      "source": "TikTok",
-      "source_url": "https://www.tiktok.com/discover/latest-gadgets",
-      "trend_type": "product",
-      "confidence_score": 0.84,
-      "relevance_score": 7,
-      "metadata": {
-        "hashtags": ["#techtok", "#gadgets", "#smarthome", "#innovation"],
-        "engagement": "high",
-        "sentiment": "positive",
-        "related_brands": []
-      }
-    },
-    {
-      "headline": "MomCozy Bottle Sterilizer Goes Viral Among New Parents",
-      "body": "The MomCozy bottle sterilizer and dryer has become a TikTok must-have for new parents. This 3-layer space-saving device offers fast sterilization and drying, making it an essential baby gear item for 2026.",
-      "categories": ["Baby & Kids"],
-      "source": "TikTok",
-      "source_url": "https://www.tiktok.com/discover/viral-baby-products-2024",
-      "trend_type": "product",
-      "confidence_score": 0.87,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#babyproducts", "#momtok", "#newmom", "#babyessentials"],
-        "engagement": "high",
-        "sentiment": "positive",
-        "related_brands": ["MomCozy"]
-      }
-    },
-    {
-      "headline": "Honey Bear Straw Cup Remains Viral Baby Product Favorite",
-      "body": "The viral Honey Bear Straw Cup continues to dominate baby product recommendations on TikTok. This simple but effective tool helps babies transition to straw drinking and has been tested and approved by twin moms.",
-      "categories": ["Baby & Kids"],
-      "source": "Web",
-      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
-      "trend_type": "product",
-      "confidence_score": 0.85,
-      "relevance_score": 7,
-      "metadata": {
-        "hashtags": ["#babyproducts", "#feeding", "#toddlers", "#momlife"],
-        "engagement": "high",
-        "sentiment": "positive",
-        "related_brands": []
-      }
-    },
-    {
-      "headline": "Vapor Hair Comb for Pets Goes Viral on TikTok",
-      "body": "The vapor hair comb for pets is trending as the best grooming tool for 2026. This innovative device uses steam/vapor technology to detangle and smooth pet fur, making grooming sessions easier for both pets and owners.",
+      "headline": "Emotional Pet Content: Dog Realizes New Home Has Backyard",
+      "body": "Video of Barbie the apartment dog realizing she has a backyard after 3 years melts hearts on social media. 165 comments on TikTok. Pet content continuing to drive high engagement.",
       "categories": ["Pets"],
-      "source": "TikTok",
-      "source_url": "https://www.tiktok.com/discover/pet-products",
-      "trend_type": "product",
-      "confidence_score": 0.88,
+      "source": "TikTok | Web",
+      "source_url": "https://www.newsweek.com/moment-anxious-apartment-dog-realizes-new-home-backyard-viral-11685186",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#petproducts", "#dogs", "#cats", "#tiktokmademebuyit"],
+        "hashtags": ["#PetTikTok", "#DogTwitter", "#PetContent"],
         "engagement": "high",
         "sentiment": "positive",
         "related_brands": []
       }
     },
     {
-      "headline": "Flying Bird Toy Keeps Pets Active and Entertained",
-      "body": "The flying bird toy that flaps, spins, and soars through the air is trending among pet owners. This interactive toy keeps dogs and cats active, curious, and full of joy, solving the common problem of pet boredom.",
-      "categories": ["Pets"],
-      "source": "TikTok",
-      "source_url": "https://www.tiktok.com/discover/trending-pet-products",
+      "headline": "Natalie Portman Named Tiffany & Co. Ambassador",
+      "body": "Natalie Portman is Tiffany & Co.'s new ambassador. Sixteen Stone collection draws from designer Jean Schlumberger's archive work with cross-stitch pattern and mixed metal approach.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.fashiontimes.com/natalie-portman-tiffany-cos-new-ambassador-diamonds-are-worth-every-carat-13925",
       "trend_type": "product",
-      "confidence_score": 0.84,
+      "confidence_score": 0.9,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#pettoys", "#dogs", "#cats", "#petentertainment"],
+        "hashtags": ["#TiffanyAndCo", "#NataliePortman", "#LuxuryJewelry"],
         "engagement": "medium",
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": ["Tiffany & Co."]
+      }
+    },
+    {
+      "headline": "Kate Middleton's Rare Emerald Earrings for St. Patrick's Day",
+      "body": "Kate Middleton wore rarely seen $11,300 emerald and diamond earrings for St. Patrick's Day appearance. Forest green Alexander McQueen coat, Cornelia James gloves completes royal look.",
+      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.instyle.com/kate-middleton-rare-emerald-diamond-earrings-st-patricks-day-11928070",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#KateMiddleton", "#RoyalJewelry", "#StPatricksDay"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Alexander McQueen", "Tiffany & Co."]
       }
     }
   ]

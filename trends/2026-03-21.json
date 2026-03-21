@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-21",
+  "trends": [
+    {
+      "headline": "Blurred Lips Trend Takes Over Beauty Social Media",
+      "body": "The 'Blurred Lips' trend has taken the beauty world by storm, captivating millions across TikTok and Instagram Reels. This soft, diffused lip look creates a subtle,blurred effect around the lip line, creating a more natural, effortless appearance. Creators are using lip liners and concealers to achieve this look, which pairs well with minimal eye makeup.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok | Instagram",
+      "source_url": "https://ourhealtho.com/beauty-tips-insight-mar-20-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#blurredlips", "#lipsticktrend", "#beautytiktok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["KISS", "Velour", "Ardell"]
+      }
+    },
+    {
+      "headline": "Cobalt Blue Dominates Spring 2026 Fashion",
+      "body": "Cobalt blue is fashion's biggest color trend in 2026. Inspired by Yves Klein's signature shade, this vivid blue is appearing across runways, fast fashion, and street style. The color works across all garment categories from statement pieces to accessories.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com/fashion/cobalt-blue-klein-blue-color-fashion-trend-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cobaltblue", "#fashiontrends", "#spring2026"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Red Light Therapy Surges in Popularity",
+      "body": "Red light therapy is experiencing a massive popularity boost in 2026. Originally a dermatology staple, the technology has gone mainstream with at-home devices trending heavily on social media. Beauty creators are incorporating red light masks and wands into their daily routines.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok | Instagram | Web",
+      "source_url": "https://vitamagazine.com/2026/03/20/8-beauty-trends-defining-spring-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#redlighttherapy", "#skincaretreatment", "#at-home spa"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Declares 2026 the 'Year of Whimsy'",
+      "body": "TikTok trendsetters have declared 2026 the 'Year of Whimsy,' with this aesthetic permeating food, fashion, and lifestyle content. Playful, fantastical, and imaginative content is outperforming on the platform, with creators embracing cottagecore, fantasy, and surrealist visual elements.",
+      "categories": ["Food & Beverage", "Baby & Kids"],
+      "source": "TikTok | Web",
+      "source_url": "https://www.retailmenot.com/blog/trends-to-shop-for-spring.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#yearofwhimsy", "#whimsical", "#fantasycore"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Dopamine Dressing Fashion Trend Accelerates",
+      "body": "Amazon fashion data shows a significant increase in searches for 'dopamine dressing' - clothing designed to boost mood through bold colors and playful designs. This trend encompasses bright, cheerful pieces that bring joy to the wearer.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://travel-leisure.news-articles.net/content/2026/03/20/amazon-fashion-s-spring-2026-comfort-sustainability-vibrant-trends.html",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminedressing", "#boldfashion", "#colorfulclothing"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Amazon Fashion"]
+      }
+    },
+    {
+      "headline": "Bandanas Emerge as Unexpected Fashion Accessory",
+      "body": "Bandanas are trending as a fashion accessory in 2026, worn on heads, around necks, and as face coverings. This throwback trend has been revived by Gen Z and fashion-forward celebrities, appearing in both street style and high fashion contexts.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://cupofjo.com/2026/03/12/spring-trends-2026-fashion/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bandana", "#bandanafashion", "#headscarf"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "TikTok Launches Local Feed Feature",
+      "body": "TikTok launched Local Feed in February 2026, a feature designed to help users connect with their community and discover local events and updates. This represents a shift toward hyperlocal content discovery on the platform.",
+      "categories": ["Home & Lifestyle", "Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://en.wikipedia.org/wiki/TikTok",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#localfeed", "#tiktok", "#community"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["TikTok"]
+      }
+    },
+    {
+      "headline": "MWC 2026 Showcases Cutting-Edge Gadgets",
+      "body": "The Mobile World Congress 2026 in Barcelona showcased dozens of innovative gadgets and concepts from established and rising tech brands. Key themes include AI integration, sustainable tech, and next-generation mobile devices.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.maxim.com/partner/mwc-2026-the-coolest-gadgets-featured-at-global-tech-trade-show/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MWC2026", "#tech", "#gadgets"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "iPhone 17e Budget Model Coming 2026",
+      "body": "Apple's upcoming iPhone 17e is positioned as the budget-friendly iPhone option for 2026. This follows the company's strategy of offering more affordable variants to capture mid-range market share.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.gearpatrol.com/tech/best-new-tech-releases-3-8-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#iPhone17", "#Apple", "#budgetphone"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Apple"]
+      }
+    },
+    {
+      "headline": "Northern Lights Peak Due to Solar Maximum",
+      "body": "A once-in-a-decade solar maximum is causing the Northern Lights spectacle to peak, with optimal viewing along Norway's coast. This natural phenomenon is driving travel bookings to Scandinavian destinations.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.internationaltraveller.com/traveller/best-places-to-travel-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#northernlights", "#aurora", "#solar maximum"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Cool Climate Destinations Rise as Temperatures Increase",
+      "body": "Rising global temperatures are reshaping travel preferences, with destinations featuring cooler climates becoming more popular. Scandinavia and the Alps are seeing increased interest from travelers seeking relief from heat.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.thewomensjournal.co.uk/travel/travel-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#traveltrends", "#scandinavia", "#alps"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Sabbaticals Search Interest Reaches Breakout Status",
+      "body": "The term 'sabbaticals' has reached 'breakout' status on Google search in 2026, indicating growing interest in extended leave and travel experiences. This reflects a broader shift toward work-life balance and career breaks.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.thewomensjournal.co.uk/travel/travel-trends/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#sabbatical", "#travel", "#worklifebalance"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Gen Z Fashion: Authorship Over Imitation",
+      "body": "Spring 2026 Gen Z style reflects authorship rather than imitation - mixing Pinterest finds, thrifted pieces, celebrity references, and TikTok sounds into deeply personal aesthetic statements. Fashion has never moved this fast as Gen Z layers historical, digital, and personal references.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.runwaylive.com/gen-z-fashion-trends-2026-the-generation-redefining-fashion.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#genzfashion", "#style", "#fashiontrends"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Ring Stack Content Trending on Instagram Reels",
+      "body": "Jewelry brands are leveraging a trending Instagram Reels audio that works perfectly for showcasing ring stacks. Creators are showing off their ring collections by placing fingers down to the beat, driving engagement in the jewelry category.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Instagram",
+      "source_url": "https://www.scottsocialmarketing.com/blog/trending-audio-this-week-on-instagram",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#ringstack", "#jewelry", "#instagramreels"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Glass Skin Trend Continues to Dominate",
+      "body": "The glass skin trend continues to dominate global beauty standards in 2026, emphasizing smooth, hydrated, and glowing skin. Korean beauty products and techniques remain at the forefront of this trend.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok | Instagram | Web",
+      "source_url": "https://www.boulevardpetclinic.vet/skincare-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#glassskin", "#kbeauty", "#skincareroutine"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

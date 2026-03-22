@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-22",
+  "trends": [
+    {
+      "headline": "Mc Courgette Trend Explodes on TikTok France",
+      "body": "The 'Mc Courgette' trend has become the first major viral phenomenon of 2026 on TikTok in France. Content creators are showcasing a creative twist on McDonald's burgers with added zucchini, creating unique 'zucchini burger' variations that have flooded French TikTok feeds. This trend represents the continued popularity of viral fast food modifications and brand collaboration content.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://stephanelarue.com/tiktok-le-trend-mc-courgette-explose-en-france-premier-phenomene-viral-de-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#McCourgette", "#TikTokFrance", "#viral2026"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["McDonald's"]
+      }
+    },
+    {
+      "headline": "Butter Run - The New Fitness Challenge",
+      "body": "The 'Butter Run' is the latest viral fitness trend where runners attempt to turn whipping cream into butter while completing long distances, typically up to 20km. This bizarre challenge combines endurance running with a unique kitchen experiment, gaining traction as a viral fitness moment on social media.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://ecosistemastartup.com/que-es-el-butter-run-tendencia-fitness-y-viralidad-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ButterRun", "#FitnessChallenge", "#RunTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Liquid Microneedling - Skincare's Biggest Trend",
+      "body": "Microneedling serums and 'liquid microneedling' products are taking over the skincare industry in 2026. Being called 'microneedling in a bottle,' these products are generating massive buzz on social media for their at-home skin rejuvenation capabilities. Combined with the rise of exosomes and PDN (polydeoxyribonucleotide) in beauty products, advanced skincare tech is democratized for home use.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.beautybylaser.ca/22-32288-top-5-skin-care-trends-of-2026-2/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#LiquidMicroneedling", "#Microneedling", "#Skincare2026", "#BeautyTech"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Dalgona Coffee Still Dominates 2026",
+      "body": "Dalgona coffee, the whipped coffee craze that took the world by storm, continues to hold its own in 2026. This simple yet visually striking coffee drink remains a favorite for its easy preparation and satisfying texture, continuing to trend across TikTok, Instagram, and cafes worldwide.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.pouted.com/top-coffee-trends-worldwide/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#DalgonaCoffee", "#WhippedCoffee", "#CoffeeTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Satechi Foldable Stand Hub - New Tech Must-Have",
+      "body": "Satechi's new Foldable Stand Hub is the newest addition to their OntheGo collection of travel-friendly accessories for Apple gadgets. Designed for iPad Pro, iPad Air, and iPad mini (2021 and later), it combines a stand and hub in one foldable design, perfect for digital nomads and content creators.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.gearpatrol.com/audio/best-new-tech-releases-3-15-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Satechi", "#TechGadgets", "#iPadAccessories"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Satechi", "Apple"]
+      }
+    },
+    {
+      "headline": "Boy Kibble - Protein-Forward Viral Recipe",
+      "body": "The 'boy kibble' trend is a viral TikTok recipe phenomenon focusing on quick, protein-focused meals. Similar to 'protein fluff' and other high-protein convenience foods, this trend reflects the growing demand for quick, nutritious meals that fit busy lifestyles. It's becoming a template for quick, protein-focused content creation.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-mar-21-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BoyKibble", "#ProteinTok", "#FoodTok"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Lonely Planet's Best Travel Destinations 2026",
+      "body": "Lonely Planet releases their highly anticipated list of best travel destinations for 2026, featuring expertly curated adventures worldwide. This annual list drives significant travel inspiration content across Instagram, YouTube, and travel blogs.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.lonelyplanet.com/best-in-travel",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Travel2026", "#LonelyPlanet", "#Wanderlust"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Lonely Planet"]
+      }
+    },
+    {
+      "headline": "Hwahae Korean Beauty Rankings 2026",
+      "body": "Korea's beauty scene continues to lead global trends with Hwahae's 2026 rankings based on 10M+ real reviews. This comprehensive ranking showcases trending skincare and makeup products that Koreans truly trust, influencing beauty trends worldwide.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.hwahae.com/en/rankings?theme_id=5102",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#KoreanBeauty", "#SkincareRanking", "#KBeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Swavory - Sweet and Savory Food Trend",
+      "body": "The 'swavory' trend (sweet and savory flavor profiles) is gaining momentum in 2026. Food creators are blending unexpected sweet and savory combinations, creating viral content around innovative flavor experiments. This trend represents a shift toward more complex, boundary-pushing culinary content.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-mar-21-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Swavory", "#FoodTrend", "#FoodTok"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Minimalist Gadgets Trend in Tech",
+      "body": "The minimalist gadget trend continues to grow in 2026, with simple, functional tech items gaining popularity over over-designed alternatives. From simple alarm clocks to warm table lamps, consumers are gravitating toward purposeful, uncomplicated technology.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.bgr.com/2125619/best-gadgets-for-minimalists/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#MinimalistTech", "#Gadgets", "#SimpleTech"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Dubai Chocolate Trend Continues",
+      "body": "The Dubai chocolate phenomenon that caused ingredient shortages continues to influence food trends in 2026. Content creators are still capitalizing on this trend with recreations and variations, showing the lasting power of viral food moments.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/cooking-recipes-insight-mar-21-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.70,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#DubaiChocolate", "#FoodTrend", "#ChocolateTikTok"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Proffee - Protein Coffee Viral Drink",
+      "body": "Protein powder in coffee, known as 'proffee,' continues to rise as a trending drink combining caffeine with protein. This trend appeals to fitness-conscious consumers looking for convenient protein intake, popular on TikTok and in cafes.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.pouted.com/top-coffee-trends-worldwide/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Proffee", "#ProteinCoffee", "#CoffeeTok", "#FitnessFood"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    }
+  ]
+}

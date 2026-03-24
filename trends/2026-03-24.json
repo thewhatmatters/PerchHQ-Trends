@@ -1,0 +1,469 @@
+{
+  "batch_id": "trends-2026-03-24",
+  "scraped_at": "2026-03-24T10:00:00Z",
+  "expires_at": "2026-03-27T10:00:00Z",
+  "trends": [
+    {
+      "headline": "PDRN Salmon Sperm Serums Go Mainstream in K-Beauty",
+      "body": "PDRN (polydeoxyribonucleotide), derived from salmon sperm, has gone viral for its regenerative, collagen-boosting properties. Originally a professional clinic treatment, it has rapidly expanded into at-home K-beauty serums, becoming one of the most searched skincare ingredients of 2026.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#salmonsperm", "#kbeauty", "#collagenboost"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "Medicube"],
+        "context": "K-beauty ingredient trend crossing into mainstream",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "K-Beauty Spicules - Liquid Microneedling in a Bottle",
+      "body": "K-beauty spicules are being hailed as 'microneedling in a bottle' and gaining massive viral attention on TikTok and Instagram. These at-home treatments promise microneedling-like results without the needles, appealing to skincare enthusiasts seeking professional results at home.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#spicules", "#liquidmicroneedling", "#kbeauty", "#skincaretok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "At-home skincare innovation from K-beauty",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Rhode Caffeine Reset Goes Instantly Viral",
+      "body": "Rhode's new Caffeine Reset product is immediately viral upon release, with users reporting visibly tighter skin when applied in the morning before makeup. Mary Phillips' brand M.ph is also generating massive buzz as the new It-girl beauty brand.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Instagram",
+      "source_url": "https://www.whowhatwear.com/beauty/fashion-editor-buzzy-beauty-product-picks-2026",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Rhode", "#CaffeineReset", "#Mph", "#morningroutine"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Rhode", "M.ph"],
+        "context": "Celebrity beauty brand product launch",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yves Klein Blue Takes Over Spring Fashion",
+      "body": "Yves Klein Blue, the bold hue attributed to '60s artist Yves Klein, is showing up everywhere in spring 2026 fashion—from head-to-toe looks to electric pops against spring neutrals. Vibrant colors are dominating runways and street style alike.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/spring/viral-spring-2026-items",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#YvesKleinBlue", "#spring2026", "#colortrend", "#fashiontrends"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Spring 2026 color trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Glamoratti Aesthetic - Sculptured Power Dressing Returns",
+      "body": "The Glamoratti aesthetic features baggy, sculpted-shoulder suits, dramatic funnel necks, and chunky gold accessories. Vintage-style heirloom brooches are also trending, pinned on blazers, scarves, bags, and slip dresses for a personal touch.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://parade.com/shopping/major-fashion-trends-shopping-roundup-march-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Glamoratti", "#powerdressing", "#brooches", "#vintagestyle"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Spring 2026 silhouette and accessories trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Black Currant Named 2026 It Flavor by McCormick",
+      "body": "McCormick predicted black currant as the 'it' flavor of 2026, and it's now trending on menus and in home kitchens globally. Meanwhile, guava is gaining popularity across savory foods, desserts, and beverages, reflecting growing demand for bold global flavors.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.foodnetwork.com/fn-dish/news/food-network-food-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#blackcurrant", "#flavortrend", "#guava", "#foodtrends2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["McCormick"],
+        "context": "Global flavor trend for 2026",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-Protein Everything - Protein Lattes and Bowls Go Mainstream",
+      "body": "Protein continues to dominate food trends in 2026. The Coffee Bean & Tea Leaf launched Protein Lattes, Caribou Coffee added high-protein breakfast bowls, and air fryer dump-and-bake high-protein recipes are going viral on TikTok.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#highprotein", "#proteinlatte", "#airfryer", "#foodtok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coffee Bean & Tea Leaf", "Caribou Coffee"],
+        "context": "Health-conscious convenience food trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Swavory Flavor Profiles Take Over Snack Culture",
+      "body": "Sweet-and-savory (swavory) combinations are gaining massive popularity in 2026 snack culture. Rising options include black garlic, black sesame, and fermented fruits like dried plum with chili, reflecting consumers' appetite for complex, bold flavor profiles.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://abcnews.go.com/GMA/Food/early-taste-2026-food-trends-flavor-predictions-popped/story?id=128425487",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#swavory", "#snacktrends", "#blackgarlic", "#fermentedfoods"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Flavor innovation in snack category",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Walking Goes Viral with 2986% Search Surge",
+      "body": "Japanese walking saw a staggering 2,986% surge in interest according to PureGym's annual fitness report, making it one of the fastest-growing fitness trends of 2026. Other walking trends on the rise include the 6-6-6 walking challenge and walking yoga (up 2,414%).",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#japanesewalking", "#walkingtrend", "#666challenge", "#walkingyoga"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["PureGym"],
+        "context": "Viral fitness movement with massive search growth",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Longevity Training Replaces Aesthetic-Focused Fitness",
+      "body": "2026 marks a major shift in fitness culture: people are stopping exercising for looks and starting training for life. A Wakefield Research survey found 60% of Americans now cite longevity and healthy aging as their top fitness motivator, driving demand for hybrid training combining strength, cardio, and mobility.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.goldsgym.com/blog/2026-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#longevity", "#trainforlife", "#hybridtraining", "#healthyaging"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Gold's Gym"],
+        "context": "Cultural shift in fitness motivation",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Swan Motif Becomes 2026's Viral Home Decor Symbol",
+      "body": "Swans are to 2026 what owls were to 2010. The elegant bird motif is appearing everywhere from major retailers to independent shops, showing up in ceramics, textiles, and wall art. This is paired with a broader return to whimsical, expressive home styling.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://stylebyemilyhenderson.com/11-decor-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#swandecor", "#homedecor2026", "#interiortrends"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Animal motif trend in home decor",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Dopamine Decor and Bold Color Kitchens Take Over",
+      "body": "Electric blue and bright lime green kitchen cabinets are appearing in serious design magazines, hot pink dining rooms are becoming a thing, and mood-boosting dopamine decor continues from last year's Brat-girl green trend. Wall plate displays are also trending across every room.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.idealhome.co.uk/all-rooms/home-decor-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminedecor", "#boldkitchen", "#colorfulhome", "#wallplates"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Bold color movement in interior design",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Samsung Galaxy Z TriFold and Foldable Phones Lead 2026 Tech",
+      "body": "Foldable phones are the hottest tech category in 2026, led by the Samsung Galaxy Z TriFold which extends smartphones into full tablet territory. The broader shift is toward AI that lives on your device, with health tech and personality-driven hardware gaining ground.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://thegadgetflow.com/blog/top-tech-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#foldablephone", "#GalaxyZTriFold", "#techtrends2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Samsung"],
+        "context": "Foldable phone evolution",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Home Robots Finally Do Real Chores in 2026",
+      "body": "CES 2026 showcased home robots with real dexterity designed to assist with laundry, kitchen tasks, and elder care. IKEA also debuted smart home products including an updated version of the viral Varmblixt doughnut lamp by Sabine Marcelis.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.dezeen.com/2026/01/09/ten-gadgets-that-caught-our-attention-at-ces-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#homerobot", "#CES2026", "#smarthome", "#IKEA"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["IKEA", "Samsung"],
+        "context": "CES 2026 home robotics breakthrough",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Analog Parenting and Throwback Kid Trend Surges",
+      "body": "Going analog is a major 2026 parenting movement. Families are embracing board games, puzzles, landlines, and VHS players to reduce screen time. Pinterest reports 'vintage baby clothes 90s' searches up 600% and '1970s childhood toys' up 200%.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://newsroom.pinterest.com/news/parenting-trend-report-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#analogparenting", "#throwbackkid", "#vintagetoys", "#screenfreekids"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tonie Box", "Yoto Player"],
+        "context": "Pinterest parenting trend report 2026",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "De-Influencing Hits Parenting - Second-Hand Baby Gear Soars",
+      "body": "The de-influencing movement has reached parenting, with new moms leaving behind Pinterest-perfect nurseries and opting for second-hand baby gear through community groups. Eco-friendly baby care with organic cotton and non-toxic materials is now a non-negotiable for many parents.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://theeverymom.com/parenting-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#deinfluencing", "#secondhandbaby", "#ecobaby", "#sustainableparenting"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sustainability in parenting culture",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Automatic Litter Boxes Hit Half-Billion Dollar Market",
+      "body": "Self-cleaning automatic litter boxes are generating over half a billion dollars in annual global revenue, with odor control for weeks. Cat furniture resembling human sofas is fueling TikTok trends, and pet POV content has generated over 25 million views per video.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#autolitterbox", "#catfurniture", "#petPOV", "#pettok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Pet tech and viral pet content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Reusable Pet Hair Removers Go Viral with Before-After Videos",
+      "body": "Reusable pet hair remover rollers are one of the top viral pet products on TikTok, driven by dramatic before-and-after visuals. GPS collars, smart feeders, and pet health wearables are also trending among convenience-focused pet owners.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pethairremover", "#tiktokmademebuyit", "#petgadgets"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral TikTok pet product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "World of Frozen Opens at Tokyo DisneySea March 29",
+      "body": "The World of Frozen officially opens March 29, 2026 at Tokyo DisneySea, already generating massive social media buzz with its free-roaming robot Olaf. Taiwan is also trending as a travel destination—cheaper than Japan, easier than China, and blowing up on TikTok.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.klook.com/blog/exciting-destinations-to-visit/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#WorldofFrozen", "#TokyoDisneySea", "#robotOlaf", "#TravelTikTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Disney", "Klook"],
+        "context": "Major theme park opening this week",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Madeira and Taiwan Top 2026 Trending Destinations",
+      "body": "Tripadvisor names Madeira, Portugal as the world's top trending destination for 2026. Taiwan is blowing up on TikTok as an affordable alternative to Japan. Overall, travelers are trading overdone tourist spots for fresh destinations offering space, culture, and authenticity.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.timeout.com/news/the-top-trending-travel-destinations-for-2026-according-to-tripadvisor-022026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Madeira", "#Taiwan", "#traveltrends2026", "#hiddengems"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tripadvisor", "Expedia"],
+        "context": "Alternative destinations trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist Beaded Jewelry and Sculptural Cuffs Dominate 2026",
+      "body": "Jewelry in 2026 is all about maximalism, with beaded jewelry, sculptural cuffs, and chunky bombé rings leading the trend. Colorful gemstones are replacing neutral diamonds as fashion lovers gravitate toward pieces that tell a story.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://fashionista.com/2026/02/jewelry-accessories-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#beadedjewelry", "#sculpturalcuffs", "#maximalistjewelry", "#bombeRing"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Khaite", "Tiffany & Co.", "Susan Alexandra"],
+        "context": "Maximalism movement in jewelry",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Statement Earrings and Ear Cuffs Make Bold 80s Comeback",
+      "body": "Brands like Khaite and Heaven Mayhem are driving an '80s statement earring revival. Ear cuffs are back bigger and bolder than ever, with modern takes incorporating sharp silhouettes and chunky proportions. Layering and stacking jewelry is the highlight of the season.",
+      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "source": "Instagram",
+      "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-jewelry-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#statementearrings", "#earcuffs", "#80sfashion", "#layeredjewelry"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Khaite", "Heaven Mayhem"],
+        "context": "80s jewelry revival in spring 2026",
+        "price_point": "various"
+      }
+    }
+  ]
+}

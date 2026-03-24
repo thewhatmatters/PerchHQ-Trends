@@ -648,7 +648,7 @@
         "sentiment": "positive",
         "related_brands": [],
         "context": "Valentine's Day seasonal",
-        "price_point": null
+        "price_point": "various"
       }
     },
     {
@@ -675,7 +675,7 @@
         "sentiment": "positive",
         "related_brands": [],
         "context": "product marketing",
-        "price_point": null
+        "price_point": "various"
       }
     },
     {
@@ -703,7 +703,7 @@
         "sentiment": "positive",
         "related_brands": [],
         "context": "workplace content",
-        "price_point": null
+        "price_point": "various"
       }
     },
     {
@@ -734,7 +734,7 @@
           "Netflix"
         ],
         "context": "entertainment crossover",
-        "price_point": null
+        "price_point": "various"
       }
     },
     {

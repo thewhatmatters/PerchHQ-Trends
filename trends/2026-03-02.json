@@ -1,228 +1,404 @@
 {
-  "date": "2026-03-02",
+  "batch_id": "trends-2026-03-02",
+  "scraped_at": "2026-03-02T10:00:00Z",
+  "expires_at": "2026-03-05T10:00:00Z",
   "trends": [
     {
       "headline": "Boy Kibble - Gen Z's Protein-Packed Minimalist Meal",
       "body": "Gen Z men are embracing 'boy kibble' - a simple combination of ground beef and rice - as a cheap, high-protein meal. Some eat it up to 7 times weekly for muscle building. The trend is the male-coded equivalent of 'girl dinner' from 2023. Fitness influencers promote it as a reliable protein source, with RFK Jr.'s new nutritional guidelines adding fuel to the protein craze. Despite rising beef costs ($6.75/lb, up 22% YoY), the minimal approach skips what users consider 'unnecessary' purchases.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "TikTok",
       "source_url": "https://fortune.com/2026/03/01/what-is-boy-kibble-tiktok-trend-beef-rice-rfk-jr/",
       "trend_type": "viral_moment",
       "confidence_score": 0.92,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#boykibble", "#proteinmaxxing", "#foodtok"],
-        "engagement": "very high",
+        "hashtags": [
+          "#boykibble",
+          "#proteinmaxxing",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["Dunkin", "Doritos"]
+        "related_brands": [
+          "Dunkin",
+          "Doritos"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Tired Girl Makeup - Prada Fall 2026 Runway to TikTok",
       "body": "Prada's Fall 2026 show transformed 'tired girl makeup' from TikTok trend to high fashion. Bella Hadid closed the show with hollowed eyes, sheer skin, and minimal structure - dubbed 'glam exhaustion'. Within 24 hours, TikTok recreations surpassed 2 million views. The look amplifies fatigue as a feature rather than flaw, resonating with generation shaped by burnout. Fashion editors note 2026 trends shift toward comfortable, versatile pieces with touches of femininity.",
-      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "categories": [
+        "Beauty & Skincare",
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://runwaylive.com/tired-girl-makeup-goes-runway-at-prada-fall-2026.html",
       "trend_type": "viral_moment",
       "confidence_score": 0.95,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#tiredgirlmakeup", "#pradafall2026", "#glamexhaustion"],
-        "engagement": "very high",
+        "hashtags": [
+          "#tiredgirlmakeup",
+          "#pradafall2026",
+          "#glamexhaustion"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Prada"]
+        "related_brands": [
+          "Prada"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
-      "headline": "Pokémon's 30th Anniversary - Individual Logos for 1000+ Characters",
-      "body": "Pokémon celebrates its 30th anniversary with unique logos designed for each of the 1,000+ Pokémon characters. The campaign has sparked massive fan-generated content, with users sharing their favorite logos across social media. This nostalgic marketing keeps users emotionally attached to the brand by leveraging identity and storytelling. Fan content continues to go viral as collectors celebrate their favorite monsters.",
-      "categories": ["Fashion & Apparel", "Home & Lifestyle"],
+      "headline": "Pok\u00e9mon's 30th Anniversary - Individual Logos for 1000+ Characters",
+      "body": "Pok\u00e9mon celebrates its 30th anniversary with unique logos designed for each of the 1,000+ Pok\u00e9mon characters. The campaign has sparked massive fan-generated content, with users sharing their favorite logos across social media. This nostalgic marketing keeps users emotionally attached to the brand by leveraging identity and storytelling. Fan content continues to go viral as collectors celebrate their favorite monsters.",
+      "categories": [
+        "Fashion & Apparel",
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://community.designtaxi.com/topic/23967-pok%C3%A9mon-turns-30-and-gives-every-monster-its-own-logo%E2%80%94all-1000-of-them/",
       "trend_type": "viral_moment",
       "confidence_score": 0.88,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#pokemon30", "#pokemonanniversary"],
-        "engagement": "very high",
+        "hashtags": [
+          "#pokemon30",
+          "#pokemonanniversary"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Nintendo", "The Pokemon Company"]
+        "related_brands": [
+          "Nintendo",
+          "The Pokemon Company"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Studio Ghibli's Kiki's Delivery Service IMAX Release",
       "body": "Studio Ghibli's beloved 'Kiki's Delivery Service' received its first IMAX remaster, igniting nostalgic reviews, cosplay tributes, and fan art globally. The release has sparked watch parties and themed content across TikTok and YouTube. This cultural moment connects with both older fans sharing childhood memories and new viewers experiencing the classic anime. Content creators are capitalizing with reviews, reactions, and Ghibli-inspired art.",
-      "categories": ["Entertainment", "Travel & Hospitality"],
+      "categories": [
+        "Entertainment",
+        "Travel & Hospitality"
+      ],
       "source": "TikTok",
       "source_url": "https://blog.mean.ceo/viral-trends-on-social-media-march-2026/",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#kikisdeliveryservice", "#ghibli", "#imax", "#anime"],
-        "engagement": "high",
+        "hashtags": [
+          "#kikisdeliveryservice",
+          "#ghibli",
+          "#imax",
+          "#anime"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Studio Ghibli", "GKIDS"]
+        "related_brands": [
+          "Studio Ghibli",
+          "GKIDS"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Met Gala 2026 - Fashion as Fine Art Theme",
       "body": "Met Gala 2026's theme explores 5,000 years of fashion as fine art, challenging celebrities to interpret historical eras through surrealist couture. Early teasers have sparked debates about cultural appropriation, originality, and whether fashion can be timeless art. The exclusive nature of Met Gala drives massive social media engagement as audiences speculate on interpretations. Designers and influencers share bold visual interpretations building anticipation.",
-      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "categories": [
+        "Fashion & Apparel",
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://blog.mean.ceo/viral-trends-on-social-media-march-2026/",
       "trend_type": "viral_moment",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#metgala2026", "#fashionasart"],
-        "engagement": "high",
+        "hashtags": [
+          "#metgala2026",
+          "#fashionasart"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["Met Museum", "Vogue"]
+        "related_brands": [
+          "Met Museum",
+          "Vogue"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Sustainable Biodegradable Beauty Products",
       "body": "Innova Market Insights shows 14% compound annual growth in beauty product launches with biodegradable ingredients (Oct 2020 - Sep 2025). Mascara leads category, with face foundations/illuminators gaining ground. Nearly 2/3 of launches with biodegradable ingredients have long-lasting claims. Sustainability remains a key 2026 trend as consumers prioritize clean label and natural ingredients. Beauty creators increasingly emphasize eco-friendly formulations.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.personalcareinsights.com/personalcare-focus/the-future-of-fragrance.html",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#sustainablebeauty", "#cleanbeauty", "#biodegradable"],
-        "engagement": "high",
+        "hashtags": [
+          "#sustainablebeauty",
+          "#cleanbeauty",
+          "#biodegradable"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Asda Polka Dot Denim Set Goes Viral",
-      "body": "Asda's £42 matching outfit inspired by the polka dot peplum denim blouse and wide leg jeans trend has gone viral on TikTok. The affordable fashion piece (Blouse: £20, Jeans: £22) resonates with budget-conscious Gen Z shoppers. TikTok users love the nostalgic polka dot pattern combined with modern silhouette. Fast fashion retailers are seeing success with affordable dupes of viral trends.",
-      "categories": ["Fashion & Apparel"],
+      "body": "Asda's \u00a342 matching outfit inspired by the polka dot peplum denim blouse and wide leg jeans trend has gone viral on TikTok. The affordable fashion piece (Blouse: \u00a320, Jeans: \u00a322) resonates with budget-conscious Gen Z shoppers. TikTok users love the nostalgic polka dot pattern combined with modern silhouette. Fast fashion retailers are seeing success with affordable dupes of viral trends.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.getsurrey.co.uk/whats-on/shopping/asdas-sensational-42-outfit-inspired-33496599",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#polkadot", "#denimtrend", "#asda"],
-        "engagement": "high",
+        "hashtags": [
+          "#polkadot",
+          "#denimtrend",
+          "#asda"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Asda"]
+        "related_brands": [
+          "Asda"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Chinese Wellness Traditions Go Viral on TikTok",
       "body": "TikTok's hottest wellness trend involves Gen Z following Chinese wellness routines and traditional Chinese health practices. Millions of views from non-Chinese users trying generations-old wellness routines. Creators frame it as 'cultural appreciation' rather than appropriation. The trend includes traditional Chinese medicine concepts, herbal remedies, and holistic health approaches gaining Western traction.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.dailywire.com/news/i-followed-tiktoks-hottest-wellness-trend-for-a-week-heres-what-happened",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#chinesetraditionalwellness", "#wellnesstrend"],
-        "engagement": "high",
+        "hashtags": [
+          "#chinesetraditionalwellness",
+          "#wellnesstrend"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Spin Mops and Home Cleaning Products Trending",
       "body": "Spin mops trending on TikTok as creators show comparison videos demonstrating how traditional mops push dirty water around while spin mops actually absorb and remove it. Reusable cleaning products gaining traction with viral product reviews. The ChomChom roller remains a top-selling reusable pet hair remover, with TikTok driving continued sales years after initial viral moment.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "TikTok",
       "source_url": "https://www.hostinger.com/ca/tutorials/trending-products",
       "trend_type": "product",
       "confidence_score": 0.72,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#spinmop", "#homeorganization", "#tiktokmademebuyit"],
-        "engagement": "medium",
+        "hashtags": [
+          "#spinmop",
+          "#homeorganization",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["ChomChom"]
+        "related_brands": [
+          "ChomChom"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Lace and Satin - Pretty Denim Trends for 2026",
       "body": "Fashion editors highlight lace, fringe, and satin details as trending additions to denim in 2026. These feminine embellishments transform basic jeans into statement pieces. The trend aligns with 2026's shift toward comfortable, versatile pieces with touches of femininity. Creators style denim with satin tops or lace accents for date night looks.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://www.whowhatwear.com/fashion/dated-fashion-trends-spring-2026",
       "trend_type": "content_format",
-      "confidence_score": 0.70,
+      "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#lacetrend", "#satinfashion", "#denimstyle"],
-        "engagement": "medium",
+        "hashtags": [
+          "#lacetrend",
+          "#satinfashion",
+          "#denimstyle"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Cycling Sunglasses Trend on TikTok",
       "body": "Cycling sunglasses emerging as a trending fashion accessory on TikTok, blending sport functionality with street style. Creators showcase cycling glasses as everyday fashion statements, not just athletic gear. The trend intersects with the broader Y2K revival and retro sport aesthetic gaining popularity.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/cycling-sunglass-trend",
       "trend_type": "product",
       "confidence_score": 0.68,
       "relevance_score": 5,
       "metadata": {
-        "hashtags": ["#cyclingsunglasses", "#sunglasstrend", "#sportystyle"],
-        "engagement": "medium",
+        "hashtags": [
+          "#cyclingsunglasses",
+          "#sunglasstrend",
+          "#sportystyle"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "MWC 2026 Weird Gadgets - AI Devices with Lasers",
       "body": "Mobile World Congress 2026 showcased wild concept phones (wearable bracelet phones) and weird AI gadgets packed with lasers. Products that impressed attendees now face questions about actual market availability. Tech creators on TikTok and YouTube document which futuristic concepts actually ship vs. stay concept-only.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.cnet.com/tech/mobile/i-was-wowed-by-these-mwc-phones-and-gadgets-but-where-are-they-now/",
       "trend_type": "product",
       "confidence_score": 0.65,
       "relevance_score": 5,
       "metadata": {
-        "hashtags": ["#mwc2026", "#techtrends", "#gadgets"],
-        "engagement": "medium",
+        "hashtags": [
+          "#mwc2026",
+          "#techtrends",
+          "#gadgets"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "48-Hour Rule Anti-Consumption Movement",
       "body": "The 48-hour rule for purchases goes viral as creators share month-long experiments saving money by waiting 48 hours before buying non-essential items. The trend resonates with 2026 focus on mindful consumption over impulse buying. Creators document savings and reduced clutter from resisting Instagram and TikTok ads.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://www.goodhousekeeping.com/life/a70423139/i-tried-the-48-hour-rule-to-save-money/",
       "trend_type": "viral_moment",
-      "confidence_score": 0.70,
+      "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#48hourrule", "#anticonsumption", "#savemoney"],
-        "engagement": "medium",
+        "hashtags": [
+          "#48hourrule",
+          "#anticonsumption",
+          "#savemoney"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Jewelry Customization and Personalization",
       "body": "Jewelry customization service market gaining momentum as consumers increasingly seek personalized and ethically crafted adornments. Technology advances and evolving consumer preferences driving sector growth. Creators in jewelry space promoting custom pieces, birthstone jewelry, and personalized engravings as unique gift options.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.openpr.com/news/4408968/global-trends-overview-the-rapid-evolution-of-the-jewelry",
       "trend_type": "product",
       "confidence_score": 0.72,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#customjewelry", "#personalizedjewelry", "#ethicaljewelry"],
-        "engagement": "medium",
+        "hashtags": [
+          "#customjewelry",
+          "#personalizedjewelry",
+          "#ethicaljewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     }
   ]

@@ -1,340 +1,592 @@
 {
-  "date": "2026-03-04",
+  "batch_id": "trends-2026-03-04",
+  "scraped_at": "2026-03-04T10:00:00Z",
+  "expires_at": "2026-03-07T10:00:00Z",
   "trends": [
     {
       "headline": "AI-Powered Beauty Tools and Personalized Skincare",
       "body": "AI-driven beauty tools, personalized skincare subscription boxes, and virtual makeup try-on filters are trending across Instagram, YouTube, and TikTok. Influencers and brands are showcasing AI-powered skin diagnostic tools that analyze skin conditions and recommend customized products.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://ourhealtho.com/beauty-tips-insight-mar-03-2026/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#beautytech", "#aiskincare", "#personalizedbeauty"],
-        "engagement": "high",
+        "hashtags": [
+          "#beautytech",
+          "#aiskincare",
+          "#personalizedbeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["ILIA", "Valentino", "Sonsie"]
+        "related_brands": [
+          "ILIA",
+          "Valentino",
+          "Sonsie"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "February 2026 Most-Purchased Beauty Products",
       "body": "NewBeauty readers' most-purchased products of February 2026 reveal trending makeup, skin, fragrance, and body products. Top brands include ILIA, Valentino, and Sonsie, with a focus on clean beauty and luxury fragrances.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.newbeauty.com/newbeauty-readers-most-popular-beauty-products-february-2026/",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#beautyfavorites", "#newbeauty", "#skincareroutine"],
-        "engagement": "high",
+        "hashtags": [
+          "#beautyfavorites",
+          "#newbeauty",
+          "#skincareroutine"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["ILIA", "Valentino", "Sonsie"]
+        "related_brands": [
+          "ILIA",
+          "Valentino",
+          "Sonsie"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok Made Me Buy It - Budget Beauty Products",
       "body": "Viral TikTok beauty product recommendations continue to drive sales, with budget-friendly mascaras and drugstore finds trending. Users are sharing affordable products that deliver expensive-looking results.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.buzzfeed.com/karlyjacklin/beauty-products-if-you-dont-know-what-youre-doing-an",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#tiktokmademebuyit", "#drugstorebeauty", "#affordablebeauty"],
-        "engagement": "high",
+        "hashtags": [
+          "#tiktokmademebuyit",
+          "#drugstorebeauty",
+          "#affordablebeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Video Diaries as New Fashion Portfolios",
       "body": "Video diaries are becoming the new fashion portfolio, with creators documenting their daily outfits, style transitions, and fashion inspiration through short-form video content on TikTok and Instagram Reels.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://www.fashionabc.org/are-video-diaries-becoming-the-new-fashion-portfolio/",
       "trend_type": "content_format",
       "confidence_score": 0.7,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#fashiondiary", "#outfitoftheday", "#styleinspiration"],
-        "engagement": "medium",
+        "hashtags": [
+          "#fashiondiary",
+          "#outfitoftheday",
+          "#styleinspiration"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Viral TikTok Dating Foods",
       "body": "Food content continues to dominate TikTok with creators remaking viral dating food trends at home. Popular formats include date night recipes, couple cooking challenges, and 'romantic dinner' content.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "YouTube",
       "source_url": "https://www.youtube.com/watch?v=_PIF_eeMkYg",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#foodtok", "#daterecipe", "#viralfood"],
-        "engagement": "high",
+        "hashtags": [
+          "#foodtok",
+          "#daterecipe",
+          "#viralfood"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Keith Lee Restaurant Investment",
       "body": "TikTok food star Keith Lee invests in restaurant after years of viral food reviews. His investment highlights the trend of content creators moving into food entrepreneurship.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "Web",
       "source_url": "https://www.dexerto.com/tiktok/tiktok-star-keith-lee-invests-in-restaurant-after-years-of-viral-food-reviews-3328395/",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#keithlee", "#foodreview", "#restaurant"],
-        "engagement": "high",
+        "hashtags": [
+          "#keithlee",
+          "#foodreview",
+          "#restaurant"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Crispy Recipes Trending on TikTok",
       "body": "Crispy recipes continue to go viral, with crispy rice salad, crispy sushi cups, and other crunchy food content performing well. ASMR-style cooking videos with satisfying crisp sounds are particularly popular.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "YouTube",
       "source_url": "https://www.youtube.com/watch?v=UoUvjR_GTJM",
       "trend_type": "content_format",
       "confidence_score": 0.75,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#crispyrecipe", "#foodtok", "#asmrcooking"],
-        "engagement": "high",
+        "hashtags": [
+          "#crispyrecipe",
+          "#foodtok",
+          "#asmrcooking"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Gym Looks and Fitness Content",
       "body": "Fitness influencers are dominating TikTok with gym aesthetic content, 'fit checks', and transformation content. The intersection of fitness and fashion continues to grow with creators showcasing workout outfits.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://stormy.ai/discover/tiktok/gym-looks-maxing-health-influencers",
       "trend_type": "content_format",
       "confidence_score": 0.7,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#gymlooks", "#fitcheck", "#fitnesstok"],
-        "engagement": "high",
+        "hashtags": [
+          "#gymlooks",
+          "#fitcheck",
+          "#fitnesstok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "2026 Fitness Trends",
       "body": "Key fitness trends for 2026 include new workout formats, boutique fitness experiences, and technology-integrated training. Creators are exploring innovative fitness content beyond traditional workout videos.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://www.lesmills.fr/2026-en-7-tendances-cles-ces-evolutions-du-fitness-que-vous-navez-peut-etre-pas-vu-venir/",
       "trend_type": "content_format",
       "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#fitness2026", "#fitnesstrends", "#workout"],
-        "engagement": "medium",
+        "hashtags": [
+          "#fitness2026",
+          "#fitnesstrends",
+          "#workout"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Les Mills"]
+        "related_brands": [
+          "Les Mills"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Bold Ceiling Design in Home Decor",
       "body": "Bold paint colors on ceilings and ceiling wallpaper are trending in 2026 interior design. Creators are showcasing dramatic ceiling transformations as a way to add visual interest to spaces.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://sdvoice.info/furniture-stores-in-texas/",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#boldhome", "#ceilingdesign", "#interiordesign"],
-        "engagement": "medium",
+        "hashtags": [
+          "#boldhome",
+          "#ceilingdesign",
+          "#interiordesign"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Bolster Pillows Trending in Home Decor",
       "body": "Decorative bolster pillows have emerged as a must-have accessory in modern interiors in 2026. Home decor creators are showcasing these cylindrical pillows in bedroom and living room styling videos.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://www.smart-article.com/why-is-a-bolster-pillow-trending-in-2026/",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#bolsterpillow", "#homedecor", "#home styling"],
-        "engagement": "high",
+        "hashtags": [
+          "#bolsterpillow",
+          "#homedecor",
+          "#home styling"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Apple Studio Display 2026",
       "body": "Apple's new Studio Display 2026 features 27-inch 5K Retina display with Center Stage camera, studio mics, Spatial Audio speakers, and Thunderbolt 5. Tech creators are reviewing this new release.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://thegadgetflow.com/product/studio-display-5k-monitor/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#apple", "#tech", "#studio display"],
-        "engagement": "high",
+        "hashtags": [
+          "#apple",
+          "#tech",
+          "#studio display"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Apple"]
+        "related_brands": [
+          "Apple"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok App Outage",
       "body": "Users reported widespread TikTok app glitches and outages affecting users across the United States. The platform responded to the issues, which generated significant discussion across social media.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.dexerto.com/tiktok/tiktok-responds-as-users-report-app-glitches-outage-3328460/",
       "trend_type": "viral_moment",
       "confidence_score": 0.9,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#tiktokdown", "#tiktokoutage"],
-        "engagement": "very high",
+        "hashtags": [
+          "#tiktokdown",
+          "#tiktokoutage"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "negative",
-        "related_brands": ["TikTok"]
+        "related_brands": [
+          "TikTok"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Viral Baby Monkey Punch",
       "body": "Videos of Punch, a baby monkey, and his Ike toy went viral on TikTok, generating significant engagement. This pet/prank content highlights the continued virality of animal content.",
-      "categories": ["Baby & Kids"],
+      "categories": [
+        "Baby & Kids"
+      ],
       "source": "Web",
       "source_url": "https://www.businessinsider.com/visited-punch-viral-baby-monkey-ikea-orangutan-japanese-zoo-ichikawa2026-3",
       "trend_type": "viral_moment",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#punchthemonkey", "#viralbaby", "#tiktok"],
-        "engagement": "high",
+        "hashtags": [
+          "#punchthemonkey",
+          "#viralbaby",
+          "#tiktok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["IKEA"]
+        "related_brands": [
+          "IKEA"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pet Toys Market Innovation",
       "body": "The pet toys market is seeing innovation with new interactive toys, smart pet products, and eco-friendly materials. Pet content creators are showcasing new toys and products for dogs and cats.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "Web",
       "source_url": "https://www.openpr.com/news/4412090/leading-companies-propelling-innovation-and-growth-in-the-pet",
       "trend_type": "product",
       "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#pettoys", "#petproducts", "#dogtok"],
-        "engagement": "medium",
+        "hashtags": [
+          "#pettoys",
+          "#petproducts",
+          "#dogtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Funny Cat Tweets",
       "body": "Cat content continues to dominate with weekly compilations of funniest cat tweets and videos. This regular content format maintains consistent engagement across social platforms.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "Web",
       "source_url": "https://pleated-jeans.com/2026/03/03/funniest-cat-tweets-from-this-week-so-far-3-3-26/",
       "trend_type": "content_format",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#cattweets", "#catsoftiktok", "#funnycats"],
-        "engagement": "high",
+        "hashtags": [
+          "#cattweets",
+          "#catsoftiktok",
+          "#funnycats"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok Apartment Trends for College Students",
       "body": "TikTok apartment trends are going viral among college students, featuring perfectly designed apartments, aesthetic coffee tables, and bedroom setups that look magazine-worthy. Content focuses on budget-friendly decorating hacks.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://dailyiowan.com/2026/03/03/tiktok-apartment-trends-college-students-are-actually-trying-this-year/",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#apartmentdecor", "#collegelife", "#aestheticroom"],
-        "engagement": "high",
+        "hashtags": [
+          "#apartmentdecor",
+          "#collegelife",
+          "#aestheticroom"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Lonely Planet Best Travel Destinations 2026",
       "body": "Lonely Planet's best travel destinations 2026 features trending spots like Portland, Maine, which has become the spot in New England to open new restaurants. Travel creators are exploring these emerging destinations.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.lonelyplanet.com/best-in-travel",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#travel2026", "#wanderlust", "#bestdestinations"],
-        "engagement": "medium",
+        "hashtags": [
+          "#travel2026",
+          "#wanderlust",
+          "#bestdestinations"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Lonely Planet"]
+        "related_brands": [
+          "Lonely Planet"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "1990s Minimalism Jewelry Trend",
       "body": "1990s minimalism is trending in jewelry, influenced by Sarah Pidgeon's portrayal of Carolyn Bessette Kennedy in FX's new series. Minimalist pieces like the Elsa Peretti Bone cuff are experiencing a revival.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.veranda.com/luxury-lifestyle/luxury-fashion-jewelry/a70520245/spring-2026-jewelry-trends/",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#90sminimalism", "#jewelrytrend", "#minimalistjewelry"],
-        "engagement": "high",
+        "hashtags": [
+          "#90sminimalism",
+          "#jewelrytrend",
+          "#minimalistjewelry"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Elsa Peretti"]
+        "related_brands": [
+          "Elsa Peretti"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Spring 2026 Accessories",
       "body": "Spring accessories trending include handbags, jewelry, and shoes worth investing in. Shopping editors highlight must-have pieces for the season with a focus on versatile, statement-making items.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.whowhatwear.com/fashion/shopping/best-spring-shoes-handbags-accessories-march-2026",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#springfashion", "#accessories", "#shopping"],
-        "engagement": "high",
+        "hashtags": [
+          "#springfashion",
+          "#accessories",
+          "#shopping"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Gold Jewelry Demand",
       "body": "Investment demand for gold continues strong as daily wearable jewellery drives new carat levels. Gold jewelry remains popular despite price volatility, with consumers opting for everyday luxury pieces.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.thehindubusinessline.com/multimedia/video/investment-demand-for-gold-to-continue-daily-wearable-jewellery-spurring-new-carat-levels/article70699547.ece",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#goldjewelry", "#luxury", "#investment"],
-        "engagement": "medium",
+        "hashtags": [
+          "#goldjewelry",
+          "#luxury",
+          "#investment"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     }
   ]

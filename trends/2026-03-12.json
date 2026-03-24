@@ -1,244 +1,435 @@
 {
-  "date": "2026-03-12",
+  "batch_id": "trends-2026-03-12",
+  "scraped_at": "2026-03-12T10:00:00Z",
+  "expires_at": "2026-03-15T10:00:00Z",
   "trends": [
     {
       "headline": "75 Hard Challenge Dominates TikTok Fitness",
       "body": "The 75 Hard mental toughness challenge continues to be one of the most widely shared fitness trends on TikTok. This 75-day program involves following a strict diet, two 45-minute workouts daily, reading 10 pages of a non-fiction book, and drinking a gallon of water. Creators document their progress daily, generating massive engagement.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com",
       "trend_type": "viral_moment",
       "confidence_score": 0.92,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#75hard", "#75hardchallenge", "#fitnessmotivation"],
-        "engagement": "very high",
+        "hashtags": [
+          "#75hard",
+          "#75hardchallenge",
+          "#fitnessmotivation"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "K-Beauty Brands Dominating TikTok Shop",
       "body": "Korean beauty brands are trending heavily on TikTok Shop, with HaruHaru Wonder, Anua, Medicube, and Biodance leading the charge. Amazon's Spring Deals are featuring deep discounts on these viral K-beauty products, particularly the Black Rice Moisture line.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.metro.co.uk/2026/03/11/amazon-spring-deals-days-slashes-prices-viral-k-beauty-brand-haruharu-wonder-27363624/",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#kbeauty", "#haruharuwonder", "#skincaretok"],
-        "engagement": "very high",
+        "hashtags": [
+          "#kbeauty",
+          "#haruharuwonder",
+          "#skincaretok"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["HaruHaru Wonder", "Anua", "Medicube", "Biodance", "Skin1004"]
+        "related_brands": [
+          "HaruHaru Wonder",
+          "Anua",
+          "Medicube",
+          "Biodance",
+          "Skin1004"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "NYX Pore Filler Goes Viral",
       "body": "NYX Pore Filler is experiencing a massive resurgence on TikTok with users praising its ability to create a smooth, 'Barbie doll' finish. The drugstore-priced product is being compared to high-end alternatives, driving significant 'TikTok made me buy it' traffic.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.buzzfeed.com/bekoconnell/beauty-products-pharmacy-high-end-results-an",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#nyx", "#porefiller", "#tiktokmademebuyit"],
-        "engagement": "high",
+        "hashtags": [
+          "#nyx",
+          "#porefiller",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["NYX Professional Makeup"]
+        "related_brands": [
+          "NYX Professional Makeup"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Y2K Fashion Revival Continues",
       "body": "Megan Fox's latest Instagram posts showcasing edgy Y2K fashion have gone viral, with Fashion Nova resharing her looks. The early 2000s aesthetic featuring low-rise jeans, mini skirts, and bold accessories continues to dominate creator content.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Instagram",
       "source_url": "https://swimsuit.si.com/fashion/megan-fox-viral-instagram-photos-edgy-y2k-fashion",
       "trend_type": "viral_moment",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#y2k", "#y2kfashion", "#meginfox"],
-        "engagement": "high",
+        "hashtags": [
+          "#y2k",
+          "#y2kfashion",
+          "#meginfox"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Fashion Nova"]
+        "related_brands": [
+          "Fashion Nova"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
-      "headline": "IKEA RÅSKOG Cart in Rebel Pink",
-      "body": "IKEA's beloved RÅSKOG utility cart is now available in Rebel Pink, causing a fresh wave of TikTok organizing content. The versatile cart has been a favorite for kitchen, bathroom, and office organization, with the new color driving repeat purchases.",
-      "categories": ["Home & Lifestyle"],
+      "headline": "IKEA R\u00c5SKOG Cart in Rebel Pink",
+      "body": "IKEA's beloved R\u00c5SKOG utility cart is now available in Rebel Pink, causing a fresh wave of TikTok organizing content. The versatile cart has been a favorite for kitchen, bathroom, and office organization, with the new color driving repeat purchases.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "TikTok",
       "source_url": "https://www.goodhousekeeping.com/home-products/a70700857/ikea-raskog-utility-cart-new-color/",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#ikea", "#raskog", "#organizationtok"],
-        "engagement": "high",
+        "hashtags": [
+          "#ikea",
+          "#raskog",
+          "#organizationtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["IKEA"]
+        "related_brands": [
+          "IKEA"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Japanese Walking Trend Gains Momentum",
       "body": "Japanese walking (also known as 'street walking' or the 'marathon walking' method) is trending as a low-impact fitness trend. Creators praise its accessibility and joint-friendly nature compared to running.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://theconversation.com/from-japanese-walking-to-75-hard-what-the-science-really-says-about-viral-fitness-trends-277339",
       "trend_type": "viral_moment",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#japanesewalking", "#walkingworkout", "#fitnesstok"],
-        "engagement": "medium",
+        "hashtags": [
+          "#japanesewalking",
+          "#walkingworkout",
+          "#fitnesstok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pritt Glue Stick as Beauty Hack",
       "body": "A learner went viral for using Pritt glue stick to lay perfect edges, demonstrating how everyday stationery products are being repurposed for beauty. The hack has sparked widespread discussion about creative, budget-friendly beauty techniques.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://dfa.co.za/lifestyle/style-beauty/2026-03-11-watch-learner-goes-viral-for-using-pritt-glue-stick-to-lay-perfect-edges/",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#beautyhacks", "#glueledges", "#tiktokmademebuyit"],
-        "engagement": "medium",
+        "hashtags": [
+          "#beautyhacks",
+          "#glueledges",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["Pritt"]
+        "related_brands": [
+          "Pritt"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Overshirts as Outerwear Trend",
       "body": "Overshirts continue to dominate men's fashion as outerwear, with Balmain releasing their version of the trending flat-soled sneaker. The oversized layering trend is popular on TikTok fashion channels.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Instagram",
       "source_url": "https://www.highsnobiety.com/p/latest-products/",
       "trend_type": "content_format",
       "confidence_score": 0.72,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#overshirt", "#mensfashion", "#streetwear"],
-        "engagement": "medium",
+        "hashtags": [
+          "#overshirt",
+          "#mensfashion",
+          "#streetwear"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Balmain"]
+        "related_brands": [
+          "Balmain"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Viral Food Trends: Cheese Chips & Butter Rice Cakes",
       "body": "Short-lived viral food trends continue with moist cheese chips, butter rice cakes, and spring cabbage bibimbap dominating TikTok food content. These quick-spreading recipes show how food fads now last only weeks rather than months.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "TikTok",
       "source_url": "https://www.kmjournal.net/news/articleView.html?idxno=9254",
       "trend_type": "viral_moment",
-      "confidence_score": 0.70,
+      "confidence_score": 0.7,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#foodtok", "#viralrecipes", "#cheesechips"],
-        "engagement": "high",
+        "hashtags": [
+          "#foodtok",
+          "#viralrecipes",
+          "#cheesechips"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Louis Vuitton Fall 2026 Fashion Week",
-      "body": "Louis Vuitton's Fall 2026 show at Paris Fashion Week drew massive attention with Zendaya and Lisa leading the front row. The show featured couture elegance, bold silhouettes, and statement jewelry at the Musée du Louvre.",
-      "categories": ["Fashion & Apparel"],
+      "body": "Louis Vuitton's Fall 2026 show at Paris Fashion Week drew massive attention with Zendaya and Lisa leading the front row. The show featured couture elegance, bold silhouettes, and statement jewelry at the Mus\u00e9e du Louvre.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Instagram",
       "source_url": "https://www.timesnownews.com/lifestyle/fashion/louis-vuitton-fall-2026-zendaya-and-lisa-lead-the-front-row-fashion-moment-in-paris-article-153808546",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#louisvuitton", "#pfw", "#fashionweek"],
-        "engagement": "high",
+        "hashtags": [
+          "#louisvuitton",
+          "#pfw",
+          "#fashionweek"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Louis Vuitton"]
+        "related_brands": [
+          "Louis Vuitton"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pendant Necklace vs Plain Necklace Debate",
       "body": "A viral comparison between pendant necklaces and plain necklaces is dominating jewelry content, with creators debating which style fits different looks in 2026. Minimalist pieces continue to trend as the accessory of choice.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "TikTok",
       "source_url": "https://www.senydajewels.com/es/blogs/news/plain-necklace-vs-pendant-necklace-which-style-fits-your-look-in-2026",
       "trend_type": "content_format",
       "confidence_score": 0.68,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#jewelrytok", "#pendantnecklace", "#minimalistjewelry"],
-        "engagement": "medium",
+        "hashtags": [
+          "#jewelrytok",
+          "#pendantnecklace",
+          "#minimalistjewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "10-Year-Old Designer at Paris Fashion Week",
       "body": "Max Alexander became the youngest designer to showcase at Paris Fashion Week with a 15-piece sustainable collection crafted from reclaimed materials. The story has gone viral across social media.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Instagram",
       "source_url": "https://www.timesnownews.com/lifestyle/fashion/max-alexander-10-becomes-the-youngest-designer-to-showcase-at-paris-fashion-week-article-153817113",
       "trend_type": "viral_moment",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#sustainablefashion", "#parisfashionweek", "#youngestdesigner"],
-        "engagement": "high",
+        "hashtags": [
+          "#sustainablefashion",
+          "#parisfashionweek",
+          "#youngestdesigner"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Internal Shower Trend: Chia Seeds + Lemon",
       "body": "The 'internal shower' trend featuring chia seeds and lemon juice in water is gaining traction on TikTok, promoted for digestive benefits. Arnold Schwarzenegger has also weighed in on dangerous TikTok fitness trends.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.esquire.com/jp/menshealth/fitness/a70567216/arnold-schwarzenegger-tiktok-fitness-trends/",
       "trend_type": "viral_moment",
       "confidence_score": 0.65,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#internalshower", "#chialemon", "#healthtok"],
-        "engagement": "medium",
+        "hashtags": [
+          "#internalshower",
+          "#chialemon",
+          "#healthtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Superdrug Highlights Viral Products",
       "body": "Superdrug launches a new in-store initiative highlighting viral TikTok products including Made by Mitchell, Tir Tir, and Daisse. This marks the continued convergence of digital virality with retail.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.retailgazette.co.uk/blog/2026/03/superdrug-initiative/",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#superdrug", "#viralbeauty", "#ukbeauty"],
-        "engagement": "medium",
+        "hashtags": [
+          "#superdrug",
+          "#viralbeauty",
+          "#ukbeauty"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Superdrug", "Made by Mitchell", "Tir Tir"]
+        "related_brands": [
+          "Superdrug",
+          "Made by Mitchell",
+          "Tir Tir"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Lonely Planet's Best Travel Destinations 2026",
-      "body": "Lonely Planet releases its annual Best in Travel list with Réunion Island and its Mafate valley trending as a top adventure destination. The French overseas department is gaining attention for hiking and unique cultural experiences.",
-      "categories": ["Travel & Hospitality"],
+      "body": "Lonely Planet releases its annual Best in Travel list with R\u00e9union Island and its Mafate valley trending as a top adventure destination. The French overseas department is gaining attention for hiking and unique cultural experiences.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.lonelyplanet.com/best-in-travel",
       "trend_type": "viral_moment",
       "confidence_score": 0.72,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#travel2026", "#lonelyplanet", "#reunionisland"],
-        "engagement": "medium",
+        "hashtags": [
+          "#travel2026",
+          "#lonelyplanet",
+          "#reunionisland"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Lonely Planet"]
+        "related_brands": [
+          "Lonely Planet"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     }
   ]

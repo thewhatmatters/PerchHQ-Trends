@@ -1,228 +1,417 @@
 {
-  "date": "2026-03-11",
+  "batch_id": "trends-2026-03-11",
+  "scraped_at": "2026-03-11T10:00:00Z",
+  "expires_at": "2026-03-14T10:00:00Z",
   "trends": [
     {
       "headline": "Taylor Swift Sparked 3,500% Sales Spike for Viral Beauty Brand",
       "body": "Glitter freckles patches from a dermal patch company went viral after being inspired by a TikTok trend where users stamped faux freckles using broccoli dipped in henna. The brand originally created adhesive patches for ingrown hairs and acne, then pivoted to playful cosmetic patches that exploded in popularity.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.inc.com/leila-sheridan/how-taylor-swift-triggered-a-3500-sales-spike-for-this-viral-beauty-brand/91308383",
       "trend_type": "product",
       "confidence_score": 0.92,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#glitterfreckles", "#beautyhacks"],
-        "engagement": "very high",
+        "hashtags": [
+          "#glitterfreckles",
+          "#beautyhacks"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Chobani", "YoPro"]
+        "related_brands": [
+          "Chobani",
+          "YoPro"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "JENNIE (BLACKPINK) Joins 'Dracula' TikTok Trend at Paris Fashion Week",
       "body": "JENNIE participated in the viral 'Dracula' TikTok trend using her Tame Impala collaboration remix at Chanel's Paris Fashion Week Fall 2026 show. The trend has helped sustain the song's chart success at No. 37 on Billboard Hot 100. Thousands of fans have posted similar videos to the same track.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.billboard.com/music/music-news/blackpink-jennie-dracula-tiktok-trend-tame-impala-remix-1236196039/",
       "trend_type": "viral_moment",
       "confidence_score": 0.95,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#dracula", "#jennie", "#blackpink", "#tameimpala", "#fashionweek"],
-        "engagement": "very high",
+        "hashtags": [
+          "#dracula",
+          "#jennie",
+          "#blackpink",
+          "#tameimpala",
+          "#fashionweek"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Chanel", "BLACKPINK"]
+        "related_brands": [
+          "Chanel",
+          "BLACKPINK"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Greek Yoghurt Shortage Due to Viral TikTok High-Protein Trends",
       "body": "Australia is experiencing a nationwide Greek yoghurt shortage driven by viral TikTok trends promoting high-protein diets. The 'Japanese cheesecake' hack (Biscoff + Greek yoghurt) and protein-focused recipes have caused massive demand surges, emptying supermarket shelves of Chobani and YoPro brands for months.",
-      "categories": ["Food & Beverage", "Health & Fitness"],
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://www.abc.net.au/news/2026-03-11/why-there-is-a-greek-yoghurt-shortage-in-australia/106435584",
       "trend_type": "product",
       "confidence_score": 0.94,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#greekyoghurt", "#highprotein", "#tiktokrecipes"],
-        "engagement": "very high",
+        "hashtags": [
+          "#greekyoghurt",
+          "#highprotein",
+          "#tiktokrecipes"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["Chobani", "YoPro", "Woolworths", "Coles", "Aldi"]
+        "related_brands": [
+          "Chobani",
+          "YoPro",
+          "Woolworths",
+          "Coles",
+          "Aldi"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
-      "headline": "'Quiet Quitting' Beauty Hacks -返璞归真 Skincare Movement",
+      "headline": "'Quiet Quitting' Beauty Hacks -\u8fd4\u749e\u5f52\u771f Skincare Movement",
       "body": "A counter-movement in beauty where enthusiasts are rejecting viral TikTok skincare hacks (ice facials, lemon juice brightening, toothpaste for acne, excessive exfoliation) in favor of evidence-based, consistent skincare routines. Driven by 'skincare fatigue' and awareness of skin barrier health.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://ourhealtho.com/the-quiet-quitting-of-viral-beauty-hacks-a-return-to-skincare-sanity-or-just-another-trend/",
       "trend_type": "content_format",
       "confidence_score": 0.88,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#skincaretok", "#beautytok", "#skincarefatigue"],
-        "engagement": "high",
+        "hashtags": [
+          "#skincaretok",
+          "#beautytok",
+          "#skincarefatigue"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok Shop Launches Fine Art Category",
       "body": "TikTok Shop has expanded into Fine Art, reflecting the platform's discovery commerce model where users discover products through personalized content. After becoming the fastest-growing UK retailer in 2024, brands like M&S, Sainsbury's, and John Lewis are now active on the platform.",
-      "categories": ["Fashion & Apparel", "Home & Lifestyle"],
+      "categories": [
+        "Fashion & Apparel",
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://channelx.world/2026/03/tiktok-shop-launches-fine-art-category/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#tiktokshop", "#fineart", "#discoverycommerce"],
-        "engagement": "high",
+        "hashtags": [
+          "#tiktokshop",
+          "#fineart",
+          "#discoverycommerce"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["M&S", "Sainsbury's", "John Lewis"]
+        "related_brands": [
+          "M&S",
+          "Sainsbury's",
+          "John Lewis"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Thrift Store Hauls Dominate Fashion TikTok",
       "body": "Thrift store hauls continue trending on TikTok as creators showcase second-hand finds and style them into trendy outfits. The sustainable fashion movement and vintage appeal drive this trend, inspiring eco-conscious shopping among Gen Z and Millennials.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.yellowbrick.co/blog/fashion/unveiling-top-tiktok-fashion-trends",
       "trend_type": "content_format",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#thrifthaul", "#sustainablefashion", "#vintagetok"],
-        "engagement": "high",
+        "hashtags": [
+          "#thrifthaul",
+          "#sustainablefashion",
+          "#vintagetok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "2026 Sneaker Trends - Lego x Crocs, Boots-Only-Summer",
       "body": "Viral sneaker trends of 2026 include Lego x Crocs collaboration, 'boots only summer' Adidas shoes, and experimental retro revivals. YouTube creators are testing these wild footwear options that are generating massive engagement.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "YouTube",
       "source_url": "https://www.youtube.com/watch?v=fXiLortDhxA",
       "trend_type": "product",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#sneakertok", "#crocs", "#lego", "#adidas"],
-        "engagement": "high",
+        "hashtags": [
+          "#sneakertok",
+          "#crocs",
+          "#lego",
+          "#adidas"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Crocs", "Adidas", "Lego"]
+        "related_brands": [
+          "Crocs",
+          "Adidas",
+          "Lego"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "MWC 2026: Honor Robot Phone Prototype Unveiled",
       "body": "Mobile World Congress 2026 showcased Honor's Robot Phone - a futuristic prototype generating significant tech buzz. The device is still delicate but represents the next evolution in smartphone technology.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.cnet.com/news-live/mwc-2026-news-updates-product-announcements/",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#mwc2026", "#honor", "#robotphone"],
-        "engagement": "high",
+        "hashtags": [
+          "#mwc2026",
+          "#honor",
+          "#robotphone"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Honor"]
+        "related_brands": [
+          "Honor"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Maximalism Returns to Home Decor",
       "body": "After years of minimalism dominance, bold patterns, vibrant colors, and eclectic mixing are trending strongly in home decor. Content around 'how to create' maximalist spaces is generating high volume on social media.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://digiexe.com/blog/best-home-decor-furniture-affiliate-programs/",
       "trend_type": "content_format",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#maximalism", "#homedecor", "#bolddesign"],
-        "engagement": "medium",
+        "hashtags": [
+          "#maximalism",
+          "#homedecor",
+          "#bolddesign"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok 2026: Emotional ROI and Curiosity-Driven Discovery",
       "body": "TikTok's annual trend forecast (TikTok Next 2026) reveals audience behavior shifting from passive scrolling to intentional, emotionally-driven engagement. Creators are focusing on content that delivers emotional value and curiosity-driven discovery.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.bizcommunity.com/article/emotional-roi-and-curiosity-driven-discovery-lead-tiktoks-2026-trends-400149a",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#tiktok2026", "#emotionalroi"],
-        "engagement": "high",
+        "hashtags": [
+          "#tiktok2026",
+          "#emotionalroi"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["TikTok"]
+        "related_brands": [
+          "TikTok"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok 'Period Scooping' Menstruation Trend Goes Viral",
       "body": "A viral TikTok menstruation trend called 'period scooping' is generating discussion. Experts warn that while social media can open conversations about health, viral trends shouldn't be the primary source of health information.",
-      "categories": ["Baby & Kids", "Health & Fitness"],
+      "categories": [
+        "Baby & Kids",
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://www.the-independent.com/news/health/what-is-period-scooping-tiktok-b2935947.html",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#periodtok", "#healthtok"],
-        "engagement": "medium",
+        "hashtags": [
+          "#periodtok",
+          "#healthtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Australia Implements Strict Social Media Age Restrictions",
       "body": "Australia's sweeping age-restriction laws have kicked in, making the country one of the strictest in the world for protecting young users from social media. This impacts how creators can target younger audiences on platforms.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://timesofindia.indiatimes.com/technology/tech-news/after-social-media-ban-for-kids-australias-age-restrictions-kick-off-all-details-and-what-it-means-for-young-users/articleshow/129400122.cms",
       "trend_type": "hashtag",
-      "confidence_score": 0.90,
+      "confidence_score": 0.9,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#australia", "#socialmedia", "#age-restrictions"],
-        "engagement": "high",
+        "hashtags": [
+          "#australia",
+          "#socialmedia",
+          "#age-restrictions"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["TikTok", "Instagram"]
+        "related_brands": [
+          "TikTok",
+          "Instagram"
+        ],
+        "context": "hashtag",
+        "price_point": "various"
       }
     },
     {
       "headline": "Dusty Mauve Lipstick Goes Viral",
       "body": "A dusty mauve lipstick shade is trending online with a soft-focus, blurred color payoff and 10-hour weightless longwear formula. The shade is described as baby pink with hints of violet, going viral across beauty communities.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://holrmagazine.com/editors-take-my-search-for-the-perfect-mauve-lipstick/",
       "trend_type": "product",
       "confidence_score": 0.72,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#maauvelipstick", "#beautytok", "#lipsticktrend"],
-        "engagement": "medium",
+        "hashtags": [
+          "#maauvelipstick",
+          "#beautytok",
+          "#lipsticktrend"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Dolce & Gabbana Returns to Sicilian Roots for Fall 2026",
       "body": "Dolce & Gabbana unveiled a dramatic Fall 2026 collection returning to its Sicilian roots, featuring glamorous silhouettes and signature patterns. The runway show is influencing emerging trends for the fashion industry.",
-      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "categories": [
+        "Fashion & Apparel",
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.fashiontimes.com/sicilian-glamour-leads-dolce-gabbanas-vision-fall-2026-fashion-runway-trends-13885",
       "trend_type": "viral_moment",
       "confidence_score": 0.83,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#dolcegabbana", "#fashionweek", "#fall2026"],
-        "engagement": "high",
+        "hashtags": [
+          "#dolcegabbana",
+          "#fashionweek",
+          "#fall2026"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Dolce & Gabbana"]
+        "related_brands": [
+          "Dolce & Gabbana"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     }
   ]

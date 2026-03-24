@@ -1,244 +1,405 @@
 {
-  "date": "2026-03-09",
+  "batch_id": "trends-2026-03-09",
+  "scraped_at": "2026-03-09T10:00:00Z",
+  "expires_at": "2026-03-12T10:00:00Z",
   "trends": [
     {
       "headline": "Mirror Walls Dominate 2026 Home Decor",
       "body": "Mirror walls are replacing gallery walls as the top decor trend for 2026. Creators are showcasing dramatic oversized mirrors and curated collections of antique mirrors. This trend offers strong visual appeal for 'room transformation' content and is driving sales in the home decor space.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://www.goodhousekeeping.com/home/decorating-ideas/a70643133/mirror-walls-decor-2026/",
       "trend_type": "product",
       "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#mirrorwall #homedecor #2026trends"],
-        "engagement": "high",
+        "hashtags": [
+          "#mirrorwall #homedecor #2026trends"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["IKEA", "Wayfair", "West Elm"]
+        "related_brands": [
+          "IKEA",
+          "Wayfair",
+          "West Elm"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "PDRN-Infused Beauty Products Taking Over TikTok",
       "body": "New beauty products featuring PDRN (Polydeoxyribonucleotide) are emerging as the next big skincare ingredient. PDRN-infused primers and auburn mascaras are gaining traction with TikTok creators predicting these will dominate 2026.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.buzzfeed.com/karlyjacklin/newer-beauty-products-tiktok-an",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#skincaretok #PDRN #beautytrends2026"],
-        "engagement": "medium",
+        "hashtags": [
+          "#skincaretok #PDRN #beautytrends2026"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Good Molecules", "Unknown indie brands"]
+        "related_brands": [
+          "Good Molecules",
+          "Unknown indie brands"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Brothy Beans and Rice Bowl Goes Viral",
       "body": "The brothy beans and rice bowl is trending heavily on TikTok, with creators sharing satisfying sped-up cooking montages. This dish works perfectly for short-form video content due to its visual appeal and simple preparation.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "TikTok",
       "source_url": "https://ourhealtho.com/cooking-recipes-insight-mar-08-2026/",
       "trend_type": "viral_moment",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#foodtok #brothybeans #ricebowl #viralrecipe"],
-        "engagement": "high",
+        "hashtags": [
+          "#foodtok #brothybeans #ricebowl #viralrecipe"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "'Alpine Divorce' Viral Breakup Trend",
       "body": "The 'Alpine divorce' trend is spreading across TikTok, Instagram, and X - a viral breakup narrative where partners are allegedly abandoned in forests. While mostly storytelling, this trend is generating massive engagement and conversation.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.indiatimes.com/trending/what-is-alpine-divorce-viral-breakup-trend-where-partners-are-allegedly-abandoned-in-forests/articleshow/129254329.html",
       "trend_type": "viral_moment",
       "confidence_score": 0.7,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#alpinedivorce #tiktoktrend #viral"],
-        "engagement": "very high",
+        "hashtags": [
+          "#alpinedivorce #tiktoktrend #viral"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "#LockedIn Productivity Content Rising",
       "body": "The #lockedin hashtag is trending as audiences prefer following creators who showcase productivity processes and daily struggles. This represents a shift from aesthetic content to utility-focused 'real life' content.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://latination.com/new-rules-virality-2026-human-connections/",
       "trend_type": "hashtag",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#lockedin #productivity #joblife"],
-        "engagement": "high",
+        "hashtags": [
+          "#lockedin #productivity #joblife"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "hashtag",
+        "price_point": "various"
       }
     },
     {
       "headline": "LA Fitness Closures Spark Gym Membership Debate",
       "body": "Multiple LA Fitness locations closing down is generating significant discussion on TikTok. Creators are debating whether gym memberships are worth it, with #gym #workout #fitness content surging.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/why-are-all-the-la-fitness-closing-down",
       "trend_type": "viral_moment",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#lafitness #gym #workout #fitness #gymclosures"],
-        "engagement": "high",
+        "hashtags": [
+          "#lafitness #gym #workout #fitness #gymclosures"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "negative",
-        "related_brands": ["LA Fitness", "Esporta"]
+        "related_brands": [
+          "LA Fitness",
+          "Esporta"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "6-7 Meme Taking Over Kids/Gen Z Content",
       "body": "The '6-7' meme went viral in January 2026 with Amy Poehler and Jennifer Lawrence commenting. Now reaching mainstream awareness, it's driving engagement in meme-related content circles.",
-      "categories": ["Baby & Kids"],
+      "categories": [
+        "Baby & Kids"
+      ],
       "source": "Web",
       "source_url": "https://en.wikipedia.org/wiki/6-7_meme",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#6-7 #meme #viral"],
-        "engagement": "medium",
+        "hashtags": [
+          "#6-7 #meme #viral"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Lonely Planet's Best Travel Destinations 2026",
       "body": "Lonely Planet released their 2026 best travel destinations list, with Peruvian gastronomy and Lima's Nikkei cuisine highlighted as major trends. This is influencing travel content creators and foodie influencers.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.lonelyplanet.com/best-in-travel",
       "trend_type": "content_format",
       "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#travel2026 #lonelyplanet #peru #nikkei"],
-        "engagement": "high",
+        "hashtags": [
+          "#travel2026 #lonelyplanet #peru #nikkei"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Lonely Planet"]
+        "related_brands": [
+          "Lonely Planet"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Furniture Trends 2026: Character Over Predictability",
-      "body": "Interior designers are moving away from overdone coffee table clichés toward characterful, unique furniture pieces. Living room furniture trends emphasize personality over predictability.",
-      "categories": ["Home & Lifestyle"],
+      "body": "Interior designers are moving away from overdone coffee table clich\u00e9s toward characterful, unique furniture pieces. Living room furniture trends emphasize personality over predictability.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://www.homesandgardens.com/interior-design/living-room-furniture-trends-2026",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#furniture #homedecor #interiordesign #2026trends"],
-        "engagement": "medium",
+        "hashtags": [
+          "#furniture #homedecor #interiordesign #2026trends"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "GRWM Videos in Unusual Situations Trending",
       "body": "Get Ready With Me (GRWM) content is evolving - creators are filming in unusual situations like road trips. The focus is on spontaneity and the journey, not just the final result. Self-care content moving toward everyday luxury.",
-      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "categories": [
+        "Beauty & Skincare",
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://latination.com/new-rules-virality-2026-human-connections/",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#GRWM #getreadywithme #beautytok"],
-        "engagement": "high",
+        "hashtags": [
+          "#GRWM #getreadywithme #beautytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok 2026: Human Connections Over Filters",
       "body": "Major trend analysis shows TikTok virality in 2026 demands real stories and human connections over polished aesthetic content. The algorithm now prioritizes authenticity and genuine storytelling.",
-      "categories": ["Fashion & Apparel", "Beauty & Skincare", "Food & Beverage"],
+      "categories": [
+        "Fashion & Apparel",
+        "Beauty & Skincare",
+        "Food & Beverage"
+      ],
       "source": "Web",
       "source_url": "https://latination.com/new-rules-virality-2026-human-connections/",
       "trend_type": "content_format",
       "confidence_score": 0.9,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#humanconnection #authenticity #2026trends"],
-        "engagement": "very high",
+        "hashtags": [
+          "#humanconnection #authenticity #2026trends"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["TikTok"]
+        "related_brands": [
+          "TikTok"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pinterest Parenting Trends 2026",
       "body": "Pinterest's latest parenting report reveals parents are 'rewriting the childhood rulebook' in 2026. Focus on 'parenting smarter not harder' with practical, utility-focused content gaining traction.",
-      "categories": ["Baby & Kids"],
+      "categories": [
+        "Baby & Kids"
+      ],
       "source": "Web",
       "source_url": "https://www.bountyparents.com.au/news-views/pinterest-trends/",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#parenting #pinterest #2026parenting"],
-        "engagement": "medium",
+        "hashtags": [
+          "#parenting #pinterest #2026parenting"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Pinterest"]
+        "related_brands": [
+          "Pinterest"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Affirmation Tribes and Third Culture Rising",
       "body": "Social media communities called 'affirmation tribes' are forming around niche interests where identity builds on shared focus routines. Entire communities unite around collective commitment goals.",
-      "categories": ["Health & Fitness", "Home & Lifestyle"],
+      "categories": [
+        "Health & Fitness",
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://latination.com/new-rules-virality-2026-human-connections/",
       "trend_type": "hashtag",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#affirmationtribes #thirdculture #community"],
-        "engagement": "high",
+        "hashtags": [
+          "#affirmationtribes #thirdculture #community"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "hashtag",
+        "price_point": "various"
       }
     },
     {
       "headline": "Return to Office Content Under #JobLife",
       "body": "Creators are sharing the reality of returning to office, career changes, and workday survival strategies under #joblife. Authentic work content is trending over traditionally polished corporate content.",
-      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://latination.com/new-rules-virality-2026-human-connections/",
       "trend_type": "hashtag",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#joblife #wfh #returntooffice #career"],
-        "engagement": "high",
+        "hashtags": [
+          "#joblife #wfh #returntooffice #career"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "hashtag",
+        "price_point": "various"
       }
     },
     {
       "headline": "Good Molecules Affordable Skincare Viral",
       "body": "Good Molecules, a small business specializing in affordable skincare, is gaining traction with viral TikTok mentions. The $6 brightening concealer is getting reviews about looking 'younger' and receiving compliments.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.buzzfeed.com/gabrielamanjarrez/beauty-products-remarkable-results",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#goodmolecules #affordableskincare #skincaretok"],
-        "engagement": "high",
+        "hashtags": [
+          "#goodmolecules #affordableskincare #skincaretok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Good Molecules", "Amazon"]
+        "related_brands": [
+          "Good Molecules",
+          "Amazon"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     }
   ]

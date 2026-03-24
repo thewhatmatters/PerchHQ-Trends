@@ -1,244 +1,424 @@
 {
-  "date": "2026-03-03",
+  "batch_id": "trends-2026-03-03",
+  "scraped_at": "2026-03-03T10:00:00Z",
+  "expires_at": "2026-03-06T10:00:00Z",
   "trends": [
     {
       "headline": "2016 Nostalgia Fashion Wave",
       "body": "Gen Z is reviving 2016 aesthetics with the slogan '2026 is the new 2016'. This massive TikTok trend features saturated filters, The Chainsmokers and Justin Bieber music, and a 'chaos creative' fashion style mixing bombers, chokers, and mocassins. Creators are recreating the visual and sonic codes of the era.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://katall.fr/trend-tiktok",
       "trend_type": "viral_moment",
       "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#2016Revival", "#2026IsTheNew2016", "#ChaosCreative"],
-        "engagement": "very high",
+        "hashtags": [
+          "#2016Revival",
+          "#2026IsTheNew2016",
+          "#ChaosCreative"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Skin Barrier Revival Trend",
       "body": "The skin barrier has become the hottest beauty topic of early 2026. TikTok and Instagram are saturated with influencers promoting 'barrier repair', 'skin barrier support', and 'microbiome-friendly' products. This represents a shift toward healthier, science-backed skincare routines.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://ourhealtho.com/the-skin-barrier-revival-is-this-viral-trend-a-miracle-cure-or-overhyped-hype/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#SkinBarrier", "#BarrierRepair", "#MicrobiomeFriendly"],
-        "engagement": "very high",
+        "hashtags": [
+          "#SkinBarrier",
+          "#BarrierRepair",
+          "#MicrobiomeFriendly"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "K-Beauty Salmon Sperm DNA Skincare",
       "body": "Korean beauty continues to dominate US market with viral products including snail mucin serums and moisturizers derived from salmon sperm DNA. Gen Z can't get enough of these unconventional TikTok must-haves.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://us.fashionnetwork.com/news/Salmon-sperm-snail-mucin-fuel-k-beauty-s-us-push,1811679.html",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#KBeauty", "#SnailMucin", "#KoreanSkincare"],
-        "engagement": "high",
+        "hashtags": [
+          "#KBeauty",
+          "#SnailMucin",
+          "#KoreanSkincare"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Canvas Beauty Body Glaze",
       "body": "The viral Body Glaze from Canvas Beauty is back in stock and selling out quickly. This TikTok Shop phenomenon continues to dominate the beauty category with its glowing finish appeal.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/tiktok-shops-body-glaze",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#BodyGlaze", "#CanvasBeauty", "#TikTokShop"],
-        "engagement": "very high",
+        "hashtags": [
+          "#BodyGlaze",
+          "#CanvasBeauty",
+          "#TikTokShop"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Canvas Beauty"]
+        "related_brands": [
+          "Canvas Beauty"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Color Wow Dream Coat Supernatural Spray",
       "body": "One of the most viral hair products on TikTok Shop, the Color Wow Dream Coat continues to dominate. Currently featured in CVS Epic Beauty Event 2026 at $14.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://stylecaster.com/beauty/skin-care/1234880536/cvs-epic-beauty-event-2026/",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#ColorWow", "#DreamCoat", "#TikTokMadeMeBuyIt"],
-        "engagement": "high",
+        "hashtags": [
+          "#ColorWow",
+          "#DreamCoat",
+          "#TikTokMadeMeBuyIt"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Color Wow"]
+        "related_brands": [
+          "Color Wow"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Fruit-Shaped Ice Cream Trend",
       "body": "The viral fruit-shaped ice cream continues to trend with creators showcasing pretty, Instagrammable designs. The canned ice cream wave is also growing, particularly in Middle East markets.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/ice-cream-tiktok-trend?lang=en",
       "trend_type": "content_format",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#FruitShapedIceCream", "#CannedDessertWave", "#MiddleEastVibes"],
-        "engagement": "high",
+        "hashtags": [
+          "#FruitShapedIceCream",
+          "#CannedDessertWave",
+          "#MiddleEastVibes"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Metabolic Health Over Thinness",
       "body": "A major shift in health content is emerging - creators are pushing back against 'skinny = healthy' narratives. Doctors and fitness influencers are emphasizing metabolic health and functional fitness over appearance-based goals.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://economictimes.indiatimes.com/magazines/panache/think-skinny-is-healthy-doctor-shares-5-factors-why-being-thin-doesnt-guarantee-strong-immunity/articleshow/128940958.cms",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#MetabolicHealth", "#FitnessNotThin", "#FunctionalFitness"],
-        "engagement": "high",
+        "hashtags": [
+          "#MetabolicHealth",
+          "#FitnessNotThin",
+          "#FunctionalFitness"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "AI Baby Trend",
       "body": "The AI Baby trend continues to go viral on TikTok as parents use AI generators to predict what their future babies might look like. This trend spans across beauty and family content categories.",
-      "categories": ["Baby & Kids"],
+      "categories": [
+        "Baby & Kids"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/baby-tiktok-trends?lang=en",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#AIBaby", "#BabyTrend", "#AIToy"],
-        "engagement": "very high",
+        "hashtags": [
+          "#AIBaby",
+          "#BabyTrend",
+          "#AIToy"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pet Voiceover Trend",
       "body": "The talking animals/voiceover trend continues to dominate pet content. Creators add humorous voiceovers to dog and cat videos, particularly Navy SEAL dog voiceovers and 'if kittens could talk' content.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/talking-animals",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#TalkingAnimals", "#DogVoiceover", "#PetInfluencer"],
-        "engagement": "very high",
+        "hashtags": [
+          "#TalkingAnimals",
+          "#DogVoiceover",
+          "#PetInfluencer"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Luxury Travel: Private Villas & Boutique Resorts",
       "body": "Travel trends for 2026 emphasize 'spaciousness as luxury' - private villas, low-density boutique resorts, and nature-framed hideaways where quiet feels curated. Lonely Planet's Best Travel Destinations 2026 highlights this shift.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.uniondemocrat.com/online_features/travel/article_8c00c6c7-90b7-51b7-af9b-10c06b93b12d.html",
       "trend_type": "viral_moment",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#LuxuryTravel", "#PrivateVillas", "#BoutiqueResorts"],
-        "engagement": "medium",
+        "hashtags": [
+          "#LuxuryTravel",
+          "#PrivateVillas",
+          "#BoutiqueResorts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Lonely Planet"]
+        "related_brands": [
+          "Lonely Planet"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Marquise Ring Viral Revival",
       "body": "Viral marquise rings from Delzzad are back in stock and trending on TikTok. Moissanite jewelry continues to dominate the jewelry category with promise rings and elegant designs.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/viral-tiktok-ring?lang=en",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#MarquiseRing", "#MoissaniteJewelry", "#DreamRing"],
-        "engagement": "high",
+        "hashtags": [
+          "#MarquiseRing",
+          "#MoissaniteJewelry",
+          "#DreamRing"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Delzzad"]
+        "related_brands": [
+          "Delzzad"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Cozy Neutral Home Aesthetic",
       "body": "The cozy neutral aesthetic continues to dominate home decor content. Creators showcase bedroom inspo, room transformations, and organization tips with calming, harmonious vibes.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/bedroom-ideas?lang=en",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#CozyRoom", "#HomeDecor", "#NeutralStyle", "#RoomTransformation"],
-        "engagement": "high",
+        "hashtags": [
+          "#CozyRoom",
+          "#HomeDecor",
+          "#NeutralStyle",
+          "#RoomTransformation"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Viral Shower Organization Products",
       "body": "TikTok-famous shower shelves with impressive adhesion are trending in the organization space. Products that 'trick people into thinking your home is super fancy' continue to go viral.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://www.buzzfeed.com/sallyelshorafa1/products-tick-people-home-super-fancy-an",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#HomeOrganization", "#TikTokMadeMeBuyIt", "#ShowerOrganization"],
-        "engagement": "high",
+        "hashtags": [
+          "#HomeOrganization",
+          "#TikTokMadeMeBuyIt",
+          "#ShowerOrganization"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Snug Life"]
+        "related_brands": [
+          "Snug Life"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Sitting Dance Challenge",
       "body": "The sitting dance trend continues to grow, perfect for couples and solo dancers. This accessible dance format is winning over TikTok audiences with easy chair dance moves.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/sitting-dance-tiktok?lang=en",
       "trend_type": "content_format",
       "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#SittingDance", "#ChairDance", "#DanceChallenge"],
-        "engagement": "medium",
+        "hashtags": [
+          "#SittingDance",
+          "#ChairDance",
+          "#DanceChallenge"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Seven-Esy Jewelry Rings",
       "body": "Seven-Esy rings continue to trend as popular gift items, especially for Christmas and holidays. The brand has become synonymous with affordable yet stylish promise and fashion rings.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/sevensey-rings-reviews",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#SevenEsy", "#PromiseRing", "#AffordableJewelry"],
-        "engagement": "medium",
+        "hashtags": [
+          "#SevenEsy",
+          "#PromiseRing",
+          "#AffordableJewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Seven-Esy"]
+        "related_brands": [
+          "Seven-Esy"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     }
   ]

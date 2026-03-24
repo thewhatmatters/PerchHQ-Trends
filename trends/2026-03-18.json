@@ -1,244 +1,454 @@
 {
-  "date": "2026-03-18",
+  "batch_id": "trends-2026-03-18",
+  "scraped_at": "2026-03-18T10:00:00Z",
+  "expires_at": "2026-03-21T10:00:00Z",
   "trends": [
     {
       "headline": "Amazon Big Spring Sale Features 70+ Viral TikTok Products",
       "body": "Cosmopolitan editors curated 70+ viral TikTok products on sale for Amazon's Big Spring Sale. Categories include K-Beauty skincare, #BookTok romantasy novels, travel hacks, fashion essentials inspired by Carolyn Bessette Kennedy, and more.",
-      "categories": ["Beauty & Skincare", "Fashion & Apparel", "Tech & Gadgets"],
+      "categories": [
+        "Beauty & Skincare",
+        "Fashion & Apparel",
+        "Tech & Gadgets"
+      ],
       "source": "TikTok | Instagram | Web",
       "source_url": "https://www.cosmopolitan.com/style-beauty/fashion/g36623568/viral-tiktok-items-amazon-sale/",
       "trend_type": "product",
       "confidence_score": 0.95,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#BookTok", "#AmazonSale", "#TikTokFinds"],
-        "engagement": "very high",
+        "hashtags": [
+          "#BookTok",
+          "#AmazonSale",
+          "#TikTokFinds"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Amazon", "Various viral brands"]
+        "related_brands": [
+          "Amazon",
+          "Various viral brands"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "K-Beauty Dominates Skincare - Beauty of Joseon SPF Leads",
       "body": "Korean skincare continues to dominate viral trends. Beauty of Joseon's SPF remains the most viral product, with new launches. Sulwhasoo and other K-Beauty brands seeing renewed interest through Boots K-Beauty Edit.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok | Web",
       "source_url": "https://www.whowhatwear.com/beauty/skin/best-sulwashoo-products",
       "trend_type": "product",
       "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#KBeauty", "#KoreanSkincare", "#BeautyOfJoseon"],
-        "engagement": "high",
+        "hashtags": [
+          "#KBeauty",
+          "#KoreanSkincare",
+          "#BeautyOfJoseon"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Beauty of Joseon", "Sulwhasoo", "Boots"]
+        "related_brands": [
+          "Beauty of Joseon",
+          "Sulwhasoo",
+          "Boots"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "John Galliano x Zara 2-Year Collaboration",
       "body": "John Galliano lands at Zara with a two-year collaboration, riffing on the brand's archives. This high-fashion meets fast-fashion partnership signals ongoing democratization of luxury design.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://wwd.com/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#JohnGalliano", "#ZaraCollaboration", "#HighFashion"],
-        "engagement": "high",
+        "hashtags": [
+          "#JohnGalliano",
+          "#ZaraCollaboration",
+          "#HighFashion"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Zara", "John Galliano"]
+        "related_brands": [
+          "Zara",
+          "John Galliano"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Fashion's 20-Year Cycle: Low-Rise Jeans Revival",
       "body": "Mathematicians reveal women's fashion trends repeat every 20 years. Low-rise jeans, oversized belts, and bodycon dresses seeing revival. Creators leveraging retro nostalgia in styling content.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok | Instagram | Web",
       "source_url": "https://www.dailymail.co.uk/sciencetech/article-15653305/Fashion-20-year-cycle-trends-low-rise-jeans.html",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#LowRiseJeans", "#FashionCycle", "#Y2K"],
-        "engagement": "medium",
+        "hashtags": [
+          "#LowRiseJeans",
+          "#FashionCycle",
+          "#Y2K"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Various Fashion Brands"]
+        "related_brands": [
+          "Various Fashion Brands"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Soft Serve Margaritas Go Viral - Texas Restaurants Embrace Trend",
       "body": "Soft serve margaritas trending nationwide after Ohio's La Playa Mexican Food sparked the trend. Bar & Bones in Dallas and Houston now serving the frozen margarita in soft-serve form. Nostalgic ice-cream texture meets classic drink.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "TikTok | Web",
       "source_url": "https://www.houstonchronicle.com/food-restaurants/article/houston-soft-serve-margaritas-22073357.php",
       "trend_type": "viral_moment",
       "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#SoftServeMargarita", "#FoodTikTok", "#TexasEats"],
-        "engagement": "very high",
+        "hashtags": [
+          "#SoftServeMargarita",
+          "#FoodTikTok",
+          "#TexasEats"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["La Playa Mexican Food", "Bar & Bones"]
+        "related_brands": [
+          "La Playa Mexican Food",
+          "Bar & Bones"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Cottage Cheese with Mustard - Viral Food Trend with Staying Power",
       "body": "Oura data reveals cottage cheese with mustard as a top 'unique' food log for women - a viral trend that has staying power. Functional wellness foods including spearmint tea and matcha dominating.",
-      "categories": ["Food & Beverage", "Health & Fitness"],
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
       "source": "Web",
       "source_url": "https://ouraring.com/blog/global-food-trends/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#CottageCheese", "#FoodTrend", "#Wellness"],
-        "engagement": "high",
+        "hashtags": [
+          "#CottageCheese",
+          "#FoodTrend",
+          "#Wellness"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Oura"]
+        "related_brands": [
+          "Oura"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok Viral Workouts Analyzed by Science",
       "body": "Greek publication analyzes viral TikTok fitness workouts and what science says about them. House burping trend for reducing virus transmission also trending. Fitness influencers driving engagement.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok | Web",
       "source_url": "https://www.shape.gr/fitness/tips-askisis/1018880/viral-gumnastiki-sto-tiktok-ti-leei-pragmatika-i-epistimi-gia-ta-pio-dimofili-trends/",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#TikTokFitness", "#ViralWorkout", "#HomeGym"],
-        "engagement": "high",
+        "hashtags": [
+          "#TikTokFitness",
+          "#ViralWorkout",
+          "#HomeGym"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["Various Fitness Influencers"]
+        "related_brands": [
+          "Various Fitness Influencers"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Vitamin Deficiency Discovery by Dr. Eric Berg Goes Viral",
       "body": "Dr. Eric Berg (2.3M followers, 30M likes) highlights bleeding gums as sign of vitamin deficiency. Health-focused TikTok content driving engagement around wellness education.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.ok.co.uk/lifestyle/fitness/bleeding-gums-could-sign-your-36880192",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#HealthTok", "#VitaminDeficiency", "#DrEricBerg"],
-        "engagement": "very high",
+        "hashtags": [
+          "#HealthTok",
+          "#VitaminDeficiency",
+          "#DrEricBerg"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Dr. Eric Berg"]
+        "related_brands": [
+          "Dr. Eric Berg"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Physical Wellness Market Booming - Wearables Drive Growth",
       "body": "Physical wellness market booming worldwide. Adoption of wearable fitness devices and health tracking applications increasing rapidly. Peloton, Apple, Nike leading market growth.",
-      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "categories": [
+        "Health & Fitness",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.openpr.com/news/4428218/physical-wellness-market-is-booming-worldwide-peloton-apple",
       "trend_type": "product",
       "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#Wearables", "#FitnessTech", "#WellnessMarket"],
-        "engagement": "high",
+        "hashtags": [
+          "#Wearables",
+          "#FitnessTech",
+          "#WellnessMarket"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Peloton", "Apple", "Nike"]
+        "related_brands": [
+          "Peloton",
+          "Apple",
+          "Nike"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Spirit Airlines Fort Lauderdale Chaos Goes Viral",
       "body": "Spirit Airlines flight cancellations and delays at Fort Lauderdale sparked viral outrage on TikTok amid DHS shutdown, severe weather, and staffing shortages. Perfect honeymoon week ruined.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "TikTok | Web",
       "source_url": "https://www.foxnews.com/travel/budget-airline-blasted-viral-video-perfect-honeymoon-week-ends-travel-chaos",
       "trend_type": "viral_moment",
       "confidence_score": 0.95,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#SpiritAirlines", "#TravelChaos", "#FortLauderdale"],
-        "engagement": "very high",
+        "hashtags": [
+          "#SpiritAirlines",
+          "#TravelChaos",
+          "#FortLauderdale"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "negative",
-        "related_brands": ["Spirit Airlines"]
+        "related_brands": [
+          "Spirit Airlines"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "OPPO Find N6 Foldable Launch - March 17",
       "body": "OPPO unveiling Find N6 foldable smartphone featuring redesigned hinge, 'Zero-Feel Crease' display technology, AI-powered stylus tools and flagship hardware.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.business-standard.com/technology/tech-news",
       "trend_type": "product",
       "confidence_score": 0.9,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#OPPOFindN6", "#FoldablePhone", "#TechLaunch"],
-        "engagement": "medium",
+        "hashtags": [
+          "#OPPOFindN6",
+          "#FoldablePhone",
+          "#TechLaunch"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["OPPO"]
+        "related_brands": [
+          "OPPO"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Minecraft 'Biggest Bird' Sound Goes Viral",
       "body": "Tied to Theo's catchphrase 'I'M THE BIGGEST BIRD,' the track went viral across TikTok. Honda Motorcycles and official Minecraft account joined in. Creators using for pet, parenting, fashion, and food content.",
-      "categories": ["Baby & Kids", "Pets"],
+      "categories": [
+        "Baby & Kids",
+        "Pets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#Minecraft", "#BiggestBird", "#TikTokSound"],
-        "engagement": "very high",
+        "hashtags": [
+          "#Minecraft",
+          "#BiggestBird",
+          "#TikTokSound"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Minecraft", "Honda"]
+        "related_brands": [
+          "Minecraft",
+          "Honda"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Emotional Pet Content: Dog Realizes New Home Has Backyard",
       "body": "Video of Barbie the apartment dog realizing she has a backyard after 3 years melts hearts on social media. 165 comments on TikTok. Pet content continuing to drive high engagement.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok | Web",
       "source_url": "https://www.newsweek.com/moment-anxious-apartment-dog-realizes-new-home-backyard-viral-11685186",
       "trend_type": "viral_moment",
       "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#PetTikTok", "#DogTwitter", "#PetContent"],
-        "engagement": "high",
+        "hashtags": [
+          "#PetTikTok",
+          "#DogTwitter",
+          "#PetContent"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Natalie Portman Named Tiffany & Co. Ambassador",
       "body": "Natalie Portman is Tiffany & Co.'s new ambassador. Sixteen Stone collection draws from designer Jean Schlumberger's archive work with cross-stitch pattern and mixed metal approach.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.fashiontimes.com/natalie-portman-tiffany-cos-new-ambassador-diamonds-are-worth-every-carat-13925",
       "trend_type": "product",
       "confidence_score": 0.9,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#TiffanyAndCo", "#NataliePortman", "#LuxuryJewelry"],
-        "engagement": "medium",
+        "hashtags": [
+          "#TiffanyAndCo",
+          "#NataliePortman",
+          "#LuxuryJewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Tiffany & Co."]
+        "related_brands": [
+          "Tiffany & Co."
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Kate Middleton's Rare Emerald Earrings for St. Patrick's Day",
       "body": "Kate Middleton wore rarely seen $11,300 emerald and diamond earrings for St. Patrick's Day appearance. Forest green Alexander McQueen coat, Cornelia James gloves completes royal look.",
-      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "categories": [
+        "Jewelry & Accessories",
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://www.instyle.com/kate-middleton-rare-emerald-diamond-earrings-st-patricks-day-11928070",
       "trend_type": "viral_moment",
       "confidence_score": 0.9,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#KateMiddleton", "#RoyalJewelry", "#StPatricksDay"],
-        "engagement": "high",
+        "hashtags": [
+          "#KateMiddleton",
+          "#RoyalJewelry",
+          "#StPatricksDay"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Alexander McQueen", "Tiffany & Co."]
+        "related_brands": [
+          "Alexander McQueen",
+          "Tiffany & Co."
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     }
   ]

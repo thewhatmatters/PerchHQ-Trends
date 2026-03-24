@@ -1,55 +1,582 @@
 {
-  "date": "2026-02-21",
-  "categories": [
+  "batch_id": "trends-2026-02-21",
+  "scraped_at": "2026-02-21T10:00:00Z",
+  "expires_at": "2026-02-24T10:00:00Z",
+  "trends": [
     {
-      "name": "Beauty",
-      "topics": [
-        {"title": "Skinimalism 2.0", "summary": "Minimalist skincare with focus on barrier repair and microbiome-friendly products. Double cleansing fading in favor of single-step routines.", "url": ""},
-        {"title": "Vitamin C Serums", "summary": "Stable vitamin C formulations with ferulic acid remain holy grail. New encapsulation tech improving stability.", "url": ""},
-        {"title": "Guasha Tools", "summary": "Jade guasha evolving to include LED-integrated tools for light therapy + massage.", "url": ""},
-        {"title": "Clean Beauty Standards", "summary": "Industry moving toward stricter 'free-from' lists. EU regulations driving reformulations.", "url": ""},
-        {"title": "At-Home Devices", "summary": "Microcurrent and LED masks gaining mainstream adoption. Pricing becoming accessible.", "url": ""}
-      ]
+      "headline": "Skinimalism 2.0",
+      "body": "Minimalist skincare with focus on barrier repair and microbiome-friendly products. Double cleansing fading in favor of single-step routines.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
     },
     {
-      "name": "Fashion",
-      "topics": [
-        {"title": "Oversized Blazers", "summary": "Power shoulders and宽松剪裁 dominating. Thrifted vintage blazers trending hard.", "url": ""},
-        {"title": "Mermaidcore", "summary": "Ocean-inspired sequins, scales, iridescent fabrics. Post-Mermaid era driving aesthetic.", "url": ""},
-        {"title": "Cargo Pockets", "summary": "Utility mania continuing. More functional, less chunky iterations emerging.", "url": ""},
-        {"title": "Quiet Luxury Evolution", "summary": "Still strong but getting louder. Logomania returning with subtlety.", "url": ""},
-        {"title": "Platform Sandals", "summary": "Chunky platform sandals replacing rain boots as summer staple.", "url": ""}
-      ]
+      "headline": "Vitamin C Serums",
+      "body": "Stable vitamin C formulations with ferulic acid remain holy grail. New encapsulation tech improving stability.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
     },
     {
-      "name": "Food",
-      "topics": [
-        {"title": "Fermentation Stations", "summary": "Home kombucha and kimchi kits exploding. DIY culture driving probiotic consumption.", "url": ""},
-        {"title": "Air Fryer meals", "summary": "Air fryers becoming kitchen command centers. Recipe content dominating TikTok.", "url": ""},
-        {"title": "Alternative Proteins", "summary": "Plant-based getting more realistic. Cultivated meat entering select restaurants.", "url": ""},
-        {"title": "Collagen Everything", "summary": "Collagen supplements going mainstream. Adding to coffee, matcha, baked goods.", "url": ""},
-        {"title": "Global Spice Routes", "summary": "Less Italian/French, more Ethiopian, Jamaican, Filipino flavors trending.", "url": ""}
-      ]
+      "headline": "Guasha Tools",
+      "body": "Jade guasha evolving to include LED-integrated tools for light therapy + massage.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
     },
     {
-      "name": "Tech",
-      "topics": [
-        {"title": "AI Companions", "summary": "AI pets and companions trending. Emotional AI devices gaining adoption.", "url": ""},
-        {"title": "Smart Glasses", "summary": "Second attempt at smart glasses finally working. Fashion brands collaborating.", "url": ""},
-        {"title": "Home Energy Management", "summary": "Smart panels and energy monitoring systems trending as costs rise.", "url": ""},
-        {"title": "Mechanical Keyboards", "summary": "Custom keyboard hobby exploding. Artisan keycaps becoming collectibles.", "url": ""},
-        {"title": "e-Readers", "summary": "e-ink devices having a moment. Kindle color and Boox leading refresh cycles.", "url": ""}
-      ]
+      "headline": "Clean Beauty Standards",
+      "body": "Industry moving toward stricter 'free-from' lists. EU regulations driving reformulations.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
     },
     {
-      "name": "Travel",
-      "topics": [
-        {"title": "Workcation Hubs", "summary": "Digital nomad visas expanding. Portugal, Bali, Mexico still leading destinations.", "url": ""},
-        {"title": "Sleep Tourism", "summary": "Hotels competing on sleep quality. Onsen and spa destinations trending.", "url": ""},
-        {"title": "Slow Travel", "summary": "Fewer trips, longer stays. Deep local experiences over bucket lists.", "url": ""},
-        {"title": "Train Travel Renaissance", "summary": "Night trains Europe-wide. Sleeper trains as romantic alternative to flying.", "url": ""},
-        {"title": "Microcations", "summary": "3-day weekend getaways. Quick resets over big vacations.", "url": ""}
-      ]
+      "headline": "At-Home Devices",
+      "body": "Microcurrent and LED masks gaining mainstream adoption. Pricing becoming accessible.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Oversized Blazers",
+      "body": "Power shoulders and\u5bbd\u677e\u526a\u88c1 dominating. Thrifted vintage blazers trending hard.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mermaidcore",
+      "body": "Ocean-inspired sequins, scales, iridescent fabrics. Post-Mermaid era driving aesthetic.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cargo Pockets",
+      "body": "Utility mania continuing. More functional, less chunky iterations emerging.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Quiet Luxury Evolution",
+      "body": "Still strong but getting louder. Logomania returning with subtlety.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Platform Sandals",
+      "body": "Chunky platform sandals replacing rain boots as summer staple.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Fermentation Stations",
+      "body": "Home kombucha and kimchi kits exploding. DIY culture driving probiotic consumption.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Air Fryer meals",
+      "body": "Air fryers becoming kitchen command centers. Recipe content dominating TikTok.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Alternative Proteins",
+      "body": "Plant-based getting more realistic. Cultivated meat entering select restaurants.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Collagen Everything",
+      "body": "Collagen supplements going mainstream. Adding to coffee, matcha, baked goods.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Global Spice Routes",
+      "body": "Less Italian/French, more Ethiopian, Jamaican, Filipino flavors trending.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "AI Companions",
+      "body": "AI pets and companions trending. Emotional AI devices gaining adoption.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart Glasses",
+      "body": "Second attempt at smart glasses finally working. Fashion brands collaborating.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Home Energy Management",
+      "body": "Smart panels and energy monitoring systems trending as costs rise.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mechanical Keyboards",
+      "body": "Custom keyboard hobby exploding. Artisan keycaps becoming collectibles.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "e-Readers",
+      "body": "e-ink devices having a moment. Kindle color and Boox leading refresh cycles.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Workcation Hubs",
+      "body": "Digital nomad visas expanding. Portugal, Bali, Mexico still leading destinations.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sleep Tourism",
+      "body": "Hotels competing on sleep quality. Onsen and spa destinations trending.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Slow Travel",
+      "body": "Fewer trips, longer stays. Deep local experiences over bucket lists.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Train Travel Renaissance",
+      "body": "Night trains Europe-wide. Sleeper trains as romantic alternative to flying.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Microcations",
+      "body": "3-day weekend getaways. Quick resets over big vacations.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "curated topic",
+        "price_point": "various"
+      }
     }
   ]
 }

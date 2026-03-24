@@ -1,244 +1,404 @@
 {
-  "date": "2026-03-19",
+  "batch_id": "trends-2026-03-19",
+  "scraped_at": "2026-03-19T10:00:00Z",
+  "expires_at": "2026-03-22T10:00:00Z",
   "trends": [
     {
       "headline": "Sol de Janeiro Brazilian Bum Bum Cream continues viral dominance",
       "body": "The Brazilian body cream continues its explosive growth with searches up 61.6% year-on-year, reaching nearly 3M searches in 2026. As spring approaches, fragrance-led bodycare is dominating the category. The cream's signature scent and instant-glow formula make it a top TikTok beauty recommendation.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://retailtimes.co.uk/from-k-beauty-spf-to-the-viral-cleansing-balm-lookfantastic-reveals-most-searched-beauty-products-right-now/",
       "trend_type": "product",
       "confidence_score": 0.92,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#brazilianbumbum #soldejaneiro #bodycare"],
-        "engagement": "very high",
+        "hashtags": [
+          "#brazilianbumbum #soldejaneiro #bodycare"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Sol de Janeiro"]
+        "related_brands": [
+          "Sol de Janeiro"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "K-beauty glass skin trend dominates 2026",
-      "body": "Korean skincare continues its reign with glass skin techniques and viral skin hacks. The 10M+ reviews on Hwahae show snail mucin, barrier creams, and ceramide products leading the Korean market. Boots launched a viral glass skin range with new products starting at £4.95.",
-      "categories": ["Beauty & Skincare"],
+      "body": "Korean skincare continues its reign with glass skin techniques and viral skin hacks. The 10M+ reviews on Hwahae show snail mucin, barrier creams, and ceramide products leading the Korean market. Boots launched a viral glass skin range with new products starting at \u00a34.95.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.elle.com/uk/beauty/skin/g70778270/best-new-korean-skincare/",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#glassskin #kbeauty #snailmucin"],
-        "engagement": "very high",
+        "hashtags": [
+          "#glassskin #kbeauty #snailmucin"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Boots", "Various K-beauty brands"]
+        "related_brands": [
+          "Boots",
+          "Various K-beauty brands"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Barrel silhouette and woodland whimsy lead Spring 2026 fashion",
       "body": "Spring 2026 fashion is defined by the barrel trend - volume where it counts, streamlined where it matters. Leopard print returns as 'Bambi' pattern with soft fawn tones. Sheer fabrics and lingerie dressing for everyday wear shows subtle romance. Lightweight knits over crisp shirting dominates layering.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://globalnews.ca/the-curator/11707624/spring-2026-fashion-trends/",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#barreltred #springfashion #leopardprint"],
-        "engagement": "high",
+        "hashtags": [
+          "#barreltred #springfashion #leopardprint"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Various designers"]
+        "related_brands": [
+          "Various designers"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Early 2000s festival fashion resurgence",
       "body": "Pop performers like Sabrina Carpenter and Chappell Roan are inspiring playful, expressive festival outfits bringing early-2000s aesthetics back. Color-blocking and mood-lifting looks are trending off the runway.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://www.hercampus.com/school/casper-libero/4-fashion-trends-to-try-at-lollapalooza-brazil-2026/",
       "trend_type": "viral_moment",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#festivalfashion #early2000s #sabrinacarpenter"],
-        "engagement": "high",
+        "hashtags": [
+          "#festivalfashion #early2000s #sabrinacarpenter"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Functional beverages and fortified sodas as daily performance boosts",
       "body": "Functional beverages including enhanced coffees and fortified sodas are being marketed as daily performance boosts. Spearmint tea, matcha, and cottage cheese with mustard remain viral wellness trends with staying power according to Oura data.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "Web",
       "source_url": "https://www.carolineprogress.com/8976-food-and-beverage-2026-whats-in-and-whats-out/",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#functionalbeverage #matcha #spearminttea"],
-        "engagement": "high",
+        "hashtags": [
+          "#functionalbeverage #matcha #spearminttea"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Peptide injections trend goes viral on TikTok",
       "body": "Peptide injections are trending across TikTok and social media, with people reporting use for gym gains, improved skin appearance, and mental focus. This represents a major wellness trend worth monitoring.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.kbia.org/health-wealth/2026-03-18/exploring-online-trends-are-you-injecting-peptide",
       "trend_type": "viral_moment",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#peptides #healthtrends #fitness"],
-        "engagement": "very high",
+        "hashtags": [
+          "#peptides #healthtrends #fitness"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Wearable technology hits 100 million users",
       "body": "100 million Americans now use wearable technology, providing vast data for precision health and personalizing wellness. This drives personalized wellness trends and data-driven health content.",
-      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "categories": [
+        "Health & Fitness",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.nutraingredients.com/Article/2026/03/18/the-next-era-of-personalized-wellness/",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#wearabletech #healthtech #personalizedwellness"],
-        "engagement": "high",
+        "hashtags": [
+          "#wearabletech #healthtech #personalizedwellness"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Apple", "Garmin", "Whoop", "Oura"]
+        "related_brands": [
+          "Apple",
+          "Garmin",
+          "Whoop",
+          "Oura"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Padded beds trend goes viral on TikTok",
       "body": "Firms are responding with padded headboards and bedding designed to recreate the comfort of 'potato beds' that recently went viral on TikTok - padded beds often featuring DIY solutions designed for ultimate comfort.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://memlab.it/home-lifestyle-trends-2026-decorating-with-meaning/",
       "trend_type": "viral_moment",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#paddedbeds #cozyhome #tiktokbeds"],
-        "engagement": "high",
+        "hashtags": [
+          "#paddedbeds #cozyhome #tiktokbeds"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Amazon Spring Sale 2026 tech deals",
       "body": "Amazon's Big Spring Sale on March 25, 2026 features major deals on Apple, Beats, Google, and more top brands. Early deals on headphones, smartwatches, and SSDs are trending.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.pcmag.com/news/best-early-amazon-spring-sale-tech-electronics-deals-2026",
       "trend_type": "product",
-      "confidence_score": 0.90,
+      "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#amazonspring sale #techdeals # electronics"],
-        "engagement": "very high",
+        "hashtags": [
+          "#amazonspring sale #techdeals # electronics"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Apple", "Beats", "Google", "Samsung"]
+        "related_brands": [
+          "Apple",
+          "Beats",
+          "Google",
+          "Samsung"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "KEF and audiophile equipment trending",
       "body": "KEF's excellent entry-level bookshelf speakers got even cheaper, and respected hi-fi brands are launching gorgeous audiophile amplifiers. Cool gadgets and new tech releases are trending heavily.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.gearpatrol.com/audio/best-new-tech-releases-3-15-2026/",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#hifi #speakers #audiophile"],
-        "engagement": "medium",
+        "hashtags": [
+          "#hifi #speakers #audiophile"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["KEF"]
+        "related_brands": [
+          "KEF"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Sustainability imperative in baby care market",
       "body": "The baby care market is being reshaped by three macro-trends: demographic shifts toward older, higher-income first-time parents; digitalization accelerating influencer validation; and sustainability moving from niche to expectation in packaging and ingredients.",
-      "categories": ["Baby & Kids"],
+      "categories": [
+        "Baby & Kids"
+      ],
       "source": "Web",
       "source_url": "https://www.indexbox.io/store/world-baby-care-market-analysis-forecast-size-trends-and-insights/",
       "trend_type": "content_format",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#sustainableparenting #babycare"],
-        "engagement": "high",
+        "hashtags": [
+          "#sustainableparenting #babycare"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pet therapy content trending on social media",
       "body": "The 'I can't today, I have therapy' trend extends to showing pets as therapy - heartwarming pet content performs well. Pet parents are increasingly sharing pet-centric self-care content.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "Web",
       "source_url": "https://socialbee.com/blog/instagram-trends/",
       "trend_type": "content_format",
       "confidence_score": 0.72,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#pettherapy #petsoftiktok #cuddlepets"],
-        "engagement": "high",
+        "hashtags": [
+          "#pettherapy #petsoftiktok #cuddlepets"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Solo reset travel experiences trending in 2026",
       "body": "Solo travelers in 2026 are less interested in proving self-sufficiency and more interested in personal reset experiences. Travel companies are creating guided solo travel packages offering structured freedom with pre-arranged transportation, lodging, and activities. Strong trend among younger professionals.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://qz.com/travel-trends-2026-readers-digest",
       "trend_type": "viral_moment",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#solotravel #traveltrends #reset"],
-        "engagement": "high",
+        "hashtags": [
+          "#solotravel #traveltrends #reset"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Shell motifs and sea-inspired jewelry for spring",
       "body": "Spring 2026 jewelry trends feature sea-inspired pieces - shell motifs are back (recalling Juju Vera's viral shell necklace from last spring). XL diamond-set buckles and maritime-inspired designs trending for high jewelry.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-jewelry-trends-2026/",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#shelljewelry #springjewelry #seaside"],
-        "engagement": "high",
+        "hashtags": [
+          "#shelljewelry #springjewelry #seaside"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Fred", "Various luxury houses"]
+        "related_brands": [
+          "Fred",
+          "Various luxury houses"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Understated men's jewelry - thinner chains dominate 2026",
       "body": "The 2026 men's jewelry trend leans toward thinner, understated designs rather than heavy statement pieces. Chains remain simple and versatile.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://www.monu.org/how-australians-are-styling-mens-jewellery-in-2026/",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#mensjewelry #menschain #minimalist"],
-        "engagement": "medium",
+        "hashtags": [
+          "#mensjewelry #menschain #minimalist"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     }
   ]

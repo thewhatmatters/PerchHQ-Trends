@@ -1,228 +1,396 @@
 {
-  "date": "2026-03-23",
+  "batch_id": "trends-2026-03-23",
+  "scraped_at": "2026-03-23T10:00:00Z",
+  "expires_at": "2026-03-26T10:00:00Z",
   "trends": [
     {
       "headline": "Soft Travel Trend - Relaxed Getaways Taking Over",
       "body": "A new travel movement called 'soft travel' is trending in 2026. Unlike packed itineraries, travelers now prefer slow-paced, restorative vacations in destinations like Lake Placid, San Miguel de Allende, and Luang Prabang. Perfect for creators focusing on wellness and mindful travel content.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://parade.com/travel/people-falling-for-soft-trave-trend-2026",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#softtravel", "#slowtravel", "#wellnesstravel"],
-        "engagement": "high",
+        "hashtags": [
+          "#softtravel",
+          "#slowtravel",
+          "#wellnesstravel"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "2026 is the New 2016 - Retro Fashion Resurgence",
       "body": "A massive social media trend where people share fashion, music, and trends from 2016. This nostalgic wave is driving viral content on TikTok, Instagram, and Facebook, with celebrities and influencers joining in.",
-      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "categories": [
+        "Fashion & Apparel",
+        "Jewelry & Accessories"
+      ],
       "source": "TikTok",
       "source_url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016",
       "trend_type": "viral_moment",
       "confidence_score": 0.9,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#2026isthenew2016", "#retrofashion", "#2016throwback"],
-        "engagement": "very high",
+        "hashtags": [
+          "#2026isthenew2016",
+          "#retrofashion",
+          "#2016throwback"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Smart Kitchen Gadgets and Home Organization Products Trending on TikTok",
       "body": "Smart home devices, kitchen tools, and organization products are going viral on TikTok. Topics like sink organizers, bathroom upgrades, and suction racks are trending under #amazonfinds and #homedecor. Small home decor businesses are getting major reach.",
-      "categories": ["Home & Lifestyle", "Tech & Gadgets"],
+      "categories": [
+        "Home & Lifestyle",
+        "Tech & Gadgets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/amazonfinds",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#amazonfinds", "#homedecor", "#homeorganization", "#TechTok"],
-        "engagement": "high",
+        "hashtags": [
+          "#amazonfinds",
+          "#homedecor",
+          "#homeorganization",
+          "#TechTok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Dumpling Lasagna - Viral Comfort Food Recipe",
       "body": "The 'Dumpling Lasagna' recipe is trending as a creative comfort food hack. It repurposes familiar flavors into an easily achievable format, tapping into the 'hack' culture on TikTok. High visual appeal and shareability.",
-      "categories": ["Food & Beverage"],
+      "categories": [
+        "Food & Beverage"
+      ],
       "source": "Web",
       "source_url": "https://ourhealtho.com/cooking-recipes-insight-mar-22-2026/",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#dumplinglasagna", "#comfortfood", "#foodhack"],
-        "engagement": "high",
+        "hashtags": [
+          "#dumplinglasagna",
+          "#comfortfood",
+          "#foodhack"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Cherry Blossom Season - Hidden Destinations Trend",
       "body": "Instead of crowded Tokyo spots, travelers are seeking hidden cherry blossom destinations across Japan, Korea, and China for unique, less-crowded sakura experiences. Great for travel content creators.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.travelandtourworld.com/news/article/new-cherry-blossom-travel-trends-2026/",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#sakura", "#cherryblossom", "#hiddengems"],
-        "engagement": "high",
+        "hashtags": [
+          "#sakura",
+          "#cherryblossom",
+          "#hiddengems"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Bracelet Stacking and Charm Bracelets Dominating Jewelry",
       "body": "Bracelet trends are hot on TikTok with stackable bracelets, charm bracelets, and eye bracelets gaining massive traction. Creators are showcasing layering techniques and seasonal styling tips.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/bracelet-trend",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#braceletstack", "#charmbracelet", "#trendingbracelets"],
-        "engagement": "high",
+        "hashtags": [
+          "#braceletstack",
+          "#charmbracelet",
+          "#trendingbracelets"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Gen Z Luxury Second-Hand Fashion Growing",
       "body": "30-40% of global shoppers prefer luxury clothing brands, and Gen Z closets are now 32% second-hand luxury. Social media 'fit pics' drive 55% of luxury purchase intent among 18-34-year-olds on TikTok #OOTD.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Web",
       "source_url": "https://www.clothingbrands.org/",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#OOTD", "#luxuryfashion", "#secondhandluxury"],
-        "engagement": "very high",
+        "hashtags": [
+          "#OOTD",
+          "#luxuryfashion",
+          "#secondhandluxury"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Pet Content Remains Strong - Dog and Cat Trends",
       "body": "Pet content continues to perform well with trending hashtags like #dogsoftiktok, #DogsofTikTok, #puppy, and #petlovers. Creators can capitalize on this evergreen category.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/dog-trending-hashtags",
       "trend_type": "hashtag",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#dogsoftiktok", "#DogsofTikTok", "#petlovers", "#puppy"],
-        "engagement": "very high",
+        "hashtags": [
+          "#dogsoftiktok",
+          "#DogsofTikTok",
+          "#petlovers",
+          "#puppy"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "hashtag",
+        "price_point": "various"
       }
     },
     {
       "headline": "TechTok and Trending Gadgets Growing",
       "body": "Smart appliances, kitchen tools, and innovative home inventions are trending under #TrendingGadgets and #TechTok. 2026 gadgets, viral technology, smart home devices are getting significant engagement.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "TikTok",
       "source_url": "https://www.tiktok.com/discover/tech-trends",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#TechTok", "#TrendingGadgets", "#2026gadgets"],
-        "engagement": "high",
+        "hashtags": [
+          "#TechTok",
+          "#TrendingGadgets",
+          "#2026gadgets"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "AI-Powered Creator Tools Rising",
       "body": "AI-powered platforms like Add2App help influencers produce polished short-form videos across TikTok, Instagram, and YouTube Shorts. Multi-platform distribution tools are crucial in 2026.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.latimes.com/b2b/entertainment/story/2026-03-22/los-angeles-creator-economy-2026-trends",
       "trend_type": "content_format",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#creator economy", "#AItools", "#shortform"],
-        "engagement": "high",
+        "hashtags": [
+          "#creator economy",
+          "#AItools",
+          "#shortform"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Add2App"]
+        "related_brands": [
+          "Add2App"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "TikTok Shop Japan Growing Rapidly",
       "body": "TikTok Shop in Japan is seeing significant growth with deeper ecosystem: more inventory, creators, content, and algorithm surfacing products. Foreign brands can now sell on TikTok Shop Japan.",
-      "categories": ["Tech & Gadgets", "Fashion & Apparel", "Beauty & Skincare"],
+      "categories": [
+        "Tech & Gadgets",
+        "Fashion & Apparel",
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://krows-digital.com/tiktok-shop-japan-2026-foreign-brands/",
       "trend_type": "viral_moment",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#TikTokShop", "#JapanEcommerce"],
-        "engagement": "high",
+        "hashtags": [
+          "#TikTokShop",
+          "#JapanEcommerce"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Probiotic Baby Formulas Trending",
       "body": "Technological advancements in baby food like fortified formulas enriched with probiotics and prebiotics are gaining traction for digestive health. E-commerce platforms transforming purchasing behavior.",
-      "categories": ["Baby & Kids"],
+      "categories": [
+        "Baby & Kids"
+      ],
       "source": "Web",
       "source_url": "https://www.futuremarketreport.com/industry-report/baby-foods-and-formula-market",
       "trend_type": "product",
       "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#babyformula", "#probiotics"],
-        "engagement": "medium",
+        "hashtags": [
+          "#babyformula",
+          "#probiotics"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Wearable Tech and AI Health Monitoring",
       "body": "AI and wearable technology like Fitbit and Apple Watch are revolutionizing personalized health management with real-time vital sign monitoring. Users can tailor fitness and nutrition plans.",
-      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "categories": [
+        "Health & Fitness",
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.askfororiginal.com/top-wellness-trends/",
       "trend_type": "product",
       "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#wearabletech", "#AIhealth", "#fitness"],
-        "engagement": "high",
+        "hashtags": [
+          "#wearabletech",
+          "#AIhealth",
+          "#fitness"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Fitbit", "Apple Watch"]
+        "related_brands": [
+          "Fitbit",
+          "Apple Watch"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Art Prints and Wall Decor Small Businesses Growing",
       "body": "Small businesses like Haus and Hues selling art prints, posters, and frames are getting viral attention on TikTok. Home art decor is a growing niche for creators.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://www.buzzfeed.com/lily_burrill/well-decorated-home-for-2026-an",
       "trend_type": "product",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#artprints", "#homedecor", "#wallart"],
-        "engagement": "high",
+        "hashtags": [
+          "#artprints",
+          "#homedecor",
+          "#wallart"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Haus and Hues"]
+        "related_brands": [
+          "Haus and Hues"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     }
   ]

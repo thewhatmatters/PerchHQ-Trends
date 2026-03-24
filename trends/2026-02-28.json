@@ -1,5 +1,7 @@
 {
-  "date": "2026-02-28",
+  "batch_id": "trends-2026-02-28",
+  "scraped_at": "2026-02-28T10:00:00Z",
+  "expires_at": "2026-03-03T10:00:00Z",
   "trends": [
     {
       "headline": "Japanese J-Beauty Ingredients Taking Over Skincare",
@@ -20,12 +22,16 @@
           "#sakura",
           "#camelliaoil"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Various J-Beauty brands"
         ],
-        "price_point": "mid-range"
+        "price_point": "mid-range",
+        "context": "product"
       }
     },
     {
@@ -46,7 +52,10 @@
           "#kbeauty",
           "#tonerpads"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Lashify",
@@ -55,7 +64,8 @@
           "VIOLET_FR",
           "Glow Recipe"
         ],
-        "price_point": "mid-range to luxury"
+        "price_point": "mid-range to luxury",
+        "context": "product"
       }
     },
     {
@@ -76,7 +86,10 @@
           "#spring2026",
           "#fashiontrend"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Chanel",
@@ -85,7 +98,8 @@
           "Saint Laurent",
           "Gucci"
         ],
-        "context": "season"
+        "context": "season",
+        "price_point": "various"
       }
     },
     {
@@ -106,13 +120,17 @@
           "#AW26",
           "#sculpturaltailoring"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Labrum",
           "British Fashion Council"
         ],
-        "context": "event"
+        "context": "event",
+        "price_point": "various"
       }
     },
     {
@@ -133,9 +151,14 @@
           "#fitnesstrend",
           "#12330workout"
         ],
-        "engagement": "very high",
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "context": "viral_challenge"
+        "context": "viral_challenge",
+        "price_point": "various",
+        "related_brands": []
       }
     },
     {
@@ -156,9 +179,14 @@
           "#selfcare",
           "#mentalhealth"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "context": "cultural_shift"
+        "context": "cultural_shift",
+        "price_point": "various",
+        "related_brands": []
       }
     },
     {
@@ -179,9 +207,14 @@
           "#interiordesign",
           "#heirloom"
         ],
-        "engagement": "medium",
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "price_point": "varied"
+        "price_point": "varied",
+        "context": "content_format",
+        "related_brands": []
       }
     },
     {
@@ -203,7 +236,10 @@
           "#Honor",
           "#techtrends"
         ],
-        "engagement": "very high",
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Tecno",
@@ -212,7 +248,8 @@
           "Samsung",
           "Google"
         ],
-        "context": "event"
+        "context": "event",
+        "price_point": "various"
       }
     },
     {
@@ -233,13 +270,17 @@
           "#wildlife",
           "#travel2026"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Club Med",
           "Royal Caribbean"
         ],
-        "price_point": "luxury"
+        "price_point": "luxury",
+        "context": "viral_moment"
       }
     },
     {
@@ -260,9 +301,14 @@
           "#slowendholiday",
           "#traveltrends"
         ],
-        "engagement": "medium",
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "context": "cultural_shift"
+        "context": "cultural_shift",
+        "price_point": "various",
+        "related_brands": []
       }
     },
     {
@@ -283,8 +329,14 @@
           "#croatia",
           "#montenegro"
         ],
-        "engagement": "medium",
-        "sentiment": "positive"
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "context": "viral_moment",
+        "price_point": "various",
+        "related_brands": []
       }
     },
     {
@@ -305,9 +357,14 @@
           "#IncredibleIndia",
           "#travel2026"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "context": "recognition"
+        "context": "recognition",
+        "price_point": "various",
+        "related_brands": []
       }
     },
     {
@@ -328,13 +385,17 @@
           "#savorycocktails",
           "#lowABV"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Cuervo",
           "Proximo"
         ],
-        "context": "cultural_shift"
+        "context": "cultural_shift",
+        "price_point": "various"
       }
     },
     {
@@ -355,12 +416,16 @@
           "#prebiotics",
           "#functionalbeverages"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Various functional beverage brands"
         ],
-        "price_point": "mid-range"
+        "price_point": "mid-range",
+        "context": "product"
       }
     },
     {
@@ -381,7 +446,10 @@
           "#parenting",
           "#viralbabyproducts"
         ],
-        "engagement": "very high",
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Najell"
@@ -408,12 +476,16 @@
           "#mentalhealth",
           "#puzzlefeeders"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Various pet brands"
         ],
-        "price_point": "mid-range"
+        "price_point": "mid-range",
+        "context": "product"
       }
     },
     {
@@ -434,7 +506,10 @@
           "#GPS",
           "#automation"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Fi",
@@ -462,14 +537,18 @@
           "#gold",
           "#silver"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Chanel",
           "Saint Laurent",
           "Jenny Bird"
         ],
-        "context": "fashion_trend"
+        "context": "fashion_trend",
+        "price_point": "various"
       }
     },
     {
@@ -490,14 +569,18 @@
           "#pearls",
           "#shells"
         ],
-        "engagement": "high",
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
         "related_brands": [
           "Eliou",
           "Jennifer Behr",
           "Chan Luu"
         ],
-        "context": "fashion_trend"
+        "context": "fashion_trend",
+        "price_point": "various"
       }
     }
   ]

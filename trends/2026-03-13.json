@@ -1,244 +1,430 @@
 {
-  "date": "2026-03-13",
+  "batch_id": "trends-2026-03-13",
+  "scraped_at": "2026-03-13T10:00:00Z",
+  "expires_at": "2026-03-16T10:00:00Z",
   "trends": [
     {
       "headline": "Snail Mucin Essence Viral Again - Amazon Spring Sale",
-      "body": "The viral snail mucin serum that gained massive popularity in 2023-2024 is seeing renewed interest during Amazon's spring sale. Priced at approximately £12, the essence is being praised for delivering 'glass skin' results with a lightweight, silky texture. Reviews mention it works well under makeup and is suitable for mature skin.",
-      "categories": ["Beauty & Skincare"],
+      "body": "The viral snail mucin serum that gained massive popularity in 2023-2024 is seeing renewed interest during Amazon's spring sale. Priced at approximately \u00a312, the essence is being praised for delivering 'glass skin' results with a lightweight, silky texture. Reviews mention it works well under makeup and is suitable for mature skin.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "Web",
       "source_url": "https://www.dailyrecord.co.uk/lifestyle/fashion-beauty/viral-snail-essence-serum-works-36854342",
       "trend_type": "product",
       "confidence_score": 0.85,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#glassskin", "#snailmucin", "#skincaretips"],
-        "engagement": "high",
+        "hashtags": [
+          "#glassskin",
+          "#snailmucin",
+          "#skincaretips"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Cosrx", "Beauty of Joseon"]
+        "related_brands": [
+          "Cosrx",
+          "Beauty of Joseon"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "2026 is the New 2016 - Retro Fashion Revival",
       "body": "A massive social media trend where users share fashion, music, and online trends from 2016. The trend started in late 2025 and has exploded in early 2026, appearing primarily on TikTok, Facebook, and Instagram. Celebrities and influencers are participating, sharing throwback outfits and nostalgic content.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016",
       "trend_type": "viral_moment",
       "confidence_score": 0.92,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#2016Revival", "#ThrowbackFashion", "#Nostalgia"],
-        "engagement": "very high",
+        "hashtags": [
+          "#2016Revival",
+          "#ThrowbackFashion",
+          "#Nostalgia"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Acubi Style - Korean Minimalist Fashion",
       "body": "Acubi style is a minimalist Korean fashion trend taking over modern streetwear. South Korea has become one of the most influential fashion hubs globally. The aesthetic combines simplicity with creativity, appealing to modern fashion lovers. Platforms like TikTok, Instagram, and Pinterest are driving global adoption.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "Instagram",
       "source_url": "https://icsehub.com/acubi-style-guide/",
       "trend_type": "content_format",
       "confidence_score": 0.78,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#AcubiStyle", "#KoreanFashion", "#MinimalistStreetwear"],
-        "engagement": "high",
+        "hashtags": [
+          "#AcubiStyle",
+          "#KoreanFashion",
+          "#MinimalistStreetwear"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Gen Z Sustainable Fashion - #SustainableOOTD",
       "body": "Gen Z fashion in 2026 is defined by sustainability, bold self-expression, and anti-fast-fashion rebellion. The #SustainableOOTD hashtag has over 2 billion views on TikTok. Fashion content now serves as 'wearable activism' with outfit-of-the-day posts sparking massive engagement.",
-      "categories": ["Fashion & Apparel"],
+      "categories": [
+        "Fashion & Apparel"
+      ],
       "source": "TikTok",
       "source_url": "https://www.stylingoutfits.com/gen-z-fashion-trends/",
       "trend_type": "hashtag",
       "confidence_score": 0.88,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#SustainableOOTD", "#AntiFastFashion", "#GenZFashion"],
-        "engagement": "very high",
+        "hashtags": [
+          "#SustainableOOTD",
+          "#AntiFastFashion",
+          "#GenZFashion"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "hashtag",
+        "price_point": "various"
       }
     },
     {
       "headline": "75 Hard Challenge Continues Viral Momentum",
       "body": "The 75 Hard challenge remains one of the most widely shared fitness trends on TikTok. The challenge requires two 45-minute workouts daily (one outdoors), a strict diet, a gallon of water, ten pages of reading, and a progress photo - for 75 consecutive days. Arnold Schwarzenegger recently addressed dangerous fitness trends on TikTok.",
-      "categories": ["Health & Fitness"],
+      "categories": [
+        "Health & Fitness"
+      ],
       "source": "TikTok",
       "source_url": "https://www.business-standard.com/health/from-japanese-walking-to-75-hard-science-behind-viral-fitness-trends-126031200248_1.html",
       "trend_type": "viral_moment",
-      "confidence_score": 0.90,
+      "confidence_score": 0.9,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#75Hard", "#FitnessChallenge", "#Mental Toughness"],
-        "engagement": "very high",
+        "hashtags": [
+          "#75Hard",
+          "#FitnessChallenge",
+          "#Mental Toughness"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Swan Decor Taking Over Home & Lifestyle",
       "body": "Swan decor is trending on TikTok in a more sophisticated way than ever before. The trend spans both high-end collectible vintage glass pieces and accessible tabletop accessories. appearing in ceramics, lighting, and art. The trend bridges luxury and affordability.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "TikTok",
       "source_url": "https://www.housebeautiful.com/shopping/home-accessories/g70501288/swan-home-decor-trend-2026/",
       "trend_type": "product",
       "confidence_score": 0.82,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#SwanDecor", "#HomeDecor", "#TabletopStyle"],
-        "engagement": "high",
+        "hashtags": [
+          "#SwanDecor",
+          "#HomeDecor",
+          "#TabletopStyle"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["1stDibs"]
+        "related_brands": [
+          "1stDibs"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Persian Maximalism - Bold Interior Trend 2026",
       "body": "Persian Maximalism is emerging as one of the boldest interior design trends of 2026. This style combines rich colors, intricate patterns, and luxurious textures inspired by Persian rugs and Middle Eastern design elements.",
-      "categories": ["Home & Lifestyle"],
+      "categories": [
+        "Home & Lifestyle"
+      ],
       "source": "Web",
       "source_url": "https://thethriftyapartment.com/persian-maximalism-2026/",
       "trend_type": "content_format",
       "confidence_score": 0.75,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#PersianMaximalism", "#InteriorDesign", "#BoldHome"],
-        "engagement": "medium",
+        "hashtags": [
+          "#PersianMaximalism",
+          "#InteriorDesign",
+          "#BoldHome"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "CES 2026 - AI Gadgets and Smart Devices",
       "body": "CES 2026 showcased 29 cool new gadgets featuring AI-powered devices, smart wearables, foldable smartphones, and innovative home tech. Notable trends include AI wearables, smart home innovation, and next-generation entertainment devices.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.gearpatrol.com/tech/best-new-tech-releases-ces-2026/",
       "trend_type": "product",
       "confidence_score": 0.88,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#CES2026", "#AIGadgets", "#SmartTech"],
-        "engagement": "high",
+        "hashtags": [
+          "#CES2026",
+          "#AIGadgets",
+          "#SmartTech"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Apple", "Samsung", "Various"]
+        "related_brands": [
+          "Apple",
+          "Samsung",
+          "Various"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "iPod Nostalgia and Dumbphones Rising",
       "body": "Tech enthusiasts are increasingly obsessed with iPods and modern alternatives to smartphones. The 'dumbphone' trend continues growing as people seek digital detox and reduced screen time, creating a market for minimalist communication devices.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Web",
       "source_url": "https://www.creativebloq.com/tech/apple-was-so-close-to-giving-us-a-flip-phone",
       "trend_type": "product",
       "confidence_score": 0.72,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#iPod", "#Dumbphone", "#DigitalDetox"],
-        "engagement": "medium",
+        "hashtags": [
+          "#iPod",
+          "#Dumbphone",
+          "#DigitalDetox"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Apple"]
+        "related_brands": [
+          "Apple"
+        ],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "PetSmart Responds to Viral TikTok Music Video",
       "body": "PetSmart's response to its starring role in a viral music video has triggered debate among TikTok users. Many criticized what they viewed as a lackluster response from the pet retailer, sparking conversation about brand engagement with viral moments.",
-      "categories": ["Pets"],
+      "categories": [
+        "Pets"
+      ],
       "source": "TikTok",
       "source_url": "https://adage.com/brand-marketing/cpg/aa-petsmart-social-media-music-response-lessons/",
       "trend_type": "viral_moment",
-      "confidence_score": 0.70,
+      "confidence_score": 0.7,
       "relevance_score": 6,
       "metadata": {
-        "hashtags": ["#PetSmart", "#ViralMarketing", "#BrandResponse"],
-        "engagement": "high",
+        "hashtags": [
+          "#PetSmart",
+          "#ViralMarketing",
+          "#BrandResponse"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": ["PetSmart"]
+        "related_brands": [
+          "PetSmart"
+        ],
+        "context": "viral_moment",
+        "price_point": "various"
       }
     },
     {
       "headline": "Lonely Planet Best Travel Destinations 2026",
       "body": "Lonely Planet released its annual Best in Travel list featuring 25 must-visit destinations and 25 unforgettable experiences for 2026. The list is inspiring travel content across social media as creators plan content around these destinations.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "Web",
       "source_url": "https://www.lonelyplanet.com/best-in-travel",
       "trend_type": "content_format",
       "confidence_score": 0.85,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#BestInTravel", "#Travel2026", "#Wanderlust"],
-        "engagement": "high",
+        "hashtags": [
+          "#BestInTravel",
+          "#Travel2026",
+          "#Wanderlust"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Lonely Planet"]
+        "related_brands": [
+          "Lonely Planet"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Vacation 'Fade' Video Format Trending",
       "body": "A TikTok video format featuring fade from black, music swelling, tension building, and subdrops is going viral for vacation content. Paired with footage of vacations, daily commutes, and office chat, this high-stakes reality aesthetic is getting major engagement.",
-      "categories": ["Travel & Hospitality"],
+      "categories": [
+        "Travel & Hospitality"
+      ],
       "source": "TikTok",
       "source_url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
       "trend_type": "content_format",
-      "confidence_score": 0.80,
+      "confidence_score": 0.8,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#VacationTikTok", "#FadeTransition", "#TravelContent"],
-        "engagement": "high",
+        "hashtags": [
+          "#VacationTikTok",
+          "#FadeTransition",
+          "#TravelContent"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Epidemic Sound"]
+        "related_brands": [
+          "Epidemic Sound"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "Statement Jewelry - Bold Single Pieces",
       "body": "2026 jewelry trends favor large statement necklaces with clear designs. Instead of extremely heavy layers, people prefer bold single pieces. Earrings are becoming more experimental, with oxidized jewelry and individuality-driven pieces trending on social media.",
-      "categories": ["Jewelry & Accessories"],
+      "categories": [
+        "Jewelry & Accessories"
+      ],
       "source": "Web",
       "source_url": "https://blog.mirraw.com/2026/03/12/everything-about-oxidized-jewellery/",
       "trend_type": "product",
       "confidence_score": 0.78,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#StatementJewelry", "#BoldAccessories", "#OxidizedJewelry"],
-        "engagement": "medium",
+        "hashtags": [
+          "#StatementJewelry",
+          "#BoldAccessories",
+          "#OxidizedJewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": []
+        "related_brands": [],
+        "context": "product",
+        "price_point": "various"
       }
     },
     {
       "headline": "Instagram Reposting Feature Upgrade",
       "body": "Instagram's reposting feature got a major upgrade - users can now repost public Reels and grid posts from other users with a dedicated 'Reposted' tab on profiles. This TikTok-esque update makes content curation easier and drives more cross-platform sharing.",
-      "categories": ["Tech & Gadgets"],
+      "categories": [
+        "Tech & Gadgets"
+      ],
       "source": "Instagram",
       "source_url": "https://napoleoncat.com/blog/instagram-new-features-and-updates/",
       "trend_type": "content_format",
       "confidence_score": 0.88,
       "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#InstagramUpdate", "#Reels", "#ContentSharing"],
-        "engagement": "high",
+        "hashtags": [
+          "#InstagramUpdate",
+          "#Reels",
+          "#ContentSharing"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
         "sentiment": "positive",
-        "related_brands": ["Instagram"]
+        "related_brands": [
+          "Instagram"
+        ],
+        "context": "content_format",
+        "price_point": "various"
       }
     },
     {
       "headline": "DermTok - Skincare Advice and Product Reviews",
       "body": "The hashtag #acne has over 3 million posts and 129 billion views on TikTok. DermTok continues to dominate with videos of procedures, product reviews, and skin care hacks. Alix Earle's skincare routine is generating buzz with fans speculating about a potential skincare line launch.",
-      "categories": ["Beauty & Skincare"],
+      "categories": [
+        "Beauty & Skincare"
+      ],
       "source": "TikTok",
       "source_url": "https://www.dermatologytimes.com/view/dermtok-navigating-tiktok-s-acne-advice-misinformation",
       "trend_type": "hashtag",
       "confidence_score": 0.92,
       "relevance_score": 10,
       "metadata": {
-        "hashtags": ["#DermTok", "#SkincareRoutine", "#Acne"],
-        "engagement": "very high",
+        "hashtags": [
+          "#DermTok",
+          "#SkincareRoutine",
+          "#Acne"
+        ],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
         "sentiment": "mixed",
-        "related_brands": []
+        "related_brands": [],
+        "context": "hashtag",
+        "price_point": "various"
       }
     }
   ]

@@ -1,0 +1,20 @@
+# Skill: last1
+# Description: Real-time trending topics across pop culture and creator niches
+# Location: /Users/jax/.openclaw/workspace/skills/last1/SKILL.md
+# Created: 2026-02-10
+#
+# Usage: Research what's trending RIGHT NOW across:
+#   - Beauty & Skincare
+#   - Fashion & Apparel  
+#   - Food & Beverage
+#   - Health & Fitness
+#   - Home & Lifestyle
+#   - Tech & Gadgets
+#   - Baby & Kids
+#   - Pets
+#   - Travel & Hospitality
+#   - Jewelry & Accessories
+#
+# Triggers: "what's trending", "trending right now", "viral today"
+# Sources: X/Twitter (bird), web search (past day), Reddit
+# Output: HOT items, rising trends, content opportunities, hashtags

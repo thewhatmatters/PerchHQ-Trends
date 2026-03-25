@@ -1,0 +1,490 @@
+{
+  "batch_id": "trends-2026-03-25",
+  "scraped_at": "2026-03-25T10:00:00Z",
+  "expires_at": "2026-03-28T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Skinimalism and 'Your Skin But Better' Aesthetic Goes Mainstream",
+      "body": "The skinimalism movement — pared-back skincare and makeup that enhances natural features rather than masking them — has exploded across TikTok, Instagram Reels, and YouTube Shorts. Influencers and celebrities are showcasing effortless glow routines, driving demand for lightweight, skin-first formulas.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#skinimalism", "#yourskinbutbetter", "#barefacedbeauty", "#glassskin", "#cleanbeauty"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["The Ordinary", "Glossier", "ILIA"],
+        "context": "Minimal makeup movement redefining beauty standards in 2026",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Milky Beauty — Barrier Repair Takes Over Skincare Routines",
+      "body": "2026 sees a major shift toward 'Milky Beauty,' a trend departing from harsh, stripping cleansers toward ceramide-rich, lipid-based barrier-repair formulas. The focus is on slow-ageing and skin resilience over time, with a surge in products featuring barrier-repair complexes.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Instagram",
+      "source_url": "https://www.boulevardpetclinic.vet/skincare-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#milkybeauty", "#barrierrepair", "#ceramides", "#skinlongevity", "#slowaging"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["CeraVe", "La Roche-Posay", "Medicube"],
+        "context": "Skincare philosophy shift toward barrier health and longevity",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Korean Lash Lift Surges 20,082% in Searches — Top Beauty Service of 2026",
+      "body": "The Korean lash lift has become the most-searched beauty service of 2026, recording a staggering 20,082% year-over-year search increase. Offering a natural, lifted look without extensions or mascara, the treatment aligns perfectly with the skinimalism and natural beauty wave sweeping TikTok and Instagram.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#koreanlashlift", "#lashlift", "#naturallashes", "#kbeautylashes", "#browlamination"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Korean beauty service trend with record search growth",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coquette Aesthetic Hits 15.3 Billion Views on TikTok",
+      "body": "The coquette aesthetic — ultra-feminine, flirty pieces with bows, lace, and soft pinks that evoke a modern ballerina — has surpassed 15.3 billion TikTok views, making it spring 2026's defining fashion moment. Brands are rushing to stock bow-adorned cardigans, lace midi skirts, and satin corsets.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#coquette", "#coquetteaesthetic", "#bows", "#ballerina", "#femininecore"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Simone Rocha", "Selkie", "Hill House Home"],
+        "context": "Spring 2026's dominant TikTok fashion aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Silk Scarves Go Viral with 1.5 Billion TikTok Views",
+      "body": "Silk scarves have quietly accumulated nearly 1.5 billion TikTok views as a styling trend that doesn't require a full wardrobe overhaul. Worn around the neck, hair, bag, or wrist, the trend is being embraced as an accessible way to update existing outfits for spring 2026.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/spring/viral-spring-2026-items",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#silkscarf", "#scarfstyling", "#spring2026", "#frenchgirlfashion", "#accessorize"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hermès", "ZARA", "H&M"],
+        "context": "Accessible styling trend exploding on TikTok spring 2026",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Indie Sleaze Revival Hits 683 Million TikTok Views",
+      "body": "Indie sleaze — the messy, rebellious early-2000s aesthetic featuring skinny jeans, vintage band tees, leather jackets, and scuffed boots — is back with 683 million TikTok views. The look represents a Gen Z rejection of polished, algorithm-perfect aesthetics in favor of authentic, effortless cool.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#indiesleaze", "#skinnyjeans", "#vintagetee", "#2000saesthetic", "#y2kfashion"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Urban Outfitters", "Depop"],
+        "context": "Early-2000s nostalgia aesthetic rejecting polished influencer style",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Home Café Culture Fuels Viral Coffee Recipe Content",
+      "body": "Home café culture is stronger than ever in 2026, with consumers recreating coffee shop experiences at home. Whipped Dalgona coffee, matcha lattes, and specialty espresso drinks are generating millions of views on TikTok, driving sales of at-home espresso machines, milk frothers, and flavored syrups.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.usfoods.com/tools-tips-and-ideas/articles-and-publications/articles/tiktok-food-trends-for-2026-that-will-shape-restaurant-menus",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#homecafe", "#coffeetok", "#dalgonacoffee", "#matchalatte", "#coffeeshop"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Nespresso", "Breville", "Starbucks"],
+        "context": "Home barista culture and DIY coffee shop trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Hot Honey Takes Over TikTok — Pizza, Cheese, and Cocktails",
+      "body": "Hot honey has taken TikTok by storm with its versatility, elevating pizzas, cheese boards, and even cocktails with a spicy-sweet punch. The condiment's visually satisfying drizzle-videos have contributed to a significant boost in retail sales, and restaurant menus from fine dining to fast casual are adding hot honey to everything.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#hothoney", "#hothoneypizza", "#condimenttok", "#foodtok", "#spicysweet"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Mike's Hot Honey", "Bee's Knees"],
+        "context": "Viral condiment trend crossing from foodie circles to mainstream",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Gut Health Fermentation Goes Viral — Kimchi, Pickled Onions Everywhere",
+      "body": "Gut health continues its dominance in 2026, with homemade fermented foods exploding on TikTok. Kimchi, quick-pickled onions, yogurt sauces, and lacto-fermented vegetables are starring in viral recipes. Brands selling fermentation starter kits report triple-digit sales growth as consumers connect gut health to mood, skin, and energy.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://mavrk.studio/food-tiktok-trend-tips/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#guthealth", "#fermentation", "#kimchi", "#pickledonions", "#probiotics"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Farmhouse Culture", "Bubbies"],
+        "context": "Gut health wellness intersecting with home cooking content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Snack-Sized Workouts and Cycle Syncing Lead 2026 Wellness Shifts",
+      "body": "Two major wellness trends are shaping how people exercise in 2026: 'snack-sized workouts' (5-15 minute movement bursts spread throughout the day) and cycle syncing (tailoring exercise intensity to menstrual phases). Both trends have exploded on social media and are backed by growing scientific support.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/wellness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#snackyworkout", "#cyclesyncing", "#microworkout", "#movementsnack", "#hormonalhealth"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Peloton", "Nike Training Club", "Flo Health"],
+        "context": "Flexible, science-backed fitness trends reshaping workout culture",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Recovery Culture Explodes — Cold Plunges and Infrared Saunas Go Mainstream",
+      "body": "Fitness in 2026 is shifting toward recovery as a direct path to progress, with cold plunges, infrared saunas, percussive therapy, and sleep optimization tools going mainstream. Recovery studios are opening in suburban markets alongside gyms, and at-home cold plunge tubs are one of the fastest-selling wellness products of the year.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.goldsgym.com/blog/2026-fitness-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#coldplunge", "#infraredsauna", "#recoveryculture", "#percussivetherapy", "#sleepoptimization"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Therabody", "Plunge", "Higherdose"],
+        "context": "Recovery as a wellness category gaining mainstream traction",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Cabbagecore — Lettuce and Cabbage Motifs Are 2026's Surprise Decor Trend",
+      "body": "Building on Palm Beach ceramicist Dodie Thayer's legacy, cabbage and lettuce motifs in home decor are exploding on TikTok with the #CabbageCore hashtag climbing 115% in three months. The trend spans ceramics, textiles, glassware, and wallpaper, driven by the broader appetite for whimsical, maximalist home styling.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageplate", "#lettucedecor", "#grandmillenial", "#maximalisthome"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Dodie Thayer", "Anthropologie"],
+        "context": "Whimsical botanical motif trend in home decor with 115% hashtag growth",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Skirted Furniture Returns as TikTok's 'Grandma Decor' Obsession Grows",
+      "body": "Skirted furniture — upholstered pieces with fabric that puddles to the floor — is one of TikTok's four biggest interior design trends for 2026. Part of a broader 'grandma decor' revival, the trend brings warmth, softness, and nostalgic charm to interiors as a direct counter to sterile minimalism.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#skirtedfurniture", "#grandmadecor", "#grandmillennial", "#cottagecore", "#cozyinterior"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pottery Barn", "Anthropologie", "Etsy"],
+        "context": "Nostalgia-driven softness trend in interior design",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "MWC 2026: AI Wearable Pendants and On-Device AI Go Mainstream",
+      "body": "MWC 2026 was dominated by AI wearables, with Motorola's Maxwell AI pendant (camera + speaker for voice queries) and the Looki L1 AI pin leading the charge. Qualcomm's Snapdragon Wear Elite chip promises on-device AI processing for the next wave of Galaxy Watches and AI gadgets expected in H2 2026.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.wareable.com/wearable-tech/mwc-2026-best-wearables-ai-hardware-announcements-of-the-show",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#MWC2026", "#AIwearable", "#SnapdragonWear", "#MotrolaMaxwell", "#ondeviceAI"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Motorola", "Qualcomm", "Samsung", "Xiaomi"],
+        "context": "MWC 2026 AI wearable hardware announcements",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "HONOR Robot Phone and 200MP Camera Phones Steal MWC Headlines",
+      "body": "HONOR's Robot Phone — featuring a 200MP camera on a motorized gimbal attached to the device — and Xiaomi's 17 Ultra with a triple Leica camera system (including 200MP telephoto at 17.2x optical zoom) were the most talked-about devices at MWC 2026, signaling a new era of AI-powered mobile photography.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://gizmodo.com/the-coolest-gadgets-from-mwc-2026-2000728407",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#MWC2026", "#HONORRobotPhone", "#Xiaomi17Ultra", "#200MPcamera", "#mobilephotography"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HONOR", "Xiaomi", "Leica"],
+        "context": "MWC 2026 flagship phone camera innovation",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Missing Mom Poster TikTok Trend Goes Viral Across Parenting Community",
+      "body": "The Missing Mom Poster trend has moms across TikTok asking their kids how they would describe them if they went missing — resulting in hilarious and heartwarming responses ('she wears a messy bun and smells like coffee,' 'she's always on her phone'). The trend has generated millions of views and is being embraced as a playful parenting content format.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://newengen.com/insights/march-2026-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#missingmomposter", "#momsoftiktok", "#kidsaysfunny", "#parentingtok", "#viralmoment"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral TikTok parenting trend generating humorous user-generated content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Slow Childhood Movement — Boredom and Unstructured Play Go Viral",
+      "body": "Fueled by Jonathan Haidt's The Anxious Generation, the 'slow childhood' movement is accelerating in 2026: families are delaying smartphones, restricting social media, and prioritizing unstructured boredom, backyard play, and analog activities. The #SlowChildhood hashtag is growing alongside broader analog parenting content.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://burlingtonma.macaronikid.com/articles/6942bba822eaac423da7d28d/parenting-trends-2026-whats-in-whats-out-and-what-moms-are-so-over",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#slowchildhood", "#boredkids", "#unstructuredplay", "#delaysmartphone", "#anxiousgeneration"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tonie Box", "Yoto Player", "Osmo"],
+        "context": "Anti-screen parenting movement backed by bestselling book",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Pet Enrichment Toys Boom as Owners Prioritize Animal Mental Health",
+      "body": "Pet owners in 2026 are increasingly attuned to their animals' emotional wellbeing, driving a boom in enrichment products — puzzle feeders, snuffle mats, auto-fetchers, and scent games designed to engage natural instincts and reduce boredom. Content creators showing pets solving enrichment puzzles are among the fastest-growing accounts on TikTok.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://thinkwithcristina.wordpress.com/2026/03/18/top-trending-pet-products-to-sell-online-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#petenrichment", "#puzzlefeeder", "#snufflemat", "#dogmentalhealth", "#catsoftiktok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Kong", "Nina Ottosson", "Outward Hound"],
+        "context": "Pet mental health and enrichment product boom in 2026",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Eco-Friendly Pet Products Surge — Biodegradable and Sustainable Care Goes Mainstream",
+      "body": "Today's pet owners are demanding products that are kind to the planet, with biodegradable poop bags, toys made from recycled materials, and organic pet grooming products all seeing significant sales growth. Eco-friendly pet brands are now mainstream shelf staples rather than niche offerings.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ecopet", "#sustainablepet", "#biodegradable", "#greenpetrending", "#organicpetcare"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Earth Rated", "West Paw"],
+        "context": "Sustainability movement entering pet care category",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Destination Dupes' Reshape Travel Planning — Albania Is the New Greece",
+      "body": "The 'Destination Dupes' trend is reshaping how Gen Z books travel in 2026: instead of canceling trips, travelers are substituting high-cost, overcrowded destinations with culturally similar alternatives. Albania is positioning itself as the affordable Greece alternative, while less-visited Portuguese coastal towns are capturing Lisbon overflow visitors.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.mylighthouse.com/resources/blog/top-travel-and-hospitality-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#destinationdupe", "#Albania", "#budgettravel", "#traveldupes", "#hiddengems"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Airbnb", "Hostelworld", "Skyscanner"],
+        "context": "Budget-conscious travel trend substituting expensive destinations",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 'Whycation' — Intention-First Travel Goes Viral",
+      "body": "Hilton's 2026 Trends Report identifies the 'Whycation' as travel's defining movement: trips that begin with a motivation rather than a destination. Whether it's wellness, a creative pursuit, or a cultural milestone, travelers are planning around purpose. Buenos Aires — with its tango clubs, café culture, and creative neighborhoods — is viral as the ultimate Whycation city.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://stories.hilton.com/2026-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#whycation", "#intentionaltravel", "#BuenosAires", "#travelwithpurpose", "#traveltrends2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hilton", "Airbnb", "Expedia"],
+        "context": "Hilton 2026 trend report defining intentional travel movement",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sea-Inspired Shell Motifs Dominate Spring 2026 Jewelry",
+      "body": "Shell and ocean motifs are sweeping spring 2026 jewelry collections, with designers focusing almost exclusively on natural-looking pieces that look as if plucked directly from a tide pool. The trend spans fine jewelry to affordable accessories and aligns with the broader nature-immersion aesthetic seen across fashion and home.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-jewelry-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#shelljewelry", "#oceanmotif", "#naturaljewelry", "#coastalstyle", "#springjewelry2026"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Chan Luu", "Lele Sadoughi", "Mejuri"],
+        "context": "Ocean-inspired nature motif trend in spring 2026 jewelry",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Asymmetrical Earrings and Bold Chokers Lead Spring Runway Jewelry",
+      "body": "Spring 2026's SS26 runway shows are pushing asymmetry to the forefront — one single statement earring is being called the season's easiest trend. Bold chokers are simultaneously making a confident return, sitting high on the neckline and framing simple outfits with maximum impact. Lucite and translucent materials from Bottega Veneta and Courrèges add a modern editorial edge.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/jewelry/spring-jewellery-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#asymmetricalearrings", "#boldchoker", "#SS26jewelry", "#lucitejewelry", "#runwayjewelry"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Bottega Veneta", "Courrèges", "Givenchy", "Carolina Herrera"],
+        "context": "SS26 runway jewelry trends hitting consumer market spring 2026",
+        "price_point": "luxury"
+      }
+    }
+  ]
+}

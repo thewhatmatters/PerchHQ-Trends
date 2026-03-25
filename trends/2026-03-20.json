@@ -1,0 +1,245 @@
+{
+  "date": "2026-03-20",
+  "trends": [
+    {
+      "headline": "K-Beauty Expansion at Ulta - 17 Viral Korean Beauty Brands",
+      "body": "K-Beauty World has expanded its Ulta Beauty marketplace assortment with 17 viral Korean beauty brands. Products like MENOKIN's 30 Seconds Quick Bubble Mask, Vidivici's Skin Illumination Mochi Primer, and Cosnori's Eyelash Tinting Serum are trending. This represents a major retail distribution shift for K-Beauty creators and influencers.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.prnewswire.com/news-releases/k-beauty-world-expands-assortment-on-ulta-beauty-marketplace-with-17-viral-korean-beauty-brands-302718778.html",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#kbeauty #koreanskincare #ultabeauty"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["K-Beauty World", "MENOKIN", "Vidivici", "Cosnori"]
+      }
+    },
+    {
+      "headline": "Spring 2026 Fashion: Scarf Elements and Exaggerated Proportions",
+      "body": "Vogue reports that blown-up prints, exaggerated proportions, and scarves have gone from accent to key element in Spring 2026 fashion. Multicolored and patterned silks are being fashioned into tops, dresses, and used as wrapping elements. This creates content opportunities for fashion creators around styling tutorials.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.vogue.com/article/spring-2026-fashion-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#spring2026 #fashiontrends #scarfstyle"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Retro Nylon Jackets Return for Spring 2026",
+      "body": "Retro nylon jackets, shorts, and skirts are making a surprising comeback for Spring 2026. Designers are styling them in elevated ways, often pairing oversized 'dad jackets' with silk shorts and tailored pieces. This is a key trend for fashion content creators to cover.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://msnbctv.news/5-spring-fashion-trends-2026-that-you-can-style-right-now/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#retrostyle #nylonjacket #springfashion"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Coach Brooklyn Shoulder Bag Viral - 44% Off on Amazon",
+      "body": "The Coach Brooklyn Shoulder Bag, dubbed the 'It-girl' accessory for spring 2026, is now available at up to 44% off on Amazon. This represents a significant price drop for a trending accessory, creating affiliate and content opportunities.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://eu.usatoday.com/story/shopping/style/accessories/2026/03/18/coach-handbag-deals-amazon-sale/89206434007/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#coach #itbag #amazondeals"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Coach"]
+      }
+    },
+    {
+      "headline": "Taco Bell Mountain Dew Refresca Freeze Goes Permanent",
+      "body": "The viral Mountain Dew Refresca Freeze - a sweet pink passionfruit frozen slushy with pineapple flavors and strawberry fruit pieces - is now a permanent menu item at Taco Bell. Priced at $3.99-$4.19, this marks a rare viral trend-to-permanent-menu conversion.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://parade.com/food/taco-bell-mountain-dew-dirty-soda-permanent-new-refresca-freeze",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#mountaindew #tacobell #refresca"],
+        "engagement": "very high",
+        "sentiment": "positive",
+        "related_brands": ["Taco Bell", "Mountain Dew"]
+      }
+    },
+    {
+      "headline": "Baileys Ice Cream Cake Launches",
+      "body": "Baileys has launched a new ice cream cake product that creators are excited about. This is part of the broader trend of alcohol brand expansions into frozen desserts.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://parade.com/food/baileys-irish-cream-ice-cream-cake-stores",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#baileys #icecreamcake #dessert"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Baileys"]
+      }
+    },
+    {
+      "headline": "Bubs Swedish Candy Expands to Walmart",
+      "body": "Bubs Swedish Candy has expanded at Walmart with a new mix pack combining all signature flavors and textures into one bag for under $5. This targets the viral candy collector audience.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://parade.com/food/bubs-swedish-candy-sour-sweet-mix-walmart",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bubscandy #swedishcandy #walmartfinds"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Bubs", "Walmart"]
+      }
+    },
+    {
+      "headline": "'Boy Kibble' Viral Fitness Trend Draws Expert Warnings",
+      "body": "The 'boy kibble' TikTok nutrition trend is going viral but experts warn it could be sabotaging health. This represents a content opportunity for fitness creators to address and debunk, with high engagement expected.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://mensfitness.co.uk/features/boy-kibble/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#boykibble #fitness #tiktoktrends"],
+        "engagement": "high",
+        "sentiment": "mixed",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Virtual Fitness Challenges: AR/VR Integration Growing",
+      "body": "The future of virtual fitness challenges includes AI agents, AR/VR integration, and mental health/nutrition/sleep integration. Platforms are developing hybrid immersive experiences - a growing content and product category.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.walkathonvirtual.com/future-of-virtual-fitness-challenges/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#virtualfitness #arfitness #healthtech"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Virdio", "MyVirtualMission"]
+      }
+    },
+    {
+      "headline": "80s Decor Making Stylish Comeback",
+      "body": "Designers are embracing retro 80s trends in modern homes, from wood accents to colorful tiles to oversized furniture. Good Housekeeping reports this includes balanced approaches to incorporate 80s elements without making homes feel like time capsules.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.goodhousekeeping.com/home/decorating-ideas/a70795063/retro-80s-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#80sdecor #retrostyle #homedecor"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "AI Agents Going Viral in China",
+      "body": "AI agents that connect hardware and software tools and learn from data with minimal human intervention have gone viral in China. This represents a significant tech trend with global implications.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#aiagents #aitech #viratech"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "AppleCare One Expanding to Europe",
+      "body": "Apple's new subscription plan AppleCare One ($19.99/month for up to 3 products with theft/loss protection) may be coming to Europe. This represents a growing trend in tech subscription services.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://sea.mashable.com/tech-industry/43219/applecare-one-might-be-coming-to-europe-soon",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#applecare #applesubscription #technews"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": ["Apple"]
+      }
+    },
+    {
+      "headline": "Intentional Travel Redefining 2026",
+      "body": "Research shows 2026 is a year of more 'intentional travel' with sharper price sensitivities. Travel demand is recalibrating with consumers seeking meaningful experiences over functional ones - a shift for travel content creators.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://hotelbusiness.com/research-2026-is-a-year-of-more-intentional-travel/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#intentionaltravel #slowerravel #traveltrends"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Slow Travel and AI Trip Planning Growing",
+      "body": "Top travel trends for 2026 include slow travel, AI trip planning, sustainable tourism, and immersive cultural experiences. This opens content opportunities for travel creators focusing on planning and experience-based content.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://luxurtrip.com/post/top-20-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#slowtravel #aitripplanning #sustainabletourism"],
+        "engagement": "medium",
+        "sentiment": "positive",
+        "related_brands": []
+      }
+    },
+    {
+      "headline": "Giorgio Armani Viral at Winter Olympics Opening",
+      "body": "Giorgio Armani's Italian flag-themed pantsuits from the Milano Cortina Winter Olympics opening ceremony are now available in stores. This represents a viral fashion moment turned commercial product.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://wwd.com/fashion-news/fashion-scoops/giorgio-armani-suits-milano-cortina-winter-olympics-opening-ceremony-1238683087/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#giorgioarmani #olympicsfashion #winterolympics"],
+        "engagement": "high",
+        "sentiment": "positive",
+        "related_brands": ["Giorgio Armani"]
+      }
+    }
+  ]
+}

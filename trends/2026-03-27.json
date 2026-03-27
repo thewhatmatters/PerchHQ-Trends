@@ -1,0 +1,450 @@
+{
+  "batch_id": "trends-2026-03-27",
+  "scraped_at": "2026-03-27T10:00:00Z",
+  "expires_at": "2026-03-30T10:00:00Z",
+  "trends": [
+    {
+      "headline": "PDRN (Salmon Sperm) Serum Explodes Out of Korean Clinics and Onto TikTok",
+      "body": "Polydeoxyribonucleotide (PDRN), a regenerative ingredient derived from salmon sperm that was previously used only in professional Korean skincare clinics, has gone viral on TikTok and beauty Reddit. At-home K-beauty serums featuring PDRN are selling out as creators document dramatic skin texture improvements, collagen renewal, and healing benefits. The ingredient's unusual backstory is fueling curiosity-click traffic at scale.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#PDRN", "#salmondnaSerum", "#kbeauty", "#skinlongevity", "#regenerativeskincare"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["MEDI-PEEL", "Some By Mi", "Dr. Jart+"],
+        "context": "Korean clinical ingredient crossing into mass-market K-beauty at-home use",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Spicules: 'Microneedling in a Bottle' Is Beauty's Most-Talked-About New Ingredient",
+      "body": "Marine sponge-derived spicules are being dubbed 'microneedling in a bottle' and 'liquid microneedling' by skincare creators, generating massive buzz for their ability to physically exfoliate and stimulate collagen without a dermatology appointment. The ingredient is still emerging but early creator reviews are driving exponential search growth as budget-conscious consumers look for professional results at home.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/beauty/skin/2026-skincare-trends",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#spicules", "#microneedlinginabottle", "#liquidmicroneedling", "#skincareingredient", "#kbeauty"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Skin1004"],
+        "context": "Emerging marine-derived ingredient generating early creator hype for at-home microneedling effects",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Rhode Caffeine Reset Serum Goes Instantly Viral — Sells Out in Hours",
+      "body": "Hailey Bieber's Rhode brand has dropped the Caffeine Reset serum to immediate viral acclaim, with unboxing and before/after TikToks flooding feeds within hours of launch. Restocks are selling out in minutes as the Rhode halo effect continues, and the caffeine + peptide formula is being positioned as a depuffing eye-area treatment for all skin types.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/beauty/fashion-editor-buzzy-beauty-product-picks-2026",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#rhode", "#rhodeskin", "#caffeinereset", "#haileybieberbeauty", "#skincaretok"],
+        "engagement": {
+          "views": null,
+          "likes": null,
+          "shares": null,
+          "mentions": "very high"
+        },
+        "sentiment": "positive",
+        "related_brands": ["Rhode"],
+        "context": "Celeb brand launch driving immediate sell-out via TikTok viral loop",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho '70s 'Undoneness' Takes Over Spring Fashion — The Anti-Polished Aesthetic",
+      "body": "After years of sleek minimalism, spring 2026's dominant fashion direction is '70s-inspired boho 'undoneness' — effortlessly layered looks, flowing silhouettes, fringe, and deliberately imperfect styling. TikTok creators are building whole concepts around the idea that polished is out, and textured, lived-in looks are in. Layering dresses over pants, shirts under dresses, and intentional visual messiness are the techniques driving the most saves and shares.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#boho2026", "#70sfashion", "#layeredlooks", "#undonestyle", "#springfashion2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Anthropologie", "Spell"],
+        "context": "Spring 2026 fashion shift from minimalism toward boho layering and textured styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Y2K Minimal Goes Mainstream — Muted Tones and Straight Lines Define the New Casual",
+      "body": "Y2K Minimal is TikTok's quieter counterpoint to maximalism: early-2000s DNA (short tops, low waists, straight-leg cuts) filtered through a muted, cold-toned palette of cream, camel, and taupe. The trend is highly photographable and works as both streetwear and casual office wear, making it a consistent performer for fashion creators targeting 25-35 demographics.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Instagram",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#y2kminimal", "#mutedaesthetic", "#straightleg", "#quietluxury", "#2026outfits"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "& Other Stories", "Mango"],
+        "context": "Muted Y2K aesthetic trend crossing into mainstream from niche fashion TikTok",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Japanese Walking Trend Surges 2,986% — The Wellness Walk That's Replacing HIIT",
+      "body": "Japanese walking — an interval walking technique alternating fast and slow paces for 3 minutes each over 30-minute sessions — is surging at a remarkable 2,986% interest increase and is taking over fitness TikTok as the low-impact workout of the season. Creators are pairing it with the longevity narrative (linked to Japanese centenarian culture) and showing how it fits into any lifestyle, attracting both fitness beginners and former HIIT devotees dealing with joint fatigue.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#japanesewalking", "#intervalwalking", "#walkingtok", "#lowimpactfitness", "#longevity"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hoka", "New Balance", "On Running"],
+        "context": "Japanese interval walking technique linked to longevity going viral as accessible fitness alternative",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "6-6-6 Walking Challenge Floods Fitness TikTok — Walk 6 Miles at 6AM for 6 Days",
+      "body": "The 6-6-6 walking challenge (walk 6 miles at 6AM for 6 consecutive days) is this month's breakout fitness challenge on TikTok and Instagram, with thousands of transformation videos driving massive participation. The format is ideal for creator content: a clear start, a 6-day arc with daily updates, a visible change, and a satisfying reveal — all highly algorithm-friendly.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://gymdesk.com/blog/fitness-industry-trends-watch",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#666challenge", "#walkingchallenge", "#6milesaday", "#fitnesstok", "#morningwalk"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Nike", "Lululemon", "Garmin"],
+        "context": "Structured walking challenge driving participation content wave across fitness social",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "CabbageCore Decor Is TikTok's Most Unexpected Breakout Trend — #CabbageCore Up 115%",
+      "body": "The #CabbageCore hashtag has climbed 115% in just three months as cabbage and lettuce motifs invade home decor — ceramic cabbage bowls, lettuce-leaf serving platters, botanical prints, and leafy textile patterns are flooding TikTok hauls. The trend builds on the legacy of Palm Beach ceramicist Dodie Thayer and is now being democratized through IKEA dupes, Etsy finds, and thrift-store sourcing content.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageceramics", "#lettucebowl", "#cottagecoreinterior", "#homedecortok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Dodie Thayer", "Anthropologie", "Etsy"],
+        "context": "Cabbage and lettuce motif home decor trend exploding from niche collector market to mainstream haul content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Friction-Maxxing: Intentional Tech Resistance Becomes a Lifestyle Aesthetic",
+      "body": "'Friction-maxxing' — the deliberate practice of removing algorithmic convenience from daily life (vinyl records over streaming, paper calendars, film cameras, physical books) — has evolved from a wellness concept into a full home and lifestyle aesthetic. TikTok 'slow living' creators are building entire content brands around the practice, and it's driving surges in sales of record players, disposable cameras, and analogue day planners.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#frictionmaxxing", "#slowliving", "#analoguelife", "#vinylrecords", "#intentionalliving"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Crosley", "Polaroid", "Leuchtturm1917"],
+        "context": "Tech resistance as aspirational lifestyle driving analogue product category growth",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Gut-Forward Fermented Snacking Takes Over Food TikTok — Kimchi, Pickled Onions, Yogurt Sauces",
+      "body": "Gut health content has matured into a full food aesthetic in 2026: kimchi-loaded rice bowls, pickled red onion everything, yogurt-based dips with fermented toppings, and kefir smoothies are dominating food creator feeds. The combination of health credibility, bold visuals, and ASMR-ready textures makes fermented food content exceptionally engaging, and the 'gut health era' framing gives creators built-in educational hooks.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://passionbits.io/blog/10-viral-tiktok-trends-for-consumer-brands-in-the-usa-march-2026-part-1/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#guthealth", "#fermentedfoods", "#kimchirecipe", "#pickledonions", "#probioticfood"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Bubbies", "GT's Kombucha", "Lifeway Kefir"],
+        "context": "Gut health movement translating from wellness theory into a full food content aesthetic",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Home Café Culture Peaks — TikTok Barista Setups Drive Espresso Machine Sales",
+      "body": "Home café culture is at its strongest in 2026, with entire TikTok accounts dedicated to morning espresso rituals, latte art tutorials, and aesthetically-curated coffee station setups. Sales of entry-level espresso machines, manual grinders, and specialty coffee beans are surging as creators make the ritual — not just the outcome — the content. The 'coffee bar setup' video format consistently outperforms other home content in saves and shares.",
+      "categories": ["Food & Beverage", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#homecafe", "#coffeebar", "#barista", "#morningcoffee", "#latteathome"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Breville", "De'Longhi", "Fellow", "Nespresso"],
+        "context": "Home barista culture driving coffee equipment sales and a whole content genre",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "LEGO SMART Play Goes Viral — Interactive Bricks with No Screen Required",
+      "body": "LEGO's just-announced SMART Play system — physical bricks embedded with responsive SMART technology that produces real-time sounds and reactions without screens or apps — is going viral across parent and toy creator communities. Videos of kids reacting to building sets that 'talk back' are generating massive engagement, and the product sits perfectly at the intersection of the screen-free movement and interactive play that parents are actively seeking for 2026.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://www.toyassociation.org/PressRoom2/News/2026-News/toy-fair-brings-the-love-and-top-toy-trends-for-2026.aspx",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#LEGOsmartplay", "#LEGOtok", "#screenfreeplay", "#kidstoys2026", "#interactivetoys"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["LEGO"],
+        "context": "LEGO's screen-free interactive tech toy launch hitting the sweet spot for slow childhood parents",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "2000s Nostalgic Toys See 140% Search Surge as Gen Z Buys Childhood Classics",
+      "body": "Pinterest Predicts 2026 confirmed a 140% surge in searches for 2000s-era kids' toys — Tamagotchis, early LEGO sets, classic board games, and Y2K-era collectibles — driven by Gen Z buying childhood touchstones. The trend is fueling a wave of 'nostalgia unboxing' content that performs exceptionally well with 18-30-year-old audiences, and creates a cross-generational gifting opportunity as Millennials buy these same items for their own children.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://parade.com/living/toy-fair-2026-biggest-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#nostalgiatoys", "#2000stoys", "#tamagotchi", "#genztoys", "#nostalgiacore"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Bandai", "Hasbro", "LEGO", "Mattel"],
+        "context": "Gen Z-driven 2000s toy nostalgia wave intersecting with Millennial gifting for children",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart Pet GPS Collars and AI Health Trackers Are 2026's Must-Have Pet Tech",
+      "body": "Smart pet technology — GPS-enabled collars that track location and activity, AI-powered health monitors, and automatic feeders with personalized portion control — is surging on TikTok as the 'quantified pet' trend takes hold. Creators are sharing real-time location maps, sleep data dashboards, and calorie tracking for their animals. The pet tech category is growing fastest among Millennial and Gen Z pet parents who already use wearables for their own health.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pettech", "#GPScollar", "#smartpet", "#dogtracker", "#quantifiedpet"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Fi", "Whistle", "Tractive", "PetKit"],
+        "context": "Quantified self movement extending to pets, driving smart collar and health tracker adoption",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Snuffle Mats and Enrichment Toys Explode as 'Dog Mental Health' Goes Mainstream",
+      "body": "Canine enrichment — snuffle mats, puzzle feeders, lick mats, and scent games designed to engage dogs' natural instincts — is one of the fastest-growing pet content niches on TikTok. Creators are positioning enrichment toys as essential for dog mental health and 'brain enrichment hours,' with before/after content showing calmer, happier dogs after enrichment sessions. Vets endorsing the trend on TikTok are driving significant conversion.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#snufflemat", "#dogmentalhealth", "#caninenrichment", "#puzzlefeeder", "#dogboredom"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Outward Hound", "KONG", "Nina Ottosson"],
+        "context": "Dog enrichment products going viral as mental health framing extends to pet care content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "World of Frozen Opens March 29 at Disneyland Paris — Travel Creators Racing to Be First",
+      "body": "World of Frozen officially opens this Saturday, March 29, at Disney Adventure World (the reimagined Walt Disney Studios Park) in Paris. The immersive land features the Frozen Ever After boat ride with animatronic characters, a life-size robotic Olaf, Queen Anna and Elsa character encounters, and a new nighttime show — Disney Cascade of Lights — featuring the world's first aquatic drone display. Travel creators are already booking emergency Paris trips to be among the first visitors, and pre-opening preview content is flooding feeds with enormous engagement.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://thewaltdisneycompany.com/news/disneyland-paris-disney-adventure-world/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#WorldofFrozen", "#DisneyAdventureWorld", "#DisneylandParis", "#FrozenEverAfter", "#disneytravel"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Disney", "Disneyland Paris"],
+        "context": "Major theme park land opening this weekend driving emergency travel bookings and massive creator content wave",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'Whycations' Replace Bucket Lists — Travelers Choosing Destinations by Motivation, Not Hype",
+      "body": "Hilton's 2026 Trends Report has given language to one of the year's biggest travel shifts: 'whycations' — trips chosen not by destination but by personal motivation or intention (creativity, ancestry, healing, adventure, connection). The concept is resonating strongly with Millennial and Gen Z travelers who are actively avoiding overtouristed 'viral' spots and looking for experiences with personal resonance. Travel creators who frame their content around the 'why' of a trip rather than just the destination are seeing significantly higher engagement.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://stories.hilton.com/2026-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#whycation", "#intentionaltravel", "#slowtravel", "#purposedriven", "#travelmotivation"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hilton", "Airbnb", "Away"],
+        "context": "Purpose-driven travel trend reframing destination choice from FOMO to personal intention",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bracelet Stacking Replaces Ring Stacking as Spring 2026's Dominant Jewelry Format",
+      "body": "Following the ring stacking trend that dominated 2024-2025, bracelet stacking has taken over as spring 2026's defining jewelry behavior. TikTok creators are building elaborate wrist 'stacks' combining tennis bracelets, delicate chains, chunky cuffs, beaded styles, and charm bangles — all worn simultaneously. The format is ideal for creator content: mix-and-match styling, price-range diversity from budget beads to fine jewelry, and the visual interest of layered textures on the wrist.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/jewelry-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#braceletstacking", "#armcandy", "#wriststack", "#jewelrystack", "#springjewelry2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "BaubleBar", "Pandora", "Missoma"],
+        "context": "Stacking jewelry format moving from rings to bracelets as the dominant creator styling trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bow Jewelry Sets (Coquette Core) Have Crossed from Niche to Mainstream",
+      "body": "Bow-shaped necklaces, earrings, rings, and charm bracelets have fully crossed from niche aesthetic TikTok into mainstream jewelry buying, as coquette core remains one of 2026's most durable aesthetics. Sets combining a bow choker, matching stud earrings, and a bow charm are the fastest-growing jewelry SKUs on TikTok Shop, particularly among Gen Z shoppers in the $15-$45 price range.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://brite.co/blog/trending-jewelry/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bowjewelry", "#coquettecore", "#bowearrings", "#bowchoker", "#tiktokjewelry"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Lovisa", "Claire's", "Amazon Essentials"],
+        "context": "Coquette core bow jewelry crossing from niche TikTok aesthetic into mainstream TikTok Shop sales",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Jocko Willink 'Do You Actually Wanna Do This Or Not?' Sound Goes Viral Across Creator Niches",
+      "body": "A dramatic audio clip from motivational speaker Jocko Willink — 'Do you actually wanna do this or not?' — has become one of TikTok's most versatile viral sounds of March 2026, with creators across fitness, food, beauty, and lifestyle pairing it with trivial inconveniences and relatable daily moments. The dramatic intensity against mundane visuals creates the comedic juxtaposition that TikTok's algorithm consistently rewards, making it ideal for brand and creator content alike.",
+      "categories": ["Beauty & Skincare", "Health & Fitness", "Food & Beverage", "Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://blog.mean.ceo/viral-trends-on-social-media-march-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#jockowillink", "#doyouactually", "#viralsound", "#tiktoksound", "#trendingsound"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Cross-category viral TikTok sound ideal for brand content across all niches in March 2026",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Pokémon's 30th Anniversary Drives Nostalgia Content Wave — 1,000+ Custom Logos Going Viral",
+      "body": "Pokémon's 30th anniversary celebrations are triggering a massive nostalgia-driven content wave, with custom anniversary logos for each of the 1,000+ Pokémon driving fan art, unboxing, and retrospective content across platforms. Toy, gaming, and lifestyle creators are finding huge engagement by tapping into the anniversary content, and Pokémon-branded merch and Tonies audio figures for kids are seeing inventory pressure as cross-generational audiences converge on the brand moment.",
+      "categories": ["Baby & Kids", "Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://blog.mean.ceo/viral-trends-on-social-media-march-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Pokemon30", "#Pokémon30thAnniversary", "#pokemontok", "#nostalgiatoys", "#pokemonfan"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Nintendo", "The Pokémon Company", "Funko"],
+        "context": "Pokémon 30th anniversary fan engagement driving broad content and product purchase surge",
+        "price_point": "various"
+      }
+    }
+  ]
+}

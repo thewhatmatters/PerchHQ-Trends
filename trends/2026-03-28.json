@@ -1,0 +1,511 @@
+{
+  "batch_id": "trends-2026-03-28",
+  "scraped_at": "2026-03-28T10:00:00Z",
+  "expires_at": "2026-03-31T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Cloud Skin Makeup Takes Over as the New Glass Skin — Softer, Dreamier, More Wearable",
+      "body": "Cloud skin is displacing glass skin as TikTok's dominant complexion aesthetic: where glass skin aims for a mirror-like shine, cloud skin prioritizes a softly blurred, ethereal finish that looks like a digital filter in real life. Creators are using setting sprays, hydrating primers, and sheer powders to achieve the look, and the skincare-first approach (luminous skin from within) is driving saves over straight makeup tutorials.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.elfcosmetics.com/discover/c/cloud-skin-makeup-look",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#cloudskinmakeup", "#etherealglow", "#softglam", "#skincarefirst"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["e.l.f. Cosmetics", "Rare Beauty", "Charlotte Tilbury", "NARS"],
+        "context": "Next-generation complexion aesthetic replacing glass skin with a softer, blurred finish",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Exosome Skincare Crosses from Medical Clinics to At-Home Use — TikTok's Most Technical Beauty Trend",
+      "body": "Exosomes — microscopic cell-derived vesicles that carry growth factors and microRNA — are the most technical skincare ingredient to go viral in 2026, crossing from high-end Korean clinics and dermatology offices into daily-use serum bottles. TikTok skincare creators are pairing exosome content with PDRN education, positioning the 'bio-regenerative' category as the next evolution beyond retinol. Despite FDA uncertainty around cosmetic use, consumer demand is surging.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.nbcnews.com/select/shopping/exosomes-skin-care-rcna206299",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#exosomes", "#exosomeskincare", "#bioregeneration", "#skinclinic", "#kbeautyinnovation"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Skinbetter Science", "Calecim", "AnteAGE"],
+        "context": "Medical-grade regenerative skincare ingredient moving into mass-market at-home serum category",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Skin Longevity Replaces Anti-Aging — A Full Mindset Shift Reshaping the Beauty Market",
+      "body": "The language of skincare is changing in 2026: 'anti-aging' is out, 'skin longevity' is in. Creators and brands are reframing skincare goals around functional skin health — barrier strength, cellular resilience, and long-term radiance — over fighting wrinkles. The shift is opening new content angles around ingredients like peptides, antioxidants, and ceramides, and resonates especially strongly with younger audiences who want to 'bank' good skin early.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/",
+      "trend_type": "content_format",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#skinlongevity", "#skinhealthfirst", "#barrierrepair", "#preventativecare", "#skincareshift"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["CeraVe", "La Roche-Posay", "The Ordinary", "Drunk Elephant"],
+        "context": "Industry-wide language shift from anti-aging to functional skin health fueling a new content narrative",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Oversized Blazer as a Layering Anchor Surges — The Quiet Luxury Outfit Builder",
+      "body": "The oversized blazer has emerged as the definitive layering anchor for spring 2026 styling content, worn over everything from bralettes to turtlenecks, with straight-leg jeans, midi skirts, and even shorts. Fashion creators are positioning it as the single investment piece that unlocks multiple 'quiet luxury casual' outfits, making 'one blazer, 10 ways' content a consistent algorithm winner this month.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#oversizedblazer", "#blazeroutfit", "#quietluxury", "#layeredlook", "#springfashion2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "H&M", "& Other Stories", "Massimo Dutti"],
+        "context": "Versatile blazer styling as the foundation of quiet luxury casual content driving outfit idea videos",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Vintage Denim + Linen Layering Defines Coastal Grandmother 2.0 for Spring",
+      "body": "Coastal Grandmother is evolving for spring 2026 into a more wearable everyday form: high-waisted vintage denim paired with relaxed linen shirts, wide-brim hats, and neutral totes. TikTok styling creators are calling it 'Coastal Grandmother 2.0' — practical, effortlessly chic, and highly photographable. The vintage denim component is fueling a wave of thrift-store sourcing content that consistently overperforms in saves and shares.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coastalgrandmother", "#vintagedenim", "#linenoutfit", "#thriftfinds", "#springstyle2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Levi's", "Eileen Fisher", "Free People", "Madewell"],
+        "context": "Coastal grandmother aesthetic evolving into wearable everyday spring styling with vintage denim as key piece",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Two-Ingredient Japanese Cheesecake Is TikTok's Breakout Recipe of Late March",
+      "body": "A shockingly simple two-ingredient Japanese cheesecake — made with just yogurt and cookies — has gone viral as the must-try recipe of late March 2026, with creators calling it 'the best food trend of 2026.' The format hits every viral food checklist: easy to replicate, satisfying texture reveal, minimal ingredients, and a before/after that photographs beautifully. Recipe duets and 'I tried the viral Japanese cheesecake' response videos are driving a second wave of engagement.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://filmora.wondershare.com/tiktok/tiktok-recipes.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#japanesecheesecake", "#2ingredientdessert", "#viraldessert", "#easyrecipe", "#foodtok2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Minimal-ingredient recipe trend driving recreations and reaction content in late March",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Air Fryer Pasta Chips Reignite the Air Fryer Content Format with Satisfying Crunch ASMR",
+      "body": "Air fryer pasta chips — cooked pasta baked in the air fryer until it becomes crispy, crunchy chips — are trending hard in food TikTok as both a recipe and an ASMR content format. The crunch reveal, the customizable seasoning, and the 'I can't believe this works' reaction make it a repeatable content format for food creators. The air fryer category as a whole is seeing renewed algorithm momentum as creators discover new use cases beyond basics.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://filmora.wondershare.com/tiktok/tiktok-recipes.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#airfryerpastachips", "#pastachips", "#airfryerrecipes", "#foodasmr", "#crunchyfood"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Ninja", "Cosori", "Instant Pot"],
+        "context": "Air fryer format reignited via unexpected pasta chip recipe driving ASMR and recreation content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-Protein 'Cozy' Comfort Meals Dominate Food TikTok — Fitness Meets Comfort Food",
+      "body": "The protein era has evolved in 2026: the new wave isn't about protein shakes or bland chicken — it's about high-protein comfort food that satisfies macro goals while delivering soul-warming flavors. Creamy cottage cheese pasta, protein-loaded soups, and hearty grain bowls with 40g+ protein are the formats driving massive engagement as creators bridge the gap between fitness goals and cozy eating. The narrative hook 'you don't have to give up comfort food to hit your protein' is consistently outperforming standard recipe content.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#highprotein", "#proteincomfortfood", "#macrofriendly", "#cottagecheeserecipe", "#proteinfood"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Good Culture", "Chobani", "Quest", "Fairlife"],
+        "context": "Protein trend evolving from bland gym food into comforting high-protein recipe formats",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Pilates Princess Goes Mainstream — Mini Reformer Content and Graceful Mat Routines Flood Feeds",
+      "body": "The 'Pilates Princess' aesthetic — fluid movements, controlled core exercises, graceful posture-focused content — has crossed from niche fitness into mainstream TikTok fitness culture. Mini reformer machines for home use are selling out as creators show compact setups in aesthetic home gym spaces. The 'Pilates Princess' label itself is a viral audio and content format, with creators across fitness, lifestyle, and fashion claiming it as their identity.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pilatesprincess", "#pilates", "#reformerpilates", "#minireformer", "#pilatesaesthetic"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Lagree", "Align Pilates", "Balanced Body", "Lululemon"],
+        "context": "Pilates Princess identity trend driving both fitness content and mini reformer home equipment sales",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Shy Girl Workout Trend Removes Gym Anxiety as a Barrier — Corner of the Gym, Headphones In",
+      "body": "The 'shy girl workout' — grab a corner of the gym, put your headphones in, and do a simple but effective dumbbell-only routine — is connecting with a massive audience of gym-anxious beginners who've been put off by intimidating gym culture. Creators are packaging simple, repeatable 30-45 minute routines as 'no one will notice you' content, and it's generating enormous saves from people who've been wanting to start going to the gym. The trend also crossover into gymwear styling content.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#shygirlworkout", "#gymbeginners", "#dumbbellworkout", "#gymtok", "#workouttok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Gymshark", "Nike", "Lululemon", "Alo Yoga"],
+        "context": "Gym-anxiety barrier removal trend driving beginner fitness content and massive saves from non-gym-goers",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Skirted Furniture and 'Grandma Decor' Drive Cozy Home Aesthetic on TikTok",
+      "body": "Skirted sofas, upholstered chairs with floor-length fabric pooling to the ground, and draped tablecloths are TikTok's most unlikely breakout home trend of spring 2026 — part of a broader 'grandma decor' revival that embraces warmth, softness, and intentional coziness over sleek minimalism. Designers and creators are positioning the look as 'elevated vintage,' and affordable versions from IKEA, thrift stores, and Etsy are driving accessible 'get the look' content.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#skirtedfurniture", "#grandmadecor", "#cozyhome", "#cottagedecor", "#grandmillennial"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["IKEA", "Anthropologie", "Pottery Barn", "Etsy"],
+        "context": "Grandma decor revival driving skirted furniture and cozy vintage home aesthetic on TikTok interior design",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Dopamine Decor Peaks for Spring — Radioactive Brights and Mood-Boosting Interiors",
+      "body": "Dopamine decor — the practice of filling living spaces with mood-boosting, eye-catching colors and playful objects — is hitting a seasonal peak as spring 2026 arrives. After last year's Brat-green moment, creators are leaning into radioactive brights, unexpected color pairings, and bold accent pieces that spark joy. The 'decorate for how you want to feel, not how it looks in a magazine' framing is resonating strongly with younger renters who can't make permanent changes.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminedecor", "#colorfulhome", "#moodboostingdecor", "#brightinteriors", "#rentersdecorating"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["H&M Home", "Target", "IKEA", "Urban Outfitters"],
+        "context": "Spring seasonal peak for bright, mood-boosting home decor content especially among younger renters",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mini Projectors Are TikTok's Gadget of the Month — 'The Thing I Didn't Know I Needed'",
+      "body": "Wireless, rechargeable mini projectors are dominating tech TikTok in March 2026 as creators pitch them as the ultimate upgrade for dorm rooms, apartments, and outdoor movie nights. The 'gadget I didn't know I needed' format — dramatic reveal, instant setup, jaw-dropping result — is driving massive impulse purchases. Creators are demonstrating projection on ceilings, backyard fences, and even bedsheets, fueling aspirational content that converts exceptionally well on TikTok Shop.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#miniprojector", "#wirelssprojector", "#gadgettok", "#techhaul", "#hometheatre"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Anker", "Nebula", "XGIMI", "Dangbei"],
+        "context": "Mini projector as viral 'didn't know I needed' tech product driving TikTok Shop conversions in March",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Magic Dust Cleaner Compound Goes Viral — Satisfying Device Cleaning Content Explodes",
+      "body": "A high-tech 'magic dust cleaner' compound — a gel-like substance you press into keyboards, phone ports, and device crevices that picks up dust and debris — has taken TikTok tech by storm. The before-and-after reveal (grimy device → spotless surface in seconds) is one of the most satisfying formats on the platform, and the product's low price point and dramatic visual result make it a consistent TikTok Shop bestseller. Parent and cleaning creators are crossposting, broadening reach beyond tech audiences.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#magicdustcleaner", "#keyboardcleaning", "#cleantok", "#satisfyingclean", "#techaccessories"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Satisfying cleaning compound creating before/after content for tech devices and driving TikTok Shop sales",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Easter Magic Surprise Eggs Go Viral Just in Time — Drop-in-Water Reveal Toy Flooding Feeds",
+      "body": "With Easter arriving April 5, 2026, 'Magic Easter eggs' — dissolvable capsules you drop in water that fizz, bubble, and slowly reveal a unicorn, dinosaur, or character toy inside — are the breakout seasonal toy trend of the week. Parent creators and toy unboxing accounts are posting real-time reaction videos, and the 'waiting for the reveal' tension format is perfectly suited to TikTok's watch-time optimization. Basket stuffers at every price point are selling out across Amazon and TikTok Shop.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#eastertoyviral", "#magiceasteregg", "#eastergiftideas", "#surpriseegg", "#eastertok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["ZURU", "Kinder", "Schleich"],
+        "context": "Easter 2026 (April 5) timing driving seasonal reveal toy content surge across parent and kids TikTok",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Butter-Themed Collectibles Are 2026's Wildcard Toy Trend — Pastel, Squishy, Irresistible",
+      "body": "The biggest surprise in toys for 2026 is butter — a wave of butter-themed squishy collectibles, butter-yellow pastel plushies, and butter-styled blind boxes that have become this spring's must-have for kids and adult collectors alike. The trend taps into the broader fascination with food-inspired toys and the 'kawaii comfort' aesthetic that's dominated collectible culture. TikTok unboxing videos featuring butter-themed toys consistently outperform other collectible content by 2-3x in completion rate.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/toy-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#buttertoys", "#squishycollectibles", "#kawaiitoys", "#blindbox", "#toktoys2026"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Squishmallows", "Pop Mart", "ZURU Mini Brands"],
+        "context": "Butter-themed collectible wave combining food-inspired aesthetics with blind-box unboxing appeal",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Pet POV Content Surges to 25M+ Views — Creators Filming From Their Pet's Perspective",
+      "body": "Pet POV (point of view) videos — cameras strapped to or filmed from the perspective of cats, dogs, and even birds — have become one of the fastest-growing content formats on TikTok in March 2026, with individual videos crossing 25 million views. The format gives viewers an unexpected, intimate window into pet behavior that generates emotional connection and relentless replays. Pet brands and creators alike are jumping on the format, with dog-cam and cat-cam products selling out alongside the content wave.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#petpov", "#dogcam", "#catpov", "#petcamera", "#pettok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["GoPro", "Petcube", "Fi"],
+        "context": "Pet perspective video format driving 25M+ view counts and pet-cam accessory sales in March 2026",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet Hair Removal Rollers Go Viral Again — Before/After Cleaning Content Drives Mass Conversions",
+      "body": "Reusable pet hair remover rollers are experiencing a second viral wave in March 2026, powered by TikTok's ongoing obsession with satisfying before-and-after cleaning content. Videos showing furniture, clothing, and car seats covered in pet hair transformed in 60 seconds are racking up millions of views and converting directly on TikTok Shop. The product is a crossover between #CleanTok and pet content — two of TikTok's strongest evergreen communities.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pethairremover", "#cleantok", "#pethair", "#petaccessories", "#satisfyingclean"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["ChomChom", "OXO", "Scotch-Brite"],
+        "context": "Reusable pet hair roller at the intersection of CleanTok and pet content driving TikTok Shop conversions",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "World of Frozen Opens at Disneyland Paris Tomorrow — Creator Rush Is Already Underway",
+      "body": "World of Frozen officially opens at Disney Adventure World in Paris on March 29 — tomorrow — and the creator content wave is already building today as travel influencers share arrival footage, hotel check-ins, and pre-park walkthroughs. The immersive land features a life-size robotic Olaf, the Frozen Ever After boat ride, Queen Anna and Elsa meet-and-greets, and a first-ever aquatic drone light show. 'First day' and 'was it worth the trip to Paris?' content formats are set to dominate travel TikTok through the weekend.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://thewaltdisneycompany.com/news/disneyland-paris-disney-adventure-world/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#WorldofFrozen", "#DisneyAdventureWorld", "#DisneylandParis", "#FrozenEverAfter", "#disneytravel"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Disney", "Disneyland Paris"],
+        "context": "World of Frozen opening tomorrow (March 29) at Disneyland Paris — creator arrival content flooding feeds today",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Set-Jetting Peaks for Spring — Travelers Booking Based on Creator Content and TV Locations",
+      "body": "Set-jetting — the behavior of booking travel to destinations featured in TV shows, films, or viral creator content — is at a spring 2026 peak as new streaming releases and creator travel campaigns drive bookings. Portugal, Japan, Greece, and Iceland are the top set-jetting destinations, with destinations reporting 40-60% increases in TikTok discovery traffic. The format 'I went where [show/creator] filmed and here's what it's actually like' is one of the most reliable travel content formulas this season.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.thetraveler.org/how-tiktok-is-rewriting-the-travel-playbook-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#setjetting", "#traveltok", "#filmlocations", "#traveldestinations2026", "#wheretogoin2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Airbnb", "Booking.com", "Expedia"],
+        "context": "Creator and TV-driven destination bookings peaking for spring with Portugal, Japan, Greece leading",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist Charm Necklaces Replace Simple Pendants as Spring 2026's Statement Jewelry",
+      "body": "The simple pendant necklace is out — maximalist charm necklaces are in. Spring 2026 TikTok jewelry content is dominated by layered chains loaded with mismatched charms: vintage keepsakes, zodiac symbols, initials, tiny objects, and bold shapes worn all at once. The 'charm necklace build' video — where creators add charms one by one and explain the meaning of each — is one of the most-saved jewelry formats of the month, combining personal storytelling with product showcasing.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#charmjewelry", "#maximalstjewelry", "#layerednecklaces", "#jewelrytok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Thomas Sabo", "Pandora", "Mejuri", "Lovisa"],
+        "context": "Maximalist charm necklace replacing minimal pendant as dominant jewelry format on TikTok spring 2026",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Shell & Coastal Jewelry Has Its Biggest Moment Yet — Beach-Babe Energy Goes Mainstream",
+      "body": "Shell jewelry — necklaces, bracelets, anklets, and earrings featuring natural shells, pearl-shell combinations, and coastal motifs — is having its biggest mainstream moment in spring 2026. The timing with warmer weather and travel content peaks makes it the ideal seasonal jewelry category. TikTok creators are styling shell jewelry with both beach looks and dressed-up spring outfits, expanding its perceived wearability and creating accessible entry points at every price point from Etsy handmade to fine jewelry.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#shelljewelry", "#coastaljewelry", "#beachjewelry", "#shellnecklace", "#summerjewelry"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pura Vida", "BaubleBar", "Etsy", "Alex and Ani"],
+        "context": "Shell jewelry hitting seasonal spring peak as beach aesthetic crossover into everyday styling widens appeal",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Life Mission Carousel Is March's Breakout Couples Content Format",
+      "body": "The 'Life Mission Carousel' — where one person lists their serious life goals on slides and their partner interrupts each slide with something mundane they want (a snack, a TV show, attention), with the list returning unchanged on the final slide — is the breakout couples content format of March 2026. The format is relationship comedy gold, highly replicable across all couple types, and generates massive comment engagement as viewers tag their own partners. Brands in food, home, and entertainment niches are adapting it for sponsored content.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel", "Food & Beverage", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://turrboo.com/blog/latest-tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#lifemissioncarousel", "#couplescontent", "#relationshipcomedy", "#carouseltrend", "#couplegoals"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Cross-category couples content format dominating March 2026 — highly adaptable for brand sponsored content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Harry Styles 'Kiss All the Time. Disco, Occasionally.' Drops March 6 — Album Sounds Flood Creator Content",
+      "body": "Harry Styles' new album 'Kiss All the Time. Disco, Occasionally.' — released March 6 — has given TikTok creators a full suite of dance-ready, disco-tinged audio that's built for viral edits across fashion, beauty, and lifestyle niches. The album is generating outfit transition videos, GRWM content, and choreography clips at scale, with 'Kiss All the Time' emerging as the standout track for fashion and lifestyle content. The Harry Styles halo effect is reliable and cross-demographic — making this audio a low-risk high-reward content opportunity.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare", "Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.home.shooglebox.com/tiktok-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#harrystyles", "#kissallthetime", "#harrystylesnewalbum", "#outfittransition", "#trendingsound"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Harry Styles March 6 album launch generating cross-niche viral audio for fashion, beauty, and lifestyle creators",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

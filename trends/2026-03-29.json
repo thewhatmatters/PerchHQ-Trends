@@ -1,0 +1,574 @@
+{
+  "batch_id": "trends-2026-03-29",
+  "scraped_at": "2026-03-29T10:00:00Z",
+  "expires_at": "2026-04-01T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Milk Cleansers Become TikTok's New Holy Grail — The Gentlest First Step in K-Beauty Skincare",
+      "body": "Milk cleansers have emerged as the hottest skincare product of late March 2026, with creators citing that 99.9% of Korean clinics use cleansing milks because they're non-stripping, remove sunscreen effortlessly, and hydrate simultaneously. The format is classic before-and-after: makeup-covered skin transformed with a single gentle product, no redness, no tightness. The messaging — 'stop punishing your skin barrier' — is perfectly aligned with the skin longevity narrative dominating beauty TikTok.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#milkcleanser", "#gentlecleansing", "#kbeauty2026", "#skinbarrier", "#firstcleanse"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Banila Co", "Heimish", "Dear Klairs", "Beauty of Joseon"],
+        "context": "K-beauty milk cleanser trend replacing harsh foaming cleansers, aligned with skin longevity movement",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Korean Lash Lift Searches Explode 20,000% — TikTok's Most In-Demand Beauty Service of 2026",
+      "body": "The Korean lash lift has seen a staggering 20,082% year-on-year increase in search interest, making it the single most searched beauty service of 2026. Unlike traditional lash extensions, the Korean lift promises a natural, wide-eyed look with minimal maintenance — perfect for the 'clean girl' and 'cloud skin' aesthetics dominating feeds. Creator content showing real-time application and the dramatic before/after reveal is driving massive saves and bookings at salons worldwide.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/skincare-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#koreanlashlift", "#lashlift", "#naturalbeauty", "#kbeauty", "#lashtrend2026"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Korean lash lift with 20,000%+ search growth as TikTok's breakout beauty service of 2026",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Climate-Adaptive Skincare Goes Mainstream — Smart Formulas That React to Your Environment",
+      "body": "Climate-adaptive beauty has moved from niche concept to mainstream necessity in spring 2026. Smart formulas designed to react to your skin's temperature, humidity, and environmental exposure are the new frontier of personalized skincare. TikTok creators are demonstrating how these products adjust throughout the day — lighter in humidity, richer in dry conditions — positioning them as the intelligent evolution of multi-step routines.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#climateadaptive", "#smartskincare", "#adaptivebeauty", "#skincarescience", "#personalizedskincare"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tatcha", "Dr. Jart+", "Laneige", "Drunk Elephant"],
+        "context": "Climate-responsive skincare formulas becoming mainstream as personalization trend deepens in beauty",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Boho Revival Sweeps Spring 2026 — Flowing Layers, Crochet, and Festival-Ready Looks Return",
+      "body": "Boho is officially back. After years of minimalism and quiet luxury, TikTok's fashion feeds are flooded with flowing maxi skirts, crochet tops, fringe detailing, and earthy-toned layered looks. Runways and TikTok are aligned for once, with creators positioning boho as the antidote to structured dressing. The key update for 2026: modern boho leans refined rather than costume-y, mixing vintage finds with clean silhouettes.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#bohorevival", "#bohostyle2026", "#crochet", "#festivalfashion", "#flowyoutfit"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Anthropologie", "Spell", "Zimmermann"],
+        "context": "Boho aesthetic returns refined for 2026 as the dominant spring fashion trend on TikTok runways and feeds",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Culottes Make a Zoe Kravitz-Level Comeback — Cropped Wide-Legs Are 2026's Cool-Girl Pant",
+      "body": "Culottes are back in 2026, and they've been rebranded. Gone is the Olivia Palermo polished office vibe — the 2026 version channels Zoe Kravitz: cropped wide-leg trousers paired with loafers, layered tees, and minimal accessories. TikTok creators are styling them as the elevated casual pant that works for brunch, the office, and evening drinks. The 'one pant, three ways' format is a consistent algorithm performer.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#culottes", "#wideleg", "#springstyle2026", "#minimaloutfit", "#loaferoutfit"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["COS", "& Other Stories", "Uniqlo", "Arket"],
+        "context": "Culottes repositioned as cool-girl casual pant replacing skinny jeans in spring 2026 styling content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Layered Looks Go Full Rachel Green — Multi-Layer Tops and Y2K Stacking Are Back",
+      "body": "Multi-layered tops — the kind once beloved by Rachel Green — are officially at the forefront of fashion in 2026. TikTok creators are stacking tanks over tees, sheer over opaque, and cropped over full-length to build outfits with depth and movement. The trend ties into the broader Y2K resurgence and the layered activewear moment happening simultaneously in fitness fashion, with brands like FORM and Beyond Yoga releasing layered sports bra designs.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://thebondnow.com/the-7-biggest-tiktok-fashion-trends-of-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#layeredlook", "#y2kfashion", "#rachelgreen", "#layering", "#springlayers2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Urban Outfitters", "Brandy Melville", "Aritzia", "FORM"],
+        "context": "Multi-layer top styling trend crossing fashion and activewear as Y2K layering returns to TikTok feeds",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dumpling Lasagna Is TikTok's Comfort Food Mashup of the Moment",
+      "body": "Dumpling lasagna — a fusion that layers dumpling soup filling with lasagna noodles for effortless, one-pan comfort food — has gone viral as this weekend's breakout recipe. The format combines two comfort food categories into a single showstopper dish that photographs beautifully in the cross-section reveal. Creators are riffing on variations (pork, chicken, veggie) and the 'I can't believe this works' hook is driving massive recreations.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://creators.yahoo.com/lifestyle/story/the-most-viral-tiktok-recipes-right-now-that-are-actually-worth-making-153818638.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#dumplinglasagna", "#foodfusion", "#comfortfood", "#onepanrecipe", "#foodtok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Comfort food fusion recipe combining dumplings and lasagna into one-pan viral format on food TikTok",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Crunchy Chickpea Bowls Surge as Spring's Light-But-Filling Lunch — Gut Health Meets Ease",
+      "body": "As warmer weather arrives, the crunchy chickpea bowl has emerged as TikTok's go-to spring lunch: loaded with fresh vegetables, crispy roasted chickpeas for protein, and gut-friendly toppings like kimchi, pickled onions, and yogurt-based dressings. The bowl format hits the intersection of gut health, high protein, and aesthetic plating that dominates food TikTok in 2026. The 'meal prep this and thank me later' hook is driving exceptional saves.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#chickpeabowl", "#guthealth", "#mealprep", "#healthylunch", "#springrecipes"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Spring seasonal shift toward lighter, gut-health-focused bowl recipes with aesthetic plating on food TikTok",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Rice Paper Dumplings Go Viral — The Minimalist Recipe That's Replacing Spring Rolls",
+      "body": "Rice paper dumplings — made with just a few basic ingredients, no wrapper-folding skills required — are this week's breakout easy recipe on food TikTok. The format strips the intimidation out of dumpling-making: lay rice paper flat, add filling, fold, and pan-fry until crispy. The before-and-after (flat wet paper → golden crispy dumpling) is one of the most satisfying visual transformations in the recipe space right now.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://filmora.wondershare.com/tiktok/tiktok-recipes.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ricepaperdumplings", "#easyrecipe", "#ricepaperrecipe", "#crispydumplings", "#asianfood"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Minimalist rice paper dumpling recipe removing barrier to entry for dumpling-making content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Walking Explodes 3,000% — TikTok's Hottest Low-Impact Fitness Trend",
+      "body": "Japanese walking — a structured, posture-focused walking technique that emphasizes arm movement, upright alignment, and deliberate pacing — has surged nearly 3,000% in search interest, making it the fastest-growing fitness trend of 2026. The appeal is universal: no gym required, no equipment, suitable for all ages and fitness levels. Creators are filming outdoor walks with posture overlays and step-count tracking, turning an ancient practice into TikTok's most accessible fitness content.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#japanesewalking", "#walkingworkout", "#lowimpactfitness", "#posturefix", "#walkingtok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HOKA", "New Balance", "On Running", "Asics"],
+        "context": "Japanese walking technique with 3,000% search growth as TikTok's most accessible fitness trend of 2026",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Red Light Therapy Goes from Clinical Niche to Mainstream Wellness Phenomenon",
+      "body": "Red light therapy has rapidly surged in popularity throughout early 2026, transforming from a niche clinical treatment into a mainstream beauty and wellness phenomenon. At-home red light devices — masks, panels, and handheld wands — are flooding TikTok with before/after skin and recovery content. Creators are positioning red light therapy at the intersection of skincare, recovery, sleep optimization, and anti-inflammation, making it the crossover wellness gadget of the spring.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/trending-now-insight-mar-23-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#redlighttherapy", "#redlightmask", "#biohacking", "#skinhealing", "#wellnesstech"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Solawave", "Dr. Dennis Gross", "CurrentBody", "Omnilux"],
+        "context": "Red light therapy crossing from clinical to consumer wellness with at-home devices driving TikTok content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "6-6-6 Walking Challenge Joins Japanese Walking as TikTok's Dual Walking Movement",
+      "body": "Alongside Japanese walking, the 6-6-6 walking challenge (6,000 steps, 6 days a week, for 6 weeks) is gaining momentum as an accessible fitness goal for people who want structure without gym intimidation. The challenge format — progress updates, body check-ins, mental health reflections — is generating the kind of accountability content that drives massive saves and follows. Walking yoga (up 2,414%) is the third leg of the walking fitness revolution on TikTok.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#666challenge", "#walkingchallenge", "#walkingyoga", "#stepchallenge", "#fitnessgoals"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Apple Watch", "Fitbit", "Garmin"],
+        "context": "Structured walking challenges creating accountability content as walking becomes TikTok's biggest fitness category",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cabbagecore Takes Over Home TikTok — Lettuce and Vegetable Motifs Are Spring's Wildcard Decor Trend",
+      "body": "Cabbagecore — cabbage and lettuce motifs infiltrating tableware, textiles, wallpaper, and ceramics — is the most unexpected home trend of spring 2026. Pinterest searches for 'cabbageware' surged 250% last year, and TikTok's #CabbageCore hashtag climbed 115% in three months. The appeal: whimsical, nature-inspired, and endlessly photographable. Creators are styling cabbage-leaf plates and lettuce-print linens as the centerpiece of spring tablescapes and kitchen refreshes.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#springtablescape", "#whimsicaldecor", "#kitchentrend"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tory Burch Home", "Bordallo Pinheiro", "Anthropologie", "Etsy"],
+        "context": "Vegetable-motif ceramics and textiles crossing from Pinterest to TikTok as spring 2026 wildcard decor trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Friction-Maxxing Rejects Smart Home Tech — Record Players, Table Lamps, and Real Books Return",
+      "body": "Friction-maxxing — the deliberate choice to make daily life less optimized and more tactile — is the design philosophy TikTok didn't see coming. It means record players instead of invisible Bluetooth speakers, table lamp collections instead of smart-controlled recessed lighting, and bookshelves filled with real books instead of curated decor objects. The aesthetic is cozy, imperfect, and anti-algorithm — and it's resonating hard with viewers exhausted by optimization culture.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#frictionmaxxing", "#analoglife", "#recordplayer", "#realbookshelf", "#antismarthome"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Crosley", "IKEA", "Muji", "HAY"],
+        "context": "Anti-optimization home design philosophy rejecting smart tech in favor of tactile, analog living",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Broken Floor Plan Replaces Open Concept — Defined Zones Through Arches and Elevation Changes",
+      "body": "The 'broken floor plan' is 2026's answer to the open-concept fatigue that's been building for years. Rather than returning to fully closed rooms, TikTok designers are championing a hybrid approach: archways, partial walls, changes in elevation, and strategic furniture placement that create defined zones within open spaces. The format — 'how I zoned my open-plan apartment without walls' — is generating massive saves from renters and homeowners alike.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#brokenfloorplan", "#zonedliving", "#archway", "#openplanfix", "#interiordesign2026"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["IKEA", "West Elm", "CB2"],
+        "context": "Hybrid floor plan design creating defined zones without closing off space — the post-open-concept evolution",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart LED Alarm Clocks Become TikTok's Aesthetic Bedroom Gadget — The Sunrise Wake-Up",
+      "body": "Smart LED alarm clocks with sunrise simulation, ambient lighting modes, and Bluetooth connectivity are replacing phone alarms as TikTok's bedroom gadget of the spring. The content format — 'my morning routine changed when I stopped waking up to my phone' — taps into the digital wellness narrative while delivering a visually stunning before/after: dark room → warm sunrise glow. The gadget sits at the intersection of tech, wellness, and aesthetic bedroom content.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#sunrisealarm", "#smartclock", "#morningroutine", "#bedroomtech", "#digitalwellness"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hatch", "Philips", "Casper Glow"],
+        "context": "Smart alarm clocks crossing tech and wellness at intersection of digital detox and aesthetic bedroom content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Power Banks with Digital Displays Are the Practical Tech Flex — Aesthetic Meets Function",
+      "body": "Sleek power banks featuring digital percentage displays, transparent casings, and fast-charge LED indicators have become TikTok's latest practical tech flex. Creators are showcasing them as both functional accessories and style statements — matching phone cases, fitting into aesthetic desk setups, and providing the satisfying visual of watching the charge percentage climb. The 'essentials in my bag' content format is driving consistent sales.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#powerbank", "#techtok", "#techessentials", "#dailycarry", "#techhaul"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Anker", "Baseus", "Ugreen", "Mophie"],
+        "context": "Aesthetic power banks with digital displays becoming TikTok tech accessories featured in 'essentials' content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Giant Hatching Easter Eggs Go Viral — The Build-Up Reveal Toy Format Dominating Parent TikTok",
+      "body": "Giant hatching Easter eggs — large eggs that crack open over time or with water to reveal a surprise pony, unicorn, or character figure inside — are this week's biggest toy trend as Easter (April 5) approaches. The slow-reveal format is tailor-made for TikTok watch time: kids' eyes widening, the egg slowly cracking, and the dramatic reveal of what's inside. Parent creators are posting 'Easter basket preview' content that doubles as product showcase and family content.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#gianteasteregg", "#hatchingegg", "#eastergifts", "#easterbasketideas", "#kidstok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hatchimals", "ZURU", "Schleich"],
+        "context": "Giant hatching egg toy format dominating Easter content as April 5 Easter approaches",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Gummy Blocks Are 2026's Viral Fidget Toy — Sensory Play for Kids and Adults",
+      "body": "Gummy blocks — translucent, squishy, stackable blocks that look and feel like gummy bears — have become the viral toy discovery of 2026 on TikTok. The format is pure ASMR: stacking, squishing, stretching, and satisfying tactile close-ups that draw viewers in immediately. They work as gift bag stuffers, sensory play tools, desk toys, and Easter basket fillers, making them one of the most versatile trending products of the season.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/toy-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#gummyblocks", "#fidgettoy", "#sensoryplay", "#asmr", "#kidstoys2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Translucent gummy block fidget toys crossing kids and adult audiences through ASMR sensory content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cat Sofas Drive Pet Furniture to New Heights — 'My Cat Has Better Furniture Than Me'",
+      "body": "Miniature cat sofas — scaled-down versions of human furniture designed specifically for cats — are the breakout pet product of late March 2026. The content formula is irresistible: unboxing a tiny sofa, setting it up, and filming the moment the cat investigates, judges, and finally claims it. The 'my cat has better furniture than me' narrative is driving massive engagement, and the product sits perfectly at the intersection of pet content, home decor, and humor.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#catsofa", "#catfurniture", "#petfurniture", "#cattok", "#catmom"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Miniature cat furniture trend combining pet content with home decor and humor for cross-niche reach",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Enrichment Toys Become the Standard for Responsible Pet Ownership Content on TikTok",
+      "body": "Puzzle feeders, snuffle mats, scent games, and treat-dispensing toys designed to engage dogs' and cats' natural instincts have become a core content pillar on pet TikTok in 2026. The narrative has shifted from 'cute toy' to 'responsible enrichment' — with creators framing these products as essential for mental health and behavioral well-being. The before/after (bored pet → fully engaged problem-solver) makes for compelling, high-save content.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://contentmation.com/marketing/tiktok/tiktok-pet-brand-marketing",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#petenrichment", "#puzzlefeeder", "#snufflemat", "#dogmentalhealth", "#pettok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Kong", "West Paw", "Outward Hound", "Nina Ottosson"],
+        "context": "Pet enrichment products reframed as responsible ownership essential driving educational pet content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "World of Frozen Opens TODAY at Disneyland Paris — Creator Content Wave Peaks on Opening Day",
+      "body": "World of Frozen officially opens today (March 29) at the newly renamed Disney Adventure World in Paris, capping a €2 billion transformation. After yesterday's invitation-only inauguration with top creators like Léna Mahfouf and Joyca, today brings the public opening — and the creator content wave is at full force. First-person ride-throughs of Frozen Ever After, meet-and-greets with a next-gen robotic Olaf, and the world's first aquatic drone light show are flooding TikTok, YouTube, and Instagram.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://thewaltdisneycompany.com/news/disneyland-paris-disney-adventure-world/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#WorldofFrozen", "#DisneyAdventureWorld", "#DisneylandParis", "#FrozenEverAfter", "#openingday"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Disney", "Disneyland Paris"],
+        "context": "World of Frozen opening day TODAY — creator content at peak volume with ride-throughs and first reviews",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Destination Dupes Trend Peaks — Lesser-Known Cities That Rival Instagram-Famous Spots",
+      "body": "Destination dupes — lesser-known cities and regions that promise the atmosphere of heavily touristed destinations at lower cost and with fewer crowds — are one of the strongest travel content formats of spring 2026. TikTok creators are pitching Braga as a Lisbon dupe, Kanazawa as a Kyoto dupe, and Kotor as a Dubrovnik dupe, with the 'you could go here for half the price' hook generating massive saves and comments from budget-conscious travelers.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://www.thetraveler.org/how-tiktok-is-rewriting-the-travel-playbook-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#destinationdupe", "#budgettravel", "#hiddengem", "#travelhack", "#traveltok2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Airbnb", "Booking.com", "Hostelworld", "Skyscanner"],
+        "context": "Destination dupe format driving budget-conscious spring travel content as alternative to crowded hotspots",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Brooches Are the New Statement Accessory — Styled on Blazers, Bags, Scarves, and Denim",
+      "body": "Brooches are officially the jewelry trend of the season in spring 2026, showing up pinned in unexpected places: blazer lapels, bag straps, scarf drapes, denim jackets, and even hat bands. TikTok styling creators are positioning brooches as the low-cost, high-impact accessory that elevates any outfit instantly. The 'one brooch, five ways' format is the standout content formula, and vintage brooch thrift finds are fueling a parallel sourcing content wave.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#brooch", "#broochstyle", "#vintagebrooch", "#accessorytrend", "#jewelrytok2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Chanel", "Zara", "H&M", "Etsy"],
+        "context": "Brooches positioned as the versatile, low-cost statement accessory of spring 2026 across multiple styling formats",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bracelet Stacking Takes Over Spring Jewelry — More Is More on the Wrist",
+      "body": "Bracelet stacking — layering multiple bracelets of varying widths, materials, and styles on one or both wrists — has exploded as spring 2026's dominant wrist trend. TikTok creators are mixing metals, beads, chains, and bangles with abandon, and the 'build my stack with me' format is driving the kind of personal storytelling content that generates saves. The trend ties into the broader maximalist jewelry movement and the return of colorful, dopamine-fueled accessories.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#braceletstack", "#stackingbracelets", "#mixedmetals", "#wristcandy", "#jewelrytrend"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Pura Vida", "BaubleBar", "Gorjana"],
+        "context": "Bracelet stacking trend aligning with maximalist jewelry movement and dopamine-fueled spring accessories",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "AirPod Bump Trend Is the New Meet-Cute Format — Swap Earbuds, Discover Each Other's Vibe",
+      "body": "The AirPod Bump trend pairs aesthetic identity with human connection: two people 'bump into' each other, swap AirPods, and get a rapid-fire montage of each other's music taste, outfit choices, and overall vibe through their song selection. The format is endlessly adaptable — couples, friends, strangers, coworkers — and it combines outfit transition content with music discovery in a single, highly shareable format.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://turrboo.com/blog/latest-tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#airpodbump", "#swapairpods", "#vibecheck", "#outfittransition", "#meetcute"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Apple"],
+        "context": "Cross-niche content format combining music discovery with outfit reveals through AirPod swap narrative",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Megan Moroney's 'Cloud 9' Album Fuels Country TikTok's Biggest Audio Moment of Spring",
+      "body": "Megan Moroney's breakout spring with '6 Months Later' hitting No. 1 on country radio and 'Beautiful Things' climbing the Billboard Hot 100 has made her catalog the go-to audio source for emotional TikTok content this week. 'Wish I Didn't' and her Ed Sheeran duet 'I Only Miss You' are fueling breakup carousels, heartfelt voiceover content, and country lifestyle edits. For creators in any niche, Megan Moroney audio is the emotional counterpart to Harry Styles' upbeat disco tracks.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare", "Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.kapwing.com/resources/march-2026-tiktok-trends-for-creators-brands/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#meganmoroney", "#cloud9album", "#countrytiktok", "#trendingsound", "#emotionalcontent"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Megan Moroney's spring album run providing emotional audio counterpart to Harry Styles for TikTok creators",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

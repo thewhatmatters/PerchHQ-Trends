@@ -1,0 +1,364 @@
+{
+  "batch_id": "trends-2026-03-30",
+  "scraped_at": "2026-03-30T10:00:00Z",
+  "expires_at": "2026-04-02T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Life Mission Carousel — TikTok's Breakout Couples Format of the Week",
+      "body": "The Life Mission Carousel has emerged as March's hottest relationship content format. One person lists their life goals while their partner interrupts with something they want that keeps getting ignored — the comedic tension and relatability driving massive shares. Meanwhile, the AirPod Bump trend pairs aesthetic identity with human connection: two people swap earbuds after a collision and get a rapid-fire montage of each other's vibe through their song choice. Both formats are tailor-made for duet chains and creator remixes.",
+      "categories": ["Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.kapwing.com/resources/march-2026-tiktok-trends-for-creators-brands/",
+      "trend_type": "format",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#lifemissioncarousel", "#airpodbump", "#couplesoftiktok", "#relationshiptiktok", "#trendingformat"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Breakout couples and duos format dominating TikTok FYPs in late March 2026",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Harry Styles' 'Kiss All the Time' Takes Over TikTok — Disco-Pop Soundtracks Every GRWM and Outfit Transition",
+      "body": "Harry Styles' 2026 album dropped in early March and creators immediately latched onto 'Kiss All the Time' as the go-to audio for GRWM videos, outfit transitions, and dance edits. The upbeat disco-style track provides the perfect energy for aspirational lifestyle content. Simultaneously, Megan Moroney's Cloud 9 is dominating country TikTok with '6 Months Later' hitting No. 1 on country radio and 'Beautiful Things' climbing the Billboard Hot 100.",
+      "categories": ["Music & Audio"],
+      "source": "Web",
+      "source_url": "https://www.epidemicsound.com/blog/latest-tiktok-trends/",
+      "trend_type": "audio",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#harrystyles", "#kissallthetime", "#grwm", "#outfittransition", "#meganmoroney", "#cloud9"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Harry Styles album driving GRWM audio trend; Megan Moroney dominating country TikTok",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Square Up Challenge Explodes in 16 Hours — TikTok's Fastest-Spreading Comedy Trend",
+      "body": "The Square Up Challenge went from zero to viral in just 16 hours, spreading across TikTok with hundreds of creative interpretations. The format's simplicity and adaptability make it perfect for any niche — fitness creators, pet accounts, food creators, and fashion influencers are all putting their spin on it. Alongside this, a cartoon chase trend paying tribute to old Saturday-morning cartoons (usually backed by the Tom and Jerry theme) is gaining momentum with sped-up footage and slapstick humor.",
+      "categories": ["Comedy & Entertainment"],
+      "source": "Web",
+      "source_url": "https://later.com/blog/tiktok-trends/",
+      "trend_type": "challenge",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#squareupchallenge", "#tomandjerry", "#cartoonchase", "#funnytrend", "#viralchallenge"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Fastest-spreading challenge of late March 2026 with cross-niche adaptability",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Cloud Skin Becomes the Defining Beauty Aesthetic of Spring 2026 — Blurred Ethereal Finish Replaces Glass Skin",
+      "body": "Cloud skin has overtaken glass skin as TikTok's aspirational complexion trend, offering a soft-focus, blurred, ethereal finish that mimics a digital filter in real life. The technique relies on setting sprays, cushion foundations, and powder layering to create a diffused glow. Meanwhile, The Ordinary's peptide-powered lash and brow serum is getting 10/10 reviews from TikTok users, and the Beauty of Joseon Rice Sunscreen with SPF 50+ continues its viral run with prebiotic complex and rice water formulation.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "technique",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#skinfinish", "#kbeauty2026", "#theordinary", "#beautyofjoseon", "#spf50"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["The Ordinary", "Beauty of Joseon", "Medicube"],
+        "context": "Cloud skin replaces glass skin as aspirational TikTok beauty look; peptide lash serums and Korean sunscreens continue viral runs",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "PDRN (Salmon DNA) Goes Mainstream — From Korean Clinics to Your Bathroom Counter",
+      "body": "PDRN — polydeoxyribonucleotide, extracted from salmon DNA — has completed its journey from Korean clinical treatment to mainstream consumer skincare ingredient. Medicube is leading the charge with an accessible pink peptide serum, while luxury brands race to incorporate the ingredient. TikTok's ingredient-literate consumers are driving demand, with PDRN positioned as the next hyaluronic acid in the skin longevity narrative.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "ingredient",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PDRN", "#salmonDNA", "#skinlongevity", "#medicube", "#kbeautyingredients"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Dr. Althea"],
+        "context": "PDRN transitioning from clinical to consumer as TikTok's next hero ingredient",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho Revival Meets Power Shoulders — Spring 2026 Fashion Is All About Layered Contradiction",
+      "body": "Spring 2026 fashion is defined by stylistic tension: boho revival with crochet, fringe, and flowing maxi skirts sits alongside 80s power shoulders and nipped waists. The multi-layered top (once beloved by Rachel Green) is back at the forefront, with creators stacking tanks over tees and sheer over opaque. Culottes have been rebranded with Zoe Kravitz energy — cropped wide-legs with loafers and layered tees. Viral spring items include oversized 90s sunglasses, vertical stripes, and retro-inspired activewear.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "style",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#bohorevival", "#layeredlook", "#culottes", "#springstyle2026", "#powershoulders", "#90ssunglasses"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Spring 2026 fashion defined by layered contradiction — boho meets power dressing meets Y2K nostalgia",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "Two-Ingredient Japanese Cheesecake Becomes TikTok's Easiest Viral Recipe of Spring",
+      "body": "The two-ingredient Japanese cheesecake — made with just yogurt and cookies — has taken over FoodTok as spring 2026's breakout recipe. The appeal is dead simple: minimal ingredients, jiggly satisfying texture, and the perfect ASMR-worthy wobble for video. Alongside it, global spices like sumac, gochujang, and berbere are appearing in everyday dishes from scrambled eggs to roasted vegetables, reflecting TikTok's ongoing push to make global flavors accessible for weeknight cooking.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "recipe",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#japanesecheesecake", "#2ingredientrecipe", "#foodtok", "#globalspices", "#gochujang", "#sumac"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Minimal-ingredient viral recipes dominate spring FoodTok alongside global spice experimentation",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-Protein Comfort Food Reigns Supreme — Gut Health Meets Gains on FoodTok",
+      "body": "2026's food content centers on bold flavors, high-protein comfort food, and global-inspired dishes. Protein is queen — creators want filling meals that support fitness goals without sacrificing flavor. Gut health items like kimchi, pickled onions, and yogurt sauces are everywhere, merging with the protein-first movement in bowls, wraps, and meal prep content. Pasta chips (baked pasta turned crispy) remain a viral format for snack content.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.health-time.com/en/article/73_1_cl_health_filler_listicle_en_tiktok-trends",
+      "trend_type": "movement",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#highprotein", "#guthealth", "#mealprep", "#pastachips", "#proteinmeals", "#foodtok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "High-protein comfort food + gut health ingredients dominating food content creation in spring 2026",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Brainergy Takes Over Wellness TikTok — Nootropic Stacks Go Mainstream",
+      "body": "Brainergy — a portmanteau of brain and energy — has emerged as a key wellness buzzword in early 2026. TikTok users are sharing testimonials for supplement stacks featuring adaptogens, nootropics, and mushroom extracts, with influencers pushing Lion's Mane, ashwagandha, and L-theanine as the new pre-workout. The cognitive enhancement angle is pulling in both fitness and productivity audiences, creating a crossover content opportunity.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://ourhealtho.com/trending-now-insight-mar-28-2026/",
+      "trend_type": "movement",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#brainergy", "#nootropics", "#lionsmane", "#ashwagandha", "#supplementstack", "#cognitivewellness"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Mud/Wtr", "Four Sigmatic"],
+        "context": "Nootropic supplement stacks crossing over from biohacking niche to mainstream wellness TikTok",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Hybrid Training Replaces Single-Sport Focus — Combining Strength, Cardio, and Mobility in One Program",
+      "body": "Hybrid training — programs that combine strength, cardio, and mobility into a single routine — has become the dominant fitness philosophy on TikTok in 2026. Creators are pairing powerlifting with cycling, blending HIIT with yoga, and showcasing versatile routines that resist categorization. At-home fitness is also surging as 'gym anxiety' drives demand for home workout content, with creators recreating full gym experiences from weights to sauna in their garages and spare rooms.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "trend_type": "movement",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#hybridtraining", "#homegym", "#gymanxiety", "#functionalfitness", "#mobilitywork"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Hybrid training and home gym content surging as gym anxiety drives at-home fitness movement",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "Skirted Furniture Leads TikTok's 'Grandma Decor' Obsession — Fabric-Puddled Upholstery Goes Viral",
+      "body": "The skirted furniture trend is part of TikTok's broader 'grandma decor' obsession, with design enthusiasts embracing upholstered pieces that puddle fabric to the floor. The look is equal parts cozy and curated, tapping into the same nostalgia that powered cottagecore but with a more sophisticated, European salon aesthetic. Alongside it, cluttercore — maximalism with main-character energy featuring art-stacked walls, teetering book piles, and curiosities in cloches — is trending as the anti-minimalist movement.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "style",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#skirtedfurniture", "#grandmadecor", "#cluttercore", "#maximalism", "#hometok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Grandma decor and maximalism trending as counterpoint to minimalism on HomeTok",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "HostingCore Turns Tablescaping Into Performance Art — Dopamine Decor Hits the Dining Table",
+      "body": "HostingCore is the latest home content trend where creators treat their dining table as an art installation — maximalist tablescapes with layered linens, bold colors, and seasonal florals designed to be photographed before anyone sits down. Combined with dopamine decor's mood-boosting bright colors, the trend positions entertaining content as aspirational lifestyle content rather than practical how-to.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.buzzfeed.com/michelleno/interior-designers-2026-trend-predictions",
+      "trend_type": "style",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#hostingcore", "#tablescape", "#dopaminedecor", "#entertainingathome", "#hometok"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "HostingCore and dopamine decor merging entertaining content with aspirational lifestyle",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "Mini Projectors Dominate TikTok Gadget Hauls — Bedroom Theater Content Goes Viral",
+      "body": "Palm-sized wireless projectors have become the must-have TikTok gadget of spring 2026, with creators casting movies onto bedroom walls and ceilings for a cozy home theater aesthetic. The 'movie night setup' genre is exploding, combining projectors with fairy lights, blanket forts, and snack boards. Meanwhile, 3-in-1 magnetic charging docks are the go-to desk setup accessory, with satisfying 'snap' videos driving purchases.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#miniprojector", "#movienight", "#desksetup", "#chargingdock", "#techtok", "#cozyhome"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Mini projectors and desk organization gadgets driving TechTok content in spring 2026",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Set-Jetting Drives Spring Travel — 81% of Gen Z Plan Trips Based on Screen Content",
+      "body": "Set-jetting — traveling to destinations seen on screen — is projected to become a potential $8 billion industry in the U.S. alone, with 81% of Gen Z and Millennial travelers now planning trips based on what they've seen in shows and movies. Surprise domestic destinations like Albuquerque (+204% search interest), Columbus (+184%), and Omaha (+182%) are trending for spring break, while internationally the 'Glowmads' trend has travelers visiting destinations like Busan, South Korea for beauty tourism experiences.",
+      "categories": ["Travel & Experiences"],
+      "source": "Web",
+      "source_url": "https://blog.google/products-and-platforms/products/search/spring-break-2026-travel-trends/",
+      "trend_type": "movement",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#setjetting", "#springbreak2026", "#glowmads", "#beautytourism", "#traveltok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Screen-inspired travel and beauty tourism defining spring 2026 travel content",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "Slow Analog Childhood Goes Viral — Parents Trade Screen Time for Backyard Play Content",
+      "body": "Parenting TikTok in 2026 has shifted toward calmer, budget-aware, and tech-realistic content. The 'slow analog childhood' movement features creators showcasing boredom, backyard play, board games, and crafts over pricey classes and structured activities. The aesthetic is warm and nostalgic — think 90s childhood recreated with modern awareness. This sits alongside the broader friction-maxxing trend in home content.",
+      "categories": ["Parenting & Family"],
+      "source": "Web",
+      "source_url": "https://burlingtonma.macaronikid.com/articles/6942bba822eaac423da7d28d/parenting-trends-2026-whats-in-whats-out-and-what-moms-are-so-over",
+      "trend_type": "movement",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#slowchildhood", "#analogparenting", "#backyardplay", "#screenfreekids", "#intentionalparenting"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Analog childhood content trending as counterpoint to over-scheduled, over-screened parenting",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Golden Retriever Boop Challenge Takes Over PetTok — How Many Boops Can Your Dog Handle?",
+      "body": "The Golden Retriever Boop Challenge — where creators see how many nose boops their dog can handle without getting annoyed — has become PetTok's most shared format of the week. The content is endlessly rewatchable and breeds-specific compilations are driving massive engagement. Dog dance challenges and scaredy cat jump scare compilations round out the top pet content formats.",
+      "categories": ["Pets & Animals"],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/pet-viral-in-2026",
+      "trend_type": "challenge",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#boopchallenge", "#goldenretriever", "#pettok", "#dogchallenge", "#scaredycat"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Boop challenge and dog dance trends dominating PetTok in late March 2026",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "'Pack an Order with Me' Becomes Small Business TikTok's Signature Format — Authenticity Over Polish",
+      "body": "Small business TikTok in 2026 is defined by radical authenticity. 'Pack an order with me' videos remain the signature format, building trust and community through behind-the-scenes transparency. Day-in-the-life vlogs capturing real routines in under a minute are surging alongside. TikTok Shop has become a genuine revenue channel with billions in global GMV, and brands treating it as an afterthought are losing market share to creators who lean into unfiltered, process-first content.",
+      "categories": ["Business & Entrepreneurship"],
+      "source": "Web",
+      "source_url": "https://litcommerce.com/blog/tiktok-trends-for-businesses/",
+      "trend_type": "format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#packanorder", "#smallbusinesstiktok", "#dayinthelife", "#tiktokshop", "#entrepreneur"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Authenticity-first small business content and TikTok Shop integration driving creator commerce in 2026",
+        "price_point": null
+      }
+    }
+  ]
+}

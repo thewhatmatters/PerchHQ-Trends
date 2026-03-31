@@ -1,0 +1,280 @@
+{
+  "batch_id": "trends-2026-03-31",
+  "scraped_at": "2026-03-31T10:00:00Z",
+  "expires_at": "2026-04-03T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Q1 Wrap-Up Wave Hits TikTok — 'March 31 Check-In' Content Goes Viral as Creators Review January Resolutions",
+      "body": "The final day of Q1 is triggering a surge of accountability content: creators are posting 'Q1 check-in' carousels, resolution scorecards, and 'what I said vs. what I did' before-and-after reels. The format rewards vulnerability — creators who show goals they missed alongside wins are outperforming polished success montages. The trend blends naturally with spring glow-up content, creating a peak moment for transformation, pivot, and 'Q2 energy' planning posts. Businesses and personal brands alike are capitalizing on the Q1/Q2 seam as a natural content hook.",
+      "categories": ["Content Formats"],
+      "source": "Web",
+      "source_url": "https://newengen.com/insights/march-2026-tiktok-trends/",
+      "trend_type": "format",
+      "confidence_score": 0.90,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#q1checkin", "#q2goals", "#marchreview", "#resolutioncheck", "#quarterlyreview", "#springpivot"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "March 31 end-of-Q1 triggering a wave of accountability and 'spring pivot' content across every niche",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "'Admin Night' Goes Viral — Turning Boring Adult Tasks Into a Cozy Social Event",
+      "body": "The Admin Night trend has emerged as March 2026's sleeper format hit. Creators film cozy 'admin nights' — paying bills, answering emails, organizing finances, meal planning — turning mundane responsibilities into an aesthetically satisfying social event with friends, snacks, laptops, and color-coded planners. The appeal is in the ritual: transforming obligation into occasion. Small business creators have adapted the format for 'entrepreneur admin nights,' showing the unglamorous backend work that keeps businesses running. The format pairs perfectly with lo-fi audio and domestic ASMR sounds.",
+      "categories": ["Content Formats", "Business & Entrepreneurship"],
+      "source": "Web",
+      "source_url": "https://litcommerce.com/blog/tiktok-trends-for-businesses/",
+      "trend_type": "format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#adminnight", "#adultingaesthetic", "#cozyadmin", "#entrepreneurlife", "#getshitdone", "#productivityaesthetic"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Admin Night merges productivity content with cozy aesthetic — resonates across personal finance, small business, and lifestyle niches",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Don Toliver's 'Octane' Enters TikTok's Top Audio — 'Call Back' Drives Dance Choreography Wave",
+      "body": "Don Toliver's album 'Octane' has broken into TikTok's trending audio rotation with 'Call Back' becoming the week's choreography track of choice. Dance creators are building transitions and group routines around the track's hook structure, while lifestyle creators are using the atmospheric deep cuts for night-out GRWM and late-night city aesthetic content. Harry Styles' 'Aperture' continues its run for cinematic day-in-the-life content, and Megan Moroney's Cloud 9 remains dominant in country TikTok. The cartoon chase trend backed by the Tom and Jerry theme has expanded with pet accounts doing sped-up 'chase your owner' content.",
+      "categories": ["Music & Audio"],
+      "source": "Web",
+      "source_url": "https://tokchart.com/",
+      "trend_type": "audio",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#dontoliver", "#octane", "#callback", "#harrystyles", "#aperture", "#meganmoroney", "#tomandjerry"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Don Toliver 'Octane' enters dance choreography rotation alongside Harry Styles and Megan Moroney dominating audio trends",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Climate-Adaptive Beauty Moves Mainstream — Smart Formulas That React to Your Environment Go Viral",
+      "body": "Climate-adaptive beauty has graduated from niche innovation to mainstream TikTok trend in late March 2026. Smart skincare formulas designed to react to temperature, humidity, or the environment around you are generating major 'first impression' content — creators testing products across indoor/outdoor conditions, gym vs. office environments, and day-to-night shifts. The Exosome Hydro-Glow Complex is the newest ingredient term going viral, positioned as a quantum leap beyond hyaluronic acid in barrier-reinforcing hydration. Milk cleansers are also breaking through with the Jumiso D-Panthenol Barrier Soothing Cleansing Milk getting 'underrated gem' treatment on BeautyTok.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "technique",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#climatebeauty", "#adaptiveskincare", "#exosomeglow", "#milkcleanser", "#jumiso", "#smartskincare", "#beautyingredients"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Jumiso", "Medicube", "The Inkey List"],
+        "context": "Climate-adaptive and exosome-based skincare going mainstream as next-gen ingredient story after PDRN",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Blokette Aesthetic Emerges as Spring's Breakout Fashion Trend — Sporty Meets Feminine in One Fit",
+      "body": "The Blokette aesthetic is TikTok fashion's freshest arrival of late March 2026: a combination of sportswear and tomboy items paired with traditionally feminine pieces — think collegiate jackets with pleated skirts, baseball caps with ballet flats, and varsity hoodies over sundresses. The trend occupies the space between 'clean girl' and 'tomboy chic' and is being adopted across age groups. Alongside it, bootcut jeans have officially reclaimed the spotlight in the spring 2026 denim cycle after years of slim and wide-leg dominance. Ruched loafers have become the 'it-girl' shoe — appearing in everything from casual fits to office looks.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "style",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#blokette", "#bloketteaesthetic", "#bootcutjeans", "#ruchedloafers", "#sportyandchic", "#springfashion2026", "#campuscore"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Blokette aesthetic emerging as spring 2026's freshest fashion identity — bridging sporty and feminine across demographics",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "Biscoff Cheesecake Variations Take Over FoodTok — The No-Bake Trend Gets Infinite Remixes",
+      "body": "The no-bake minimal-ingredient cheesecake trend has evolved with Biscoff firmly claiming the crown in late March. Creators are swapping the original yogurt-and-cookies formula for Biscoff spread, Oreo, and matcha variations — producing richer, more indulgent content. The 'no-bake 3-ingredient' framing is the hook that drives the share, with creators competing to find the most unexpected third ingredient. High-protein meal prep continues as FoodTok's backbone content, with High-Protein Chicken Burrito Bowls leading the recipe category. Gut health staples (kimchi, pickled onions, yogurt sauces) are becoming standard pantry items on FoodTok, with creators adding them to unexpected dishes for health credibility.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "recipe",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#biscoffcheesecake", "#nobakerecipe", "#3ingredientdessert", "#highprotein", "#burritoricebowl", "#guthealth", "#foodtok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Biscoff"],
+        "context": "No-bake cheesecake trend evolving rapidly with Biscoff/Oreo variations while high-protein meal prep holds as FoodTok's long-term pillar",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Fibermaxxing and Japanese Walking Take Over Wellness TikTok — Low-Tech Health Goes Viral",
+      "body": "Fibermaxxing — the viral trend dedicated to dramatically increasing daily fiber intake — has millions of videos on TikTok with creators showcasing fiber-rich food hauls, digestion updates, and 'fiber diary' content. The Japanese Walking Method (interval walking — alternating fast and slow paces across a set number of steps) is the week's breakout fitness format, appealing to a broad audience that finds gym content intimidating. Both trends share a key appeal: they're low-cost, low-tech, and highly accessible. 'Brainergy' nootropic content and hybrid training continue their momentum, while at-home fitness content shows no signs of slowing as gym anxiety persists.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "trend_type": "movement",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#fibermaxxing", "#japanesewalkingmethod", "#intervalwalking", "#gut健康", "#brainergy", "#hybridtraining", "#walkingaesthetic"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Low-tech, accessible wellness (fiber, walking) surging alongside the more complex brainergy/nootropic trend — two ends of the wellness spectrum both winning",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cabbagecore Explodes on HomeTok — #CabbageCore Up 115% in Three Months",
+      "body": "Cabbagecore — the rise of cabbage and lettuce motifs in home decor — has become HomeTok's most surprising breakout aesthetic of Q1 2026, with the hashtag climbing 115% in three months. The trend builds on the legacy of Palm Beach ceramicist Dodie Thayer and encompasses cabbage-leaf plates, lettuce-edged bowls, botanical wallpaper, and vegetable garden-inspired interiors. The broken floor plan (hybrid open/closed spaces using archways and partial walls) is gaining architectural momentum, while friction-maxxing continues its counter-optimization run. Cabbagecore sits naturally within the grandma decor aesthetic but with a gardening/botanical twist that appeals to younger audiences.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "style",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#botanicaldecor", "#grandmachic", "#brokenflooorplan", "#frictionmaxxing", "#hometok"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Dodie Thayer"],
+        "context": "Cabbagecore up 115% in three months — the most data-backed emerging home trend of Q1 2026",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "MagSafe Travel Tech Dominates TikTok Packing Content — 'What's in My Travel Bag' Gets a Gadget Upgrade",
+      "body": "MagSafe-compatible travel tech has taken over the 'what's in my travel bag' content genre on TikTok in spring 2026. Anker's 10,000 mAh MagSafe power bank is the must-have gadget — it snaps magnetically to iPhone, charges wirelessly, and includes a built-in kickstand for plane tray tables. The gadget haul genre is becoming more travel-specific as set-jetting continues to drive trip planning content. Compact tech organizer pouches (like Moment's Tech Organizer) generate satisfying flat-lay content and drive impulse purchases through TikTok Shop. The 'spring travel setup' content genre — gadgets, outfits, and itinerary planning in one reel — is at its seasonal peak.",
+      "categories": ["Tech & Gadgets", "Travel & Experiences"],
+      "source": "Web",
+      "source_url": "https://the-gadgeteer.com/2026/03/23/10-best-travel-gadgets-worth-packing-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#magsafe", "#traveltech", "#ankerpowerbank", "#whatsinyourbag", "#travelpacking", "#springbreak2026", "#techtok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Anker", "Moment"],
+        "context": "MagSafe travel tech and organized packing content at seasonal peak as spring travel season kicks off",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Set-Jetting Spring Break Wrap-Up — Domestic Surprise Destinations Top the Charts",
+      "body": "As spring break 2026 winds down for many creators, the set-jetting wave is hitting its content peak with trip-reveal and destination-review videos flooding TikTok. Albuquerque (+204% search interest), Columbus (+184%), and Omaha (+182%) are the domestic surprise darlings of the season, with creators posting 'I went to [unexpected city] for spring break' reaction content that performs through novelty and relatability. The Glowmads trend — traveling to beauty tourism destinations like Busan, South Korea — is generating long-form beauty travel vlogs with high watch time. End-of-spring-break 'soft re-entry' content (easing back into routines after travel) is also emerging as a weekend format.",
+      "categories": ["Travel & Experiences"],
+      "source": "Web",
+      "source_url": "https://blog.google/products-and-platforms/products/search/spring-break-2026-travel-trends/",
+      "trend_type": "movement",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#setjetting", "#springbreak2026", "#surprisedestination", "#glowmads", "#beautytourism", "#busankorea", "#springbreak"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Spring break wrap-up content peaking — surprise domestic destinations and beauty tourism vlogs performing strongest",
+        "price_point": "varied"
+      }
+    },
+    {
+      "headline": "Capybara Takeover Continues on PetTok — Dance Trends Expand Beyond Dogs",
+      "body": "PetTok's dance trend universe has expanded well beyond dogs in late March 2026. Capybaras participating in viral dance challenges are generating massive shares due to the absurdist novelty — the same dance moves that work for golden retrievers look even funnier on the world's largest rodent. Purple parrots (a viral bird TikTok account) are taking over with friendly, reactive bird antics. The Golden Retriever Boop Challenge from last week has spawned breed-specific spinoffs (now including cats, rabbits, and even turtles). Black cat 'vibe check' dance content rounds out the weekly pet format landscape.",
+      "categories": ["Pets & Animals"],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/trending-now-on-tiktok-animals",
+      "trend_type": "challenge",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#capybara", "#capybara dance", "#pettok", "#purpleparrot", "#boopchallenge", "#blackcat", "#funnypets"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "PetTok dance trend expanding beyond dogs to capybaras, parrots, and cats — absurdist novelty driving views",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Slow Analog Childhood Movement Reaches Peak Engagement — 90s Backyard Content Resonates Across Generations",
+      "body": "The slow analog childhood movement is hitting its content apex as spring weather arrives, with creators sharing backyard play setups, no-screen weekends, and 'things my kids do instead of screens' roundup content. The warm seasonal timing amplifies the format — outdoor play is easier to film in spring light and resonates with the time-of-year nostalgia for childhood. Parent-child dance trends (especially the Dip Dance Challenge) continue driving engagement through the family category. Family comedy sketches with intentional 'low-production' aesthetics are outperforming polished family vlogs, consistent with TikTok's wider platform-wide authenticity shift.",
+      "categories": ["Parenting & Family"],
+      "source": "Web",
+      "source_url": "https://burlingtonma.macaronikid.com/articles/6942bba822eaac423da7d28d/parenting-trends-2026-whats-in-whats-out-and-what-moms-are-so-over",
+      "trend_type": "movement",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#slowchildhood", "#analogparenting", "#backyardplay", "#dipdancechallenge", "#screenfreekids", "#springoutdoors"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Slow analog childhood peaking as spring weather enables outdoor content — seasonal amplifier on ongoing movement",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Why to Buy' Content Replaces Polished Ads for Small Business TikTok — Payoff-First Storytelling Wins",
+      "body": "Small business TikTok is undergoing a storytelling pivot in late March 2026: 'Why to Buy' content — showing the actual payoff, transformation, or utility of a product in the first 2 seconds — is dramatically outperforming traditional product showcase formats. Brands that lead with outcome (the glow-up, the satisfied customer, the transformed space) before explaining what the product is are winning the algorithm. 'Pack an Order with Me' remains the trust-building backbone format, while the Admin Night trend is being rapidly adopted by entrepreneurs to show the behind-the-scenes infrastructure of running a business. TikTok Shop revenue continues compounding, with March end-of-quarter sales content performing well.",
+      "categories": ["Business & Entrepreneurship"],
+      "source": "Web",
+      "source_url": "https://litcommerce.com/blog/tiktok-trends-for-businesses/",
+      "trend_type": "format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#whytobuy", "#smallbusinesstiktok", "#packanorder", "#tiktokshop", "#adminnight", "#smallbiztok", "#entrepreneur"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "'Why to Buy' payoff-first format replacing polished ads; Admin Night adopted by entrepreneurs; Q1 end driving sales content",
+        "price_point": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "batch_id": "trends-2026-04-05",
+  "scraped_at": "2026-04-05T10:00:00Z",
+  "expires_at": "2026-04-08T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Easter Sunday Is TODAY — The Peak of the Four-Day Content Arc, Celebration and Family Content Dominates Every Platform",
+      "body": "Easter Sunday (April 5) is the culmination of the four-day holiday content window that began Good Friday. Today's play: celebration content, family moments, Easter egg hunt reveals, brunch aesthetic content, and faith-based reflection posts. Interactive campaigns — virtual Easter egg hunts, AR Easter bunny filters, polls, and gamified giveaways — are triggering dwell-time and interaction signals that algorithms reward most. Brands running limited-time Easter bundles and themed product drops are seeing above-average conversion rates. Easter Monday (tomorrow) is the final window for UGC recap compilations, 'how it went' content, and best-of Easter roundups. Creators who scheduled a Thursday-to-Monday content arc are capturing the full engagement window. Behind-the-scenes Easter prep content, user-generated hashtag campaigns, and AR filters are the highest-engagement formats across Instagram Reels and TikTok.",
+      "categories": ["Seasonal & Holidays", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.clickworker.com/customer-blog/easter-social-media-posts-for-business/",
+      "trend_type": "seasonal",
+      "confidence_score": 0.98,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#EasterSunday", "#Easter2026", "#HappyEaster", "#EasterEggHunt", "#SpringContent", "#EasterBrunch"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Easter Sunday is TODAY — celebration content, family moments, and Easter egg hunt reveals peak today. Easter Monday UGC recap content closes the four-day window tomorrow",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Coachella 2026 Weekend 1 Is Five Days Away — Pre-Festival GRWM, Outfit, and Packing Content Enters Final Surge Before the 25th Anniversary Festival",
+      "body": "Coachella returns April 10-12 and April 17-19 for its 25th anniversary with Sabrina Carpenter, Justin Bieber, and Karol G headlining — Karol G making history as the first Latina to headline the main stage. The festival sold out within hours. Five days before Weekend 1, the pre-Coachella content machine is at full throttle: GRWM content, outfit try-ons, packing videos, prediction content, and festival prep routines are flooding TikTok and Instagram. Gen Z creators are driving three dominant outfit trends: cowboy, mermaid, and Y2K aesthetics. The festival has expanded to 75+ restaurants, bars, pop-ups, and new Thursday programming. HBO's Euphoria Season 3 premiere (April 12) will also screen at Coachella — the first-ever TV series premiere in the festival's history. YouTube will livestream both weekends. Creators building Coachella content formats now will ride two full weeks of algorithmic amplification.",
+      "categories": ["Sports & Entertainment", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.coachella.com/lineup",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#Coachella25", "#SabrinaCarpenter", "#JustinBieber", "#KarolG", "#FestivalFashion", "#CoachellaOutfit"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "Sabrina Carpenter", "Justin Bieber", "Karol G"],
+        "context": "Coachella Weekend 1 is five days away — pre-festival GRWM, outfit, and packing content entering peak. Euphoria S3 will premiere AT Coachella on April 12",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Premieres April 12 at Coachella and HBO — Social Media's Biggest Content Double-Header of 2026",
+      "body": "HBO's Euphoria returns April 12 after a nearly four-year hiatus with an eight-episode season. The show jumps five years ahead, following characters as young adults. The second trailer took over social media — one shot of Nate in a blood-soaked wedding suit generated massive fan speculation. Zendaya issued trigger warnings to her 180M+ following and has hinted she may step back from the spotlight after her busy 2026. In a historic first, Euphoria's Season 3 debut will screen at Coachella at approximately 11:59 PM PT on April 12, making it the first TV series premiere in the music festival's history. The premiere landing the same day as Coachella Weekend 1 creates an unprecedented content double-header. Expect 2-3 weeks of reaction content, outfit recreations, aesthetic edits, audio pulls, and makeup tutorials from the new season. Creators building Euphoria reaction templates and aesthetic formats now will capture enormous distribution once the first episode drops.",
+      "categories": ["Sports & Entertainment", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://deadline.com/2026/04/euphoria-coachella-screening-1236771790/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.96,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Euphoria", "#EuphoriaSeason3", "#Zendaya", "#HBO", "#EuphoriaHBO", "#EuphoriaAtCoachella"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HBO", "Zendaya", "Coachella"],
+        "context": "Euphoria S3 premieres April 12 — same day as Coachella Weekend 1, with a historic first: a screening AT the festival. Double-header will dominate social media for the month",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "X Money Enters Early Public Access This Month — Peer-to-Peer Payments, 6% APY, Visa Debit Card, and Direct Creator Monetization on X",
+      "body": "X Money enters early public access in April 2026, completing Elon Musk's vision of X as an 'everything app.' The platform offers peer-to-peer transfers, bank deposits, a metal Visa debit card personalized with each user's X handle, 3% cashback on purchases, zero foreign transaction fees, and up to 6% APY on deposits through FDIC-insured partner bank Cross River Bank (up to $250K per person). X Payments LLC holds money transmitter licenses in 41+ US states. For creators, X Money collapses the gap between content engagement and direct monetization — users can send money, pay creators, or complete purchases without leaving the app. Combined with X's 'Year of the Creator' push — doubled revenue pool, $1M article prize, payout shifts to Verified Home Timeline impressions — X is making its strongest play to become the platform where creators both build audiences and earn income. Next creator payout dates: April 10 and April 24.",
+      "categories": ["Platform Updates", "Business & Entrepreneurship"],
+      "source": "Web",
+      "source_url": "https://www.pymnts.com/news/payments-innovation/2026/elon-musk-says-x-money-debut-april/",
+      "trend_type": "platform_shift",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#XMoney", "#ElonMusk", "#CreatorEconomy", "#Fintech", "#EverythingApp", "#YearOfTheCreator"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["X", "Visa", "Cross River Bank"],
+        "context": "X Money entering early public access in April — direct creator payments, 6% APY, Visa debit card. Combined with doubled revenue pool and 'Year of the Creator' push",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Color Hunting Challenge Goes Viral — Creators Assign Themselves a Color and Build Aesthetic Collage Grids Across Every Niche",
+      "body": "The Color Hunting Challenge is one of April's breakout TikTok trends. Creators assign themselves a color, spend the day photographing everything they spot in that hue — objects, signs, nature, food, outfits — and reveal a final aesthetic collage grid. The format works across every vertical: fashion creators hunt brand colors, food creators collect single-hue dishes, travel creators build city-color mood boards. Low production barrier, high shareability, strong rewatch value. Brand-friendly because creators can hunt a brand's signature color. The trend connects to the broader 2026 shift toward lo-fi, authentic content — no professional editing required, just an eye for color and curation.",
+      "categories": ["Content Formats", "Lifestyle & Fashion"],
+      "source": "Web",
+      "source_url": "https://blog.mean.ceo/viral-trends-on-social-media-april-2026/",
+      "trend_type": "viral_format",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ColorHunting", "#ColorChallenge", "#AestheticCollage", "#TikTokChallenge", "#ColorPalette"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Breakout April challenge — low effort, high shareability, works across every niche. Brand-friendly for signature color activations",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Bridgerton Orchestral '360' Still Dominating Reels — 'American Girls' Leads TikTok FYP, 'Kiss It Better' Powers POV Content, Black Beatles Nostalgia Returns",
+      "body": "The orchestral cover of Charli XCX's '360' from Hyacinth Bridgerton's dramatic recital scene continues driving theatrical, exaggerated content in unexpected settings — office breakdowns, dramatic grocery store exits, over-the-top reactions to mundane events. Harry Styles' 'American Girls' from his new album leads TikTok as the dominant spring lifestyle audio for glow-ups, outfit try-ons, and 'main character energy' edits. Rihanna's 'Kiss It Better' powers POV and aesthetic storytelling. Tame Impala's 'The Less I Know the Better' drives confession and pattern reveal content. Black Beatles by Rae Sremmurd has resurfaced with a nostalgia-driven pose challenge as part of the '2026 is the new 2016' movement. Bruno Mars' groovy remix of Juvenile and Soulja Slim's 'Slow Motion' is trending for recipe montages, interior design reveals, and dance Reels. Wendy Williams archive clips are trending for creators listing dating mishaps, work drama, and 'messy' moment storytelling.",
+      "categories": ["Music & Audio", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.scottsocialmarketing.com/blog/trending-reels-audio-this-week-on-instagram",
+      "trend_type": "audio_trend",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Bridgerton", "#360", "#AmericanGirls", "#HarryStyles", "#KissItBetter", "#BlackBeatles", "#SlowMotion"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Multi-audio week — Bridgerton orchestral continues, Harry Styles dominates TikTok FYP, Black Beatles nostalgia resurfaces as part of '2026 is the new 2016' trend",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "TikTok Shop Projected at $20B+ in US Sales — Social Commerce Crosses $100B Milestone as Shoppertainment and Livestream Shopping Become Dominant",
+      "body": "TikTok Shop is projected to exceed $20 billion in US sales in 2026, surpassing major retailers like Target, Costco, and Best Buy in ecommerce. Half of US social shoppers are projected to make purchases on TikTok. US social commerce overall is crossing the $100 billion milestone. TikTok converts browsers to buyers at 2x the rate of Instagram. Livestream shopping drove 84% YoY sales growth during BFCM 2025 and over 6,000 TikTok Live shopping events are held daily in the UK alone — 76% of customers who engaged with TikTok Live Store made a purchase. Health, wellness, and beauty are top categories. Meta is pushing all Shops checkout to external websites — a strategic retreat that cedes in-app commerce to TikTok. Gen Z uses social media as their primary product discovery tool (73%). Shoppertainment — blending product storytelling into entertainment content — is the dominant format.",
+      "categories": ["Creator Economy & Platforms", "Business & Entrepreneurship"],
+      "source": "Web",
+      "source_url": "https://www.retaildive.com/news/tiktok-shop-drives-social-commerce-growth/807665/",
+      "trend_type": "platform_shift",
+      "confidence_score": 0.94,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TikTokShop", "#SocialCommerce", "#Shoppertainment", "#LiveShopping", "#EcommerceTrends"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Meta"],
+        "context": "TikTok Shop surpassing major US retailers in ecommerce. Social commerce crossing $100B milestone. Meta retreating from in-app checkout",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "ByteDance Launches Dreamina Seedance 2.0 in CapCut — AI Video Generation From Prompts, Images, or Reference Clips Enters the Creator Toolkit",
+      "body": "ByteDance introduced Dreamina Seedance 2.0, an AI video generation model integrated directly into CapCut that enables creators to generate and edit video content using text prompts, images, or reference clips. This marks a significant step in AI content creation tools becoming embedded in the platforms creators already use, rather than requiring separate workflows. Meanwhile, 85% of marketers now use AI for content creation (up from 61% in 2023). However, more than half (52%) of social users are concerned about brands posting AI-generated content without disclosure. The key tension in 2026 remains: AI tools are essential for speed and scale, but audiences still crave authentic human content. Creators using AI as an accelerator (not a replacement) for ideation and editing are seeing the best results. Frase and Surfer SEO lead for AI-assisted content optimization, while Canva AI is becoming the go-to for rapid visual content.",
+      "categories": ["AI & Technology", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.marketingprofs.com/opinions/2026/54505/ai-update-april-3-2026-ai-news-and-views-from-the-past-week",
+      "trend_type": "technology",
+      "confidence_score": 0.92,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AIContent", "#CapCut", "#Dreamina", "#AIVideo", "#ContentCreation", "#CreatorTools"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["ByteDance", "CapCut", "Canva"],
+        "context": "AI video generation now embedded in CapCut. 85% of marketers using AI, but 52% of users concerned about undisclosed AI content",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "World Cup 2026 Content Engine Accelerates — TikTok Confirmed as FIFA's Preferred Platform, Brands Building Creator Frameworks for June-July",
+      "body": "With the 2026 FIFA World Cup approaching (June-July, hosted across US/Canada/Mexico), content preparation is intensifying. TikTok is confirmed as FIFA's 'preferred platform' in a first-of-its-kind deal signed in January. Adidas' 'You Got This' campaign featuring Messi, Yamal, Wirtz, and Trinity Rodman is in full swing. Unilever signed a major TikTok partnership around the tournament. Creator marketplace Influur unveiled a multi-city, creator-led initiative allowing brands to participate in World Cup conversations through creator partnerships without needing official rights. 81% of UK brands plan to increase influencer budgets in 2026. 93% of fans plan to 'second screen' during matches, driving real-time reaction content strategy. Fan reaction edits consistently outperform official clips. Non-sponsor creators have 'huge scope' to participate — the key is building reaction and prediction formats now for massive distribution during the tournament.",
+      "categories": ["Sports & Entertainment", "Creator Economy & Platforms"],
+      "source": "Web",
+      "source_url": "https://www.marketingweek.com/unilever-tiktok-fifa-26/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WorldCup2026", "#FIFA2026", "#YouGotThis", "#TikTokSports", "#WorldCupContent"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["FIFA", "TikTok", "Adidas", "Unilever", "Influur"],
+        "context": "World Cup (June-July) preparation accelerating. TikTok as FIFA's preferred platform. Non-sponsor creators have major opportunities to participate",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Micro-Creators Outperform Celebrities as 75% of Agencies Prioritize Niche Over Fame — Creator Economy M&A Up 17.4% and Projected to Top $230B",
+      "body": "75% of agencies report smaller creators outperform celebrities in engagement and ROI. Follower count and engagement rate metrics are no longer reliable indicators of impact — brands now prioritize storytelling quality, audience alignment, and measurable ROI. Niche audiences of 5K-50K followers are more valuable than chasing 100K+. Rather than paying one-time fees for a single post, brands in 2026 are forming 3-6 month creator partnerships with performance-based bonuses. Creator economy M&A deal volume is up 17.4% year-over-year. The global creator economy is projected to top $230 billion in 2026. As the gloss of influencer culture wears off, creators are valued for honesty, craft, and community over clout. The shift rewards consistency, audience trust, and niche expertise over viral moments.",
+      "categories": ["Creator Economy & Platforms", "Business & Entrepreneurship"],
+      "source": "Web",
+      "source_url": "https://www.wppmedia.com/news/unfiltered-2026-the-evolving-landscape-of-creator-marketing",
+      "trend_type": "industry_shift",
+      "confidence_score": 0.93,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MicroCreators", "#NicheContent", "#InfluencerMarketing", "#CreatorEconomy", "#PersonalBrand"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Micro-creators outperforming celebrities. Brands shifting to 3-6 month partnerships with performance bonuses. Creator economy at $230B",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "'2026 Is the New 2016' Nostalgia Trend Continues Growing — Black Beatles, MySpace Revival, and Y2K Aesthetics Drive Cross-Platform Content",
+      "body": "The '2026 is the new 2016' nostalgia trend that started in late 2025 continues growing into a full cultural movement. Internet users share posts comparing 2016 and 2026 fashion, music, and online culture. Black Beatles by Rae Sremmurd has resurfaced with a nostalgia-driven pose challenge. MySpace is experiencing a Millennial-driven revival with users recreating profile pages and sharing Top 8 lists. Y2K aesthetics are one of the three dominant Coachella outfit trends (alongside cowboy and mermaid). The trend connects to broader 2026 platform dynamics: as algorithm fatigue sets in, audiences seek familiar, comforting content. Nostalgia content consistently generates high engagement, strong saves, and above-average comments. Creators leaning into 'remember when' formats, era comparison videos, and throwback challenges are seeing strong distribution.",
+      "categories": ["Content Formats", "Lifestyle & Fashion"],
+      "source": "Web",
+      "source_url": "https://en.wikipedia.org/wiki/2026_is_the_new_2016",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#2026IsTheNew2016", "#Nostalgia", "#BlackBeatles", "#Y2K", "#ThrowbackTrend", "#MySpace"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Multi-platform nostalgia movement — Black Beatles challenge, MySpace revival, Y2K fashion. High engagement, strong saves",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Micro-Drama and Episodic Series Replace Viral Dance Trends — Recurring Formats and Narrative Arcs Are the New Growth Engine for Short-Form",
+      "body": "The viral dance era has been replaced by 'micro-drama' and 'educational storytelling' as the dominant short-form formats. The most successful Reels follow a narrative arc: high-stakes hook in the first 1.5 seconds, value-driven middle, clear CTA. Separately, recurring formats and episodic series that keep audiences returning are outperforming one-off clips. Platforms algorithmically reward returning viewers and series content. The strategic shift is from 'going viral' to 'building a show.' Long-form YouTube content (15+ minutes) is also experiencing a resurgence in 2026 because long-form videos generate substantially higher ad revenue per view. The 3-second rule remains critical — creators must capture audiences within the first three seconds to avoid losing engagement. Content that combines narrative structure with consistent branding is seeing the strongest distribution across all platforms.",
+      "categories": ["Content Formats", "Strategy"],
+      "source": "Web",
+      "source_url": "https://www.socialpilot.co/blog/instagram-reels-trends",
+      "trend_type": "format_shift",
+      "confidence_score": 0.91,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MicroDrama", "#EpisodicContent", "#ReelsTrends", "#ContentSeries", "#Storytelling", "#NarrativeReels"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Shift from viral dances to narrative-driven series content. Platforms rewarding returning viewers. Long-form also resurging on YouTube",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Earth Day 2026 Content Window Opens — 'Our Power, Our Planet' Theme Drives Eco-Challenges, Sustainability Storytelling, and Green Brand Activations",
+      "body": "Earth Day 2026 (April 22) carries the theme 'Our Power, Our Planet,' with content preparation beginning now for the two-week lead-up window. Creators are launching eco-friendly challenges — week or month-long action series proposing simple carbon footprint reductions like reusable bags, biking over driving, or tree planting. Interactive and educational content such as polls, quizzes, and environmental fact carousels are driving engagement. DIY and upcycling content is trending, with creators showcasing how to transform recycled materials into elegant creations with behind-the-scenes process videos. Sustainable business storytelling — demonstrating how brands contribute to sustainability — is attracting eco-conscious consumers. The trend connects to 2026's broader authenticity movement: audiences want real action over performative posts. Brands and creators who build genuine sustainability narratives starting now will capture the full Earth Day engagement window.",
+      "categories": ["Seasonal & Holidays", "Lifestyle & Fashion"],
+      "source": "Web",
+      "source_url": "https://www.hookle.net/post/7-earth-day-social-media-post-ideas-to-inspire-action-and-awareness",
+      "trend_type": "seasonal",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#EarthDay2026", "#OurPowerOurPlanet", "#Sustainability", "#EcoFriendly", "#GreenLiving", "#ClimateAction"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Earth Day (April 22) content window opening. 'Our Power, Our Planet' theme. Two weeks to build eco-challenge and sustainability content",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Social Search Overtakes Traditional Search for Product Discovery — Over 60% of Product Discovery Now Happens on Social Platforms",
+      "body": "Social search has overtaken traditional search engines as the primary product discovery channel in 2026. Over 60% of product discovery now happens on social platforms, with Gen Z leading the shift — 73% of US Gen Zers say social media is their main source for learning about new products. TikTok, Instagram, and YouTube are functioning as the primary search engines for product research, reviews, and recommendations. This shift is forcing creators and brands to prioritize social SEO: keyword-optimized captions, searchable hooks, hashtag strategy, and discoverability-first content architecture. The algorithm rewards content that answers search intent, not just content that generates engagement. Creators who optimize for 'discovery mode' — where users are actively searching — are seeing more sustainable, compounding growth compared to those chasing viral moments.",
+      "categories": ["Strategy", "Platform Updates"],
+      "source": "Web",
+      "source_url": "https://sproutsocial.com/insights/social-media-trends/",
+      "trend_type": "industry_shift",
+      "confidence_score": 0.91,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#SocialSEO", "#SocialSearch", "#ContentStrategy", "#ProductDiscovery", "#GenZ"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["TikTok", "Instagram", "YouTube"],
+        "context": "60%+ product discovery on social. Gen Z (73%) using social as primary product search. Social SEO now essential for sustainable growth",
+        "price_point": null
+      }
+    }
+  ]
+}

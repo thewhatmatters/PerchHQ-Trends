@@ -1,0 +1,280 @@
+{
+  "batch_id": "trends-2026-04-06",
+  "scraped_at": "2026-04-06T10:00:00Z",
+  "expires_at": "2026-04-09T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Coachella 2026 Is FOUR Days Away — Final GRWM, Packing, and Outfit Try-On Content Hitting Peak Engagement Before Weekend 1",
+      "body": "With Coachella Weekend 1 kicking off April 10, today is the final Monday push window for pre-festival content. Justin Bieber's setlist leaked from his March 29 private show at The Roxy; Sabrina Carpenter and Karol G (first Latina to headline the main stage) are driving massive anticipation. Four dominant outfit aesthetics are trending: boho-cowgirl hybrid, Y2K revival, Western core, and tech-wear futurism. YouTube is streaming all performances live in 4K for the first time, with Coachella TV launching 24/7 archival content. Euphoria Season 3 will screen at Coachella April 12 in a historic first. Creators building GRWM, packing, and outfit try-on content today will capture peak algorithmic distribution heading into the festival.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.vicesnob.com/coachella-2026-everything-you-need-to-know-now/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#CoachellaOutfit", "#FestivalFashion", "#BieberCoachella", "#KarolG", "#SabrinaCarpenter"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube", "HBO", "Sabrina Carpenter", "Justin Bieber", "Karol G"],
+        "context": "Coachella Weekend 1 is four days away — final Monday pre-festival content push. Justin Bieber setlist leaked; YouTube streaming live in 4K. Euphoria S3 premieres at the festival April 12",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "'Cloud Skin' and Skin Longevity Replace Anti-Aging as Beauty's Dominant Narrative — TikTok Drives Shift From Correction to Prevention",
+      "body": "Cloud skin — a soft-focus, blurred, ethereal finish that mimics a digital filter — is TikTok's most viral makeup technique of spring 2026, replacing glass skin as the aspirational aesthetic. Simultaneously, a massive industry shift from traditional 'anti-aging' rhetoric to 'skin longevity' is reshaping product positioning: shoppers want stronger, healthier skin over time rather than spot corrections. Top trending products driving both conversations: Beauty of Joseon Rice Sunscreen (SPF 50+ with rice water for a dewy finish), Medicube PDRN Pink Peptide Serum (salmon sperm skincare without the hefty price tag), and Medicube Collagen Night Wrapping Mask. Paula's Choice exfoliant continues as a perennial sell-out. The Ordinary's new peptide-powered lash and brow serum is gaining early viral traction.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CloudSkin", "#SkinLongevity", "#SkincareRoutine", "#BeautyOfJoseon", "#Medicube", "#PDRNSerum", "#GlowySkin"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "Medicube", "Paula's Choice", "The Ordinary", "Laneige"],
+        "context": "Cloud skin is replacing glass skin as TikTok's top makeup aesthetic. Skincare language shifting from 'anti-aging' to 'longevity' — brands need to update positioning accordingly",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coachella Festival Fashion Drives 4 Dominant Aesthetic Trends — Boho-Cowgirl, Y2K, Western Core, and Maximalist Accessories Flood TikTok and Instagram",
+      "body": "Coachella 2026's four-day countdown is generating a fashion content explosion across all platforms. The four dominant aesthetics this year — boho-cowgirl hybrid, Y2K revival, Western core, and tech-wear futurism — are each generating thousands of GRWM and outfit try-on videos daily. Sequin mini dresses, layered tops (channeling the '90s Rachel Green energy), satin lace skirts, and oversized sunglasses are the top standalone items trending outside the festival context. Minimalist fashion is simultaneously strong with neutral palettes, but Coachella is pulling the algorithm toward maximalism this week. Crossbody bags are top-performing accessories. Creators who haven't already planned festival-adjacent content risk missing peak distribution windows before Weekend 1.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CoachellaFashion", "#FestivalOutfit", "#BohoChic", "#Y2KFashion", "#WesternCore", "#GRWM", "#OutfitInspo"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Coachella's four-day countdown is the primary driver of fashion content this week. Boho-cowgirl, Y2K, Western core, and tech-wear are the four winning aesthetics",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Japanese Walking Surges 2,986% — Pilates Stays Most-Booked Workout Globally for Third Year Running",
+      "body": "Japanese walking — an interval-based technique that alternates three minutes of fast walking with three minutes of slow walking — surged 2,986% in search interest, making it the fastest-growing fitness trend of spring 2026. The low-barrier format is driving massive organic content on TikTok: no equipment, no gym, and studies show superior cardiovascular benefits versus steady-pace walking. Meanwhile, Pilates was the most-booked workout globally for the third consecutive year (up 66% since 2024), with Pilates reformer content dominating wellness creators' feeds. Wearable tech (Apple Watch, WHOOP, Fitbit) holds the #1 spot in the annual ACSM fitness trends report, with users relying on biometric data to optimize hybrid training programs that combine strength, cardio, and mobility.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseWalking", "#WalkingChallenge", "#Pilates", "#PilatesReformer", "#FitnessTracker", "#HybridTraining", "#WearableTech"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Apple Watch", "WHOOP", "Fitbit"],
+        "context": "Japanese walking up 2,986% in search interest — low-barrier, no-equipment format ideal for TikTok. Pilates still #1 booked workout globally. Wearable tech is ACSM's top 2026 fitness trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-Protein Comfort Food Dominates #FoodTok — Gut Health Fermentation and Home Café Culture Round Out the Top Three Food Trends",
+      "body": "Protein is still queen on TikTok in spring 2026, but the format has shifted: high-protein chicken burrito bowls and protein-loaded comfort meals are trending over the clinical protein shake aesthetic. Gut health content has exploded with kimchi, pickled onions, yogurt sauces, and fermented food tutorials performing strongly. Air fryer pasta chips — baking cooked pasta until crispy — is the breakout viral recipe of the moment. Two-ingredient Japanese cheesecake (yogurt and cookies) is being called one of the best food trends of 2026. Home café culture continues to grow, with creators building coffee bar setups and recreating café drinks at home. Health-conscious snacking is also evolving into a 'status symbol' aesthetic — visually appealing, packaged beautifully, and positioned as self-care.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#HighProtein", "#GutHealth", "#FoodTok", "#PastaChips", "#JapaneseCheesecake", "#HomeCafe", "#HealthySnacks"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Quest Chips"],
+        "context": "High-protein comfort food replacing clinical protein aesthetics. Air fryer pasta chips and Japanese cheesecake are this week's breakout viral recipes. Home café culture growing as economic alternative to coffee shops",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Swan Decor, Tin Finishes, and Wellness-Focused Spaces Are 2026's Defining Home Trends — Plate Walls and Curved Furniture Hold Strong",
+      "body": "Swan decor is to 2026 what owls were to 2010 — appearing across design shops, TikTok home tours, and even fashion collabs. Tin and tarnished silver finishes are emerging as the year's metallic story, replacing the gold-everything aesthetic. Plate wall collections are growing beyond 2025 into every room, with designers placing them in kitchens, dining rooms, bedrooms, and bathrooms. Wellness-focused spaces — natural light, plants, soft acoustics, gentle scents — are the leading design philosophy. Curved furniture (rounded sofas, arched mirrors, sculptural tables) continues after years of sharp-angled minimalism. Pantry organization is the 'new walk-in wardrobe' on TikTok, with color-coded condiments and labeled Kilner jars performing as aspirational lifestyle content. Dopamine decor with bright colors and bold prints remains strong.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://stylebyemilyhenderson.com/11-decor-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SwanDecor", "#HomeDecor", "#PantryOrganization", "#WellnessHome", "#CurvedFurniture", "#DopamineDecor", "#InteriorDesign2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Swan decor emerges as 2026's defining home motif. Tin finishes replacing gold. Pantry organization is TikTok's new aspirational lifestyle content category",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "LED Galaxy Projectors and Mini Wireless Projectors Dominate TikTok Tech Hauls — Walking Pads Stay Hot as Work-From-Home Fitness Crossover",
+      "body": "A $15 LED galaxy projector drove over 10,000 TikTok Shop orders in two weeks after a single viral 'bedroom glow-up' video — cementing low-cost visual tech as the category's breakout product of Q1 2026. Mini wireless rechargeable projectors continue trending as creators showcase home cinema setups. Walking pads (compact under-desk treadmills) remain one of the fastest-growing home gadgets, blending fitness and productivity content into a single viral format. Privacy screen protectors, wireless earbuds with audiophile-grade reviews, and AI-enhanced personal care devices round out the top tech haul content. ByteDance's Dreamina Seedance 2.0 — now embedded directly in CapCut — is generating significant creator buzz as AI video generation moves from external tools to native platform features.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#GalaxyProjector", "#WalkingPad", "#TechTok", "#TikTokMadeMeBuyIt", "#MiniProjector", "#HomeGadgets", "#CapCut"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["CapCut", "ByteDance"],
+        "context": "$15 LED galaxy projector drove 10K+ orders from one viral clip. Walking pads continue bridging WFH and fitness content. CapCut's AI video generator (Dreamina Seedance 2.0) is the creator tool of the moment",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Doodle Bot and Personalized Baby Products Lead TikTok's Baby & Kids Viral Moment — Screen-Free Toys and Custom Items Drive Purchase Intent",
+      "body": "The Doodle Bot — an interactive drawing robot that holds a pen and teaches children to draw — is TikTok's breakout baby & kids product of the month. Parents are sharing hours-long engagement clips under #DoodleBot as a screen-free activity alternative. Personalization is taking center stage: name-embroidered blankets, personalized onesies, and custom baby items are seeing surging demand through influencer endorsements and limited-edition drops. Dew Baby (a versatile spritz cleaner for faces, hands, pacifiers, and surfaces) is trending for its multi-use format. Brush-Baby's BabySonic electric toothbrush is gaining traction through #momtok dental care content. The Doona car seat-stroller hybrid remains a consistent viral performer in new-parent content.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#DoodleBot", "#MomTok", "#BabyTok", "#ScreenFree", "#PersonalizedBaby", "#DewBaby", "#BabyGadgets"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Doodle Bot", "Dew Baby", "Brush-Baby", "Doona"],
+        "context": "Doodle Bot trending as screen-free engagement toy. Personalized baby products surging via influencer drops. Multi-use cleaning spritz Dew Baby resonating with tired parents seeking efficiency",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "AquaPurr Water Fountain Hits 386M TikTok Views — CatPOV Cameras and Smart Pet Tech Are Spring 2026's Hottest Pet Content Formats",
+      "body": "The AquaPurr cat water fountain — which attaches to a standard faucet and delivers a continuous flowing stream — has accumulated 386 million TikTok views, becoming one of the platform's biggest pet product viral moments. CatPOV cameras, which attach to a cat's collar and capture first-person adventure footage, are generating 25M+ views per video and creating an entire content sub-genre. Reusable pet hair remover rollers continue performing through before-and-after cleaning videos. GPS collars, automatic feeders, and health-monitoring wearables are trending in 'responsible pet owner' content. The pet tech market is valued at $7.63 billion in 2026, projected to reach $17.25 billion by 2030 — making it one of the most opportunity-rich categories for TikTok Shop creators.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AquaPurr", "#CatTok", "#CatPOV", "#PetTech", "#PetTok", "#GPSCollar", "#PetGadgets"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr"],
+        "context": "AquaPurr at 386M TikTok views. CatPOV cameras averaging 25M+ views per video. Pet tech market at $7.63B — fastest growing TikTok Shop opportunity category this spring",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Southeast Asia's Hidden Gems Lead TikTok Travel in 2026 — Luang Prabang, Siargao, and the Ha Giang Loop Are This Season's Most-Booked TikTok Destinations",
+      "body": "Lesser-known Southeast Asian destinations are dominating travel content and search-driven bookings in spring 2026. Laos (especially Luang Prabang's morning alms ceremony and Kuang Si waterfalls), Philippines (Siargao, Coron, and the mystical island of Siquijor), and Vietnam's Ha Giang Loop are driving the highest engagement in the 'hidden gem' travel format. Albania, Montenegro, and North Macedonia are winning in the 'stunning visuals, affordable prices' niche popular with Gen Z creators. Portugal, Iceland, Japan, Greece, and Mexico remain in the top tier for TikTok-driven tourism growth. Micro-moment hotel marketing — showcasing a single unique amenity or view in a short clip — is the hospitality industry's top performing content format. Shoulder season travel content (late April-May) is the current creator strategy for off-peak authenticity.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#HiddenGem", "#SoutheastAsia", "#LuangPrabang", "#Siargao", "#HaGiangLoop", "#TravelTok", "#BudgetTravel"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "SE Asia hidden gems driving TikTok's travel discovery engine. Budget-friendly Albania/Montenegro winning Gen Z. Micro-moment hospitality clips outperforming traditional destination ads",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm Jewelry Replaces Minimalism — Shell Necklaces, Bracelet Stacks, and Colorful Coastal Aesthetics Lead the 2026 Jewelry Surge",
+      "body": "Maximalist charm-based jewelry is 2026's defining jewelry trend, with TikTok creators sharing the 'stories behind their charms' as a content format that merges identity, nostalgia, and product discovery. Shell jewelry is back in a refined form — necklaces, bracelets, and anklets featuring natural shells with gold accents — perfectly timed with Coachella's beach-adjacent festival energy. Bracelet stacking ('ring stacks walked so bracelet stacks could run') is the breakout accessory behavior. Colorful jewelry with bold hues is predicted to go increasingly viral through April and May. The 'coastal/mermaid-core' aesthetic is connecting jewelry to the broader spring fashion narrative. Beaded jewelry has returned bigger and bolder than before, with creators building entire content series around their jewelry collections.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmJewelry", "#ShellNecklace", "#BraceletStack", "#MermaidCore", "#CoastalJewelry", "#JewelryTok", "#BeadedJewelry"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Charm jewelry trending as identity storytelling content. Shell and coastal aesthetics timed perfectly with Coachella's beach-adjacent energy. Bracelet stacking breakout accelerating this week",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Liberation Day' Anniversary Drives Consumer Spending Conversation — One Year On, Tariff Fallout Reshapes Creator Shopping Content Strategy",
+      "body": "April 2, 2025 — 'Liberation Day' — marked the announcement of sweeping Trump tariffs that sent markets down nearly 20% in seven weeks. One year later, consumers and creators are navigating a reshaped retail landscape: a 15% universal tariff on imports is in effect following the Supreme Court's February 2026 ruling against the original regime, with new Section 301 investigations targeting 12+ trading partners. For creator shopping content, this means: rising prices on TikTok Shop products sourced from China, increased interest in domestic brand alternatives, and audiences actively asking 'is this going to get more expensive?' in comment sections. Creators who acknowledge pricing realities and position budget alternatives are outperforming aspirational haul content. Brands selling US-made or Mexico-sourced products have a unique positioning window.",
+      "categories": ["Business & Entrepreneurship", "Strategy"],
+      "source": "Web",
+      "source_url": "https://www.cnbc.com/2026/04/02/liberation-day-1-year-on-investors-are-rethinking-us-assets.html",
+      "trend_type": "industry_shift",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#LiberationDay", "#Tariffs", "#TradeWar", "#ConsumerSpending", "#TikTokShop", "#MadeInUSA", "#ShoppingHaul"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Liberation Day anniversary re-entering cultural conversation. 15% universal tariff reshaping TikTok Shop product pricing. Creator opportunity: budget alternatives and US-made product positioning",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "'This Is Who' Trend and Glow-Up Slideshows Lead TikTok's April Viral Formats — Catch the Balloon Challenge Breaks Into Non-Creator Audiences",
+      "body": "The 'This Is Who' trend — sharing an early childhood photo paired with a sentence about what you do now — is one of April 2026's breakout storytelling formats, generating high comment engagement and strong saves across demographics. Before-and-after personal glow-up slideshows continue dominating TikTok feeds with strong rewatch rates. The 'Catch the Balloon Challenge' (where one person releases a balloon that another must catch before it lands) is spreading across families, couples, and friend groups — giving non-creator audiences an easy entry point that creators can leverage for relatable content. The Color Hunting Challenge (assigning yourself a color and photographing everything you spot in that hue throughout the day) remains a low-barrier, highly shareable format suitable for every vertical. All four formats are brand-friendly and niche-agnostic.",
+      "categories": ["Content Formats"],
+      "source": "Web",
+      "source_url": "https://blog.mean.ceo/viral-trends-on-social-media-april-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ThisIsWho", "#GlowUp", "#CatchTheBalloon", "#ColorHunting", "#TikTokTrend", "#ContentIdeas", "#ViralChallenge"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "'This Is Who' trend driving strong comment engagement and saves. Balloon challenge bridging creator and non-creator audiences. Color Hunting works across all niches and is brand-friendly",
+        "price_point": null
+      }
+    }
+  ]
+}

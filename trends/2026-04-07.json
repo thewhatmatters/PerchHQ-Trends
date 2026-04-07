@@ -1,0 +1,322 @@
+{
+  "batch_id": "trends-2026-04-07",
+  "scraped_at": "2026-04-07T10:00:00Z",
+  "expires_at": "2026-04-10T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Coachella 2026 Set Times Drop TODAY — Jack White Surprise Addition, Sabrina Carpenter / Ed Sheeran / Karol G Headline, Weekend 1 Starts Friday",
+      "body": "Coachella released official set times on April 7 with the surprise last-minute addition of Jack White to the Mojave stage (3–3:45 PM, his first Coachella since headlining in 2015). Weekend 1 runs April 10–12 with headliners Sabrina Carpenter, Ed Sheeran, and Karol G (first Latina to headline Coachella's main stage). YouTube will live-stream all sets. A special Radiohead Kid A/Amnesiac exhibit/film screening was also announced. Euphoria Season 3 premieres at the festival April 12. Tickets are sold out but resale passes remain available. This is the absolute final window for pre-festival GRWM, outfit try-on, packing, and set-time reaction content before the algorithm shifts to real-time festival coverage Friday.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://variety.com/2026/music/news/coachella-announces-set-times-2026-jack-white-addition-1236710074/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.98,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#CoachellaSetTimes", "#JackWhite", "#SabrinaCarpenter", "#EdSheeran", "#KarolG", "#FestivalFashion"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube", "HBO", "Sabrina Carpenter", "Ed Sheeran", "Karol G", "Jack White", "Radiohead"],
+        "context": "Set times released today April 7. Jack White surprise addition. Weekend 1 starts in 3 days. YouTube streaming all performances. Euphoria S3 premieres April 12 at festival.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Artemis II Crew Breaks Apollo 13 Record — First Humans to See Far Side of Moon, Splashdown Friday April 10",
+      "body": "NASA's Artemis II crew — Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen — completed their historic lunar flyby on April 6, surpassing Apollo 13's record for farthest human spaceflight. The crew experienced a solar eclipse from lunar orbit and became the first humans to see portions of the far side of the Moon with their own eyes. Splashdown is scheduled for Friday April 10 off San Diego. This is a massive content moment for science, space, and educational creators. Reaction content, explainer videos, and watch-party formats for the splashdown are high-signal plays this week.",
+      "categories": ["Science & Technology", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-eclipses-record-for-farthest-human-spaceflight/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ArtemisII", "#NASA", "#MoonMission", "#SpaceExploration", "#Artemis", "#LunarFlyby"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["NASA", "SpaceX", "CSA"],
+        "context": "Artemis II crew broke Apollo 13 distance record April 6. First humans to see far side of Moon. Splashdown Friday April 10 — same day as Coachella Weekend 1 opener.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Iran War Day 38 — Iran Rejects Ceasefire, Trump Escalates Threats, Oil Prices Surge, Deepfake Misinformation Dominates Social Media",
+      "body": "The US-Israeli military operation against Iran (Operation Epic Fury, launched Feb 28) entered day 38 with Iran rejecting a 45-day ceasefire proposal. Trump warned Iran could be 'taken out in one night' as the Tuesday deadline approaches. Oil prices continue surging with jet fuel more than doubling, forcing airlines globally to cut flights. Social media has become a key propaganda battleground — viral deepfake claims about Netanyahu and AI-generated content are flooding platforms. The Strait of Hormuz situation (Polymarket: 41% chance traffic returns to normal by end of May) is disrupting global shipping. For creators: tariff/price-hike haul content, 'what I'm cutting from my budget' videos, and geopolitical explainers are performing strongly.",
+      "categories": ["News & Current Events", "Finance & Economy"],
+      "source": "Web",
+      "source_url": "https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil",
+      "trend_type": "news_event",
+      "confidence_score": 0.96,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#IranWar", "#MiddleEast", "#OilPrices", "#Tariffs", "#Deepfakes"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": [],
+        "context": "Day 38 of Iran conflict. Ceasefire rejected. Oil prices surging. Deepfake misinformation about Netanyahu went viral. Strait of Hormuz disruption at 41% to normalize by May per Polymarket.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "TikTok's April Audio Kings — Harry Styles 'Aperture' Anchors GRWM Content, Ella Langley 'Loving Life Again' Powers Glow-Up Videos",
+      "body": "Harry Styles' 'Aperture' has emerged as the #1 TikTok sound for GRWM and cinematic day-in-the-life content in April 2026, anchoring aesthetic morning routines, soft lifestyle montages, and transitional spring videos. Ella Langley's 'Loving Life Again' is the top sound for glow-up and fresh-start content, with creators lipsyncing the hook about returning to loving life again. The 'Joy Has a Habit of Returning' audio is being paired by brands with dreamy feel-good visuals. The 'Pausing to Serve DIVA' filter trend is the new bait-and-switch format (2026's answer to getting Krissed). Color hunting challenges — where creators pick a color and photograph everything in that hue throughout the day — are generating high engagement.",
+      "categories": ["Content Formats", "Sports & Entertainment"],
+      "source": "Web",
+      "source_url": "https://newengen.com/insights/april-2026-tiktok-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Aperture", "#HarryStyles", "#GRWM", "#GlowUp", "#DIVAFilter", "#ColorHunting", "#TikTokTrends"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Harry Styles", "Ella Langley"],
+        "context": "Harry Styles 'Aperture' is THE spring GRWM sound. Ella Langley 'Loving Life Again' dominates glow-up content. DIVA filter bait-and-switch and color hunting challenges rising fast.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Liberation Day Anniversary Reshapes Creator Economy — Tariffs Cost Households $1,500, Haul Content Pivots to 'What I'm Cutting' and Price-Conscious Picks",
+      "body": "The one-year anniversary of Trump's Liberation Day tariffs (April 2, 2025) is reshaping how creators discuss pricing in shopping and haul content. US effective tariff rate sits at 11% (highest since 1943), costing the average household ~$1,500 in 2026. Procter & Gamble raised prices on 25% of products citing $1B tariff impact. Hot-rolled steel is $1,000/ton in the US vs $400 globally. Meanwhile, other countries are tearing down trade barriers without the US — new free trade agreements are being signed 'almost every day.' For creators: budget-conscious haul content, 'is it worth the tariff price?' comparisons, and affordable alternative roundups are the play.",
+      "categories": ["Finance & Economy", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+      "trend_type": "news_event",
+      "confidence_score": 0.94,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Tariffs", "#LiberationDay", "#BudgetHaul", "#PriceHike", "#Inflation"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["Procter & Gamble", "Constellation Brands"],
+        "context": "One year since Liberation Day tariffs. 11% effective rate, highest since 1943. P&G raised 25% of product prices. Creators pivoting from aspirational hauls to price-conscious content.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "'Cloud Skin' Replaces Glass Skin as TikTok's Top Makeup Aesthetic — Skin Longevity Replaces Anti-Aging as Industry Language Shifts",
+      "body": "Cloud skin — a soft-focus, blurred, ethereal finish mimicking a digital filter — has overtaken glass skin as TikTok's aspirational beauty aesthetic for spring 2026. Simultaneously, the industry is shifting from 'anti-aging' to 'skin longevity' positioning. Top trending products: Beauty of Joseon Rice Sunscreen (SPF 50+, selling out everywhere), Medicube PDRN Pink Peptide Serum (salmon sperm ingredient at accessible price), Medicube Collagen Night Wrapping Mask, and The Ordinary's new peptide lash & brow serum gaining early viral traction. Blurred lips with mousse textures and Extra Celestial makeup (holographic finishes, opalescent textures) are the complementary looks. The 'clean girl' aesthetic is officially fading.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://fashionmagazine.com/beauty-grooming/a-new-era-of-beauty-the-trends-defining-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CloudSkin", "#SkinLongevity", "#BeautyOfJoseon", "#Medicube", "#PDRNSerum", "#BlurredLips", "#ExtraCelestial"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "Medicube", "Paula's Choice", "The Ordinary", "Laneige"],
+        "context": "Cloud skin is spring 2026's dominant beauty trend. 'Anti-aging' language giving way to 'skin longevity.' Clean girl is out; bold self-expression is in.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coachella Fashion Drives 4 Aesthetic Directions — Boho-Cowgirl, Y2K Revival, Western Core, and Tech-Wear Futurism Flood FYPs",
+      "body": "With Coachella Weekend 1 starting Friday, four dominant outfit aesthetics are generating thousands of GRWM and try-on videos daily: boho-cowgirl hybrid, Y2K revival, Western core, and tech-wear futurism. Top standalone spring items trending beyond festival context: sequin mini dresses, layered tops ('90s Rachel Green energy), satin lace skirts, and oversized sunglasses. Crossbody bags are the top-performing accessory. Minimalist neutral palettes remain a strong parallel current. Charm bracelets are back in a big way — hearts, initials, zodiac signs, and tiny gemstones layered into personal stacks. Sea-inspired jewelry (shells, coral, pearls, turquoise) is also having a moment.",
+      "categories": ["Fashion & Apparel", "Sports & Entertainment"],
+      "source": "Web",
+      "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-jewelry-trends-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CoachellaFashion", "#FestivalOutfit", "#Y2KFashion", "#WesternCore", "#BohoChic", "#CharmBracelet", "#SpringFashion"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Four dominant Coachella aesthetics flooding TikTok. Charm bracelets and sea-inspired jewelry trending. Maximalism winning over minimalism this week.",
+        "price_point": "varies"
+      }
+    },
+    {
+      "headline": "Movement Snacks and Japanese Walking Replace Gym Culture — Longevity Training Goes Mainstream, Pilates Most-Booked for Third Year Running",
+      "body": "The fitness world in spring 2026 is defined by shorter, more consistent activity ('movement snacks') over long gym sessions, with 60% of Americans citing longevity and healthy aging as their top fitness motivator. Japanese walking saw a staggering 2,986% surge in search interest, making it the fastest-growing fitness trend. Walking yoga is up 2,414%. Pilates is the most-booked workout globally for the third consecutive year (up 66% since 2024). Recovery is taking center stage — it's now positioned as critical to performance, not optional. Vagus nerve stimulation devices for at-home nervous system regulation are trending in the wellness tech space. Wearables (WHOOP, Oura, Garmin) projected at 450M global users.",
+      "categories": ["Wellness & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/wellness-trends-2026",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.91,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MovementSnacks", "#JapaneseWalking", "#Pilates", "#LongevityFitness", "#WalkingYoga", "#RecoverDay", "#WHOOP"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["WHOOP", "Oura", "Garmin"],
+        "context": "Japanese walking up 2,986%. Pilates most-booked 3 years running. Movement snacks replacing long workouts. Recovery-first mindset going mainstream.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Going Analog Is 2026's Biggest Cultural Counter-Trend — Journaling, Game Nights, Thrifting, and Touching Grass Replace Doomscrolling",
+      "body": "TikTok's own 2026 Trend Report identifies 'going analog' as a dominant cultural shift: pens over notifications (letters, journaling), game nights as the new nightlife (chess, mahjong, backgammon), resale as the first shopping option (vintage, thrifting), and deliberate digital detox. After a year of 'delulu' and quiet disengagement, audiences crave grounding through honesty, community, and shared experience. The 'little treat' mindset is fading as consumers demand clear justification for purchases, turning to trusted tastemakers who explain the 'why to buy.' Creators leaning into analog aesthetics, slow living, and intentional consumption are finding strong audience resonance.",
+      "categories": ["Lifestyle & Culture", "Content Formats"],
+      "source": "TikTok",
+      "source_url": "https://ads.tiktok.com/business/en/next",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#GoingAnalog", "#SlowLiving", "#Journaling", "#GameNight", "#ThriftFlip", "#DigitalDetox", "#TouchGrass"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "TikTok's official trend report flags analog living as 2026's counter-movement. Chess and mahjong content rising. Thrift-first shopping. 'Little treat' culture fading.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "YouTube's Long-Form Resurgence and Hybrid Strategy — 15+ Minute Videos Generate Higher Revenue, Shorts Funnel to Monetized Content",
+      "body": "Despite Shorts' massive reach, long-form YouTube content (15+ minutes) is experiencing a 2026 resurgence as creators realize it generates substantially higher ad revenue per view and builds deeper audience loyalty. The optimal 2026 strategy is 'Hybrid' — create 60-second Shorts as trailers/teasers that funnel traffic to monetized long-form content. Faceless channels continue exploding as viewers prioritize story and visual quality over talking heads. AI is now embedded in creator workflows for B-roll generation, audio cleanup, avatar creation, and thumbnail brainstorming. Fan-driven fandom content is surging, with Gen Z actively creating fan continuations, lore explainers, and community-driven Q&A formats.",
+      "categories": ["Content Formats", "Science & Technology"],
+      "source": "Web",
+      "source_url": "https://www.epidemicsound.com/blog/youtube-trends-2026/",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#YouTube2026", "#LongFormContent", "#YouTubeShorts", "#FacelessChannel", "#AICreator", "#FandomContent"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["YouTube"],
+        "context": "Long-form YouTube content resurging for revenue. Shorts-to-long-form funnel is the 2026 playbook. Faceless channels and AI-assisted production continue growing.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Dubai Content Shifts from Luxury to Eerie Silence — Iran Conflict Transforms One of Social Media's Most Filmed Cities",
+      "body": "The ongoing Iran conflict has dramatically transformed Dubai's social media presence. Creators who previously filmed luxury lifestyle content are now posting eerie, silent videos capturing an unsettling quietness over the usually bustling city. This tonal shift represents one of the most striking content pivots in creator history — a city synonymous with excess and opulence becoming a symbol of geopolitical anxiety. The contrast between old Dubai content and current reality is itself becoming a viral format. Travel creators more broadly are pivoting to 'safe destination' roundups and domestic travel alternatives.",
+      "categories": ["Travel & Lifestyle", "News & Current Events"],
+      "source": "Web",
+      "source_url": "https://inflownetwork.com/tiktok-trends-april-2026/",
+      "trend_type": "news_event",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Dubai", "#DubaiNow", "#TravelContent", "#IranConflict"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Dubai content pivoted from luxury to eerie silence due to Iran war. Travel creators shifting to safe-destination and domestic alternatives.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Micro-Communities and Niche Specialization Beat Open Feeds — Discord-Style Groups Inside Instagram and YouTube Outpace Traditional Engagement",
+      "body": "Platform algorithms in April 2026 are decisively favoring micro-communities over broad reach. Discord-style groups within Instagram and YouTube communities are outpacing engagement on traditional open feeds. On X/Twitter, the algorithm now prioritizes verified accounts, video content, and genuine engagement, with micro-influencers consistently outperforming macro-influencers on engagement and ROI. Data-driven strategy powered by AI tools analyzing tweet performance and audience behavior has become table stakes. The shift is clear: a smaller, highly engaged audience is far more valuable than a large, passive one. Interactive stories with live polls and shoppable tags are the format driving community participation.",
+      "categories": ["Content Formats", "Science & Technology"],
+      "source": "Web",
+      "source_url": "https://www.hootsuite.com/research/social-trends",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.89,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#MicroCommunity", "#NicheContent", "#CreatorEconomy", "#CommunityBuilding", "#SocialMediaStrategy"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Instagram", "YouTube", "Discord"],
+        "context": "Micro-communities outperforming open feeds. Niche specialization > broad reach. AI-powered content strategy becoming standard.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "High-Protein Comfort Food and Tiramisu Reinvention Lead Food Content — Air Fryer Pasta Chips and Two-Ingredient Japanese Cheesecake Go Viral",
+      "body": "The clinical protein shake era is over. TikTok wants protein in comfort food formats — burrito bowls, loaded pastas, and protein-packed dinners that feel indulgent but track well. Air fryer pasta chips (crispy baked pasta) is the breakout recipe format of the week. The two-ingredient Japanese cheesecake (yogurt + cookies) is being called the best food trend of 2026. In the broader food industry, tiramisu is being reinvented by bakeries and cafés with new shapes and flavors. Guava — tasting like a mix of strawberry and pear — is the breakout fruit ingredient appearing in savory foods, desserts, and beverages. Cool blue tones are becoming a cross-category obsession including food presentation.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.foodnetwork.com/fn-dish/news/food-network-food-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#HighProtein", "#AirFryerRecipe", "#PastaChips", "#JapaneseCheesecake", "#TiramisuTrend", "#ComfortFood", "#FoodTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Protein comfort food replaces protein shakes. Air fryer pasta chips and 2-ingredient Japanese cheesecake are viral recipes. Tiramisu getting reinvented across cafés.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "AI Companion Gadgets and Galaxy Z TriFold Lead Tech — CES 2026 Theme of 'Devices as Companions' Reaches Consumer Market",
+      "body": "CES 2026's vision of AI-powered companion devices is reaching consumers: Pebble's Index O1 smart ring captures notes, reminders, and ideas with AI automatically routing them to the right app (meeting reminders to calendar, 'buy milk' to shopping list). Switchbot's AI Mindclip works as a smart companion rather than a simple tracker. Samsung's Galaxy Z TriFold unfolds twice, going from a 6.5-inch phone to a 10-inch tablet. Minimalist, focus-preserving devices are trending — e-paper readers, notification-only smartwatches, and physical keyboards for mobile. Nomad's Tracking Card Air launched for Android via Google's Find Hub network. Home robotics with real dexterity for laundry, kitchen tasks, and elder care debuted at CES and are entering pre-order.",
+      "categories": ["Science & Technology"],
+      "source": "Web",
+      "source_url": "https://thegadgetflow.com/blog/top-tech-trends/",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.87,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#AICompanion", "#GalaxyZTriFold", "#SmartRing", "#TechTrends2026", "#FocusDevice", "#HomeRobot"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Samsung", "Pebble", "Switchbot", "Nomad", "Google"],
+        "context": "AI companion devices from CES reaching market. Galaxy Z TriFold in circulation. Minimalist/focus-preserving device trend growing against smartphone fatigue.",
+        "price_point": "premium"
+      }
+    },
+    {
+      "headline": "Polymarket Odds: Democrats Sweep 2026 Midterms at 51.5%, Bitcoin $70K in April at 92%, Newsom Leads 2028 Democratic Primary at 24%",
+      "body": "Polymarket's highest-volume markets in April 2026: Democrats Sweep the 2026 Midterms at 51.5% probability. Bitcoin reaching $70,000 in April is at 92%, Ethereum reaching $2,200 at 85%. Democratic Presidential Nominee 2028 market has Gavin Newsom at 24%. Strait of Hormuz traffic returning to normal by end of May is at 41%. The Iran military action markets remain highly active. New Rihanna Album before GTA VI is at 55% — a pop-culture prediction market that's become a meme in its own right. These odds provide useful context for creators making political, financial, or pop-culture prediction content.",
+      "categories": ["Finance & Economy", "News & Current Events"],
+      "source": "Polymarket",
+      "source_url": "https://polymarket.com/",
+      "trend_type": "data_signal",
+      "confidence_score": 0.90,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#Polymarket", "#Bitcoin", "#Midterms2026", "#PredictionMarket"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["Polymarket", "Bitcoin", "Ethereum"],
+        "context": "Key prediction market signals: Dem sweep 51.5%, BTC $70K at 92%, Hormuz normalization 41%. Rihanna album before GTA VI at 55%.",
+        "price_point": null
+      }
+    }
+  ]
+}

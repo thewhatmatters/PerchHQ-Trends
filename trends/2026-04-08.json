@@ -1,0 +1,301 @@
+{
+  "batch_id": "trends-2026-04-08",
+  "scraped_at": "2026-04-08T10:00:00Z",
+  "expires_at": "2026-04-11T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Trump Announces Two-Week Ceasefire with Iran — Oil and Gold Prices Drop Sharply, Markets Rally on De-Escalation Signal",
+      "body": "Trump announced a two-week ceasefire with Iran on April 8, marking the first diplomatic breakthrough since Operation Epic Fury launched Feb 28. Gold prices immediately dropped to $4,705/oz and domestic gold rates fell. Oil prices softened after weeks of surges. Markets rallied on the de-escalation signal, though analysts remain cautious about whether the ceasefire will hold. Polymarket odds on Strait of Hormuz normalization have shifted upward. For creators: this is a pivot moment for geopolitical content — ceasefire reaction videos, 'what this means for gas prices' explainers, and cautious optimism content will perform strongly. Budget and tariff content remains relevant as structural costs persist regardless of ceasefire.",
+      "categories": ["News & Current Events", "Finance & Economy"],
+      "source": "Web",
+      "source_url": "https://www.reuters.com/world/middle-east/trump-announces-ceasefire-iran-2026-04-08/",
+      "trend_type": "news_event",
+      "confidence_score": 0.97,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#IranCeasefire", "#MiddleEast", "#OilPrices", "#GoldPrices", "#Ceasefire", "#Markets"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "cautiously positive",
+        "related_brands": [],
+        "context": "Two-week ceasefire announced April 8. Gold to $4,705. Oil prices softening. Markets rally. First diplomatic breakthrough since Feb 28 conflict start.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Coachella Weekend 1 in 2 Days — Final Content Push Window, YouTube 4K Streaming 7 Stages, Euphoria S3 Premiere Sunday",
+      "body": "Coachella Weekend 1 opens Friday April 10 with headliners Sabrina Carpenter (Friday), Justin Bieber (Saturday), and Karol G (Sunday — first Latina to headline main stage). Jack White's surprise addition to Mojave stage was yesterday's biggest announcement. YouTube will livestream 7 stages starting at 4 PM PT, with Coachella, Outdoor Theatre, and Sahara stages in 4K for the first time. BINI becomes the first Filipino group to perform. Euphoria Season 3 premieres at the festival April 12 after a four-year hiatus. Today and tomorrow are the absolute final window for pre-festival GRWM, outfit try-on, packing, and prediction content before the algorithm shifts entirely to real-time festival coverage.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.coachella.com/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.98,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#SabrinaCarpenter", "#JustinBieber", "#KarolG", "#BINI", "#FestivalFashion", "#Euphoria"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube", "HBO", "Sabrina Carpenter", "Justin Bieber", "Karol G", "Jack White", "BINI"],
+        "context": "Weekend 1 in 2 days. YouTube streaming 7 stages in 4K. BINI first Filipino act. Euphoria S3 premiere Sunday. Final pre-festival content window closing.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Artemis II Splashdown Friday April 10 — Crew Awaits Reentry, Science and Space Content Has Once-in-a-Generation Moment",
+      "body": "NASA's Artemis II crew — Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen — are on their return trajectory after breaking Apollo 13's record for farthest human spaceflight on April 6. Splashdown is scheduled for Friday April 10 off San Diego, coinciding with Coachella Weekend 1 opening. The crew became the first humans to see portions of the far side of the Moon and experienced a solar eclipse from lunar orbit. The dual mega-events on Friday (Artemis splashdown + Coachella opening) create an unusual content split — science/education creators should lean hard into splashdown watch-party formats and explainer content before Coachella dominates the algorithm.",
+      "categories": ["Science & Technology", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.nasa.gov/artemis-ii/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ArtemisII", "#NASA", "#Splashdown", "#MoonMission", "#SpaceExploration"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["NASA", "SpaceX", "CSA"],
+        "context": "Splashdown Friday April 10 off San Diego. Same day as Coachella opener. Science creators should publish splashdown content early before festival algorithm takeover.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "TikTok's 'Wabi-Sabi' Trend Celebrates Imperfection — King of the Hill Audio Powers Self-Acceptance Content, 'Self Aware' Audio Goes Cinematic",
+      "body": "Two new TikTok audio trends are gaining rapid momentum in April: 'It's got Wabi Sabi' uses a King of the Hill sitcom clip to celebrate imperfections in appearance and behavior, with creators embracing quirks rather than polishing them away. The 'Self Aware' audio trend drives reflective, cinematic content with thoughtful text overlays about personal growth. 'What's Going On' — a mashup of Nicki Minaj's 'Beez in the Trap' and 4 Non Blondes' 'What's Up?' — is the new chaotic energy sound. The 'Follow that tune' audio from livestreamer Gymskin (a Madonna 'Into The Groove' moment) is powering dance and music appreciation content. These join Harry Styles' 'Aperture' and Ella Langley's 'Loving Life Again' which remain the dominant GRWM and glow-up sounds.",
+      "categories": ["Content Formats", "Sports & Entertainment"],
+      "source": "Web",
+      "source_url": "https://napoleoncat.com/blog/tiktok-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#WabiSabi", "#SelfAware", "#TikTokTrends", "#WhatsGoingOn", "#Aperture", "#HarryStyles", "#LovingLifeAgain"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Harry Styles", "Ella Langley", "Nicki Minaj"],
+        "context": "Wabi-Sabi and Self Aware are the new rising audio trends. Aperture and Loving Life Again still dominate. What's Going On mashup for chaotic energy. Follow That Tune for dance content.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Instagram's Color Walk Trend and Lipstick Kiss Marks Go Viral — Visual Challenges Drive High Engagement in April",
+      "body": "Two visual challenge formats are dominating Instagram Reels in April 2026. The Color Walk trend has creators picking a color and filming walks through their environment collecting matching items — resulting in aesthetically satisfying color-coded collages that perform exceptionally well on the grid. The Lipstick Kiss Marks trend (originated by Kat Stickler) features bold red lipstick application followed by loved ones covered in kiss marks. The 'World Stop!' audio continues powering transformation and glow-up content. 'How I Fixed It' — comparing childhood problem-solving logic with adult solutions — is the new relatable humor format. These visual-first challenges are outperforming text-heavy content on Instagram's algorithm.",
+      "categories": ["Content Formats", "Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://newengen.com/insights/instagram-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ColorWalk", "#LipstickKissMarks", "#InstagramReels", "#WorldStop", "#HowIFixedIt", "#KatStickler"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Kat Stickler"],
+        "context": "Color Walk and Lipstick Kiss Marks are April's top Instagram visual challenges. World Stop audio for transformations. How I Fixed It for relatable humor.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "AI Model Arms Race Accelerates — Claude Mythos 5 (10T Parameters), Claude Opus 4.6 Tops Chatbot Arena, GPT-5.4 Surpasses Human on OSWorld",
+      "body": "The AI model landscape shifted dramatically in early April 2026. Anthropic's Claude Mythos 5 became the first widely recognized 10-trillion-parameter model. Claude Opus 4.6 secured the #1 spot on LMSYS Chatbot Arena, beating GPT-5.4 and Gemini 3.1 Pro, with a SWE-bench Verified score of 65.3%. OpenAI's GPT-5.4 'Thinking' variant surpassed human-level performance on OSWorld-Verified at 75.0%. Google's Gemini 3.1 Ultra launched with a 2-million token context window and native multimodal reasoning. SpaceX acquired xAI for $250 billion. GPT-4o was officially retired April 3. For creators: AI tool comparison content, 'I tried Claude vs GPT for X' videos, and practical AI workflow tutorials continue to be high-engagement formats.",
+      "categories": ["Science & Technology"],
+      "source": "Web",
+      "source_url": "https://www.anthropic.com/",
+      "trend_type": "news_event",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AI", "#ClaudeAI", "#GPT5", "#Gemini", "#ArtificialIntelligence", "#AITools"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Anthropic", "OpenAI", "Google", "SpaceX", "xAI"],
+        "context": "Claude Opus 4.6 #1 on chatbot arena. GPT-5.4 surpasses human on OSWorld. Gemini 3.1 Ultra with 2M token context. SpaceX buys xAI for $250B. GPT-4o retired April 3.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Tariff Pressure Peaks April–October — Households Face $1,500 Annual Hit, Creators Pivot to Budget-Conscious Content Formats",
+      "body": "Economic analysis indicates tariff impacts will peak between April and October 2026 as pre-tariff inventory depletes and the 12-18 month lag from implementation reaches full consumer passthrough. Average household burden stands at $1,050-$1,500 annually. Best Buy is projecting a $1.2 billion pretax tariff expense for 2026. Consumer prices have risen ~1% in the short run with full passthrough expected. Consumers currently bear about 33% of costs but could absorb over 50% long-term. For creators: 'what I'm cutting from my budget' content, affordable alternative roundups, 'is it worth the tariff price?' comparisons, and 'how tariffs actually work' explainers remain strong performers as audiences seek practical guidance.",
+      "categories": ["Finance & Economy", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.94,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Tariffs", "#BudgetHaul", "#PriceHike", "#Inflation", "#LibertationDay", "#BudgetTips"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["Best Buy", "Procter & Gamble"],
+        "context": "Tariff impact peaks April-October 2026. $1,500/household. Best Buy projecting $1.2B expense. Consumers shifting from 33% to 50%+ cost absorption.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Premieres Sunday April 12 at Coachella — Four-Year Hiatus Ending Drives Reaction Content, Audio Pulls, and Outfit Recreation",
+      "body": "HBO's Euphoria returns for Season 3 on Sunday April 12, premiering at Coachella after a four-year hiatus since Season 2 (January 2022). The show's return is generating massive anticipation content across TikTok and Instagram: recap and catch-up videos, character outfit recreation, makeup tutorials inspired by the show's iconic looks, audio pulls from trailers, and reaction prediction content. The Coachella premiere creates a unique convergence — festival attendees will see it first, generating FOMO content and real-time reaction videos. Beauty creators should lean into Euphoria-inspired makeup looks (glitter, bold eye, rhinestones) which will trend hard through the month.",
+      "categories": ["Sports & Entertainment", "Beauty & Skincare", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.hbo.com/euphoria",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Euphoria", "#EuphoriaS3", "#HBO", "#EuphoriaMakeup", "#Coachella2026", "#ZendayaEuphoria"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HBO", "Coachella", "Zendaya"],
+        "context": "Euphoria S3 premieres April 12 at Coachella. Four-year hiatus ending. Makeup, outfit, and reaction content already trending. Coachella premiere creates FOMO content loop.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Micro-Creators Outperform Celebrities — 75% of Agencies Favor Niche Audiences, 94% of Marketers Use AI, Authenticity Over Polish Wins",
+      "body": "The creator economy in April 2026 is defined by three structural shifts: 75% of marketing agencies now believe micro-creators with niche audiences outperform celebrities in engagement and ROI. 94% of marketers report using AI for content creation. And raw, unedited 'slow content' plus employee and customer UGC are outperforming polished brand content across all platforms. Social search optimization has become critical as platforms replace traditional search engines. Episodic series and recurring formats are outperforming single posts. The X/Twitter algorithm now explicitly prioritizes verified accounts, video content, and genuine engagement over follower count. Interactive stories with live polls and shoppable tags are the format driving community participation.",
+      "categories": ["Content Formats", "Science & Technology"],
+      "source": "Web",
+      "source_url": "https://www.hootsuite.com/research/social-trends",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.92,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CreatorEconomy", "#MicroInfluencer", "#AIMarketing", "#AuthenticContent", "#SocialSEO", "#UGC"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hootsuite", "Sprout Social"],
+        "context": "75% of agencies favor micro-creators over celebrities. 94% of marketers use AI. Authentic/raw content outperforms polished. Social search replacing traditional search.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "YouTube Long-Form Resurgence Confirmed — Hybrid Shorts-to-Long Strategy Becomes 2026 Playbook, Faceless Channels Explode",
+      "body": "YouTube's 2026 content landscape has crystallized around a hybrid strategy: create 60-second Shorts as trailers and teasers that funnel traffic to monetized long-form content (15+ minutes), which generates substantially higher ad revenue per view. Faceless channels — prioritizing story and visual quality over talking heads — continue exploding in subscriber growth. AI is now embedded in creator workflows for B-roll generation, audio cleanup, avatar creation, and thumbnail brainstorming. Fan-driven fandom content is surging, with Gen Z creating fan continuations, lore explainers, and community-driven Q&A formats. BTS 'SWIM' live clip and One Piece Elbaph Arc trailer are this week's top viral videos.",
+      "categories": ["Content Formats", "Science & Technology"],
+      "source": "Web",
+      "source_url": "https://www.epidemicsound.com/blog/youtube-trends-2026/",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.91,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#YouTube2026", "#LongFormContent", "#YouTubeShorts", "#FacelessChannel", "#AICreator", "#BTS", "#OnePiece"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["YouTube", "BTS", "One Piece"],
+        "context": "Shorts-to-long-form funnel is 2026 playbook. Faceless channels growing fastest. AI embedded in production. BTS SWIM and One Piece Elbaph Arc trending this week.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Tyson Fury vs Makhmudov on Netflix Saturday April 11 — Boxing Returns to Streaming, Combat Sports Content Window Opens",
+      "body": "Tyson Fury faces Arslanbek Makhmudov on Saturday April 11, streaming live on Netflix. Fury is a -600 favorite. This continues Netflix's push into live combat sports following the Paul-Tyson event. Combined with Coachella, Artemis splashdown, and Euphoria premiere, this makes April 10-12 one of the most content-dense weekends of 2026. For sports creators: fight prediction content, training breakdown videos, and watch-party reaction formats. The Netflix streaming angle adds a tech/entertainment crossover dimension. The Boys Season 5 release date was also confirmed this week, adding to the entertainment content pipeline.",
+      "categories": ["Sports & Entertainment"],
+      "source": "Web",
+      "source_url": "https://www.netflix.com/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.89,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#TysonFury", "#FuryMakhmudov", "#Netflix", "#Boxing", "#TheBoys"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Netflix", "Tyson Fury"],
+        "context": "Fury vs Makhmudov April 11 on Netflix. Part of stacked April 10-12 weekend with Coachella + Artemis + Euphoria. The Boys S5 date confirmed.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "HN Debate: AI Backlash Growing as Meta Plans AI Bots on Instagram/Facebook — Men Ditching TV for YouTube, Social Media Fatigue Accelerates",
+      "body": "Hacker News discussions in April center on growing public resistance to AI integration: Meta's plan to populate Facebook and Instagram with LLM bots for engagement is generating significant backlash. A widely discussed thread notes men are increasingly ditching traditional TV for YouTube, accelerating platform shifts. The AI backlash thread ('Why Public Patience with Tech Giants Is Running Out') captured broad sentiment about AI-generated content flooding platforms. Prediction threads for 2026 AI developments are bearish on consumer trust. For tech creators: AI skepticism content, 'is AI ruining social media?' debate formats, and honest AI tool reviews that acknowledge limitations are performing better than pure hype content.",
+      "categories": ["Science & Technology", "Content Formats"],
+      "source": "HN",
+      "source_url": "https://news.ycombinator.com/",
+      "trend_type": "sustained_trend",
+      "confidence_score": 0.88,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#AIBacklash", "#Meta", "#HackerNews", "#TechCritique", "#SocialMediaFatigue"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["Meta", "YouTube"],
+        "context": "HN threads on AI backlash trending. Meta AI bots plan controversial. Men shifting TV to YouTube. Public patience with tech giants running thin per HN consensus.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Polymarket Odds: Democrats Sweep Midterms at 52.5%, S&P 500 Under $6K at 45%, Trump Visits China by June at 80%, Rihanna Album Before GTA VI at 55%",
+      "body": "Polymarket's highest-volume markets for April 8, 2026: Democrats Sweep 2026 Midterms moved to 52.5% (up from 51.5% yesterday). S&P 500 finishing 2026 below $6,000 at 45% probability. Trump visiting China by June 30 at 80%. WTI crude oil trading at $9.4M volume following ceasefire news. Bitcoin $70K in April remains at 92%, Ethereum $2,200 at 85%. Rihanna album before GTA VI holds at 55%. Hungary PM market has Péter Magyar at 65%. The Iran ceasefire announcement is likely to shift geopolitical markets significantly in coming hours. Prediction market content — explaining odds, tracking movements, and making bets — remains a growing content vertical.",
+      "categories": ["Finance & Economy", "News & Current Events"],
+      "source": "Polymarket",
+      "source_url": "https://polymarket.com/",
+      "trend_type": "data_signal",
+      "confidence_score": 0.90,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#Polymarket", "#Bitcoin", "#Midterms2026", "#PredictionMarket", "#SP500"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["Polymarket", "Bitcoin", "Ethereum"],
+        "context": "Dem sweep up to 52.5%. S&P under $6K at 45%. Trump China visit 80%. BTC $70K at 92%. Ceasefire expected to shift geopolitical markets.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "National Siblings Day Friday April 10 — Family Content Angle Competes with Coachella and Artemis for Attention",
+      "body": "National Siblings Day falls on Friday April 10, competing for attention with Coachella Weekend 1 and the Artemis II splashdown. Despite the competition, family content creators should lean in — childhood throwback photo compilations, 'sibling check' videos, and 'things only siblings understand' relatable humor consistently perform well on this day. The smart play is combining Siblings Day with Coachella (matching festival outfits with siblings, going to Coachella with your sibling) or with the space theme (watching the splashdown together). National Grilled Cheese Day (April 12) follows Sunday, offering a low-effort food content opportunity alongside Euphoria premiere night.",
+      "categories": ["Lifestyle & Culture", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.nationaldaycalendar.com/national-siblings-day",
+      "trend_type": "calendar_event",
+      "confidence_score": 0.85,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#NationalSiblingsDay", "#SiblingsDay", "#Siblings", "#NationalGrilledCheeseDay"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Siblings Day April 10 competes with Coachella and Artemis. Smart angle: combine with other events. Grilled Cheese Day April 12 for food content.",
+        "price_point": null
+      }
+    }
+  ]
+}

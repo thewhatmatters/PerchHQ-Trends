@@ -1,0 +1,238 @@
+{
+  "batch_id": "trends-2026-04-10",
+  "scraped_at": "2026-04-10T10:00:00Z",
+  "expires_at": "2026-04-13T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Coachella Weekend 1 OPENS TODAY — Sabrina Carpenter Headlines Tonight, YouTube 4K Streaming All 7 Stages, 25th Anniversary Edition Sold Out",
+      "body": "Coachella 2026 Weekend 1 officially opens TODAY at Empire Polo Club in Indio, California. This is the festival's 25th anniversary edition and it sold out within a week. Tonight's headliner is Sabrina Carpenter on the main stage from 9:05–10:35 PM PT. Saturday brings Justin Bieber (11:25 PM, expected to debut two surprise 'Swag' albums in full) and late addition Jack White on the Mojave stage at 3 PM. Sunday closes with Karol G at 9:55 PM — the first Latina to headline Coachella's main stage. Other highlights: BINI (first Filipino group at Coachella), Nine Inch Nails x Boys Noize as 'Nine Inch Noize,' and Anyma debuting his ÆDEN audiovisual concept tonight. YouTube will livestream all 7 stages simultaneously with Coachella Stage, Outdoor Theatre, and Sahara in 4K, plus a 4x4 multi-view grid option. For creators: outfit GRWM content, live reaction videos, set-by-set recaps, and 'who to watch' guides should all go live NOW. Festival fashion content will dominate feeds through the weekend.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.coachella.com/lineup",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#SabrinaCarpenter", "#JustinBieber", "#KarolG", "#JackWhite", "#BINI", "#FestivalFashion", "#NineInchNoize", "#Anyma", "#ÆDEN"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube", "Sabrina Carpenter", "Justin Bieber", "Karol G", "Jack White", "Nine Inch Nails", "Boys Noize", "BINI", "Anyma"],
+        "context": "Weekend 1 opens TODAY April 10. 25th edition. Sold out in a week. YouTube 4K streaming all 7 stages. Sabrina Carpenter headlines tonight. Justin Bieber Saturday, Karol G Sunday.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Artemis II Splashdown TONIGHT 8:07 PM EDT — First Crewed Lunar Mission in 50+ Years Returns to Earth Off San Diego Coast, Live on Netflix",
+      "body": "NASA's Artemis II crew — Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen — will splash down tonight at approximately 8:07 PM EDT (5:07 PM PDT) off the coast of San Diego after a historic 10-day journey around the Moon. The crew broke Apollo 13's record for farthest human spaceflight on April 6, reaching 248,655 miles from Earth. NASA released the first photos from the far side of the Moon. Orion will enter a six-minute communications blackout at 7:53 PM as plasma forms around the capsule during peak heating. Recovery teams on USS John P. Murtha are standing by. Netflix will carry the splashdown live alongside its Fury boxing card tomorrow. The San Diego Air & Space Museum is hosting a 'Splashdown Family PJ Night Watch Party.' For creators: splashdown watch party content, live reaction videos, 'what they saw on the far side' explainers, and science education content should publish EARLY today before Coachella dominates the algorithm tonight.",
+      "categories": ["News & Current Events", "Science & Technology"],
+      "source": "Web",
+      "source_url": "https://www.nasa.gov/blogs/missions/2026/04/09/artemis-ii-flight-day-9-crew-prepares-to-come-home/",
+      "trend_type": "news_event",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#ArtemisII", "#Splashdown", "#NASA", "#Moon", "#SpaceExploration", "#Orion", "#ArtemisGeneration"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["NASA", "Netflix", "Orion", "Artemis"],
+        "context": "Splashdown tonight 8:07 PM EDT off San Diego. Broke Apollo 13 record. First crewed lunar mission in 50+ years. Communications blackout at 7:53 PM. Netflix streaming live.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "National Siblings Day TODAY — Annual Social Media Megaday, 21.9M Reach Last Year, #ItsaSiblingThing Trending",
+      "body": "National Siblings Day is TODAY, April 10, and it's already trending across all platforms. Last year the hashtag reached 21.9 million people across social media. The 2026 theme is #ItsaSiblingThing #NationalSiblingsDay2026. The classic content format: re-enacting childhood photos with adult siblings, duets/stitches with sibling reaction content, and 'things only siblings understand' relatable humor. This is one of the most reliable engagement days of the year — nearly every audience has a sibling story. For creators: post sibling throwback photos, film 'then vs now' recreation videos, ask followers to tag their siblings, or create relatable sibling humor content. Brands should incorporate sibling themes into product content. This pairs well with Coachella (siblings attending together) and Artemis (the crew as a 'space family').",
+      "categories": ["Holiday & Seasonal", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/national-siblings-day/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.98,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#NationalSiblingsDay", "#NationalSiblingsDay2026", "#ItsaSiblingThing", "#Siblings", "#SiblingLove"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Annual social media megaday. 21.9M reach last year. Theme: #ItsaSiblingThing. Re-enact childhood photos trend. Pairs with Coachella weekend.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Iran Ceasefire Day 3: Vance Heads to Pakistan for Historic Talks Tomorrow as Ceasefire Frays — Oil $93+, Bitcoin $72K, Polymarket Under Congressional Fire",
+      "body": "The fragile US-Iran ceasefire enters Day 3 with major developments. VP JD Vance departs today for Islamabad to lead the highest-level US-Iran talks since the 1979 revolution, joined by Steve Witkoff and Jared Kushner. Talks begin Saturday morning. Key disputes: Iran says Lebanon is covered by the ceasefire, US and Israel say it is not. Israeli strikes continue in southern Lebanon. The Strait of Hormuz is temporarily reopened but Iran demands continued enrichment rights and US force withdrawal. Markets reflect uncertainty: oil at $93.76/barrel, Bitcoin above $72K on ceasefire optimism, S&P 500 on a 7-day winning streak but gains fragile. Meanwhile, Polymarket faces a Congressional firestorm — at least 50 new accounts placed large ceasefire bets minutes before Trump's announcement. Harvard researchers estimate $143M in insider-timed profits on the platform. Rep. Torres and Sen. Blumenthal demand CFTC investigation. The White House warned its own staff against prediction market trading. For creators: 'what the ceasefire actually means' explainers, Polymarket scandal breakdowns, oil price impact content, and 'Vance in Pakistan' preview videos will perform.",
+      "categories": ["News & Current Events", "Finance & Economy"],
+      "source": "Web",
+      "source_url": "https://www.axios.com/2026/04/08/us-iran-peace-talks-vance-pakistan-saturday",
+      "trend_type": "news_event",
+      "confidence_score": 0.98,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#IranCeasefire", "#JDVance", "#Polymarket", "#OilPrices", "#Bitcoin", "#MiddleEast", "#Pakistan", "#StraitOfHormuz"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Polymarket"],
+        "context": "Ceasefire Day 3. Vance leads talks in Islamabad Saturday. Lebanon exclusion dispute. Oil $93.76. Bitcoin $72K. Polymarket insider trading investigation. S&P 7-day streak.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Premieres SUNDAY on HBO — Zendaya Red Carpet Dominated Feeds, Final Season Confirmed, Makeup & Outfit Content Peaking NOW",
+      "body": "Euphoria Season 3 premieres Sunday, April 12 at 9 PM ET on HBO and Max — the show's return after nearly four years and confirmed as the FINAL season. The LA red carpet premiere on April 8 sent shockwaves through fashion and beauty feeds: Zendaya, Jacob Elordi, Sydney Sweeney, Hunter Schafer, and Colman Domingo all attended. Sam Levinson confirmed this is the last season. Season 3 picks up four years later with the cast now in adulthood. Eight episodes will air weekly through May 31. Early reviews from Variety call it 'entertaining but disjointed.' For creators: Euphoria-inspired makeup tutorials are peaking RIGHT NOW. Outfit recreation content, character prediction videos, 'where we left off' recap content, and watch party setups will dominate through the weekend. The intersection of Coachella fashion + Euphoria aesthetics is a goldmine for beauty and fashion creators.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Beauty & Personal Care"],
+      "source": "Web",
+      "source_url": "https://variety.com/2026/tv/columns/euphoria-zendaya-jacob-elordi-sydney-sweeney-season-3-premiere-1236709761/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.98,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Euphoria", "#EuphoriaSeason3", "#Zendaya", "#SydneySweeney", "#HBO", "#EuphoriaFinale", "#EuphoriaMakeup"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HBO", "Max", "Euphoria"],
+        "context": "Season 3 premieres Sunday April 12 at 9 PM ET. Final season confirmed. Red carpet April 8. Four-year gap. Eight episodes through May 31. Makeup and fashion content peaking.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Tyson Fury vs Makhmudov TOMORROW on Netflix — Fury's Comeback at Tottenham Hotspur Stadium, Conor Benn Co-Main, Lennox Lewis on Commentary",
+      "body": "Tyson Fury returns to the ring tomorrow, Saturday April 11, in a massive homecoming heavyweight bout against Arslanbek Makhmudov at Tottenham Hotspur Stadium in London, streaming live on Netflix at 2 PM ET. Fury (34-2-1, 24 KOs) faces the pressure-fighting Russian-Canadian (21-2, 19 KOs) in what's being framed as a must-win if Fury wants to pursue the Usyk trilogy. The co-main event features Conor Benn vs Regis Prograis. The broadcast team includes Mauro Ranallo, Lennox Lewis, Laila Ali, Carl Froch, and Elle Duncan. This is Netflix's continued push into live sports following the Jake Paul bouts and Artemis II splashdown coverage. For creators: fight prediction content, boxing breakdown videos, Fury highlight reels, and live reaction content will all perform. The Netflix angle means this reaches a broader non-boxing audience — react content and 'first time watching boxing' formats will do well.",
+      "categories": ["Sports & Entertainment"],
+      "source": "Web",
+      "source_url": "https://www.netflix.com/tudum/articles/tyson-fury-arslanbek-makhmudov-live-on-netflix",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#FuryMakhmudov", "#TysonFury", "#Netflix", "#Boxing", "#HeavyweightBoxing", "#ConorBenn"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Netflix", "Tottenham Hotspur Stadium"],
+        "context": "Fury vs Makhmudov Saturday April 11 at Tottenham. Netflix live 2 PM ET. Fury comeback. Co-main Benn vs Prograis. Lennox Lewis, Laila Ali commentary.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Afrika Bambaataa Dies at 67 — Hip-Hop Pioneer's Complex Legacy Sparks Debate About Separating Art from Artist",
+      "body": "Afrika Bambaataa, the Bronx-born DJ widely credited with pioneering hip-hop and founding the Universal Zulu Nation, died April 9 at age 67 from prostate cancer complications in Pennsylvania. His death has ignited one of the most complex legacy debates in music history. While credited with helping create hip-hop as a global movement rooted in 'peace, unity, love, and having fun,' Bambaataa faced multiple allegations of sexual abuse in the 1980s-90s. He lost a civil case by default in 2025 after failing to appear in court. Hassan Campbell, one of his accusers, has posted emotional reaction content. The hip-hop community is deeply divided — tributes from some, condemnation from others. For creators: this is a sensitive but high-engagement topic. Historical retrospectives on hip-hop's origins, 'separating art from artist' discussion content, and Planet Rock music legacy videos will perform. Handle with care — audiences will punish creators who seem to minimize the allegations.",
+      "categories": ["Sports & Entertainment", "News & Current Events"],
+      "source": "Web",
+      "source_url": "https://variety.com/2026/music/news/afrika-bambaataa-dead-planet-rock-1236712886/",
+      "trend_type": "news_event",
+      "confidence_score": 0.97,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AfrikaBambaataa", "#HipHop", "#RIP", "#PlanetRock", "#ZuluNation"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Died April 9, age 67. Hip-hop pioneer. Universal Zulu Nation founder. Faced abuse allegations. Lost civil case 2025. Complex legacy debate.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "TikTok Audio Trends: 'If You Wanna Get With Me' Brand Intro Format Exploding, '212' Wordplay Challenge, Ella Langley's 'Loving Life Again' Glow-Up Sound",
+      "body": "Three audio trends are dominating TikTok in April 2026. First, the Altégo remix of Dev's 'Bass Down Low' is powering the 'If You Wanna Get With Me' brand intro trend — creators and brands use it to reintroduce their identity to new followers. Second, Azealia Banks' '212' instrumental drives the 'Oh Ok Because' box step wordplay format, where creators play word games with their niche or product names. Third, Ella Langley's 'Loving Life Again' has become THE glow-up and fresh start sound — creators lipsync to 'and just like that I'm back to loving life again' with text overlays about cutting out negativity. Additional trends: 'Admin Night' content (documenting mundane tasks like organizing and budgeting) connects with audiences through relatable, calming formats. Silent Dubai aesthetics and the skinimalism beauty movement continue gaining momentum. For creators: the '212' format is perfect for brands doing wordplay content, while 'Loving Life Again' works for any transformation or comeback narrative.",
+      "categories": ["Content Formats", "Beauty & Personal Care"],
+      "source": "Web",
+      "source_url": "https://inflownetwork.com/tiktok-trends-april-2026/",
+      "trend_type": "emerging_trend",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TikTokTrends", "#IfYouWannaGetWithMe", "#212Challenge", "#LovingLifeAgain", "#AdminNight", "#Skinimalism", "#GlowUp"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Altégo", "Azealia Banks", "Ella Langley"],
+        "context": "Three dominant audio trends. Brand intro format via Altégo remix. 212 wordplay challenge. Ella Langley glow-up sound. Admin Night relatable content rising.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Markets Update: S&P 500 on 7-Day Winning Streak, Tariff Landscape Shifting — Supreme Court Struck IEEPA Tariffs, New Pharma Tariffs Up to 100%",
+      "body": "The S&P 500 extended gains for a seventh consecutive session, its longest winning streak since October 2025. Year-to-date through April 8 the index is down less than 1%. The market is navigating a complex tariff landscape: the Supreme Court struck down all IEEPA-imposed tariffs on February 20, but Trump imposed a new 10-15% global baseline tariff under Section 122 the same day. On April 2, new Section 232 tariffs restructured steel, aluminum, and copper duties while imposing up to 100% tariffs on patented pharmaceutical imports. The effective average tariff rate stands at 13.7%. Bitcoin trades above $72K on ceasefire optimism but faces headwinds from tax selling ahead of April 15. Q4 2025 earnings were strong with 99% of S&P 500 reporting: revenues +9.3%, earnings +13.7%, beating the 7.9% estimate. For creators: 'Liberation Day one year later' retrospective content, tariff explainers for small businesses, crypto market analysis, and personal finance content about market resilience will perform.",
+      "categories": ["Finance & Economy"],
+      "source": "Web",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-09/stock-market-today-dow-s-p-live-updates",
+      "trend_type": "news_event",
+      "confidence_score": 0.96,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#StockMarket", "#SP500", "#Bitcoin", "#Tariffs", "#Crypto", "#Markets", "#Investing"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Bitcoin"],
+        "context": "S&P 7-day streak. IEEPA tariffs struck by SCOTUS. New pharma tariffs 100%. Bitcoin $72K. Tax selling ahead April 15. Q4 earnings strong.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Content Creator Trends: Cross-Platform Publishing Now Essential, Micro-Influencers Outperform Celebrities, 'Text Line Drop' and Dance Challenges Dominate Reels & Shorts",
+      "body": "Several macro trends are reshaping the content creation landscape in April 2026. First, cross-platform publishing is no longer optional — successful creators publish to 3-5 platforms simultaneously as algorithm changes and audience fragmentation make single-platform strategies increasingly risky. Second, 75% of agencies report micro-influencers with niche audiences are outperforming celebrities in engagement and ROI. Third, new format trends are emerging on Reels and Shorts: the 'Text Line Drop' format turns storytelling into an addictive watch as each movement reveals a new line of text, and the 'Midnight Snack Challenge,' 'Electric Slide 2.0,' and 'Ghost Glide' lead early 2026 dance feeds. The 'I need a minute' workplace humor format is gaining traction. Community-driven content with inside jokes and shared identities is resonating more than polished production. AI-generated content via tools like Seedance 2.0 is reshaping feeds, and MySpace is experiencing a bizarre nostalgia-driven mini-comeback among Millennials. For creators: lean into authenticity over polish, build community over reach, and consider multi-platform distribution.",
+      "categories": ["Content Formats", "Marketing & Advertising"],
+      "source": "Web",
+      "source_url": "https://www.hootsuite.com/research/social-trends",
+      "trend_type": "emerging_trend",
+      "confidence_score": 0.93,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ContentCreator", "#SocialMediaTrends", "#MicroInfluencer", "#Reels", "#Shorts", "#CrossPlatform", "#TextLineDrop"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Instagram", "YouTube", "TikTok"],
+        "context": "Multi-platform essential. Micro-influencers outperform celebs. Text Line Drop format rising. Authenticity > polish. AI content (Seedance 2.0) reshaping feeds.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Tech Corner: Gemma 4 26B Runs on Mac Mini via Ollama, Meta Retires Messenger Desktop, Hetzner Price Hike — HN Community Buzzing",
+      "body": "Notable tech stories trending on Hacker News this week: Google's Gemma 4 26B model can now run locally on a Mac mini via Ollama, sparking excitement about local AI inference capabilities. Meta confirmed it is retiring the Messenger desktop app and messenger.com — all messaging moves to the main Facebook app or Instagram DMs, a consolidation that affects millions of desktop users. Hetzner announced cloud infrastructure price increases effective April 2026, hitting budget-conscious developers and startups hard. The HN 'Who is hiring? (April 2026)' thread shows strong demand for AI/ML engineers and full-stack developers, with Claude and AI-coding tools mentioned frequently in the 'What are you working on?' thread. For creators: 'run AI on your Mac' tutorial content, messenger migration explainers, and developer career content will resonate with tech audiences.",
+      "categories": ["Science & Technology"],
+      "source": "Hacker News",
+      "source_url": "https://news.ycombinator.com/item?id=47624731",
+      "trend_type": "emerging_trend",
+      "confidence_score": 0.90,
+      "relevance_score": 6,
+      "metadata": {
+        "hashtags": ["#AI", "#Gemma4", "#Ollama", "#Meta", "#Messenger", "#HackerNews", "#TechNews"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Google", "Meta", "Hetzner", "Ollama"],
+        "context": "Gemma 4 26B on Mac mini. Meta kills Messenger desktop. Hetzner price hike. HN hiring thread shows AI/ML demand.",
+        "price_point": null
+      }
+    }
+  ]
+}

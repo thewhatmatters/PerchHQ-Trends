@@ -1,0 +1,217 @@
+{
+  "batch_id": "trends-2026-04-11",
+  "scraped_at": "2026-04-11T10:00:00Z",
+  "expires_at": "2026-04-14T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Coachella Day 2 TODAY — Justin Bieber Headlines Tonight, Jack White at 3 PM, Sabrina Carpenter's 'Sabrinawood' Set Broke the Internet Last Night",
+      "body": "Coachella 2026 Weekend 1 Day 2 is here with arguably the most anticipated night of the festival. Justin Bieber takes the main stage at 11:25 PM PT tonight — expected to debut two surprise 'Swag' albums in full. Jack White is the massive surprise addition playing the Mojave stage at 3 PM. Last night Sabrina Carpenter delivered a showstopping headline set with her 'Sabrinawood' concept — a vintage Hollywood production featuring acting cameos from Sam Elliott, Susan Sarandon, and Will Ferrell. The set included a recording studio, dive bar, dance studio, and Broadway-esque cityscape. Carpenter opened with House Tour and Taste in a sequined red minidress. YouTube is livestreaming all 7 stages in 4K with a multi-view grid option. Kaskade closes out the Sahara stage tonight. For creators: Bieber anticipation content, Carpenter set recap and reaction videos, festival fashion Day 2, and 'who to watch tonight' guides should go live NOW. Side-by-side comparisons of Carpenter's Sabrinawood production vs past Coachella headliners will perform.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://www.hollywoodreporter.com/music/music-news/sabrina-carpenter-coachella-headlining-set-recap-1236556670/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#JustinBieber", "#SabrinaCarpenter", "#Sabrinawood", "#JackWhite", "#Kaskade", "#FestivalFashion"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube", "Justin Bieber", "Sabrina Carpenter", "Jack White"],
+        "context": "Day 2 of Weekend 1. Bieber headlines tonight 11:25 PM. Jack White 3 PM Mojave. Carpenter's Sabrinawood set went viral overnight. YouTube 4K all 7 stages.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Artemis II Crew HOME SAFE — 'Perfect Bullseye Splashdown' Last Night, All Four Astronauts Doing Well, Moon Photos Released",
+      "body": "NASA's Artemis II crew successfully splashed down in the Pacific Ocean off San Diego at 8:07 PM EDT last night — Mission Control called it 'a perfect bullseye splashdown.' Commander Reid Wiseman radioed that all four crew members are doing well. The crew — Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen — emerged from the Orion capsule to a burst of applause after their nearly 10-day journey around the Moon, the first crewed lunar mission in over 50 years. They broke Apollo 13's record for farthest human spaceflight at 248,655 miles from Earth. The crew was extracted by Navy helicopters and flown to the USS John P. Murtha for medical evaluations before heading to NASA's Johnson Space Center. NASA released unprecedented photos from the far side of the Moon. For creators: post-splashdown celebration content, 'what they saw' explainer videos using NASA's new photos, crew interview highlights, and science education content about reentry physics will all perform today. The emotional crew emergence moment is highly shareable.",
+      "categories": ["Science & Technology", "News & Current Events"],
+      "source": "Web",
+      "source_url": "https://www.space.com/space-exploration/artemis/artemis-2-astronauts-return-to-earth-ending-historic-moon-mission",
+      "trend_type": "news_event",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#ArtemisII", "#Splashdown", "#NASA", "#Moon", "#SpaceExploration", "#Orion", "#ArtemisGeneration", "#WelcomeHome"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["NASA", "Netflix", "Orion", "Artemis"],
+        "context": "Splashdown 8:07 PM EDT April 10. Perfect bullseye. All crew safe. Broke Apollo 13 distance record. First crewed lunar mission in 50+ years. Moon far side photos released.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "US-Iran Peace Talks BEGIN TODAY in Islamabad — Vance Arrives, Warns Iran 'Don't Try to Play Us,' Ceasefire Fragile with Lebanon Dispute",
+      "body": "Vice President JD Vance arrived in Islamabad today to lead the highest-level US-Iran talks since the 1979 revolution. He's joined by Special Envoy Steve Witkoff and Jared Kushner. Iran's delegation includes Parliament Speaker Mohammad Bagher Ghalibaf and Foreign Minister Abbas Araghchi. Pakistan army chief Asim Munir brokered the talks. Vance warned reporters: 'If the Iranians are willing to negotiate in good faith, we're certainly willing to extend the open hand' but added 'don't try to play us.' Key disputes remain: Lebanon inclusion (Iran says yes, US and Israel say no), uranium enrichment rights, and Strait of Hormuz control. Israeli strikes continue in southern Lebanon. A new ceasefire window from 1600 hours April 11 through end of April 12 is in effect. Polymarket prices a permanent peace deal at 39% by May 31. Critical juncture: US sanctions exemption on 30 Russia-connected oil tankers (19M barrels) expires TODAY. For creators: 'what the talks actually mean' explainers, Polymarket scandal breakdowns, geopolitical analysis, and oil price impact content will perform.",
+      "categories": ["News & Current Events", "Finance & Economy"],
+      "source": "Web",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks",
+      "trend_type": "news_event",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#IranCeasefire", "#JDVance", "#Islamabad", "#PeaceTalks", "#Iran", "#MiddleEast", "#StraitOfHormuz", "#Polymarket"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Polymarket"],
+        "context": "Vance in Islamabad. Highest-level US-Iran talks since 1979. Lebanon dispute. Oil tanker sanctions exemption expires today. Polymarket 39% permanent deal by May 31.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "National Pet Day TODAY — One of Social Media's Biggest Annual Engagement Days, #NationalPetDay Consistently Trends Across All Platforms",
+      "body": "National Pet Day is TODAY, Saturday April 11, and it is one of the most reliable annual engagement days on social media. The hashtags #NationalPetDay and #NationalPetDay2026 trend across every platform. Every audience has a pet story. The day was founded by animal welfare advocate Colleen Paige in 2006 and has grown into a major social media event, with brands, celebrities, and creators all participating. The additional hashtag #AdoptDontShop carries the day's advocacy message. Classic formats: pet portrait photo dumps, 'day in the life of my pet' vlogs, before/after adoption stories, pet outfit content, and 'if my pet could talk' voiceover trends. This pairs naturally with Coachella weekend — creators can combine festival and pet content ('who's watching my dog while I'm at Coachella'). Brands should feature pets in product content today. This is an extremely low-risk, high-reward content day.",
+      "categories": ["Holiday & Seasonal", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://nationaltoday.com/national-pet-day/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.99,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#NationalPetDay", "#NationalPetDay2026", "#AdoptDontShop", "#PetLove", "#DogsOfInstagram", "#CatsOfInstagram"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Annual social media megaday. Always trends. Low-risk high-reward. Pairs with Coachella weekend. #AdoptDontShop advocacy angle.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Tyson Fury vs Makhmudov TODAY on Netflix — Fury's Comeback at Tottenham Hotspur Stadium, Conor Benn Co-Main, Ringwalks After 10 PM GMT",
+      "body": "Tyson Fury returns to the ring TODAY in a massive homecoming heavyweight bout against Arslanbek Makhmudov at Tottenham Hotspur Stadium in London, streaming live on Netflix at 2 PM ET / 7 PM GMT. Fury (34-2-1, 24 KOs) faces the heavy-handed Russian-Canadian (21-2, 19 KOs) in what's framed as a must-win if Fury wants the Usyk trilogy. Ringwalks expected shortly after 10 PM GMT. The co-main event features Conor Benn vs Regis Prograis. The broadcast team includes Mauro Ranallo, Lennox Lewis, Laila Ali, Carl Froch, and Elle Duncan. This is Netflix's continued push into live sports. For creators: fight prediction content should go live this morning, live reaction streams during the bout, 'first time watching boxing' format for non-boxing audiences, and post-fight breakdown content. The Netflix angle means this reaches beyond the typical boxing audience.",
+      "categories": ["Sports & Entertainment"],
+      "source": "Web",
+      "source_url": "https://www.netflix.com/tudum/articles/tyson-fury-arslanbek-makhmudov-live-on-netflix",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.98,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FuryMakhmudov", "#TysonFury", "#Netflix", "#Boxing", "#HeavyweightBoxing", "#ConorBenn", "#TottenhamStadium"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Netflix", "Tottenham Hotspur Stadium"],
+        "context": "Fight TODAY. Netflix live 2 PM ET. Fury comeback. Tottenham Hotspur Stadium. Ringwalks after 10 PM GMT. Co-main Benn vs Prograis.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Premieres TOMORROW on HBO — Final Season, Zendaya Red Carpet Dominated Feeds, Euphoria Makeup Tutorials Peaking",
+      "body": "Euphoria Season 3 premieres tomorrow, Sunday April 12 at 9 PM ET on HBO and Max — the show's return after nearly four years and confirmed as the FINAL season. Eight episodes air weekly through May 31. Season 3 picks up five years later with the cast in adulthood, exploring 'the virtue of faith, the possibility of redemption, and the problem of evil.' Returning cast includes Zendaya, Hunter Schafer, Jacob Elordi, Sydney Sweeney, Alexa Demie, and Maude Apatow. The late Eric Dane also appears. The LA red carpet premiere sent shockwaves through fashion and beauty feeds. Early reviews from Variety call it 'entertaining but disjointed.' For creators: Euphoria-inspired makeup tutorials are peaking RIGHT NOW. Watch party setup content, character prediction videos, 'where we left off' recap content, and outfit recreation will all dominate. The Coachella fashion + Euphoria aesthetics crossover is a goldmine for beauty creators.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Beauty & Personal Care"],
+      "source": "Web",
+      "source_url": "https://collider.com/euphoria-season-3-hbo-controversial-drama-release-date-april-12-2026/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.98,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Euphoria", "#EuphoriaSeason3", "#Zendaya", "#SydneySweeney", "#HBO", "#EuphoriaFinale", "#EuphoriaMakeup"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HBO", "Max", "Euphoria"],
+        "context": "Premieres Sunday April 12 at 9 PM ET. Final season. Eight episodes through May 31. Five-year time jump. Makeup content peaking. Coachella x Euphoria crossover.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Super Mario Galaxy Movie Dominates Box Office — $191M 5-Day Opening, $373M Worldwide, Biggest Animated Franchise Debut of 2026",
+      "body": "The Super Mario Galaxy Movie from Illumination/Nintendo/Universal posted a massive $191M over its first five days ($130M traditional 3-day opening) from 4,252 theaters, making it the biggest opening of 2026 by far. Worldwide, the film has earned an estimated $373 million. Records broken: biggest Wednesday opening day ever in April, best animated opening of 2026, only animated franchise with two titles opening over $350M globally, and the 5th biggest global opening for any animated film. Zendaya's 'The Drama' debuted alongside it at $14M. The film is expected to hold strong this weekend with an estimated $60-70M second frame. For creators: family movie review content, Nintendo nostalgia content, 'Galaxy Movie vs original game' comparison videos, and kid-friendly reaction content will perform. Box office analysis and 'will it beat the first Mario movie' prediction content is also engaging.",
+      "categories": ["Sports & Entertainment", "Content Formats"],
+      "source": "Web",
+      "source_url": "https://variety.com/2026/film/box-office/super-mario-galaxy-movie-box-office-the-drama-impresses-1236708742/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SuperMarioGalaxyMovie", "#Mario", "#Nintendo", "#BoxOffice", "#MovieWeekend"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Nintendo", "Illumination", "Universal"],
+        "context": "$191M 5-day, $130M 3-day, $373M worldwide. Biggest 2026 opening. Second weekend expected $60-70M. Zendaya's The Drama debuted at $14M.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Afrika Bambaataa (1957-2026) — Hip-Hop Pioneer's Death Ignites Complex Legacy Debate, Community Deeply Divided",
+      "body": "Afrika Bambaataa, the Bronx-born DJ widely credited with pioneering hip-hop and founding the Universal Zulu Nation, died April 9 at age 67 (some sources report 68) from prostate cancer complications in Pennsylvania. His death has ignited one of the most complex legacy debates in music history. While credited with helping create hip-hop as a global movement — his 1982 track 'Planet Rock' defined electro-funk and influenced generations — Bambaataa faced multiple allegations of sexual abuse of teenagers. Universal Zulu Nation cut ties in 2016. He lost a civil case by default in 2025 after failing to appear in court. The hip-hop community is deeply divided: tributes from some, condemnation from others. For creators: historical retrospectives on hip-hop's origins, 'separating art from artist' discussion content, and Planet Rock music legacy videos will perform. Handle with extreme care — audiences will punish creators who minimize the allegations or appear tone-deaf.",
+      "categories": ["Sports & Entertainment", "News & Current Events"],
+      "source": "Web",
+      "source_url": "https://www.rollingstone.com/music/music-news/afrika-bambaataa-dead-obituary-1234868031/",
+      "trend_type": "news_event",
+      "confidence_score": 0.97,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AfrikaBambaataa", "#HipHop", "#RIP", "#PlanetRock", "#ZuluNation"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Died April 9. Hip-hop pioneer. Planet Rock. Universal Zulu Nation founder. Sexual abuse allegations. Lost civil case 2025. Deeply divided community response.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Markets Snapshot: Oil Tanker Sanctions Exemption Expires TODAY, Bitcoin $72K, S&P on 7-Day Winning Streak, Polymarket Under Congressional Investigation",
+      "body": "Critical market juncture today: the US exemption on 30 Russia-connected oil tankers carrying 19 million barrels expires April 11, potentially disrupting supply chains. Bitcoin trades above $72K on ceasefire optimism. The S&P 500 extended gains for a seventh consecutive session. Brent oil dropped 13-15% on the ceasefire announcement but remains elevated. Polymarket faces a Congressional firestorm — at least 50 new accounts placed large ceasefire bets minutes before Trump's announcement. Harvard researchers estimate $143M in insider-timed profits. Rep. Torres and Sen. Blumenthal demand a CFTC investigation. The White House warned its own staff against prediction market trading. Q4 2025 earnings were strong: S&P 500 revenues +9.3%, earnings +13.7%. For creators: 'what happens when the oil exemption expires' explainer content, Polymarket insider trading scandal breakdowns, crypto market analysis, and personal finance content about navigating geopolitical uncertainty will all perform.",
+      "categories": ["Finance & Economy", "News & Current Events"],
+      "source": "Web",
+      "source_url": "https://www.coindesk.com/markets/2026/04/09/bitcoin-s-next-big-move-hinges-on-oil-and-right-now-it-s-a-total-coin-flip",
+      "trend_type": "news_event",
+      "confidence_score": 0.96,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#OilPrices", "#Bitcoin", "#StockMarket", "#Polymarket", "#CFTC", "#SP500", "#CryptoNews"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Polymarket", "Bitcoin"],
+        "context": "Oil tanker sanctions exemption expires today. Bitcoin $72K. S&P 7-day streak. Polymarket Congressional investigation. $143M insider profits alleged. Brent dropped 13-15% on ceasefire.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "TikTok Audio Trends Update: 'Self Aware' Cinematic Audio, Don Toliver 'E85' for Lifestyle, Rihanna 'Kiss It Better' Revival, Creator-Led Conversion Rising",
+      "body": "TikTok audio trends continue to shift in mid-April 2026. The 'Self Aware' audio powers reflective, cinematic content with aesthetic visuals and thoughtful text overlays — calm, confident, and quietly empowering. Don Toliver's 'E85' pairs smooth atmospheric vibes with lifestyle, travel, and fashion content. Rihanna's 'Kiss It Better' is having a revival on FYP, working for POV, aesthetic, and storytelling posts. 'Rein Me In' trends for emotional storytelling, relationship content, and 'soft life' moments. Beyond audio: TikTok search now accounts for 49% of multi-modal search behavior. Roughly 75% of agencies report smaller creators with niche audiences outperform celebrities in engagement and ROI. Instagram is testing clickable caption links for Meta Verified creators (up to 10 posts/month). The 'Admin Night' content format (documenting mundane tasks) and skinimalism beauty movement continue gaining momentum from last week.",
+      "categories": ["Content Formats", "Beauty & Personal Care"],
+      "source": "Web",
+      "source_url": "https://tokchart.com/",
+      "trend_type": "emerging_trend",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TikTokTrends", "#SelfAware", "#E85", "#KissItBetter", "#AdminNight", "#Skinimalism", "#CreatorEconomy"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Instagram", "Meta", "Don Toliver", "Rihanna"],
+        "context": "Self Aware audio for cinematic content. E85 for lifestyle. Kiss It Better revival. TikTok search at 49%. Niche creators outperform celebrities. Instagram testing caption links.",
+        "price_point": null
+      }
+    }
+  ]
+}

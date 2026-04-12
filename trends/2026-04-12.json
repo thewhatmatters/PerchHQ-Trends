@@ -1,0 +1,280 @@
+{
+  "batch_id": "trends-2026-04-12",
+  "scraped_at": "2026-04-12T10:00:00Z",
+  "expires_at": "2026-04-15T10:00:00Z",
+  "trends": [
+    {
+      "headline": "US-Iran Peace Talks in Islamabad Collapse After 21-Hour Marathon Session — Vance Returns Without Deal, War's Future Uncertain",
+      "body": "Vice President JD Vance's 21-hour marathon peace negotiation with Iran in Islamabad ended without a deal early Sunday morning, leaving the future of the six-week US-Iran conflict uncertain. The talks — the first face-to-face engagement between the US and Iran since 2015 — were brokered by Pakistan during a two-week ceasefire that halted 40 days of US-Israeli attacks on Iran. The US delegation of nearly 300 members was led by Vance with envoy Steve Witkoff and adviser Jared Kushner. Iran's 70-member delegation was led by parliamentary speaker Ghalibaf and FM Araghchi. The failure to reach a permanent ceasefire raises questions about whether hostilities will resume when the truce expires. For creators: explainer content on what happens next, geopolitical analysis of Pakistan's mediator role, and impact-on-markets coverage will perform strongly today.",
+      "categories": ["News & Current Events", "Politics & Geopolitics"],
+      "source": "Web (NPR, CNN, Al Jazeera, CNBC)",
+      "source_url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-peace-talks-us-iran",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#IranUSTalks", "#Islamabad", "#Ceasefire", "#MiddleEast", "#Vance", "#Iran"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["NPR", "CNN", "Al Jazeera", "CNBC"],
+        "context": "21-hour talks ended without deal. First US-Iran face-to-face since 2015. Two-week ceasefire still active but future uncertain. Vance returning to US.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Coachella 2026 Day 3 TODAY — Karol G Makes History as First Latina Headliner Tonight, Bieber's Day 2 Set Still Buzzing, Carpenter's 'Sabrinawood' Went Viral",
+      "body": "Coachella 2026 Weekend 1 wraps up today with Karol G making history as the first Latina artist to headline the festival, performing at approximately 9:55 PM on the main stage. Sunday's stacked lineup includes Young Thug, Fatboy Slim, BIGBANG, Laufey, Major Lazer, Iggy Pop, FKA twigs, Wet Leg, Clipse, Little Simz, and Armin van Buuren. Justin Bieber's Saturday night headline set — his first major performance in years — is still dominating social feeds. Sabrina Carpenter's Friday 'Sabrinawood' set with cameos from Sam Elliott, Susan Sarandon, and Will Ferrell broke the internet on Night 1. YouTube is livestreaming all 7 stages in 4K. For creators: Karol G anticipation content, Day 3 outfit inspo, Bieber recap reactions, and weekend wrap-up compilations should go live NOW.",
+      "categories": ["Sports & Entertainment", "Fashion & Apparel", "Content Formats"],
+      "source": "Web (Timeout, Variety, NME, Wikipedia)",
+      "source_url": "https://www.timeout.com/los-angeles/news/karol-g-at-coachella-2026-start-time-and-everything-to-know-041226",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#KarolG", "#JustinBieber", "#SabrinaCarpenter", "#Sabrinawood", "#FestivalFashion", "#YoungThug"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube", "Karol G", "Justin Bieber", "Sabrina Carpenter"],
+        "context": "Day 3 Sunday. Karol G first Latina headliner ever. Bieber Day 2 headline still trending. Carpenter's Sabrinawood viral. YouTube 4K all 7 stages.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Premieres TONIGHT on HBO — Zendaya Returns After 4-Year Hiatus, Likely Final Season, TikTok Bracing for Content Explosion",
+      "body": "Euphoria Season 3 premieres tonight at 9 PM ET on HBO and HBO Max, ending a four-year wait that has built massive pent-up demand. All main cast members return — Zendaya, Hunter Schafer, Jacob Elordi, Sydney Sweeney, Eric Dane — with the story picking up five years after Season 2 as the characters navigate adult life beyond East Highland High. Zendaya confirmed on The Drew Barrymore Show this week that this is likely the final season. Eight episodes will air weekly through the May 31 finale. TikTok is already bracing for weeks of reaction content — character-specific edits, outfit recreations, quote-based audio trends, and post-episode analysis. For creators: premiere night reaction content, character arc prediction videos, fashion breakdowns, and nostalgia comparison content (S1 vs S3) will dominate feeds for weeks.",
+      "categories": ["Sports & Entertainment", "Content Formats", "Fashion & Apparel"],
+      "source": "Web (Timeout, Variety, ShowSnob, Hollywood Life)",
+      "source_url": "https://www.timeout.com/usa/news/heres-everything-to-know-about-season-3-of-euphoria-returning-april-12-040626",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Euphoria", "#EuphoriaS3", "#Zendaya", "#HBO", "#HBOMax", "#SydneySweeney", "#JacobElordi"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["HBO", "HBO Max", "Euphoria", "Zendaya"],
+        "context": "Premieres tonight 9PM ET. 4-year hiatus. Likely final season per Zendaya. 8 episodes through May 31. TikTok content explosion expected.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "BTS 'Arirang' Album Dominates Charts — '2.0' Oldboy-Inspired Music Video Goes Viral, 'Swim' Debuts #1 on Hot 100, Album Blocks Kanye from Billboard #1",
+      "body": "BTS's fifth LP 'Arirang' continues its chart domination with 14 tracks debuting on the Billboard Hot 100, led by 'Swim' at #1. The '2.0' music video — an Oldboy-inspired visual featuring the septet fighting thugs in a dark corridor using dance moves instead of weapons — has gone viral with 10 million views in 16 hours. The album blocked Kanye West's 'Bully' from the #1 spot on the Billboard 200, marking the first time since 'The College Dropout' that a Kanye solo album didn't debut at #1. The '2.0' video draws from Park Chan-wook's iconic one-shot hallway fight, reinterpreted through K-pop choreography. For creators: reaction videos to the Oldboy reference, dance cover attempts of the corridor choreography, and BTS vs Kanye chart battle analysis content are performing strongly.",
+      "categories": ["Sports & Entertainment", "Content Formats"],
+      "source": "Web (Billboard, Korea Herald, Rolling Stone India)",
+      "source_url": "https://www.billboard.com/music/music-news/bts-2-0-music-video-inspiration-movie-oldboy-dance-moves-1236212788/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BTS", "#Arirang", "#BTS2point0", "#Swim", "#KPop", "#Billboard"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["BTS", "HYBE", "Billboard"],
+        "context": "Arirang debuted #1 Billboard 200. Swim #1 Hot 100. 2.0 MV 10M views in 16 hours. Blocked Kanye's Bully from #1.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Kanye West 'Bully' Album Divides Critics — Debuts #2 Behind BTS, Pitchfork Gives 3.4/10, Tour Dates Announced April-August",
+      "body": "Kanye West's twelfth solo album 'Bully' debuted at #2 on the Billboard 200 with 152K-201K units (disputed between official charts and distributor Gamma), blocked from #1 by BTS's 'Arirang.' The album has drawn sharply mixed reviews — Pitchfork rated it 3.4/10, calling it 'underwritten' and 'a cheap hit of retro-Kanye.' Features include Travis Scott, CeeLo Green, and Peso Pluma. Multiple tracks were removed from streaming platforms shortly after release. Bianca Censori directed the 'Father' music video featuring Travis Scott. West announced a tour running April to August 2026. For creators: album review content, track-by-track breakdowns, the BTS chart battle narrative, and removed-tracks investigation content are all driving engagement.",
+      "categories": ["Sports & Entertainment", "Content Formats"],
+      "source": "Web (Complex, Billboard, Digital Music News, Pitchfork)",
+      "source_url": "https://www.complex.com/music/a/alex-ocho/kanye-west-ye-bully-first-week-numbers",
+      "trend_type": "product_launch",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#KanyeWest", "#Ye", "#Bully", "#TravisScott", "#PesoPluma"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Kanye West", "Gamma", "YZY"],
+        "context": "Debuted #2 behind BTS. 152K-201K units disputed. Pitchfork 3.4/10. Tracks removed from DSPs. Tour Apr-Aug 2026.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Google Gemma 4 Released — Open-Source AI Model Ranks #3 Globally, Runs On-Device, Apache 2.0 License, Built on Gemini 3 Tech",
+      "body": "Google released Gemma 4 on April 2, described as the most intelligent open model family to date. The 31B dense model ranks #3 on the Arena AI text leaderboard. Available in four sizes (E2B, E4B, 26B MoE, 31B Dense), all under Apache 2.0 license. All models natively process video and images with variable resolution support; edge models (E2B, E4B) feature native audio input. Context windows range from 128K (edge) to 256K (larger models). Built on the same technology as Gemini 3, Gemma 4 is purpose-built for reasoning and agentic workflows. Already generating significant HN discussion around local Ollama setups on Mac Mini hardware. For creators: hands-on benchmark comparisons, local setup tutorials, and 'Gemma 4 vs [other model]' content will perform well in tech circles.",
+      "categories": ["Science & Technology", "AI & Machine Learning"],
+      "source": "Web (Google Blog, HuggingFace, Hacker News)",
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+      "trend_type": "product_launch",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Gemma4", "#GoogleAI", "#OpenSource", "#AI", "#LLM", "#OnDeviceAI"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Google", "Google DeepMind", "Ollama", "HuggingFace"],
+        "context": "Released April 2. 31B ranks #3 open model globally. Apache 2.0. Native video/image/audio. Up to 256K context. Built on Gemini 3 tech.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "A24's 'Backrooms' Trailer Drops — Internet Horror Phenomenon Becomes Film, 7.4M Views in 24 Hours, Youngest A24 Director Ever",
+      "body": "A24 released the full trailer for 'Backrooms,' a sci-fi horror film based on creator Kane Parsons' viral YouTube found-footage universe. The trailer has racked up 7.4 million views since dropping. Parsons, who signed with A24 at just 19, is the youngest filmmaker ever to collaborate with the studio. The film stars Renate Reinsve and Chiwetel Ejiofor, with Mark Duplass, Finn Bennett, and Avan Jogia. The trailer shows endless yellow hallways, flickering lights, and overwhelming isolation — leaning on unease over jump scares. Set for US release on May 29, 2026. For creators: reaction videos, lore explainers connecting the YouTube series to the film, and 'internet creepypasta to Hollywood' essays will perform. Horror community is buzzing.",
+      "categories": ["Sports & Entertainment", "Content Formats"],
+      "source": "Web (Variety, Slash Film, Boing Boing)",
+      "source_url": "https://variety.com/2026/film/news/backrooms-trailer-horror-youtube-a24-1236670649/",
+      "trend_type": "product_launch",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Backrooms", "#A24", "#Horror", "#BackroomsMovie"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["A24", "YouTube"],
+        "context": "Trailer 7.4M views. Director Kane Parsons youngest A24 collaborator at 19. Stars Reinsve, Ejiofor. Release May 29. Based on viral YouTube horror.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Bangladesh Measles Crisis — 130+ Children Dead in 6 Weeks, Emergency Vaccination Campaign Expanding to Cities Today, WHO/UNICEF Mobilized",
+      "body": "Bangladesh is facing its worst measles outbreak in a decade, with at least 130 children reported dead and over 6,400 infected across 56 districts. The outbreak, which started in mid-March 2026, has been attributed to vaccine shortages, COVID-era disruption of immunization programs, and the interim government's neglect of vaccination programs. The government launched an emergency measles-rubella vaccination campaign on April 5 targeting 1.2 million children in 30 high-risk upazilas, with UNICEF, WHO, and Gavi support. The campaign expands to four City Corporations starting today (April 12) and goes nationwide from May 3. For creators: public health awareness content, data visualization of outbreak spread, and vaccine equity discussion content will be important and timely.",
+      "categories": ["Health & Wellness", "News & Current Events"],
+      "source": "Web (Al Jazeera, Washington Post, Daily Star, UNICEF)",
+      "source_url": "https://www.aljazeera.com/news/2026/4/5/suspected-measles-outbreak-kills-nearly-100-children-in-bangladesh",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Bangladesh", "#Measles", "#Vaccination", "#PublicHealth", "#UNICEF", "#WHO"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["UNICEF", "WHO", "Gavi"],
+        "context": "130+ children dead. 6,400+ infected across 56 districts. Emergency vaccination campaign expanding to cities today April 12. Nationwide from May 3.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "TikTok Audio Trends Exploding This Week — Altégo 'Bass Down Low' Remix Powers Brand Intros, Azealia Banks '212' Drives Box Step Format, Euphoria Content Incoming",
+      "body": "TikTok's top trending audio in April 2026 is dominated by the Altégo remix of Dev's 'Bass Down Low' (powering the 'If You Wanna Get With Me' brand intro trend), Azealia Banks' '212' instrumental (driving the 'Oh Ok Because' box step wordplay format), and Harry Styles' 'Kiss All the Time' carryover. Additional trending formats include 'Switching AirPods' (fit check trend), 'I just hit the jackpot' (viral rap meme), 'Pickle dip' (recipe trend with cream cheese/yogurt/dill pickles), and 'Primadonna Girl' (glow-up trend). Coachella GRWM content and Euphoria S3 reactions are expected to dominate for the next two weeks. Silent Dubai aesthetics and AI-generated Seedance 2.0 videos are emerging formats. For creators: jump on the Altégo audio for brand intros and prepare Euphoria reaction templates NOW.",
+      "categories": ["Content Formats", "Social Media Trends"],
+      "source": "Web (Ramd.am, NewEngen, TokChart, InflowNetwork)",
+      "source_url": "https://newengen.com/insights/april-2026-tiktok-trends/",
+      "trend_type": "emerging_trend",
+      "confidence_score": 0.93,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TikTokTrends", "#BassDownLow", "#Altego", "#212", "#FitCheck", "#PickleDip", "#Euphoria"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["TikTok"],
+        "context": "Top audio: Altégo Bass Down Low remix, Azealia Banks 212, Harry Styles Kiss All the Time. Coachella + Euphoria content explosion expected.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Tariffs & Trade War Update — Supreme Court Struck Down IEEPA Tariffs, Section 122 Interim 10% Tariff Active, US Average Effective Rate at 11% (Highest Since 1943)",
+      "body": "The US tariff landscape remains in flux after the Supreme Court struck down Trump's IEEPA tariffs on February 20. The administration invoked Section 122 to impose an interim 10% blanket tariff expiring in 150 days unless extended by Congress. The US average effective tariff rate stands at 11.0%, the highest since 1943. US-China tariffs peaked at 145% (US on Chinese goods) and 125% (Chinese counter-duties) before a Geneva truce removed most duties. The $700 average tax increase per household has driven price increases — P&G raised prices on 25% of products citing $1B in annual tariff impact. The Iran conflict is now constraining further tariff escalation as stickier inflation limits policy options. For creators: consumer impact explainers, 'what the Section 122 expiration means for prices' content, and auto industry tariff impact stories are timely.",
+      "categories": ["Business & Economy", "News & Current Events"],
+      "source": "Web (Tax Foundation, CNBC, Yale Budget Lab, SCMP)",
+      "source_url": "https://taxfoundation.org/research/all/federal/trump-tariffs-trade-war/",
+      "trend_type": "ongoing_story",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Tariffs", "#TradeWar", "#Economy", "#Inflation"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["Procter & Gamble"],
+        "context": "IEEPA tariffs struck down by SCOTUS. Section 122 interim 10% active. 11% effective rate highest since 1943. $700/household avg increase. Iran war constraining further escalation.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Polymarket: Democrats 85.5% to Win House, 53.5% Senate Edge — Record 36 GOP Retirements Reshaping 2026 Midterm Odds",
+      "body": "Polymarket's 2026 midterm election markets show Democrats at 85.5% implied probability to win House control, driven by a record 36 Republican retirements creating an unusually favorable map. Democrats hold a narrower 53.5% edge for Senate control, reflecting tight polling in nine battleground races. Other active markets: FIFA World Cup 2026 winner (Spain at 16%), Eurovision 2026 Top 3, and Seoul Mayoral Election (Chong Won-oh at 87%). Total trading volume across 2026 predictions exceeds $825M. For creators: midterm prediction content, 'what the retirement wave means' explainers, and prediction market methodology content are timely as election season approaches.",
+      "categories": ["Politics & Geopolitics", "Business & Economy"],
+      "source": "Polymarket",
+      "source_url": "https://polymarket.com/predictions/2026-predictions",
+      "trend_type": "ongoing_story",
+      "confidence_score": 0.93,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Polymarket", "#Midterms2026", "#Democrats", "#Republicans", "#PredictionMarkets"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["Polymarket"],
+        "context": "Dems 85.5% House, 53.5% Senate. 36 GOP retirements. $825M+ trading volume on 2026 predictions. 110 active markets.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Bluesky Publishes Post-Mortem on Worst-Ever Outage — Go Runtime Death Spiral, Memcache Logging Cascade Took Down Half of Users for 8 Hours",
+      "body": "Bluesky published a detailed post-mortem on its April 7 outage that affected roughly half of all users for about 8 hours. The root cause was a death spiral triggered by memcache errors: millions of blocking log write syscalls caused the Go runtime to spawn 10x more OS threads than normal, which overwhelmed the garbage collector with massive stop-the-world GC pauses, stalling all requests. The fix involved a custom dialer using random loopback IPs to avoid ephemeral port exhaustion. The HN discussion praised the transparency of the post-mortem. Bluesky recently raised $100M in a Series B and has been growing rapidly as an alternative social platform. For creators: engineering post-mortem breakdowns, 'what is a death spiral' explainer content, and distributed systems educational content are niche but high-engagement in tech circles.",
+      "categories": ["Science & Technology", "Social Media Trends"],
+      "source": "Hacker News, Bluesky Blog",
+      "source_url": "https://news.ycombinator.com/item?id=47719975",
+      "trend_type": "tech_news",
+      "confidence_score": 0.90,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Bluesky", "#PostMortem", "#GoLang", "#Engineering", "#ATProtocol"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["Bluesky"],
+        "context": "April 7 outage. 8 hours, 50% of users affected. Go runtime death spiral from memcache logging. $100M Series B recent. Praised for transparency.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "UCLA Women's Basketball Dynasty Crowned — First NCAA Championship, 79-51 Blowout of South Carolina, 37-1 Season, Lauren Betts Named MOP",
+      "body": "UCLA won its first NCAA women's basketball championship on April 5 with a dominant 79-51 victory over South Carolina — the third-largest margin in title game history. The Bruins finished 37-1 overall with a perfect 18-0 Big Ten record and a 31-game winning streak. Five players scored in double figures: Gabriela Jaquez (21 pts), Gianna Kneepkens (15 pts), Lauren Betts (14 pts, 11 reb — named MOP and Naismith Lisa Leslie Award winner), Charlisse Leger-Walker (10 pts), and Kiki Rice (10 pts). Coach Cori Close's 15th-season triumph. The victory is UCLA's second women's basketball national title (first was 1978 AIAW). For creators: championship celebration content, Betts highlight reels, and women's basketball parity discussion content are still driving engagement a week later.",
+      "categories": ["Sports & Entertainment"],
+      "source": "Web (NCAA, ESPN, NPR, PBS)",
+      "source_url": "https://www.ncaa.com/news/basketball-women/article/2026-04-05/ucla-wins-2026-di-womens-basketball-championship",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#UCLA", "#MarchMadness", "#NCAAWBB", "#GoBruins", "#LaurenBetts"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["UCLA", "NCAA", "Big Ten"],
+        "context": "Won April 5. 79-51 over South Carolina. 37-1 season. Betts MOP. 31-game win streak. Coach Close 15th season. 3rd largest margin in title game history.",
+        "price_point": null
+      }
+    }
+  ]
+}

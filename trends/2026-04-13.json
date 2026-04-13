@@ -1,0 +1,175 @@
+{
+  "batch_id": "trends-2026-04-13",
+  "scraped_at": "2026-04-13T10:00:00Z",
+  "expires_at": "2026-04-16T10:00:00Z",
+  "trends": [
+    {
+      "headline": "US Begins Blockade of Iranian Ports — Oil Surges Past $100, Iran Calls It 'Piracy', Potential $200/Barrel Warned",
+      "body": "The US Navy began blockading all maritime traffic entering and exiting Iranian ports at 10am ET today, following the collapse of the Islamabad peace talks this weekend. President Trump announced the blockade after Vice President Vance's 21-hour marathon negotiations ended without a deal. CENTCOM clarified the blockade applies only to Iranian ports — not freedom of navigation through the Strait of Hormuz itself — but Iran called the action 'illegal' and 'an act of piracy.' Oil prices surged immediately: US crude jumped 8% to $104.8/barrel, Brent crude rose 7.4% to $102.2. Analysts at Bloomberg warn prices could spike to $200/barrel in a prolonged scenario. The European Central Bank warned of stagflation risk in major energy-dependent economies by year-end. The two-week ceasefire technically remains 'holding well' per Trump, but hostilities could resume at any moment. For creators: live economic impact content, household cost breakdowns, 'what the blockade means for gas prices' explainers, and geopolitical analysis will dominate today's feeds.",
+      "categories": ["News & Current Events", "Business & Economy", "Politics & Geopolitics"],
+      "source": "Web (CNN, NBC News, Al Jazeera, CNBC, Bloomberg)",
+      "source_url": "https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#IranBlockade", "#StraitOfHormuz", "#OilPrices", "#IranWar", "#Trump", "#GasPrices"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["CENTCOM", "CNBC", "Bloomberg", "ECB"],
+        "context": "Blockade started 10am ET today. WTI at $104.8, Brent at $102.2. Iran called it piracy. CENTCOM: applies to Iranian ports, not all Hormuz traffic. Ceasefire technically active. $200/barrel risk flagged.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Viktor Orbán Concedes Hungary Election After 16 Years — Peter Magyar Wins Landslide, EU Celebrates, Putin Loses Key EU Ally",
+      "body": "Hungary's longtime Prime Minister Viktor Orbán conceded defeat Sunday night after what he called a 'painful' election result, ending 16 years in power. Peter Magyar's Tisza party secured 138 of 199 parliamentary seats (53.6% of the vote) vs. Fidesz's 55 seats (37.8%). Voter turnout hit a record-setting 80%, the highest in post-Communist Hungary's history. Magyar, a former Orbán insider who turned whistleblower, campaigned on anti-corruption, healthcare, and public transport — and pledged to rebuild Hungary's frayed ties with the EU and NATO. The result ripples globally: Orbán was the longest-serving EU leader and Trump's closest European ally; his exit deprives Putin of his main EU champion. MAGA circles are in shock. EU leadership welcomed the result as a historic rebalancing. For creators: 'what Orbán's fall means for Europe' explainers, MAGA reaction content, EU-NATO implications analysis, and Magyar's anti-corruption story are all high-engagement topics today.",
+      "categories": ["Politics & Geopolitics", "News & Current Events"],
+      "source": "Web (CNN, Al Jazeera, NPR, Time, Axios, CBC)",
+      "source_url": "https://www.aljazeera.com/news/2026/4/12/peter-magyar-wins-hungary-election-unseating-viktor-orban-after-16-years",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Hungary", "#Orban", "#PeterMagyar", "#Tisza", "#EU", "#NATO", "#Europe"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["CNN", "Al Jazeera", "NPR"],
+        "context": "Magyar 138/199 seats, 53.6% vote. Record 80% turnout. Orbán 'painful' concession. Magyar pledges EU/NATO repair. Trump's main EU ally gone. Putin loses key EU voice.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Premieres to Divided Reactions — 6.8 IMDb, 56% RT, Sweeney Controversy Dominates Social Media",
+      "body": "Euphoria Season 3 premiered last night on HBO to a split critical and audience response after a four-year wait. The show holds a 56% Tomatometer score on Rotten Tomatoes and a 6.8/10 IMDb rating — the lowest-rated episode in series history. Critics universally praise Zendaya's performance but disagree on nearly everything else. The most viral social moment: Sydney Sweeney's character Cassie has become a right-wing OnlyFans creator, with a scene showing her in a diaper-and-pacifier costume generating significant backlash and boycott threats. The show's Western-noir tonal shift and five-years-later time jump (Nate owns a Cybertruck, Fez is in jail, Rue and Faye are drug mules) has divided the fandom. Deadline's recap called it 'A Wild, Western Turn.' Labrinth's absence from the soundtrack has also generated negative reaction on social. Despite mixed reviews, TikTok is flooded with character arc analysis, Zendaya edits, and costume recreations. Eight episodes run through May 31. For creators: reaction videos, character breakdown content, the Cassie OnlyFans controversy, and 'is Euphoria still good?' debate content are all driving high engagement right now.",
+      "categories": ["Sports & Entertainment", "Content Formats", "Social Media Trends"],
+      "source": "Web (Variety, The Wrap, Deadline, Rotten Tomatoes, Gulf News, Slash Film)",
+      "source_url": "https://variety.com/2026/tv/reviews/euphoria-season-3-review-hbo-1236710893/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Euphoria", "#EuphoriaS3", "#Zendaya", "#SydneySweeney", "#HBO", "#EuphoriaS3Premiere"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["HBO", "HBO Max", "Rotten Tomatoes"],
+        "context": "Season 3 premiered April 12 at 9PM ET. 56% RT, 6.8 IMDb. Zendaya universally praised. Sweeney diaper scene sparking boycott. Western tone shift divides fans. Labrinth absent. 8 episodes through May 31.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Karol G Closes Coachella Weekend 1 as First Latina Headliner — ICE Warning Controversy, Community Dedication, Historic Set",
+      "body": "Karol G made history Sunday night as the first Latina artist to headline Coachella's main stage, delivering an electrifying two-hour set and bringing out Becky G, Mariah Angeliq, and Wisin. At the climax, she declared: 'I am Carolina Giraldo from Medellin, Colombia, and today I am the first Latina woman to headline Coachella.' The set carried significant political weight: Karol G was reportedly warned by sources that speaking out against ICE could jeopardize her visa, leading to pre-show controversy about self-censorship vs. safety. She chose to channel her advocacy into a broader community message rather than a direct 'ICE Out' chant. Her foundation's ongoing immigrant support work was cited as the more meaningful impact. Social media is flooded with the performance's highlights alongside Coachella Weekend 1 recap content spanning Sabrina Carpenter's 'Sabrinawood' viral set (Friday), Bieber's laptop-set controversy (Saturday), and Karol G's historic close. Weekend 2 starts next Friday. For creators: Karol G historic moment recap, ICE/immigration advocacy angle, Coachella Weekend 1 full recap, and 'who's performing at Weekend 2' preview content are all performing strongly.",
+      "categories": ["Sports & Entertainment", "Content Formats", "Social Media Trends"],
+      "source": "Web (ABC7, Hollywood Reporter, KRON4, Newsweek, Art Threat)",
+      "source_url": "https://www.hollywoodreporter.com/music/music-news/karol-g-coachella-2026-performance-1236562192/",
+      "trend_type": "cultural_moment",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#KarolG", "#Coachella2026", "#FirstLatinaHeadliner", "#BeckyG", "#Coachella", "#ICE", "#Immigration"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Coachella", "YouTube"],
+        "context": "First Latina Coachella headliner ever. Featured Becky G, Mariah Angeliq, Wisin. ICE visa warning controversy. Community dedication message. Weekend 1 also featured Carpenter's Sabrinawood and Bieber laptop controversy.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Iran-Linked Hackers Escalate Attacks on US Critical Infrastructure — CISA/FBI Alert, OpenAI Stargate Datacenter Threatened",
+      "body": "The FBI, NSA, CISA, and US Department of Energy issued a joint advisory warning that Iranian government-linked hackers are targeting American critical infrastructure across water/wastewater utilities, energy systems, and local government facilities by exploiting internet-facing PLCs and industrial control systems. In a more dramatic development, Iran's IRGC released a satellite imagery video threatening to destroy OpenAI's $30B Stargate AI data center in Abu Dhabi — the 1GW facility that is the flagship of OpenAI's global expansion — calling US tech companies 'legitimate targets.' Iran has threatened more than 17 major US tech companies operating in the Middle East, including Amazon, Google, Microsoft, NVIDIA, and IBM. The cyber dimension of the conflict is accelerating alongside the physical blockade. For creators: critical infrastructure vulnerability explainers, 'what is an ICS/SCADA attack,' the AI data center war angle, and cybersecurity preparedness content will perform strongly in tech communities and general news audiences.",
+      "categories": ["Science & Technology", "News & Current Events", "AI & Machine Learning"],
+      "source": "Web (The Hacker News, TechCrunch, Tom's Hardware, Cybersecurity Dive, Nextgov)",
+      "source_url": "https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Cybersecurity", "#Iran", "#CriticalInfrastructure", "#CISA", "#OpenAI", "#Stargate", "#ICS"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["OpenAI", "CISA", "FBI", "NSA", "Amazon", "Google", "Microsoft", "NVIDIA"],
+        "context": "FBI/NSA/CISA joint advisory on ICS/PLC attacks. Iran threatening OpenAI's $30B Stargate 1GW datacenter in Abu Dhabi. 17 US tech companies called 'legitimate targets.' Iran-linked actors using Dropbear/SSH access.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Oil Tops $100 as Hormuz Blockade Begins — Gas at $4/Gallon, ECB Warns Stagflation, Analysts Warn of $200/Barrel Risk",
+      "body": "The US naval blockade of Iranian ports has sent global energy markets into a sharp upswing, with WTI crude surpassing $104 and Brent crude breaking $102 — the first time both benchmarks have topped $100 simultaneously since the early days of the conflict. US gas prices have risen 30% since the Iran war began in late February, now averaging above $4 per gallon nationally. The Strait facilitates ~20 million barrels of oil daily (roughly 20% of global seaborne oil trade), primarily from Saudi Arabia, UAE, Iraq, and Qatar. With Iranian vessel traffic restricted by 90%+ from normal levels, energy and food price cascades are rippling across developing economies. The European Central Bank warned that prolonged conflict will likely trigger stagflation and push Germany and Italy into technical recession by year-end. Wall Street analysts are openly modeling $200/barrel scenarios. P&G, which previously flagged $1B annual tariff impact, is facing compounding supply chain pressure. For creators: 'what $100 oil means for you,' cost-of-living breakdown content, and economic resilience/prep content are resonating with audiences across all demographics.",
+      "categories": ["Business & Economy", "News & Current Events"],
+      "source": "Web (CNBC, CNN Business, Al Jazeera, Bloomberg, NBC News)",
+      "source_url": "https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran",
+      "trend_type": "ongoing_story",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#OilPrices", "#GasPrices", "#Iran", "#Economy", "#Inflation", "#Stagflation"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["ECB", "OPEC", "Bloomberg", "Procter & Gamble"],
+        "context": "WTI $104.8, Brent $102.2 as of this morning. Gas up 30% since war started, avg $4/gallon. 20M bbl/day at risk. ECB warns stagflation for Germany/Italy by year-end. $200/barrel modeled by analysts.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Polymarket: 64.5% Chance Hormuz Traffic Normal by May 31 — Iran Peace Odds, Midterm Markets, Oil Prediction Surge",
+      "body": "Polymarket's Iran-related prediction markets have seen explosive trading volume following today's blockade announcement. The flagship market — 'Strait of Hormuz traffic returns to normal by end of May' — sits at 64.5% Yes, suggesting traders still believe de-escalation is the most likely path, though prices are moving rapidly. Earlier markets on whether Iran itself would close the Strait show near-0% probability for that outcome, as the US-initiated blockade is a distinct scenario. The 2026 midterm election markets remain active: Democrats at 85.5% to win the House (driven by 36 GOP retirements) and 53.5% for the Senate. Oil price prediction markets are seeing new volume as traders bet on whether WTI will exceed $120 or $150 before summer. For creators: 'how prediction markets see the Iran crisis' explainer content, 'are Polymarket bettors usually right,' and midterm election forecast content are niche but high-engagement.",
+      "categories": ["Business & Economy", "Politics & Geopolitics"],
+      "source": "Polymarket",
+      "source_url": "https://polymarket.com/iran/strait-of-hormuz",
+      "trend_type": "ongoing_story",
+      "confidence_score": 0.90,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Polymarket", "#PredictionMarkets", "#IranWar", "#Hormuz", "#Midterms2026"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["Polymarket"],
+        "context": "Hormuz normal by May 31: 64.5% Yes. Iran close Hormuz: near 0%. Dems 85.5% House, 53.5% Senate. New oil price markets spiking in volume. Traders see de-escalation as most likely path despite today's blockade.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Euphoria TikTok Explosion Underway — Cassie Controversy, 'Laurie' Villain Audios, and Character Arc Edits Flood For You Page",
+      "body": "Following last night's Euphoria Season 3 premiere, TikTok is already producing waves of reaction content. The top trending sounds include Martha Kelly's 'Hello, Rue. You owe me money' (villain Laurie's iconic line from the trailer and opening episode), audio pulls from Cassie's OnlyFans scenes, and remixed Euphoria-era Labrinth tracks. The 'What's your character arc this season' trend format — where creators assign themselves a character's Season 3 fate — is gaining traction. Meanwhile, lingering Coachella Weekend 1 content continues: Karol G's 'I am the first Latina to headline Coachella' speech clip is being used as an audio backdrop for empowerment content. Color hunting challenge and nostalgic Snapchat-filter throwback formats remain strong non-event formats. Creators preparing Euphoria outfit recreations, room makeovers inspired by Rue's new aesthetic, and 'Euphoria character personality test' content are early movers. For creators: jump on the Martha Kelly audio NOW — it's the breakout villain moment of the season — and post Coachella wrap-up content before the Weekend 2 news cycle takes over next weekend.",
+      "categories": ["Content Formats", "Social Media Trends", "Sports & Entertainment"],
+      "source": "Web (Ramd.am, NewEngen, TokChart, NapoleonCat)",
+      "source_url": "https://newengen.com/insights/april-2026-tiktok-trends/",
+      "trend_type": "emerging_trend",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TikTokTrends", "#Euphoria", "#EuphoriaS3", "#MarthaKelly", "#KarolG", "#Coachella2026", "#ColorHunting"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "HBO"],
+        "context": "Martha Kelly 'Hello Rue' audio breakout. Cassie OnlyFans clips spreading. Karol G speech used as empowerment audio. Color hunting challenge strong baseline. Coachella wrap-up content window closing before Weekend 2.",
+        "price_point": null
+      }
+    }
+  ]
+}

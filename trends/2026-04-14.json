@@ -1,0 +1,196 @@
+{
+  "batch_id": "trends-2026-04-14",
+  "scraped_at": "2026-04-14T10:00:00Z",
+  "expires_at": "2026-04-17T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Oil Drops as US and Iran Signal Renewed Ceasefire Talks — Markets Rebound",
+      "body": "After yesterday's oil surge above $104/barrel triggered by the US Navy blockade of Iranian ports, prices pulled back Tuesday as US and Iranian officials signaled forward motion on restarting ceasefire negotiations. US officials told CBS News there is 'forward motion on trying to get to an agreement' after the failed Islamabad talks. Bloomberg reported oil falling on signs Washington and Tehran may revive dialogue. US gas prices remain above $4.13/gallon (AAA), and the blockade is still in place — JPMorgan analysts warned that 'the last tanker to clear Hormuz on February 28 is expected to reach its destination around April 20,' marking when pre-closure barrels are fully exhausted globally. Secretary of State Rubio is hosting Israel-Lebanon peace talks today at the State Department, adding to a broader diplomatic push. Markets responded positively to de-escalation signals, with European shares up 0.6% and Wall Street gaining. For creators: oil price update content, gas station price explainers, 'what happens if talks succeed?' scenario analysis, and broader Middle East geopolitics remain high-engagement today.",
+      "categories": ["News & Current Events", "Business & Economy", "Politics & Geopolitics"],
+      "source": "Web (Bloomberg, CNBC, CBS News, CNN, Al Jazeera, AAA)",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-04-13/latest-oil-market-news-and-analysis-for-april-14",
+      "trend_type": "developing_story",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#IranBlockade", "#OilPrices", "#StraitOfHormuz", "#GasPrices", "#IranWar", "#MiddleEast"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "cautiously optimistic",
+        "related_brands": ["JPMorgan", "Bloomberg", "CNBC", "CBS News", "AAA"],
+        "context": "Blockade in effect since April 13. Oil fell from ~$104 WTI/~$102 Brent on renewed talks signal. April 20 is key date — pre-closure oil barrels exhaust globally. Rubio hosting Israel-Lebanon talks today.",
+        "price_point": "$4.13/gallon average US gas"
+      }
+    },
+    {
+      "headline": "Rory McIlroy Wins Back-to-Back Masters — 6th Major, Historic Second Green Jacket",
+      "body": "Rory McIlroy won his second consecutive Masters on Sunday with a final-round 71, claiming a one-shot victory over Scottie Scheffler at Augusta National. The win is McIlroy's sixth major championship — matching Sir Nick Faldo's total and making him just the fourth player ever to win back-to-back Masters titles, joining Tiger Woods, Jack Nicklaus, and Nick Faldo. At 36, McIlroy completed the historic title defence after a tumultuous Saturday collapse (shooting 1-over 73) had him tied as co-leader entering the final round. A year after his first Masters win completed the career Grand Slam and ended a 10-year major drought, McIlroy indicated there is more to come. For creators: 'Is Rory the greatest?' debates, Masters highlights, 'back-to-back champions in history' retrospectives, and career trajectory analysis are high-engagement sports content today.",
+      "categories": ["Sports", "Golf"],
+      "source": "Web (NBC Sports, Sky Sports, PGA TOUR, ABC News, Yahoo Sports)",
+      "source_url": "https://www.nbcnews.com/sports/golf/masters-2026-rory-mcilroy-holds-win-second-straight-masters-rcna330988",
+      "trend_type": "sports_result",
+      "confidence_score": 0.99,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#RoryMcIlroy", "#Masters2026", "#TheMasters", "#GreenJacket", "#Golf", "#BackToBack"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "celebratory",
+        "related_brands": ["PGA TOUR", "Augusta National", "NBC Sports", "Sky Sports"],
+        "context": "Final round 71, one shot over Scheffler. 6th major, 2nd Masters. Only 4th player ever with back-to-back green jackets. Career Grand Slam completed last year. Age 36.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Rep. Eric Swalwell Resigns from Congress Amid Sexual Assault Allegations",
+      "body": "Democratic Rep. Eric Swalwell (D-CA) announced Monday he will resign from Congress after at least four women spoke with the San Francisco Chronicle and CNN alleging a range of misconduct including unwanted sexual advances and rape. Swalwell, 45, had already suspended his California governor campaign just one day earlier. He cited the threat of an 'immediate expulsion vote' as a factor, writing that while such a vote without due process was 'wrong,' it was also 'wrong for my constituents to have me distracted from my duties.' Swalwell has adamantly denied the allegations. His exit upends California's Democratic primary for governor, leaving the field — already lacking a clear frontrunner — in further disarray. He had been one of the top-polling Democrats alongside former Rep. Katie Porter and billionaire Tom Steyer. For creators: political accountability commentary, California governor's race analysis, and 'who fills the seat?' speculation are trending today.",
+      "categories": ["Politics & Geopolitics", "News & Current Events"],
+      "source": "Web (NPR, CNN, CNBC, NBC News, CalMatters, CBC)",
+      "source_url": "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.98,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#EricSwalwell", "#Congress", "#California", "#CaGov", "#Politics", "#DNCPrimary"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "negative",
+        "related_brands": ["CNN", "NPR", "San Francisco Chronicle"],
+        "context": "Resigned April 13. 4+ women alleged misconduct to SFChron/CNN. Suspended governor campaign same day. Was top-polling CA Dem alongside Porter and Steyer. Expulsion vote threatened.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "AI Domestic Terrorism: Man Charged With Attempted Murder for Molotov Attack on Sam Altman's Home",
+      "body": "Daniel Moreno-Gama, a 20-year-old from Spring, Texas, was charged with two counts of attempted murder and attempted arson after throwing a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home early Friday morning. The suspect then went to OpenAI's headquarters, struck at glass doors with a chair, and said he wanted to 'burn it down and kill anyone inside.' Court documents revealed he possessed a three-part manifesto titled 'Your Last Warning' advocating for the killing of AI company CEOs and their investors, citing AI's purported risk to humanity and 'our impending extinction.' US Attorney Craig Missakian said authorities 'will treat this as an act of domestic terrorism.' A separate attempted shooting at Altman's home occurred Sunday, resulting in two additional arrests. The FBI raided the suspect's Texas home. For creators: AI safety debates, anti-AI sentiment analysis, 'where does AI fear come from?' explainers, and technology CEO security concerns are all high-engagement tech/news topics today.",
+      "categories": ["Technology & AI", "News & Current Events", "Crime & Safety"],
+      "source": "Web (NPR, CNN, CNBC, Fortune, ABC7, NBC News)",
+      "source_url": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.98,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#SamAltman", "#OpenAI", "#AI", "#DomesticTerrorism", "#AISafety", "#Altman"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "alarming",
+        "related_brands": ["OpenAI", "FBI", "DOJ"],
+        "context": "Moreno-Gama, 20, from Texas. Molotov attack ~4am Fri. Manifesto: 'Your Last Warning,' called for killing AI CEOs. Treated as domestic terrorism. Second attack Sunday (attempted shooting). FBI raided suspect's TX home.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Israel-Lebanon Direct Talks Begin in Washington — Rubio Hosts Ambassadors on Hezbollah Disarmament",
+      "body": "Secretary of State Marco Rubio is hosting the first direct peace talks between Israeli and Lebanese ambassadors at the US State Department on Tuesday. Israel's Ambassador Yechiel Leiter and Lebanon's Ambassador Nada Hamadeh Moawad are meeting with Rubio and senior adviser Michael Needham at 11am ET. The discussions focus on disarming Hezbollah and opening a path toward normalization between Israel and Lebanon. Israeli PM Netanyahu said Israel is open to a deal conditional on the 'dismantling' of Hezbollah's military capabilities. Lebanon's President Aoun expressed hope the talks will lead to a ceasefire. The talks follow Trump's pressure on Netanyahu to de-escalate. Israel has previously rejected a ceasefire before Hezbollah disarmament. For creators: Middle East peace process explainers, 'what would a Lebanon deal look like?' analysis, and geopolitical implications content are performing across news audiences today.",
+      "categories": ["Politics & Geopolitics", "News & Current Events"],
+      "source": "Web (Axios, Jerusalem Post, JNS, Time, Al Jazeera, Tribune India)",
+      "source_url": "https://www.axios.com/2026/04/14/iran-war-peace-talks-rubio-israel-lebanon-ambassadors",
+      "trend_type": "developing_story",
+      "confidence_score": 0.97,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Israel", "#Lebanon", "#Hezbollah", "#Rubio", "#PeaceTalks", "#MiddleEast"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "cautiously optimistic",
+        "related_brands": ["US State Department", "Axios", "Jerusalem Post"],
+        "context": "11am ET meeting at State Dept. Focus: Hezbollah disarmament, normalization path. Netanyahu: deal only if Hezbollah 'dismantled.' Lebanon: wants ceasefire first. Trump pressured Netanyahu to de-escalate.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Google Launches Gemini 3.1 Ultra — AI Race Intensifies as OpenAI Eyes IPO Above $25B ARR",
+      "body": "Google launched Gemini 3.1 Ultra, its most significant model release of 2026, featuring a 2-million token context window with native multimodal reasoning across text, image, audio, and video simultaneously. A companion Gemini 3.1 Flash-Lite model offers 2.5x faster responses at just $0.25 per million input tokens. OpenAI, meanwhile, has surpassed $25 billion in annualized revenue and is reportedly taking early steps toward a public listing potentially as soon as late 2026. Rival Anthropic is approaching $19B in ARR. Anthropic's MCP standard crossed 97 million installs in March 2026 and is now being taken under open governance by the Linux Foundation. Meta debuted its Muse Spark model (code-named Avocado) — its first major AI model since the costly hiring of Scale AI's Alexandr Wang. For creators: 'which AI model is best in 2026?' comparison content, OpenAI IPO speculation, and the MCP/agent infrastructure story are driving engagement across tech audiences.",
+      "categories": ["Technology & AI", "Business & Economy"],
+      "source": "Web (CNBC, opentools.ai, MIT Technology Review, Stanford AI Index, HuMAI Blog)",
+      "source_url": "https://opentools.ai/news",
+      "trend_type": "product_launch",
+      "confidence_score": 0.92,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Gemini", "#Google", "#OpenAI", "#Anthropic", "#AI", "#MCP", "#IPO", "#Meta", "#MuseSpark"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Google", "OpenAI", "Anthropic", "Meta", "Linux Foundation", "Scale AI"],
+        "context": "Gemini 3.1 Ultra: 2M token context, all modalities natively. Flash-Lite: $0.25/M tokens, 2.5x faster. OpenAI: $25B ARR, IPO in discussion for late 2026. Anthropic: $19B ARR. MCP: 97M installs, Linux Foundation governance. Meta Muse Spark (Avocado) debuts.",
+        "price_point": "$0.25/M tokens (Gemini Flash-Lite)"
+      }
+    },
+    {
+      "headline": "Coachella Weekend 2 Preview — Same Headliners April 17-19, Content Window Opening",
+      "body": "Coachella Weekend 2 runs April 17-19 in Indio, California, with the same headliner trio: Sabrina Carpenter (Friday), Justin Bieber (Saturday), and Karol G (Sunday). Karol G, who made history as the first Latina headliner in Weekend 1, delivered a widely celebrated set and is expected to recreate the moment for Weekend 2. Bieber's 'laptop DJ set' from Weekend 1 remains divisive — TikTok is split on whether it was visionary or lazy. The full supporting lineup includes The Strokes, Nine Inch Noize, Jack White, David Byrne, Labrinth (who was notably absent from the Euphoria soundtrack), Armin van Buuren x Adam Beyer, Young Thug, Laufey, FKA twigs, BIGBANG, and Fatboy Slim. With Weekend 2 three days away, this is the prime window for anticipation content, 'what to watch' guides, and artist breakdowns. Per Timeout, Wikipedia (Coachella 2026), TravelPirates.",
+      "categories": ["Music & Entertainment", "Festivals & Events"],
+      "source": "Web (Timeout, TravelPirates, Wikipedia, InMusicBlog, ArtThreat)",
+      "source_url": "https://www.timeout.com/los-angeles/music/coachella-lineup",
+      "trend_type": "upcoming_event",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#Coachella", "#KarolG", "#JustinBieber", "#SabrinaCarpenter", "#Weekend2"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "excited",
+        "related_brands": ["Coachella", "AEG", "Spotify"],
+        "context": "Weekend 2: April 17-19. Same headliners. Bieber set controversy still active. Labrinth appearing (absent from Euphoria S3 soundtrack). Young Thug free and performing. 3 days to go.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "NBA Playoffs Begin — WNBA Draft: Azzi Fudd Goes No. 1 to Dallas Wings",
+      "body": "The 2026 NBA Play-In Tournament kicked off on April 14, with the Blazers vs. Suns and other matchups heating up heading into the playoffs. Notable series include Steph Curry's Warriors vs. Kawhi Leonard's Clippers and the 76ers vs. Magic. Separately, the 2026 WNBA Draft took place Monday, with UConn star Azzi Fudd going No. 1 overall to the Dallas Wings — a highly anticipated pick after one of college basketball's most celebrated careers. For creators: NBA playoff prediction content, player matchup breakdowns, WNBA draft reaction videos, and Azzi Fudd career retrospective content are all strong engagement plays in the sports space today.",
+      "categories": ["Sports", "Basketball"],
+      "source": "Web (ESPN, NBC News, Sports Reference)",
+      "source_url": "http://www.espn.com/espn/latestnews",
+      "trend_type": "sports_event",
+      "confidence_score": 0.90,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#NBAPlayoffs", "#WNBADraft", "#AzziFudd", "#DallasWings", "#NBA", "#WNBA"],
+        "engagement": {
+          "mentions": "moderate-high",
+          "editor_approved": true
+        },
+        "sentiment": "excited",
+        "related_brands": ["NBA", "WNBA", "ESPN", "Dallas Wings", "UConn"],
+        "context": "Play-In Tournament: Blazers vs. Suns, Warriors vs. Clippers, 76ers vs. Magic. WNBA Draft: Fudd (UConn) No. 1 to Dallas Wings. Draft held April 13.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Hottest March on Record for Lower 48 — CSU Forecasts 13 Storms for 2026 Hurricane Season",
+      "body": "Last month was the hottest March on record for the contiguous United States — by the largest margin ever recorded for any month, according to new federal NOAA data released this week. Separately, Colorado State University published its annual Atlantic hurricane forecast, predicting 13 named storms and six hurricanes for the 2026 season, with above-average activity due to warmer-than-normal sea surface temperatures. The back-to-back climate signals — record heat and an elevated hurricane outlook — are drawing renewed attention to climate coverage. For creators: climate explainers, 'what record heat means for summer,' hurricane prep guides, and 'why is 2026 so hot?' content are performing well ahead of the summer season.",
+      "categories": ["Climate & Environment", "Science"],
+      "source": "Web (NOAA, Colorado State University, MPR News)",
+      "source_url": "https://www.mprnews.org/content/4-14-2026",
+      "trend_type": "data_release",
+      "confidence_score": 0.92,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#ClimateChange", "#RecordHeat", "#HurricaneSeason2026", "#Weather", "#Climate"],
+        "engagement": {
+          "mentions": "moderate",
+          "editor_approved": true
+        },
+        "sentiment": "alarming",
+        "related_brands": ["NOAA", "Colorado State University", "FEMA"],
+        "context": "Hottest March ever for Lower 48 — biggest margin for any month on record. CSU: 13 named storms, 6 hurricanes forecast for 2026. Above-average season due to warm sea temps.",
+        "price_point": null
+      }
+    }
+  ]
+}

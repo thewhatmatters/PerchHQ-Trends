@@ -4,297 +4,255 @@
   "expires_at": "2026-04-18T10:00:00Z",
   "trends": [
     {
-      "headline": "Tax Day 2026 — April 15 Filing Deadline; Extension via Form 4868 Pushes to Oct 15",
-      "body": "Today is Tax Day. Individual federal income tax returns must be e-filed by midnight local time or postmarked today. Taxpayers needing more time can request an automatic six-month extension to October 15, 2026, via IRS Free File or Form 4868 — but an extension to file is NOT an extension to pay. Balances owed are still due today to avoid interest and penalties. Service members deployed outside the US get an automatic two-month extension to June 15, as do US citizens living and working abroad. IRS Direct Pay, debit/credit, or digital wallet payments marked as 'extension' auto-file Form 4868. For creators: last-minute tax explainer content, 'extension vs. payment' clarifier videos, freelancer quarterly reminder posts, and Roth IRA contribution deadline reminders are high-intent content today.",
-      "categories": ["News & Current Events", "Business & Economy", "Personal Finance"],
-      "source": "Web (IRS, FOX, Newsweek, TurboTax)",
-      "source_url": "https://www.irs.gov/newsroom/act-now-to-file-pay-or-request-an-extension",
-      "trend_type": "recurring_event",
-      "confidence_score": 0.99,
-      "relevance_score": 10,
-      "metadata": {
-        "hashtags": ["#TaxDay", "#TaxDay2026", "#IRS", "#TaxExtension", "#Form4868", "#Taxes"],
-        "engagement": {
-          "mentions": "very high",
-          "editor_approved": true
-        },
-        "sentiment": "neutral",
-        "related_brands": ["IRS", "TurboTax", "H&R Block", "IRS Free File"],
-        "context": "Annual April 15 filing deadline. Extension filers get until Oct 15, 2026. Payments still due today.",
-        "price_point": "various"
-      }
-    },
-    {
-      "headline": "Stocks Near All-Time Highs as Iran Deal Optimism Grows; S&P 500 Closes at 6,967",
-      "body": "US equities rallied Tuesday on renewed hopes for a US-Iran deal, with the S&P 500 gaining 1.18% to 6,967.38 — less than 1% from its 52-week high. The Nasdaq Composite jumped 1.96% to 23,639.08, and the Dow added 0.66% to 48,535.99. Markets erased losses from last week's Hormuz blockade shock after VP JD Vance cited 'a lot of progress' in the first round of Islamabad talks and Trump told Fox News the war is 'close to over.' Oil continued to retreat from last week's $104 peak as traders priced in a second round of talks within days. Citi placed Alphabet on 90-day watch; UPS announced RFID on every package. For creators: market recap content, 'is the rally sustainable?' explainers, and geopolitics-to-portfolio thread content are performing well.",
-      "categories": ["Business & Economy", "News & Current Events"],
-      "source": "Web (Bloomberg, CNBC, Yahoo Finance, Motley Fool, TheStreet)",
-      "source_url": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-dow-sp-500-nasdaq-rise-amid-iran-deal-hopes-earnings-rush-225637251.html",
-      "trend_type": "market_update",
-      "confidence_score": 0.97,
-      "relevance_score": 9,
-      "metadata": {
-        "hashtags": ["#Stocks", "#SP500", "#Nasdaq", "#Markets", "#Oil", "#Iran"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
-        "sentiment": "positive",
-        "related_brands": ["Bloomberg", "CNBC", "S&P 500", "Nasdaq", "Dow", "Alphabet", "UPS", "Citi"],
-        "context": "April 14 close: SPX 6,967.38 (+1.18%), Nasdaq 23,639.08 (+1.96%), Dow 48,535.99 (+0.66%). Oil down from $104 peak.",
-        "price_point": "various"
-      }
-    },
-    {
-      "headline": "Trump Hints at Second Round of Iran Talks in Pakistan; Blockade Enters Day 3",
-      "body": "President Trump told Fox News the Iran war is 'close to over' and signaled a second round of face-to-face talks could happen 'over the next two days' in Pakistan. Pakistan has formally proposed a follow-up, and the White House confirmed more discussions are under consideration. The US naval blockade of Iranian ports entered its third day, with CENTCOM saying it has 'completely halted economic trade going into and out of Iran by sea' while preserving freedom of navigation for non-Iranian vessels. China called the blockade 'dangerous'; Bloomberg reports the US will let Iran oil sanctions waivers expire. The ceasefire window expires April 21 — the same week JPMorgan flagged as the date pre-closure oil barrels exhaust globally. Sticking point: Tehran has not accepted Washington's nuclear weapons commitment demands. For creators: 'Strait of Hormuz 101' explainers, ceasefire-clock visualizers, and 'what a deal actually looks like' threads are in demand.",
-      "categories": ["News & Current Events", "Politics & Geopolitics", "Business & Economy"],
-      "source": "Web (CNBC, Al Jazeera, Time, CBS News, NPR, PBS NewsHour, Bloomberg)",
-      "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon",
-      "trend_type": "developing_story",
-      "confidence_score": 0.98,
-      "relevance_score": 10,
-      "metadata": {
-        "hashtags": ["#Iran", "#IranWar", "#StraitOfHormuz", "#Hormuz", "#Trump", "#IslamabadTalks"],
-        "engagement": {
-          "mentions": "very high",
-          "editor_approved": true
-        },
-        "sentiment": "cautiously optimistic",
-        "related_brands": ["CENTCOM", "Fox News", "Bloomberg", "CNBC", "Al Jazeera", "White House"],
-        "context": "Blockade Day 3. First Islamabad round Apr 11-12 failed after 21 hours. Ceasefire deadline Apr 21. Pakistan proposing round 2.",
-        "price_point": null
-      }
-    },
-    {
-      "headline": "Israel–Lebanon Hold First Direct Talks in Decades at US State Department",
-      "body": "Israeli and Lebanese ambassadors held historic 'working-level peace talks' in Washington on Tuesday — the first direct bilateral engagement between the two nations since 1993 — with both sides describing the session as 'productive' and agreeing to further rounds. Hezbollah disarmament is Israel's central demand; Lebanon pressed for a ceasefire first. The Washington Post reports Israel is continuing strikes on Hezbollah during the talks. Hezbollah publicly urged the Lebanese government to pull out, calling the effort 'futile' and insisting its weapons are an 'internal Lebanese matter.' Secretary of State Rubio hosted. The talks come amid the broader Iran crisis and follow Trump's push for regional de-escalation. For creators: historical context explainers (last direct talks were 1993 Madrid), 'why this time is different' threads, and Hezbollah disarmament primer content are trending.",
-      "categories": ["News & Current Events", "Politics & Geopolitics"],
-      "source": "Web (NPR, Al Jazeera, Washington Post, CBC, Israel Hayom, Time)",
-      "source_url": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
-      "trend_type": "breaking_news",
-      "confidence_score": 0.97,
-      "relevance_score": 9,
-      "metadata": {
-        "hashtags": ["#Israel", "#Lebanon", "#Hezbollah", "#MiddleEast", "#Rubio", "#PeaceTalks"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
-        "sentiment": "cautiously optimistic",
-        "related_brands": ["US State Department", "NPR", "Al Jazeera", "Washington Post"],
-        "context": "First direct Israel-Lebanon talks since 1993. Both sides agreed to reconvene. Hezbollah opposed. Israel still striking targets.",
-        "price_point": null
-      }
-    },
-    {
-      "headline": "US Strikes Fourth Alleged Drug Boat in Eastern Pacific; Death Toll Hits 175",
-      "body": "The US military launched another strike on a boat accused of carrying drugs in the eastern Pacific on Tuesday, killing four — the fourth such strike in four days. The cumulative death toll from Operation Southern Spear has reached 175 since September. The operation is directed by Marine Gen. Francis Donovan and targets vessels Southern Command says are run by US-designated terrorist groups. Some congressional Democrats continue to question the legality of the strikes given the absence of due process or public documentation of trafficking links; the military has declined to release evidence that specific vessels were carrying drugs. For creators: 'what is Operation Southern Spear' explainers, legal framework breakdowns, and cartel geopolitics content are seeing strong engagement.",
-      "categories": ["News & Current Events", "Politics & Geopolitics"],
-      "source": "Web (NPR, NBC News, ABC News, ClickOnDetroit, Military.com)",
-      "source_url": "https://www.clickondetroit.com/news/politics/2026/04/15/another-us-strike-on-suspected-drug-boat-in-the-eastern-pacific-kills-4/",
-      "trend_type": "developing_story",
-      "confidence_score": 0.95,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#OperationSouthernSpear", "#Pacific", "#DrugWar", "#Cartels", "#DoD"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
-        "sentiment": "mixed",
-        "related_brands": ["US Southern Command", "Department of War", "NPR", "NBC News"],
-        "context": "4th strike in 4 days. 175 killed since September. Legality contested by House Democrats. No public evidence released per strike.",
-        "price_point": null
-      }
-    },
-    {
-      "headline": "OpenAI Debuts GPT-5.4-Cyber for Defenders After Anthropic's Claude Mythos Held Private",
-      "body": "OpenAI launched GPT-5.4-Cyber on Tuesday, a cybersecurity-specialized model pitched specifically at defenders (SOCs, threat researchers, blue teams). The release came on the heels of Anthropic's decision to keep Claude Mythos Preview in private release because of dual-use risk — the model could be weaponized by attackers. The cyber arms-race framing is a marked shift from the general-purpose model competition that defined Q1. Separately, GPT-6's long-rumored April 14 window passed without a release; the new estimate is April 21–May 25. For creators: cybersecurity explainer content, 'what does a defender-focused AI actually do?' threads, and AI competitive-landscape recaps (OpenAI vs Anthropic vs Google) are high-performing.",
-      "categories": ["Tech & Gadgets", "AI & Technology", "Business & Economy"],
-      "source": "Web (Startup News, LLM Stats, Blockchain News, FindSkill)",
-      "source_url": "https://startupnews.fyi/2026/04/15/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
-      "trend_type": "product",
-      "confidence_score": 0.88,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#OpenAI", "#GPT", "#Anthropic", "#Claude", "#AI", "#Cybersecurity"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
-        "sentiment": "neutral",
-        "related_brands": ["OpenAI", "Anthropic", "Google Gemini"],
-        "context": "GPT-5.4-Cyber launched Apr 14-15. Claude Mythos held private over dual-use risk. GPT-6 window now Apr 21–May 25.",
-        "price_point": "various"
-      }
-    },
-    {
-      "headline": "Sam Altman Attack Suspect Held Without Bail; Arraignment Pushed to May 5",
-      "body": "Daniel Moreno-Gama, 20, was held without bail in California Superior Court on Tuesday and had his arraignment moved to May 5. He faces state-level attempted murder and attempted arson charges plus federal charges for an unregistered firearm and attempted destruction of property by means of explosives. The US Attorney has indicated the case could be charged as domestic terrorism if evidence shows intent to coerce policy. Moreno-Gama's public defender said he was in a 'mental health crisis.' The Friday Molotov attack on Altman's SF home, plus a second attempted shooting at the home on Sunday, have intensified scrutiny of the AI industry's security posture. Fortune framed the moment as 'AI backlash turning revolutionary.' For creators: 'is this a turning point?' analysis, AI safety commentary, and tech-exec security threads are driving high engagement.",
-      "categories": ["News & Current Events", "Tech & Gadgets", "AI & Technology"],
-      "source": "Web (CNN, The Register, CNBC, NPR, Fortune, Axios)",
-      "source_url": "https://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges",
-      "trend_type": "developing_story",
-      "confidence_score": 0.96,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#SamAltman", "#OpenAI", "#AI", "#DomesticTerrorism", "#Altman", "#AIBacklash"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
-        "sentiment": "concerned",
-        "related_brands": ["OpenAI", "CNN", "NPR", "Fortune", "San Francisco Police"],
-        "context": "Held without bail Apr 14. Arraignment May 5. Public defender cites mental health crisis. Domestic terrorism charge possible.",
-        "price_point": null
-      }
-    },
-    {
-      "headline": "NBA Play-In Night 2: 76ers–Magic and Clippers–Warriors Decide Final Playoff Seeds",
-      "body": "The NBA Play-In Tournament resumes tonight with 76ers vs. Magic at 7:30pm ET for the East's No. 7 seed and Clippers vs. Warriors at 10pm ET in the West. Tuesday's openers delivered: Charlotte beat Miami 127-126 in overtime (Heat eliminated); Portland topped Phoenix 114-110 to earn the West's No. 7 seed. The winners of tonight's two games clinch playoff berths; losers drop into Friday's Play-In loser bracket. Stanley Cup Playoffs also begin Saturday April 18, with Boston–Buffalo and Colorado–LA among the confirmed first-round matchups. For creators: game-night prediction content, 'Steph vs. Kawhi last dance?' storylines, and bubble-team analysis threads dominate.",
-      "categories": ["Sports", "Entertainment"],
-      "source": "Web (ESPN, CBS Sports, Yahoo Sports, NBA.com)",
-      "source_url": "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
-      "trend_type": "sports_result",
-      "confidence_score": 0.96,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#NBAPlayIn", "#NBAPlayoffs", "#Warriors", "#Clippers", "#76ers", "#Magic", "#Hornets"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
-        "sentiment": "positive",
-        "related_brands": ["NBA", "ESPN", "CBS Sports", "Yahoo Sports"],
-        "context": "Tue results: Hornets 127-Heat 126 OT; Blazers 114-Suns 110. Wed: 76ers-Magic 7:30pm ET, Clippers-Warriors 10pm ET. NHL playoffs start Apr 18.",
-        "price_point": null
-      }
-    },
-    {
-      "headline": "California Governor's Race in Flux After Swalwell Exit — Porter and Steyer Positioned to Benefit",
-      "body": "Katie Porter and Tom Steyer are the two Democrats best positioned to absorb Swalwell's support after his Monday resignation over sexual misconduct allegations, per California polling expert Paul Mitchell. Nine prominent candidates remain: seven Democrats (Porter, Steyer, Villaraigosa, Becerra, Mahan, Yee, Thurmond) and two Republicans (Riverside Sheriff Chad Bianco and commentator Steve Hilton, both Trump-aligned). The primary is wide open with no clear frontrunner. Swalwell also vacates a House seat, triggering a special election. For creators: California primary explainers, 'who wins Swalwell's base?' analysis, and 2026 midterms setup content are performing well with political audiences.",
-      "categories": ["Politics & Geopolitics", "News & Current Events"],
-      "source": "Web (CNN, Time, Washington Post, NBC News, CalMatters)",
-      "source_url": "https://time.com/article/2026/04/13/where-the-california-governor-race-stands-after-swalwell-s-exit/",
-      "trend_type": "developing_story",
-      "confidence_score": 0.93,
-      "relevance_score": 7,
-      "metadata": {
-        "hashtags": ["#CAGov", "#California", "#KatiePorter", "#TomSteyer", "#Politics", "#2026Elections"],
-        "engagement": {
-          "mentions": "medium",
-          "editor_approved": true
-        },
-        "sentiment": "neutral",
-        "related_brands": ["CNN", "Time", "Washington Post", "CalMatters"],
-        "context": "Swalwell resigned Apr 13. 9 candidates remain (7D, 2R). Porter and Steyer projected to benefit most. House seat special election also triggered.",
-        "price_point": null
-      }
-    },
-    {
-      "headline": "Coachella Weekend 2 Starts Friday — Sabrina Carpenter / Bieber / Karol G Return",
-      "body": "Coachella Weekend 2 opens Friday April 17 in Indio with the same headline trio — Sabrina Carpenter (Fri), Justin Bieber (Sat), Karol G (Sun). Supporting lineup includes Teddy Swims, The xx, Disclosure, Ethel Cain, Sexyy Red, Gordo, Jack White, The Strokes, GIVĒON, David Byrne, Nine Inch Noize, Armin van Buuren x Adam Beyer, Young Thug, Major Lazer, Laufey, FKA twigs, BIGBANG, and Kaskade. Weekend 1 delivered two major talking points: Bieber's divisive laptop set (still fueling TikTok debate) and Karol G's politically charged Spanish-language speech. Ticket resale prices surged above $2,000. For creators: WD2 preview posts, 'Bieber redemption arc?' threads, festival-fit GRWMs, and Do LaB lineup coverage are peaking.",
-      "categories": ["Entertainment", "Music", "Fashion & Apparel"],
-      "source": "Web (Timeout, TravelPirates, Art Threat, Wikipedia, Yahoo Entertainment)",
-      "source_url": "https://www.timeout.com/los-angeles/music/coachella-lineup",
-      "trend_type": "event",
-      "confidence_score": 0.94,
-      "relevance_score": 8,
-      "metadata": {
-        "hashtags": ["#Coachella", "#Coachella2026", "#CoachellaWeekend2", "#SabrinaCarpenter", "#JustinBieber", "#KarolG"],
-        "engagement": {
-          "mentions": "very high",
-          "editor_approved": true
-        },
-        "sentiment": "excited",
-        "related_brands": ["Coachella", "Goldenvoice", "Sabrina Carpenter", "Justin Bieber", "Karol G"],
-        "context": "Weekend 2: Apr 17-19. Same lineup as W1. Bieber laptop-set controversy still trending. Resale tickets above $2,000.",
-        "price_point": "luxury"
-      }
-    },
-    {
-      "headline": "TikTok Beauty: 'Cloud Skin' and 'Me vs. AI' Makeup Challenge Dominate April",
-      "body": "Two trends are driving beauty TikTok this week. 'Cloud skin' — a soft-focus, blurred finish that mimics a digital filter — is the evolution of last quarter's 'glass skin,' and creators are duplicating tutorials with snail mucin serums and heatless curling sets as companion products. The 'Me vs. AI' makeup challenge, where creators recreate an AI-generated look on their own face, is separately surging and blending into broader anti-AI cultural sentiment. 'Skin longevity' (vs. anti-aging) is a larger mindset shift reshaping what skincare content converts. Viral product list: Biodance Bio-Collagen Real Deep Mask, Weleda Skin Food. For creators: side-by-side AI vs. me videos, 'cloud skin in 60 seconds' reels, and 'snail mucin tested' comparison content are consistent winners.",
-      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
-      "source": "Web (Qogita, NellyRodi, Cosmetify, TikTok Discover)",
+      "headline": "'Cloud Skin' Tutorial Wave — Soft-Focus Blurred Finish Replaces Glass Skin",
+      "body": "Cloud skin — a digitally-blurred, soft-focus finish achieved with snail mucin serums, blurring primers, and setting sprays — is the dominant beauty content format this week, overtaking glass skin as the aspirational skin aesthetic. Creators are pairing product walk-throughs with 'cloud skin in 60 seconds' Reels and TikToks, and the format converts strongly for duet/stitch reactions. Companion viral products include the Biodance Bio-Collagen Real Deep Mask and Weleda Skin Food.",
+      "categories": ["Beauty & Skincare"],
+      "source": "NellyRodi / TikTok Discover",
       "source_url": "https://nellyrodi.com/en/tiktok-beauty-trends-april-2026/",
       "trend_type": "content_format",
-      "confidence_score": 0.87,
+      "confidence_score": 0.86,
       "relevance_score": 9,
       "metadata": {
-        "hashtags": ["#CloudSkin", "#MeVsAI", "#SkinLongevity", "#SnailMucin", "#BeautyTok", "#Skincare"],
-        "engagement": {
-          "mentions": "high",
-          "editor_approved": true
-        },
+        "hashtags": ["#CloudSkin", "#SnailMucin", "#SkinLongevity", "#BeautyTok", "#GlassSkin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
         "sentiment": "positive",
         "related_brands": ["Biodance", "Weleda", "TikTok Shop"],
-        "context": "Cloud skin = soft-focus evolution of glass skin. Me vs. AI challenge ties into broader anti-AI cultural moment. Skin longevity replacing anti-aging as category framing.",
+        "context": "Evolution of glass skin toward a softer, non-dewy blurred finish. Snail mucin and collagen masks are hero products. 'Skin longevity' narrative is displacing 'anti-aging' framing.",
         "price_point": "mid-range"
       }
     },
     {
-      "headline": "Food Trend: 'China Maxxing' and 'Eating Your Skincare' Rewrite Wellness Content",
-      "body": "'China maxxing' — a creator-coined trend around adopting traditional Chinese lifestyle practices perceived as balanced and grounded (herbal soups, congee, tea rituals, TCM-inspired routines) — is one of the most talked-about food/wellness trends this month, with the tagline 'I'm in a very Chinese time of my life.' Separately, 'eating your skincare' (foods marketed for skin-clarity benefits) is spawning both mainstream content and extreme variants like the 'sardine fast.' Both ride on the same broader current as the 'skin longevity' beauty shift. For creators: TCM-recipe walkthroughs, 'what I eat in a day — china maxxing edition' vlogs, and dermatologist-reaction-to-sardine-fast content are performing.",
-      "categories": ["Food & Beverage", "Health & Fitness", "Beauty & Skincare"],
-      "source": "Web (NellyRodi, Qogita)",
+      "headline": "'Me vs. AI' Makeup Challenge Surges as Beauty Creators Reclaim the Face",
+      "body": "The 'Me vs. AI' makeup challenge — where creators receive an AI-generated idealized look and then recreate it IRL on their own face — is this week's breakout format, tapping into widespread cultural skepticism about AI-produced beauty standards. Side-by-side split videos with the AI render on one side and the creator's interpretation on the other perform extremely well on both TikTok and Reels, and the format naturally generates comments and stitches.",
+      "categories": ["Beauty & Skincare"],
+      "source": "NellyRodi / Cosmetify",
       "source_url": "https://nellyrodi.com/en/tiktok-beauty-trends-april-2026/",
       "trend_type": "content_format",
-      "confidence_score": 0.78,
-      "relevance_score": 7,
+      "confidence_score": 0.83,
+      "relevance_score": 8,
       "metadata": {
-        "hashtags": ["#ChinaMaxxing", "#EatYourSkincare", "#TCM", "#SardineFast", "#Wellness", "#FoodTok"],
-        "engagement": {
-          "mentions": "medium",
-          "editor_approved": true
-        },
+        "hashtags": ["#MeVsAI", "#AIChallenge", "#BeautyChallenge", "#MakeupChallenge", "#BeautyTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
         "sentiment": "mixed",
         "related_brands": ["TikTok"],
-        "context": "China maxxing = TCM-inspired lifestyle content. 'Eat your skincare' ranges from mainstream to extreme (sardine fast). Both tie to skin longevity mindset.",
-        "price_point": "budget"
-      }
-    },
-    {
-      "headline": "Boston Marathon Monday — April 20 Race Previews Build; Korir and Lokedi Defend Titles",
-      "body": "The 130th Boston Marathon runs Monday April 20, and preview/taper content is peaking now. Defending open-division champions John Korir (men) and Sharon Lokedi (women), both from Kenya, return to defend their titles; Benson Kipruto enters with the fastest qualifying time in the field (2:02:16 from Tokyo 2024). Marcel Hug (Switzerland) defends his wheelchair title. The race starts at Hopkinton and finishes on Boylston Street; the BAA's free livestream and NBC/WBZ coverage plans are trending. For creators: qualifying-story posts, 'why Boston is the hardest major' explainers, runner-gear reviews, and local bib-holder profile content are high-engagement through race day.",
-      "categories": ["Sports", "Health & Fitness"],
-      "source": "Web (Boston Globe, WBUR, Marathon Handbook, Wikipedia, NBC Boston)",
-      "source_url": "https://www.bostonglobe.com/2026/04/13/sports/boston-marathon-guide-2026/",
-      "trend_type": "event",
-      "confidence_score": 0.9,
-      "relevance_score": 7,
-      "metadata": {
-        "hashtags": ["#BostonMarathon", "#Boston2026", "#Marathon", "#Running", "#BAA"],
-        "engagement": {
-          "mentions": "medium",
-          "editor_approved": true
-        },
-        "sentiment": "positive",
-        "related_brands": ["Boston Athletic Association", "NBC Boston", "WBUR"],
-        "context": "130th Boston Marathon Apr 20. Korir & Lokedi defend. Kipruto has fastest qualifying PR. Hug defends wheelchair.",
+        "context": "Ties into broader anti-AI cultural sentiment. Dual-panel format is highly stitchable. Strongest performance on TikTok; growing on Reels.",
         "price_point": "various"
       }
     },
     {
-      "headline": "Overdose Deaths Hit Historic Lows — But 'Synthetic' Street Drugs Threaten Reversal",
-      "body": "US drug overdose deaths are falling at a pace never before recorded, but public health experts warn new 'synthetic' street drugs could derail the improvement. Falling numbers reflect the impact of fentanyl-test strips, naloxone distribution, Medicaid-funded MAT expansion, and border fentanyl seizures — but adulterants like xylazine ('tranq') and novel nitazenes (stronger than fentanyl) are already appearing in East Coast and Midwest supplies. For creators: 'why overdose deaths are falling' explainers, harm-reduction content, and 'what is xylazine?' primers are performing in health-policy and recovery-content niches.",
-      "categories": ["Health & Fitness", "News & Current Events"],
-      "source": "Web (NPR, PBS NewsHour)",
-      "source_url": "https://www.npr.org/sections/news",
-      "trend_type": "developing_story",
+      "headline": "Biodance Bio-Collagen Real Deep Mask Surging on TikTok Shop",
+      "body": "The Biodance Bio-Collagen Real Deep Mask — a K-beauty sheet mask featuring probiotics and a collagen veil that dissolves into skin — is among the top TikTok Shop beauty conversions this week. 'One-use glass skin glow' demo videos and morning-routine drops continue to drive heavy add-to-cart activity. Creators pairing mask walk-throughs with skin-longevity framing ('this is maintenance, not anti-aging') are seeing above-average retention.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify / TikTok Shop",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
       "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Biodance", "#CollagenMask", "#KBeauty", "#TikTokShop", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Biodance", "TikTok Shop"],
+        "context": "K-beauty collagen sheet mask. Demo format: apply mask, show before/after in under 60 seconds. Pairs well with cloud skin narrative.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coachella Weekend 2 Festival Fashion GRWMs Spike — Micro Shorts, Crochet, Fringe Leading",
+      "body": "With Coachella Weekend 2 opening Friday April 17, festival fashion GRWM content is at peak momentum right now. The dominant looks from Weekend 1 — micro shorts, sheer layering, crochet, fringe, and cowboy hats — are being replicated and riffed on across TikTok and Instagram. Creators are generating high engagement with 'get ready with me for Coachella' formats even if they're not attending, using the festival as a styling prompt for weekend outfits.",
+      "categories": ["Fashion & Apparel"],
+      "source": "WWD / Vogue Singapore",
+      "source_url": "https://wwd.com/fashion-news/fashion-features/coachella-2026-fashion-trends-shorts-sheer-crochet-fringe-1238912205/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Coachella2026", "#CoachellaFashion", "#FestivalFit", "#GRWM", "#FestivalOutfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Revolve", "Urban Outfitters"],
+        "context": "Weekend 2 is Apr 17-19. Same headliners as W1 (Sabrina Carpenter, Bieber, Karol G). Creator presence drove W1 trends; W2 GRWM content benefits from W1 reference material.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Euphoria Season 3 Character Outfit Recreation Videos Fill Fashion TikTok",
+      "body": "Following the April 12 Season 3 premiere, Euphoria-inspired fashion content is flooding TikTok and Instagram. Maddy Perez's power-dressing vintage couture and structured heels, Cassie's pared-back soft-glam silhouettes, and Jules's sheer deconstructed pieces are all generating dedicated styling edits and 'how to dress like [character]' tutorials. The #EuphoriaOutfits hashtag is an active discovery tag for fashion creators this week.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Brit + Co / Woman Magazine",
+      "source_url": "https://www.brit.co/euphoria-fashion/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#EuphoriaOutfits", "#MaddyEuphoria", "#EuphoriaFashion", "#EuphoriaS3", "#CharacterDressing"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["HBO", "Revolve", "vintage thrift stores"],
+        "context": "Season 3 premiered April 12. Costume designer overhauled the look; character-specific styling is the dominant sub-format. Maddy's arc (wealth/power in LA) is the top creator hook.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'China Maxxing' — TCM-Inspired Daily Ritual Content Takes Over Food and Wellness TikTok",
+      "body": "'China maxxing' — a creator-coined lifestyle trend built around adopting traditional Chinese daily habits (herbal soups, congee, tea ceremonies, gua sha, TCM-inspired routines) — is April's standout food/wellness content format. Videos tagged 'I'm in a very Chinese time of my life' are performing strongly as both food content (herbal soup recipes, congee builds) and wellness content (TCM morning routines). The trend rides the same 'naturalism over optimization' wave as skin longevity and is driving above-average save rates.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "NellyRodi / Qogita",
+      "source_url": "https://nellyrodi.com/en/tiktok-beauty-trends-april-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ChinaMaxxing", "#TCM", "#HerbalSoup", "#Congee", "#WellnessTok", "#FoodTok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["TikTok"],
+        "context": "Positioning: ancient, tactile, non-algorithmic lifestyle content. High save rate due to recipe/routine utility. Crossover between food creators and wellness creators.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "CORE 300 Challenge — 300-Rep Circuit Going Viral as Gym Tok's Next Timed Format",
+      "body": "The CORE 300 Challenge — completing 300 total reps across 8 movements in a timed race — is gaining traction on Gym Tok as the format heir to the 75 Hard era. The challenge is highly filmable (overhead camera, visible rep counter, time-lapse option), generates natural reactions when creators struggle or PR, and works as a standalone video or as a 'can you do this?' call to action for the audience. Partner and couples variants are extending reach.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok Discover / Happi.com",
+      "source_url": "https://www.happi.com/breaking-news/10-wellness-trends-for-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
       "relevance_score": 7,
       "metadata": {
-        "hashtags": ["#Overdose", "#Fentanyl", "#Xylazine", "#PublicHealth", "#HarmReduction"],
-        "engagement": {
-          "mentions": "medium",
-          "editor_approved": true
-        },
-        "sentiment": "cautiously optimistic",
-        "related_brands": ["CDC", "NPR", "HHS"],
-        "context": "Overdose deaths at record-low trajectory. Synthetic adulterants (xylazine, nitazenes) emerging as next-wave threat.",
-        "price_point": null
+        "hashtags": ["#CORE300Challenge", "#CORE300", "#GymChallenge", "#GymTok", "#FitnessChallenge"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["TikTok"],
+        "context": "300 reps, 8 movements, timed. Works solo or with a partner. High rewatch value for form critique and reaction content. Current successor to 75 Hard in the gym challenge cycle.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#BostonMarathon Taper Week Content Surges Ahead of April 20 Race",
+      "body": "The 130th Boston Marathon runs Monday April 20, and this week's taper period is peak content time for running creators. Gear review roundups, bib-reveal posts, 'race-week fueling' vlogs, and 'why Boston is the hardest major' explainers are all outperforming baseline this week. The hashtag has consistent evergreen momentum but spikes annually in the 5–7 days before race day. Running shoe, nutrition, and apparel brands have active affiliate opportunities this week.",
+      "categories": ["Health & Fitness"],
+      "source": "Marathon Handbook / Boston Globe",
+      "source_url": "https://marathonhandbook.com/boston-marathon-guide/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.87,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#BostonMarathon", "#BostonMarathon2026", "#TaperWeek", "#RunnerGear", "#MarathonTraining"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Boston Athletic Association", "Brooks", "Tracksmith", "Maurten"],
+        "context": "Race day April 20. Defending champs: John Korir (men) and Sharon Lokedi (women). Fastest qualifier: Benson Kipruto (2:02:16). Taper week = highest affiliate intent for running gear.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Porch Ducks — Wooden Duck Stoop Decor Is TikTok's Viral HomeGoods Find",
+      "body": "Wooden duck figurines sold at HomeGoods and similar stores have become TikTok's unlikely viral home product this spring, with creators filming 'porch transformation' videos centered on duck arrangements and neighbors asking where to buy them. The trend has legs as a low-cost, high-visual-payoff home content prop — a before/after on a drab stoop takes under 60 seconds and generates substantial comment activity around sourcing.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Displaysense / TikTok Discover",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.77,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#PorchDucks", "#PorchDecor", "#HomeTok", "#HomeGoods", "#SpringDecor"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["HomeGoods", "TJ Maxx", "Target"],
+        "context": "Low-barrier viral product: duck figurines available at HomeGoods/TJ Maxx for under $20. 'What are porch ducks?' question content and sourcing guides are top-performing formats.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#Cabbagecore and Cluttercore Maximalism Drive Home Decor Content This Spring",
+      "body": "Two related aesthetics are dominating home decor TikTok: 'cabbagecore' (cabbage and leaf motifs in textiles, wallpaper, and ceramics — positioned as 2026's version of cottagecore) and 'cluttercore' (curated maximalism with art-stacked walls, book towers, and curiosity collections). Both reward 'room tour' and before/after content formats and perform especially well as carousel posts on Instagram. 'Cabbagecore' is emerging from interior design coverage and filtering into creator content as a strong niche aesthetic.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Emily Henderson Design / Palm Beach Today",
+      "source_url": "https://stylebyemilyhenderson.com/11-decor-trends-2026",
+      "trend_type": "hashtag",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Cabbagecore", "#Cluttercore", "#MaximalistDecor", "#HomeDecorTok", "#RoomTour"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Etsy", "HomeGoods"],
+        "context": "Cabbagecore: botanical leaf/cabbage motifs in decor. Cluttercore: intentional maximalism. Both contrast with minimalism trend fatigue. Interior design press is forecasting both as 2026 breakout aesthetics.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "LED Galaxy Projectors Driving 'Bedroom Glow-Up' Viral Format on TikTok",
+      "body": "LED galaxy and aurora ceiling projectors — budget smart-home gadgets that transform a bedroom into a star field or northern lights display — are one of TikTok's most reliable 'before/after room transformation' products this spring, with single creator clips driving 10,000+ orders. The format is repeatable: 30-second room-lights-off reveal, ambient overlay, link in bio. Works for tech-review creators, room-decor creators, and 'aesthetic bedroom' niches alike.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Accio.com / TikTok Shop",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#GalaxyProjector", "#BedroomGlowUp", "#TikTokMadeMeBuyIt", "#RoomTransformation", "#SmartHome"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Encalife", "BlissLights", "TikTok Shop"],
+        "context": "Galaxy/aurora projectors under $40. Breakout TikTok Shop product in smart home subcategory. Room-reveal format is highest-converting content type for this product.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "CatPOV Wearable Camera Content Format Generates 25M+ Views Per Video",
+      "body": "CatPOV videos — filmed with a lightweight wearable clip-on camera attached to a cat's collar, showing a cat's-eye view of their home adventures — are among the most consistently viral pet content formats on TikTok right now, with individual videos exceeding 25 million views. The format works for cats with outdoor access or even indoor cats exploring furniture. The wearable cameras sell briskly as affiliate products, and the POV footage has a novelty factor that outperforms traditional pet-owner talking-head content.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill / TikTok Discover",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CatPOV", "#CatCamera", "#CatTok", "#PetsOfTikTok", "#WearableCam"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["GoPro", "Petcube", "Wyze"],
+        "context": "25M+ views per top video. Wearable camera clips attach to collar. Works for indoor cats (exploring furniture) or outdoor cats. Dual-revenue play: content views + affiliate camera sales.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Lore Chasing' — Slow Travel and Cultural Immersion Content Replaces 15-Country Highlights Format",
+      "body": "'Lore chasing' — spending weeks or months in one destination to document culture, local stories, and everyday life instead of quick-hopping — is 2026's dominant shift in travel content strategy. Southeast Asia (Laos, rural Philippines, Cambodia's provinces) and Latin America (Medellin, Ecuador) are the top destination signals for this format. Creators who anchor content in a single place rather than a destination-of-the-week structure are seeing higher follow conversion and stronger affiliate revenue from accommodation partners.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Euronews Travel / Viryze",
+      "source_url": "https://www.euronews.com/travel/2026/04/10/lore-chasing-sight-doing-and-snackpacking-the-biggest-travel-trends-for-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LoreChasing", "#SlowTravel", "#TravelTok", "#CulturalImmersion", "#SoutheastAsia"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Hostelworld", "Airbnb"],
+        "context": "Audience appetite: authentic daily life over highlight reel. Top destinations: Laos, rural Philippines, Medellin Colombia, Ecuador. Social media now primary (not supplementary) travel discovery channel.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Ring Stacking and Bold Sterling Silver Mark Jewelry TikTok's 2026 Statement",
+      "body": "Ring stacking — layering multiple rings across fingers in mixed metals, styles, and sizes — remains TikTok's most-engaged jewelry content format this spring, and '2026 is the year of sterling silver' is the accompanying editorial narrative driving creator content. Shell necklaces, charm bracelets, and bold statement pieces are strong supporting trends. 'How I stack' and 'under $50 dupe stack' videos consistently outperform aspirational luxury showcases for conversion.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria / TikTok Discover",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#RingStacking", "#SterlingSliver", "#ShellJewelry", "#JewelryTok", "#CharmBracelet"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Missoma", "Ana Luisa", "PDPAOLA"],
+        "context": "Sterling silver is 2026's dominant jewelry metal per trade coverage. Ring stacking is the top TikTok format. Budget 'dupe stack' content converts stronger than luxury showcases.",
+        "price_point": "various"
       }
     }
   ]

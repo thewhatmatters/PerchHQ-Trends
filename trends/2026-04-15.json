@@ -1,0 +1,301 @@
+{
+  "batch_id": "trends-2026-04-15",
+  "scraped_at": "2026-04-15T10:00:00Z",
+  "expires_at": "2026-04-18T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Tax Day 2026 — April 15 Filing Deadline; Extension via Form 4868 Pushes to Oct 15",
+      "body": "Today is Tax Day. Individual federal income tax returns must be e-filed by midnight local time or postmarked today. Taxpayers needing more time can request an automatic six-month extension to October 15, 2026, via IRS Free File or Form 4868 — but an extension to file is NOT an extension to pay. Balances owed are still due today to avoid interest and penalties. Service members deployed outside the US get an automatic two-month extension to June 15, as do US citizens living and working abroad. IRS Direct Pay, debit/credit, or digital wallet payments marked as 'extension' auto-file Form 4868. For creators: last-minute tax explainer content, 'extension vs. payment' clarifier videos, freelancer quarterly reminder posts, and Roth IRA contribution deadline reminders are high-intent content today.",
+      "categories": ["News & Current Events", "Business & Economy", "Personal Finance"],
+      "source": "Web (IRS, FOX, Newsweek, TurboTax)",
+      "source_url": "https://www.irs.gov/newsroom/act-now-to-file-pay-or-request-an-extension",
+      "trend_type": "recurring_event",
+      "confidence_score": 0.99,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#TaxDay", "#TaxDay2026", "#IRS", "#TaxExtension", "#Form4868", "#Taxes"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["IRS", "TurboTax", "H&R Block", "IRS Free File"],
+        "context": "Annual April 15 filing deadline. Extension filers get until Oct 15, 2026. Payments still due today.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Stocks Near All-Time Highs as Iran Deal Optimism Grows; S&P 500 Closes at 6,967",
+      "body": "US equities rallied Tuesday on renewed hopes for a US-Iran deal, with the S&P 500 gaining 1.18% to 6,967.38 — less than 1% from its 52-week high. The Nasdaq Composite jumped 1.96% to 23,639.08, and the Dow added 0.66% to 48,535.99. Markets erased losses from last week's Hormuz blockade shock after VP JD Vance cited 'a lot of progress' in the first round of Islamabad talks and Trump told Fox News the war is 'close to over.' Oil continued to retreat from last week's $104 peak as traders priced in a second round of talks within days. Citi placed Alphabet on 90-day watch; UPS announced RFID on every package. For creators: market recap content, 'is the rally sustainable?' explainers, and geopolitics-to-portfolio thread content are performing well.",
+      "categories": ["Business & Economy", "News & Current Events"],
+      "source": "Web (Bloomberg, CNBC, Yahoo Finance, Motley Fool, TheStreet)",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/stock-market-today-dow-sp-500-nasdaq-rise-amid-iran-deal-hopes-earnings-rush-225637251.html",
+      "trend_type": "market_update",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Stocks", "#SP500", "#Nasdaq", "#Markets", "#Oil", "#Iran"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Bloomberg", "CNBC", "S&P 500", "Nasdaq", "Dow", "Alphabet", "UPS", "Citi"],
+        "context": "April 14 close: SPX 6,967.38 (+1.18%), Nasdaq 23,639.08 (+1.96%), Dow 48,535.99 (+0.66%). Oil down from $104 peak.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Trump Hints at Second Round of Iran Talks in Pakistan; Blockade Enters Day 3",
+      "body": "President Trump told Fox News the Iran war is 'close to over' and signaled a second round of face-to-face talks could happen 'over the next two days' in Pakistan. Pakistan has formally proposed a follow-up, and the White House confirmed more discussions are under consideration. The US naval blockade of Iranian ports entered its third day, with CENTCOM saying it has 'completely halted economic trade going into and out of Iran by sea' while preserving freedom of navigation for non-Iranian vessels. China called the blockade 'dangerous'; Bloomberg reports the US will let Iran oil sanctions waivers expire. The ceasefire window expires April 21 — the same week JPMorgan flagged as the date pre-closure oil barrels exhaust globally. Sticking point: Tehran has not accepted Washington's nuclear weapons commitment demands. For creators: 'Strait of Hormuz 101' explainers, ceasefire-clock visualizers, and 'what a deal actually looks like' threads are in demand.",
+      "categories": ["News & Current Events", "Politics & Geopolitics", "Business & Economy"],
+      "source": "Web (CNBC, Al Jazeera, Time, CBS News, NPR, PBS NewsHour, Bloomberg)",
+      "source_url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon",
+      "trend_type": "developing_story",
+      "confidence_score": 0.98,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Iran", "#IranWar", "#StraitOfHormuz", "#Hormuz", "#Trump", "#IslamabadTalks"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "cautiously optimistic",
+        "related_brands": ["CENTCOM", "Fox News", "Bloomberg", "CNBC", "Al Jazeera", "White House"],
+        "context": "Blockade Day 3. First Islamabad round Apr 11-12 failed after 21 hours. Ceasefire deadline Apr 21. Pakistan proposing round 2.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Israel–Lebanon Hold First Direct Talks in Decades at US State Department",
+      "body": "Israeli and Lebanese ambassadors held historic 'working-level peace talks' in Washington on Tuesday — the first direct bilateral engagement between the two nations since 1993 — with both sides describing the session as 'productive' and agreeing to further rounds. Hezbollah disarmament is Israel's central demand; Lebanon pressed for a ceasefire first. The Washington Post reports Israel is continuing strikes on Hezbollah during the talks. Hezbollah publicly urged the Lebanese government to pull out, calling the effort 'futile' and insisting its weapons are an 'internal Lebanese matter.' Secretary of State Rubio hosted. The talks come amid the broader Iran crisis and follow Trump's push for regional de-escalation. For creators: historical context explainers (last direct talks were 1993 Madrid), 'why this time is different' threads, and Hezbollah disarmament primer content are trending.",
+      "categories": ["News & Current Events", "Politics & Geopolitics"],
+      "source": "Web (NPR, Al Jazeera, Washington Post, CBC, Israel Hayom, Time)",
+      "source_url": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
+      "trend_type": "breaking_news",
+      "confidence_score": 0.97,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Israel", "#Lebanon", "#Hezbollah", "#MiddleEast", "#Rubio", "#PeaceTalks"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "cautiously optimistic",
+        "related_brands": ["US State Department", "NPR", "Al Jazeera", "Washington Post"],
+        "context": "First direct Israel-Lebanon talks since 1993. Both sides agreed to reconvene. Hezbollah opposed. Israel still striking targets.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "US Strikes Fourth Alleged Drug Boat in Eastern Pacific; Death Toll Hits 175",
+      "body": "The US military launched another strike on a boat accused of carrying drugs in the eastern Pacific on Tuesday, killing four — the fourth such strike in four days. The cumulative death toll from Operation Southern Spear has reached 175 since September. The operation is directed by Marine Gen. Francis Donovan and targets vessels Southern Command says are run by US-designated terrorist groups. Some congressional Democrats continue to question the legality of the strikes given the absence of due process or public documentation of trafficking links; the military has declined to release evidence that specific vessels were carrying drugs. For creators: 'what is Operation Southern Spear' explainers, legal framework breakdowns, and cartel geopolitics content are seeing strong engagement.",
+      "categories": ["News & Current Events", "Politics & Geopolitics"],
+      "source": "Web (NPR, NBC News, ABC News, ClickOnDetroit, Military.com)",
+      "source_url": "https://www.clickondetroit.com/news/politics/2026/04/15/another-us-strike-on-suspected-drug-boat-in-the-eastern-pacific-kills-4/",
+      "trend_type": "developing_story",
+      "confidence_score": 0.95,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#OperationSouthernSpear", "#Pacific", "#DrugWar", "#Cartels", "#DoD"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["US Southern Command", "Department of War", "NPR", "NBC News"],
+        "context": "4th strike in 4 days. 175 killed since September. Legality contested by House Democrats. No public evidence released per strike.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "OpenAI Debuts GPT-5.4-Cyber for Defenders After Anthropic's Claude Mythos Held Private",
+      "body": "OpenAI launched GPT-5.4-Cyber on Tuesday, a cybersecurity-specialized model pitched specifically at defenders (SOCs, threat researchers, blue teams). The release came on the heels of Anthropic's decision to keep Claude Mythos Preview in private release because of dual-use risk — the model could be weaponized by attackers. The cyber arms-race framing is a marked shift from the general-purpose model competition that defined Q1. Separately, GPT-6's long-rumored April 14 window passed without a release; the new estimate is April 21–May 25. For creators: cybersecurity explainer content, 'what does a defender-focused AI actually do?' threads, and AI competitive-landscape recaps (OpenAI vs Anthropic vs Google) are high-performing.",
+      "categories": ["Tech & Gadgets", "AI & Technology", "Business & Economy"],
+      "source": "Web (Startup News, LLM Stats, Blockchain News, FindSkill)",
+      "source_url": "https://startupnews.fyi/2026/04/15/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#OpenAI", "#GPT", "#Anthropic", "#Claude", "#AI", "#Cybersecurity"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["OpenAI", "Anthropic", "Google Gemini"],
+        "context": "GPT-5.4-Cyber launched Apr 14-15. Claude Mythos held private over dual-use risk. GPT-6 window now Apr 21–May 25.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sam Altman Attack Suspect Held Without Bail; Arraignment Pushed to May 5",
+      "body": "Daniel Moreno-Gama, 20, was held without bail in California Superior Court on Tuesday and had his arraignment moved to May 5. He faces state-level attempted murder and attempted arson charges plus federal charges for an unregistered firearm and attempted destruction of property by means of explosives. The US Attorney has indicated the case could be charged as domestic terrorism if evidence shows intent to coerce policy. Moreno-Gama's public defender said he was in a 'mental health crisis.' The Friday Molotov attack on Altman's SF home, plus a second attempted shooting at the home on Sunday, have intensified scrutiny of the AI industry's security posture. Fortune framed the moment as 'AI backlash turning revolutionary.' For creators: 'is this a turning point?' analysis, AI safety commentary, and tech-exec security threads are driving high engagement.",
+      "categories": ["News & Current Events", "Tech & Gadgets", "AI & Technology"],
+      "source": "Web (CNN, The Register, CNBC, NPR, Fortune, Axios)",
+      "source_url": "https://www.cnn.com/2026/04/13/tech/sam-altman-openai-arrest-charges",
+      "trend_type": "developing_story",
+      "confidence_score": 0.96,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SamAltman", "#OpenAI", "#AI", "#DomesticTerrorism", "#Altman", "#AIBacklash"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "concerned",
+        "related_brands": ["OpenAI", "CNN", "NPR", "Fortune", "San Francisco Police"],
+        "context": "Held without bail Apr 14. Arraignment May 5. Public defender cites mental health crisis. Domestic terrorism charge possible.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "NBA Play-In Night 2: 76ers–Magic and Clippers–Warriors Decide Final Playoff Seeds",
+      "body": "The NBA Play-In Tournament resumes tonight with 76ers vs. Magic at 7:30pm ET for the East's No. 7 seed and Clippers vs. Warriors at 10pm ET in the West. Tuesday's openers delivered: Charlotte beat Miami 127-126 in overtime (Heat eliminated); Portland topped Phoenix 114-110 to earn the West's No. 7 seed. The winners of tonight's two games clinch playoff berths; losers drop into Friday's Play-In loser bracket. Stanley Cup Playoffs also begin Saturday April 18, with Boston–Buffalo and Colorado–LA among the confirmed first-round matchups. For creators: game-night prediction content, 'Steph vs. Kawhi last dance?' storylines, and bubble-team analysis threads dominate.",
+      "categories": ["Sports", "Entertainment"],
+      "source": "Web (ESPN, CBS Sports, Yahoo Sports, NBA.com)",
+      "source_url": "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+      "trend_type": "sports_result",
+      "confidence_score": 0.96,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#NBAPlayIn", "#NBAPlayoffs", "#Warriors", "#Clippers", "#76ers", "#Magic", "#Hornets"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["NBA", "ESPN", "CBS Sports", "Yahoo Sports"],
+        "context": "Tue results: Hornets 127-Heat 126 OT; Blazers 114-Suns 110. Wed: 76ers-Magic 7:30pm ET, Clippers-Warriors 10pm ET. NHL playoffs start Apr 18.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "California Governor's Race in Flux After Swalwell Exit — Porter and Steyer Positioned to Benefit",
+      "body": "Katie Porter and Tom Steyer are the two Democrats best positioned to absorb Swalwell's support after his Monday resignation over sexual misconduct allegations, per California polling expert Paul Mitchell. Nine prominent candidates remain: seven Democrats (Porter, Steyer, Villaraigosa, Becerra, Mahan, Yee, Thurmond) and two Republicans (Riverside Sheriff Chad Bianco and commentator Steve Hilton, both Trump-aligned). The primary is wide open with no clear frontrunner. Swalwell also vacates a House seat, triggering a special election. For creators: California primary explainers, 'who wins Swalwell's base?' analysis, and 2026 midterms setup content are performing well with political audiences.",
+      "categories": ["Politics & Geopolitics", "News & Current Events"],
+      "source": "Web (CNN, Time, Washington Post, NBC News, CalMatters)",
+      "source_url": "https://time.com/article/2026/04/13/where-the-california-governor-race-stands-after-swalwell-s-exit/",
+      "trend_type": "developing_story",
+      "confidence_score": 0.93,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CAGov", "#California", "#KatiePorter", "#TomSteyer", "#Politics", "#2026Elections"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "neutral",
+        "related_brands": ["CNN", "Time", "Washington Post", "CalMatters"],
+        "context": "Swalwell resigned Apr 13. 9 candidates remain (7D, 2R). Porter and Steyer projected to benefit most. House seat special election also triggered.",
+        "price_point": null
+      }
+    },
+    {
+      "headline": "Coachella Weekend 2 Starts Friday — Sabrina Carpenter / Bieber / Karol G Return",
+      "body": "Coachella Weekend 2 opens Friday April 17 in Indio with the same headline trio — Sabrina Carpenter (Fri), Justin Bieber (Sat), Karol G (Sun). Supporting lineup includes Teddy Swims, The xx, Disclosure, Ethel Cain, Sexyy Red, Gordo, Jack White, The Strokes, GIVĒON, David Byrne, Nine Inch Noize, Armin van Buuren x Adam Beyer, Young Thug, Major Lazer, Laufey, FKA twigs, BIGBANG, and Kaskade. Weekend 1 delivered two major talking points: Bieber's divisive laptop set (still fueling TikTok debate) and Karol G's politically charged Spanish-language speech. Ticket resale prices surged above $2,000. For creators: WD2 preview posts, 'Bieber redemption arc?' threads, festival-fit GRWMs, and Do LaB lineup coverage are peaking.",
+      "categories": ["Entertainment", "Music", "Fashion & Apparel"],
+      "source": "Web (Timeout, TravelPirates, Art Threat, Wikipedia, Yahoo Entertainment)",
+      "source_url": "https://www.timeout.com/los-angeles/music/coachella-lineup",
+      "trend_type": "event",
+      "confidence_score": 0.94,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Coachella", "#Coachella2026", "#CoachellaWeekend2", "#SabrinaCarpenter", "#JustinBieber", "#KarolG"],
+        "engagement": {
+          "mentions": "very high",
+          "editor_approved": true
+        },
+        "sentiment": "excited",
+        "related_brands": ["Coachella", "Goldenvoice", "Sabrina Carpenter", "Justin Bieber", "Karol G"],
+        "context": "Weekend 2: Apr 17-19. Same lineup as W1. Bieber laptop-set controversy still trending. Resale tickets above $2,000.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "TikTok Beauty: 'Cloud Skin' and 'Me vs. AI' Makeup Challenge Dominate April",
+      "body": "Two trends are driving beauty TikTok this week. 'Cloud skin' — a soft-focus, blurred finish that mimics a digital filter — is the evolution of last quarter's 'glass skin,' and creators are duplicating tutorials with snail mucin serums and heatless curling sets as companion products. The 'Me vs. AI' makeup challenge, where creators recreate an AI-generated look on their own face, is separately surging and blending into broader anti-AI cultural sentiment. 'Skin longevity' (vs. anti-aging) is a larger mindset shift reshaping what skincare content converts. Viral product list: Biodance Bio-Collagen Real Deep Mask, Weleda Skin Food. For creators: side-by-side AI vs. me videos, 'cloud skin in 60 seconds' reels, and 'snail mucin tested' comparison content are consistent winners.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "source": "Web (Qogita, NellyRodi, Cosmetify, TikTok Discover)",
+      "source_url": "https://nellyrodi.com/en/tiktok-beauty-trends-april-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CloudSkin", "#MeVsAI", "#SkinLongevity", "#SnailMucin", "#BeautyTok", "#Skincare"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Biodance", "Weleda", "TikTok Shop"],
+        "context": "Cloud skin = soft-focus evolution of glass skin. Me vs. AI challenge ties into broader anti-AI cultural moment. Skin longevity replacing anti-aging as category framing.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Food Trend: 'China Maxxing' and 'Eating Your Skincare' Rewrite Wellness Content",
+      "body": "'China maxxing' — a creator-coined trend around adopting traditional Chinese lifestyle practices perceived as balanced and grounded (herbal soups, congee, tea rituals, TCM-inspired routines) — is one of the most talked-about food/wellness trends this month, with the tagline 'I'm in a very Chinese time of my life.' Separately, 'eating your skincare' (foods marketed for skin-clarity benefits) is spawning both mainstream content and extreme variants like the 'sardine fast.' Both ride on the same broader current as the 'skin longevity' beauty shift. For creators: TCM-recipe walkthroughs, 'what I eat in a day — china maxxing edition' vlogs, and dermatologist-reaction-to-sardine-fast content are performing.",
+      "categories": ["Food & Beverage", "Health & Fitness", "Beauty & Skincare"],
+      "source": "Web (NellyRodi, Qogita)",
+      "source_url": "https://nellyrodi.com/en/tiktok-beauty-trends-april-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#ChinaMaxxing", "#EatYourSkincare", "#TCM", "#SardineFast", "#Wellness", "#FoodTok"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["TikTok"],
+        "context": "China maxxing = TCM-inspired lifestyle content. 'Eat your skincare' ranges from mainstream to extreme (sardine fast). Both tie to skin longevity mindset.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Boston Marathon Monday — April 20 Race Previews Build; Korir and Lokedi Defend Titles",
+      "body": "The 130th Boston Marathon runs Monday April 20, and preview/taper content is peaking now. Defending open-division champions John Korir (men) and Sharon Lokedi (women), both from Kenya, return to defend their titles; Benson Kipruto enters with the fastest qualifying time in the field (2:02:16 from Tokyo 2024). Marcel Hug (Switzerland) defends his wheelchair title. The race starts at Hopkinton and finishes on Boylston Street; the BAA's free livestream and NBC/WBZ coverage plans are trending. For creators: qualifying-story posts, 'why Boston is the hardest major' explainers, runner-gear reviews, and local bib-holder profile content are high-engagement through race day.",
+      "categories": ["Sports", "Health & Fitness"],
+      "source": "Web (Boston Globe, WBUR, Marathon Handbook, Wikipedia, NBC Boston)",
+      "source_url": "https://www.bostonglobe.com/2026/04/13/sports/boston-marathon-guide-2026/",
+      "trend_type": "event",
+      "confidence_score": 0.9,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#BostonMarathon", "#Boston2026", "#Marathon", "#Running", "#BAA"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Boston Athletic Association", "NBC Boston", "WBUR"],
+        "context": "130th Boston Marathon Apr 20. Korir & Lokedi defend. Kipruto has fastest qualifying PR. Hug defends wheelchair.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Overdose Deaths Hit Historic Lows — But 'Synthetic' Street Drugs Threaten Reversal",
+      "body": "US drug overdose deaths are falling at a pace never before recorded, but public health experts warn new 'synthetic' street drugs could derail the improvement. Falling numbers reflect the impact of fentanyl-test strips, naloxone distribution, Medicaid-funded MAT expansion, and border fentanyl seizures — but adulterants like xylazine ('tranq') and novel nitazenes (stronger than fentanyl) are already appearing in East Coast and Midwest supplies. For creators: 'why overdose deaths are falling' explainers, harm-reduction content, and 'what is xylazine?' primers are performing in health-policy and recovery-content niches.",
+      "categories": ["Health & Fitness", "News & Current Events"],
+      "source": "Web (NPR, PBS NewsHour)",
+      "source_url": "https://www.npr.org/sections/news",
+      "trend_type": "developing_story",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#Overdose", "#Fentanyl", "#Xylazine", "#PublicHealth", "#HarmReduction"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "cautiously optimistic",
+        "related_brands": ["CDC", "NPR", "HHS"],
+        "context": "Overdose deaths at record-low trajectory. Synthetic adulterants (xylazine, nitazenes) emerging as next-wave threat.",
+        "price_point": null
+      }
+    }
+  ]
+}

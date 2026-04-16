@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-04-16",
+  "scraped_at": "2026-04-16T10:00:00Z",
+  "expires_at": "2026-04-19T10:00:00Z",
+  "trends": [
+    {
+      "headline": "PDRN & Exosome Serums Arrive at Consumer Price Points — K-Beauty Clinic Ingredients Go Mainstream",
+      "body": "PDRN (salmon-derived polynucleotides) and exosome complexes — previously the exclusive domain of Korean dermatology clinics — are now the breakout K-beauty ingredient story of 2026, with Medicube's PDRN Pink Peptide Serum leading the charge on TikTok Shop. 'I tried salmon sperm skincare for 30 days' content is the top-performing format, combining the gross-out hook with visible before/after results. Creators doing ingredient education videos ('what even IS PDRN?') are also seeing strong save rates from an audience hungry for science-adjacent skincare content.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Bellevie Cosmetic / BeautyMatter / Yahoo Shopping",
+      "source_url": "https://www.belleviecosmetic.com/blogs/our-blogs/the-2026-ultimate-guide-to-regenerative-beauty-pdrn-exosomes-and-the-future-of-your-skin",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#ExosomeSkincare", "#KBeauty", "#SalmonSkincare", "#SkincareScience", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Bellevie", "The Ordinary"],
+        "context": "PDRN derived from salmon DNA supports barrier repair, collagen production and cell regeneration. Plant-derived PDRN alternatives emerging for the clean beauty segment. Bio-regenerative skincare is the successor narrative to hyaluronic acid and retinol in K-beauty creator content.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Trader Joe's Beauty Haul Videos Are April's Sleeper Hit on Skincare TikTok",
+      "body": "Trader Joe's budget skincare and beauty products — including their vitamin C serum, tea tree face wash, and sunscreen — are generating a wave of 'I only used Trader Joe's skincare for a week' and 'hidden gem beauty finds at TJ's' content in April 2026. The format combines grocery-store-haul aesthetics with skincare review credibility, and the ultra-budget price points ($3–$10 per item) drive high audience participation ('wait I have that!'). Creators without traditional brand partnerships find this a strong organic niche with high comment engagement.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok Discover / Cosmetify",
+      "source_url": "https://www.tiktok.com/content/trader-joes-beauty-products-april-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#TraderJoesBeauty", "#TJsFinds", "#BudgetSkincare", "#SkincareHaul", "#HiddenGems"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Trader Joe's"],
+        "context": "Budget skincare haul format with grocery-store setting. Price points $3–$10. Strong comment loop ('does anyone know if the TJ's vitamin C is as good as...') drives discovery and reshares.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Color Hunt Challenge Turns Everyday Outings Into Viral Fashion + Photography Content",
+      "body": "The Color Hunt Challenge — where creators assign themselves a color for the day, photograph every matching object, outfit, food, and scene they encounter, then reveal a satisfying 3x3 or 4x4 collage grid — is April 2026's standout fashion-meets-photography format. A Berlin couple's version hit 5 million views and sparked a global wave of replications. Fashion creators are using the challenge as a low-effort, high-payoff way to document their personal style in context: wearing a butter-yellow outfit and then hunting yellow flowers, signs, and café walls throughout the day makes for both a styling showcase and a lifestyle vlog in one take.",
+      "categories": ["Fashion & Apparel"],
+      "source": "NewEngen / Spreaker / InsideHook",
+      "source_url": "https://www.spreaker.com/episode/april-2026-tiktok-trends-yoga-fails-color-hunts-and-festival-grwm-taking-over--71279650",
+      "trend_type": "content_format",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ColorHuntChallenge", "#ColorHunt", "#OOTD", "#ColorOfTheDay", "#FashionChallenge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Originated as a date/social challenge; fashion creators adopted it as a styling content format. Grid reveal is the payoff moment. Works as a single TikTok or a carousel on Instagram. No equipment needed beyond a phone.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Layered Tees Are TikTok Fashion's '90s Revival Moment — Rachel Green Core Takes Hold",
+      "body": "Multi-layered tops — a T-shirt over a long-sleeve, or a tank layered under a fitted ribbed tee — are officially 2026's dominant casual fashion aesthetic on TikTok, with creators invoking Rachel Green from Friends as the cultural reference point. 'How to layer your tees without looking bulky' tutorials and 'Rachel Green core spring outfits' videos are the leading content formats, driving strong saves. The trend is brand-agnostic and budget-accessible, making it highly shareable for creators at any budget level.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Fash Verge / Who What Wear",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#LayeredTees", "#RachelGreenCore", "#90sFashion", "#FashionTok", "#OOTD"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Brandy Melville", "Urban Outfitters", "Zara"],
+        "context": "90s sitcom nostalgia driving the aesthetic. Friends is the reference shorthand. Tutorial and 'how to style' is the highest-converting format. Budget-friendly: uses items creators already own.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Banana Bread Latte — Home Café Culture's Latest Viral Recipe Combination",
+      "body": "The banana bread latte — brewed espresso blended with ripe banana, brown sugar, cinnamon, vanilla, and steamed milk — is home café culture's latest viral recipe, emerging strongly on TikTok's food content in April 2026. Food creators are filming the build in aesthetic kitchen setups (marble counters, ceramic mugs, soft morning light), and the recipe's use of pantry staples keeps the barrier to entry low. 'Coffee shop drinks I make at home for under $1' content is the strongest framing, and creators are experimenting with matcha and ube variants that generate reply chains around best combos.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise / Chowhound",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BananaBreadLatte", "#HomeCafe", "#CoffeeRecipe", "#FoodTok", "#TikTokRecipe"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nespresso", "Breville"],
+        "context": "Pantry-staple recipe: ripe banana, brown sugar, butter, vanilla, cinnamon, salt, espresso. Home café content is stronger than ever in 2026 as a value-first alternative to coffee shop spending. Recipe variants (matcha banana, ube banana) extend the trend's longevity.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Strawberry Sando and 3D Fruit Ice Cream Cut-Open Reveals Flood Food TikTok",
+      "body": "Two Japanese food formats are dominating visual food content in April 2026: the strawberry sando (fresh strawberries nestled in whipped cream between crustless milk bread, revealing a perfect cross-section when sliced) and hyper-realistic 3D fruit-shaped ice creams whose cut-open reveals show vibrant sorbet centers. Japanese strawberries overall show 28.14% YoY growth with 23M+ social posts. The common thread is the reveal moment — both formats are engineered for a single, satisfying cut that generates instant gratification replays. Creators making these at home are outperforming restaurant reaction content.",
+      "categories": ["Food & Beverage"],
+      "source": "Ikigai Fruits / Tastewise / Savvy Tokyo",
+      "source_url": "https://ikigaifruits.com/blogs/news/japanese-strawberry-sando-mochi-and-shortcake-oh-my-3-japanese-strawberry-desserts-you-need-to-try-asap",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#StrawberrySando", "#JapaneseDessert", "#FruitSando", "#3DIceCream", "#FoodTok", "#CutOpen"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Japanese strawberries: 28.14% YoY growth, 23M+ posts. The visual reveal (clean cross-section cut, perfect geometry) is the engagement driver — high replay value and save rate. Both formats are makeable at home. Sando components: milk bread, heavy cream, fresh strawberries.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Dead Hang Challenge Hits 138M TikTok Views — Spinal Decompression Is Gym Tok's New Wellness Ritual",
+      "body": "The dead hang — hanging from a pull-up bar with arms fully extended and body relaxed for spinal decompression — has accumulated 138M+ TikTok views and is March/April 2026's most accessible gym trend. The format is extremely filmable: front-facing camera shows visible posture correction, and 'I did dead hangs every morning for 30 days' progress videos are consistently strong performers. Creators are pairing the hang with before/after posture photography and shoulder mobility follow-ups. The trend appeals to non-gym audiences (office workers with back pain) as much as fitness regulars, widening the addressable audience dramatically.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO / Trainerize",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DeadHang", "#SpinalDecompression", "#GymTok", "#MobilityTraining", "#PostureCorrection"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rogue", "Titan Fitness"],
+        "context": "138M+ TikTok views as of April 2026. Zero equipment beyond a bar. Works for doorframe pull-up bars (under $30). Strongest resonance with desk workers and remote workers experiencing back pain. '30 day dead hang' challenge format is the highest-engagement variant.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Reformer Pilates Class Vlogs and 'How I Got the Pilates Body' Content Drive Fitness Creator Growth",
+      "body": "Reformer Pilates — the machine-based, resistance-driven evolution of mat pilates — has become one of the most aspirational fitness content categories of 2026, with 'first reformer class' videos and 'how I got the pilates body' transformation content regularly hitting 1M+ views. The filming format is uniquely compelling: the reformer machine is visually interesting, the movements are graceful and unfamiliar to general audiences, and the 'pilates body' aesthetic is the current dominant body goal on FitTok. Studios are partnering with micro-creators for first-class experiences; creators who document consistent attendance over 4–8 weeks see strong audience retention.",
+      "categories": ["Health & Fitness"],
+      "source": "Trainerize / The Balanced CEO",
+      "source_url": "https://www.trainerize.com/blog/tiktok-fitness-trends-a-guide-for-personal-trainers/",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ReformerPilates", "#PilatesBody", "#PilatesTok", "#FitTok", "#PilatesGirl"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Club Pilates", "Solidcore", "Alo Moves"],
+        "context": "Reformer class access is $25–$40/session. 'First class reaction' and 'I tried reformer pilates for 30 days' are the anchor formats. Affiliate opportunities: studio partnerships, Alo/Lululemon activewear, Bala ankle weights for mat variation content.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'Clean With Me' Satisfying Before-and-After Format Remains Home TikTok's Highest-Retention Driver",
+      "body": "Cleaning routine content — particularly 'clean with me' time-lapses showing dramatic before-and-after room transformations — continues to be Home TikTok's most reliable retention and save driver in spring 2026. The format rewards specific product reveals: viewers rewatch for the name of the product that removed a stain or left a surface spotless. Trending sub-formats include 'Sunday reset' whole-home cleans, 'I deep cleaned my bathroom for the first time in a year,' and 'cleaning motivation for people with no motivation,' the last of which is consistently outperforming how-to content in watch time.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Accio / Echotik",
+      "source_url": "https://www.echotik.live/blog/tiktok-shop-q2-2026-trending-products-api-list-viral-items/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CleanWithMe", "#SundayReset", "#CleaningMotivation", "#HomeTok", "#BeforeAndAfter"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Method", "Grove Collaborative", "The Pink Stuff", "Mrs. Meyer's"],
+        "context": "Highest affiliate conversion happens when the specific product name is named aloud at the reveal moment. 'Cleaning motivation' framing ('I have no energy but I cleaned anyway') outperforms instructional formats in watch time and comments. Sunday reset is the top day-tag for the format.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Viral Plush Seal Toy Generates 25M+ Sales — Baby and Kids Gift Content Floods TikTok Shop",
+      "body": "A Jellycat-adjacent plush seal stuffed animal — soft, round, with an endearingly simple face — has become one of TikTok Shop's top-converting baby and kids products of 2026, with 25M+ reported sales driven by emotional unboxing content. The format is two-pronged: creators film their child's reaction to receiving the seal (high emotional engagement, strong shares) or do aesthetic 'plush collection' showcase videos. 'Gifting the viral seal to my toddler' reaction videos consistently outperform product review format, and the plush appears regularly in nursery tour content.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio / CJ Dropshipping",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#PlushSeal", "#TikTokShop", "#ToddlerGifts", "#BabyTok", "#PlushCollection", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Jellycat", "TikTok Shop"],
+        "context": "25M+ sales figure. Child reaction format (open + hug the plush) is the highest-share content type. Nursery aesthetic creators use the seal as a room prop. Price point under $25 makes it accessible for gifting content.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "AquaPurr Cat Fountain Hits 386M TikTok Views — Running Water Pet Content Remains Unstoppable",
+      "body": "The AquaPurr cat water fountain — which attaches directly to a faucet and provides a continuous trickle of fresh running water — has become one of TikTok's all-time top-viewed pet products, accumulating 386M views through a simple content formula: cat approaches running water, gets immediately obsessed, owner explains they installed this to fix a chronic dehydration problem. The 'my cat refused to drink still water until I tried this' hook is the most reliable structure, and creators are extending the format to 'one week results' follow-up content that tracks hydration improvement.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill / Accio",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AquaPurr", "#CatFountain", "#CatHydration", "#CatTok", "#PetTok", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr", "Catit", "PetSafe"],
+        "context": "386M TikTok views. Attaches directly to faucet, no electricity required. Under $35. The problem-solution narrative ('my vet said my cat was chronically dehydrated') is the hook that outperforms all other framings. Follow-up 'one week results' content extends the content arc.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#EgyptIsCalling Sparks a 'Destination Calling' TikTok Travel Format Wave",
+      "body": "The #EgyptIsCalling trend — where travelers film passport-in-hand airport moments and arrival scenes set to an upbeat audio, hashtagged with the destination — has become one of TikTok's fastest-spreading travel content templates of April 2026, spawning '#VietnamIsCalling', '#JapanIsCalling', '#SpainIsCalling' and dozens of variants. The format is minimal-equipment (just a phone and a passport), emotionally punchy (anticipation + arrival payoff), and highly replicable by any travel creator regardless of budget. Creators are also using the format as a pre-trip hype reel: filming the airport departure side and teasing the arrival footage as a Part 2.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Daily Postal / Viryze",
+      "source_url": "https://dailypostal.com/2026/04/02/egypt-is-calling-how-a-viral-tiktok-trend-is-changing-travel-in-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#EgyptIsCalling", "#VietnamIsCalling", "#JapanIsCalling", "#SpainIsCalling", "#TravelTok", "#TravelChallenge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "KAYAK", "Airbnb"],
+        "context": "Template: passport reveal shot → airplane window → arrival moment. Format spawned destination-specific variants across Africa, SE Asia, Europe, and LATAM. Works equally for budget travel and luxury travel creators — the aesthetic is the format, not the spend.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist Charm Necklaces Replace Simple Pendants as Jewelry TikTok's Top Seller",
+      "body": "The maximalist charm necklace — a chunky chain loaded with mismatched charms (dice, hearts, locks, enamel fruits, vintage medallions) — has displaced the dainty single-pendant necklace as TikTok Jewelry's top content and commerce format in 2026. 'Build your charm necklace with me' videos perform especially well as both process content (showing charm selection and layering) and GRWM accessory styling content. The format rewards repeat purchases (creators add new charms to their existing chain), and comment sections are highly active with viewers requesting charm sourcing links.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories / Artizan Joyeria",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#MaximalistJewelry", "#JewelryTok", "#BuildYourChain", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Vivienne Westwood", "Etsy indie sellers", "Claire's", "ASOS"],
+        "context": "Charm necklaces reward a repeat-purchase content arc: new charm haul → add to chain → reveal. Comment engagement centers on sourcing ('where did you get the dice charm?'). Budget versions ($15–$40 full chain) perform as strongly as luxury on TikTok. Enamel fruit charms and vintage lock-and-key charms are the top-searched individual charm types.",
+        "price_point": "various"
+      }
+    }
+  ]
+}

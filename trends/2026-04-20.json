@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-20",
+  "scraped_at": "2026-04-20T10:00:00Z",
+  "expires_at": "2026-04-23T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Snail Mucin Serum Drives 'Glass Skin' Before/After Surge on TikTok Shop",
+      "body": "Snail mucin serums are this week's TikTok Shop breakout in skincare, with creators posting side-by-side glass-skin before/afters and 7-day result vlogs. The format works because the payoff is visible on camera — creators should shoot a flat-lay routine, then a clean ring-light close-up of cheek texture under the same lighting both days.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok Shop",
+      "source_url": "https://www.tiktok.com/discover/viral-products-for-2026-skin-care",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#snailmucin", "#glassskin", "#tiktokshopfinds", "#skincareroutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["COSRX", "Mizon", "Some By Mi"],
+        "context": "Korean skincare staple is having a renewed Q2 moment — creators frame it as a budget alternative to clinic-tier glow treatments",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Festival GRWM: Coachella Weekend 2 Beauty Looks Are Today's Biggest Beauty Hook",
+      "body": "Coachella Weekend 2 wrapped April 19, and beauty creators are spending the next 72 hours on 'recreate this look' GRWMs — bedazzled brows, glitter freckles, sunburn blush, and dewy 'sweat-set' skin tutorials. Creators not at the festival are doing 'I styled this Coachella look on a Sunday in [city]' to ride the trend.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://newengen.com/insights/april-2026-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#GRWM", "#Coachella2026", "#festivalmakeup", "#desertbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Half Magic", "Rare Beauty", "Saie"],
+        "context": "Festival recap window is the peak post-event content opportunity — algorithm is actively pushing 'looks I missed' content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Leah Halton & Zoi Lerma's Coachella '26 Looks Spark Viral Outfit-Recreation Trend",
+      "body": "Australian creator Leah Halton's Weekend 2 fits and Zoi Lerma's GUVANCH micro-feathered skirt are this week's most-screenshotted festival outfits, with TikTok flooded with 'recreating Leah Halton's Coachella look from Shein/Amazon' duets. Fashion creators should drop side-by-side dupe hauls — high/low version of one specific look — within the next 4 days while search volume is peaking.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://thenightly.com.au/culture/pop-culture/coachella-2026-the-hottest-influencer-and-celebrity-fashion-looks-from-weekend-one-c-22139216",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#LeahHalton", "#CoachellaFits", "#festivalfashion", "#outfitrecreation"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["GUVANCH", "Shein", "Revolve", "House of CB"],
+        "context": "Celebrity/influencer outfit recreations are highest-converting fashion content of April — peak relevance window 48-96 hours post-festival",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "2016 Boho Revival: Lace, Fringe & Cowboy Boots Are Spring's Defining Fashion Story",
+      "body": "Coachella 2026 confirmed the full-cycle return of 2016 boho — fringe vests, lace mini dresses, suede cowboy boots — and creators are doing 'closet shopping the 2016 boho revival' transition videos pulling Coachella-era pieces back out. Pair with old Lana Del Rey audio for engagement lift.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/fashion-trends-coachella-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#bohorevival", "#2016core", "#coachellafashion", "#fringe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Spell", "Doen"],
+        "context": "Nostalgia cycle is back — creators with archival 2014-2017 footage have an unfair advantage right now",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Starbucks Iced Dubai Chocolate Matcha Becomes April's Defining Drink Order",
+      "body": "Starbucks' Iced Dubai Chocolate Matcha — matcha with pistachio sauce, chocolate cream cold foam and brown-butter topping — is dominating drink-order POVs and 'is it actually good?' tasting reactions this week. Food creators should do a 3-second pour shot, an honest one-bite reaction, and a from-scratch DIY version for triple posting.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/dubai-chocolate-labubu-matcha-latte",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#dubaichocolate", "#matchatok", "#starbucksorder", "#newdrink"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Starbucks", "Crumbl", "Baskin-Robbins"],
+        "context": "Two megatrends (matcha + Dubai chocolate) merging into one drink — peak shareability moment, mixed sentiment because of polarizing flavor",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pistachio-Tahini Chocolate Bars Are TikTok's New Crack-The-Bar Sensation",
+      "body": "Pistachio-tahini-cream-filled chocolate bars are the next chapter of the Dubai chocolate dynasty, with viral 'cracking the bar open' ASMR reveals showing the oozing green filling. The format is perfect for food creators — one-shot, no narration, tight close-up of the snap and pull.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://medium.com/@islifearecipe/the-top-ten-viral-tiktok-recipes-you-have-to-try-and-probably-will-scroll-away-from-93087d81af45",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pistachiochocolate", "#tahini", "#asmrfood", "#crackthebar"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Fix Dessert Chocolatier", "Lindt", "Pop Mart"],
+        "context": "Successor product to Dubai chocolate — small-batch chocolatiers are selling out within hours of viral posts",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Cycle Syncing Workouts Format Dominates Female-Fitness Creator Pages",
+      "body": "Female fitness creators are leaning hard into 'cycle syncing' content — different workout intensities for follicular vs. luteal phases — and weekly 'this is what I do in week 2 of my cycle' breakdowns are getting 4-5x baseline saves. Creators should batch a 4-video series (one per phase) and pin to profile.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cyclesyncing", "#hormonebalance", "#womenshealth", "#fittok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Alo", "Lululemon", "Bala"],
+        "context": "High-save format with strong evergreen value — cycle syncing content keeps performing for months after posting",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#CabbageCore: Cabbage & Lettuce Motifs Take Over Spring Home Decor",
+      "body": "#CabbageCore is up 115% on TikTok in three months and 'cabbageware' searches climbed 250% on Pinterest, with creators styling cabbage-leaf bowls, lettuce-printed linens and head-of-cabbage table centerpieces. Home creators should do 'thrifting cabbageware at Goodwill' hunts — the dopamine of the find drives the engagement.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#grandmillennial", "#tablescaping"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Dolce & Gabbana Casa", "Estelle Colored Glass"],
+        "context": "Sub-trend of grandma-decor / grandmillennial — strong on Pinterest crossover for SEO traffic on top of TikTok",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Friction-Maxxing: Stripping Tech From Daily Routines Drives Slow-Living Content",
+      "body": "'Friction-maxxing' — deliberately replacing optimized tech (Spotify, smart bulbs, Notion) with analog versions (record players, candles, paper journals) — is breaking out as Q2's defining slow-living content format. Home creators should shoot a 'one week of friction' diary with handheld vertical footage and minimal cuts.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#frictionmaxxing", "#slowliving", "#analoglife", "#romanticizingyourlife"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Crosley", "Diptyque", "Moleskine"],
+        "context": "Backlash to dopamine-optimization content of 2025 — strong overlap with slow-living and romanticizing-life audiences",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "$15 LED Galaxy Projector 'Bedroom Glow-Up' Videos Are TikTok Shop's Q2 Sleeper Hit",
+      "body": "A $15 LED galaxy projector is the surprise breakout of Q2 TikTok Shop — sellers are pairing with micro-creators for 'bedroom glow-up' transitions where the room goes from lights-on plain to lights-off cosmic. One viral video drove 10,000+ orders in two weeks. Creators should shoot the off→on cut with a slow zoom for max conversion.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "TikTok Shop",
+      "source_url": "https://findniche.com/blog/best-tiktok-shop-products-to-sell-in-2025-with-trends-data-real-examples",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#bedroomglowup", "#tiktokshopfinds", "#roomtransformation"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Govee", "BlissLights", "Pococo"],
+        "context": "High-conversion product because price point (<$20) sits in impulse-buy range and the visual transformation is unfakeable",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "AquaPurr Cat Water Fountain Hits 386M Views Solving Picky-Cat Hydration",
+      "body": "The AquaPurr Water Fountain has crossed 386M TikTok views as cat owners post before/after hydration content — 'my cat ignored every bowl, then this happened' POVs. Pet creators should shoot a static 60-second clip of the cat first interaction; the surprise moment writes itself.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cattok", "#aquapurr", "#cathydration", "#pettoktrends"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr", "PetKit", "Catit"],
+        "context": "Problem/solution product with built-in 'reaction shot' — cat creators with multi-cat households are best positioned",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Amsterdam Tulip Season Peak: Mid-April Is Travel Tok's Highest-Saved Window",
+      "body": "Mid-to-late April is peak Keukenhof and tulip-field bloom, and travel creators are flooding TikTok with drone shots of Lisse, Noordoostpolder color-block fields, and 'rent-a-bike-through-the-tulips' POVs. The window closes May 11 — anyone shooting in-market right now has 3 weeks of guaranteed seasonal traffic.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#tulipseason", "#keukenhof", "#amsterdamtravel", "#netherlands"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Keukenhof", "KLM", "Rijksmuseum"],
+        "context": "Hard seasonal window — content shot now performs through early May then dies until next April",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Charm Bracelet Personalization Powers Jewelry Creator 'Build-A-Bracelet' POVs",
+      "body": "Charm bracelets are this spring's dominant jewelry format, with creators doing 'build-a-bracelet' POVs that walk viewers through choosing each charm — birth flowers, zodiac, pets, hometown coordinates. The narrative format keeps viewers watching to the reveal. Jewelry creators should shoot a top-down hand-cam version showing the full assembly.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmbracelet", "#jewelrytok", "#buildabracelet", "#personalizedjewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Mejuri", "BaubleBar"],
+        "context": "Long-watch-time format — personalization drives saves and the gift-giving cycle starts ramping for Mother's Day (May 10)",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Seal Plushies Cross 25M Sales as 'Emotional Plush' Trend Hits Baby & Kids",
+      "body": "Seal plushies have crossed 25M+ units sold via TikTok, with parents posting 'unboxing for my toddler' POVs and bedtime-routine clips featuring the plush. Baby/kids creators should shoot a soft-lit nursery clip — toddler reaction shots are the conversion driver, plus a 'why this one over [competitor]' comparison.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#sealplush", "#toddlertok", "#nurseryessentials", "#momtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Jellycat", "Squishmallow", "IKEA"],
+        "context": "Emotional-plush sub-category beating utilitarian baby gear in shop volume — strong gift-giving and Easter-leftover momentum",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

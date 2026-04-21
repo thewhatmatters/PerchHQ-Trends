@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-04-21",
+  "scraped_at": "2026-04-21T10:00:00Z",
+  "expires_at": "2026-04-24T10:00:00Z",
+  "trends": [
+    {
+      "headline": "'Cloud Skin' Overtakes Glass Skin as This Week's Dominant Beauty Finish",
+      "body": "Cloud skin — a soft-focus, blurred, filter-in-real-life finish — is decisively replacing glass skin in TikTok makeup tutorials this week. Beauty creators should shoot a 3-part carousel: close-up of pre-base hydration, the powder-into-cream step that creates the blur, and a side-by-side 'cloud vs glass' under the same ring light. Works even better as a dueted reaction to last year's glass-skin videos.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#softfocusmakeup", "#makeuptrends2026", "#blurredskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rare Beauty", "Hourglass", "Charlotte Tilbury", "Milk Makeup"],
+        "context": "Generational shift away from the greasy-looking glass-skin finish — creators who got early traction on glass skin have a natural follow-up angle",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Rhode Caffeine Reset Sculpting Cream Is the Under-Makeup Product Flooding FYPs",
+      "body": "Hailey Bieber's Rhode Caffeine Reset sculpting cream is the current under-makeup viral — creators are filming the cream being pressed in, then an immediate foundation application to show the de-puffed, tight effect. Best format is a split-screen 'one side only' test so the difference is undeniable on camera.",
+      "categories": ["Beauty & Skincare"],
+      "source": "VITA Daily",
+      "source_url": "https://vitamagazine.com/2026/03/31/tiktok-made-me-buy-it-can-t-miss-buys-for-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#rhodeskin", "#caffeinereset", "#haileybieber", "#undermakeup"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rhode", "Summer Fridays", "Tatcha"],
+        "context": "Every Rhode launch goes viral on release — this one has the visible-on-camera payoff that converts best for affiliate",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "LED Face Masks Surge as 'At-Home Pro-Glow' Movement Becomes Beauty's Biggest Device Category",
+      "body": "LED light-therapy masks (Omnilux, Shark CryoGlow, Glotech Pro) are dominating beauty-tech FYPs this week, with the 'At-Home Pro-Glow' framing turning them into the headline device creators position as a dermatologist alternative. Shoot the mask powering on in a dim room, a 10-minute timelapse, and a day-7 skin close-up — the glow shot on camera is the conversion driver.",
+      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "source": "Today",
+      "source_url": "https://www.today.com/shop/shark-cryoglow-vs-omnilux-contour-face-rcna211203",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ledmask", "#redlighttherapy", "#athomeproGlow", "#skintech"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Omnilux", "Shark CryoGlow", "Glotech", "CurrentBody"],
+        "context": "Near-million five-star reviews + visually striking on-camera makes this the highest-converting beauty-tech category of Q2",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Low-Rise Denim Is Officially Back — Post-Coachella Fashion's Defining Silhouette",
+      "body": "Coachella 2026 confirmed low-rise denim as the defining silhouette for spring, pushing creators into 'how to style low-rise without hating your body' explainers and mid-rise vs low-rise side-by-side try-ons. The highest-saving format is a 5-outfit low-rise lookbook with one budget, one mid, and one designer pair clearly labeled.",
+      "categories": ["Fashion & Apparel"],
+      "source": "WWD",
+      "source_url": "https://wwd.com/fashion-news/fashion-features/coachella-2026-fashion-trends-shorts-sheer-crochet-fringe-1238912205/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#lowrisejeans", "#y2krevival", "#denimtrends", "#springstyle2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Abercrombie", "Levi's", "Agolde", "Citizens of Humanity"],
+        "context": "Divisive sentiment is fuel — 'low-rise is back and I refuse' reaction videos are outperforming straight styling content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Pilates Princess Goes Coquette: Cream & 'Cherry Girl' Red Colorways Take Over Activewear",
+      "body": "The Pilates Princess aesthetic just shifted palettes — creators are filming 'getting ready for reformer' GRWMs in coquette cream sets and 'cherry girl' red matching pieces from Alo, Lululemon, and indie pilates-specific labels. The highest-performing format is a 3-outfit pilates try-on with grip socks, claw clip, and Stanley tumbler all in-frame.",
+      "categories": ["Fashion & Apparel", "Health & Fitness"],
+      "source": "Fashionista",
+      "source_url": "https://fashionista.com/2026/02/shop-cool-girl-pilates-activewear-brands",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pilatesprincess", "#coquettefitness", "#cherrygirl", "#pilatesfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Alo", "Lululemon", "Bala", "Set Active"],
+        "context": "Colorway refresh gives the aesthetic a reason to re-trend — creators who already did the pink version have a natural sequel",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "UNIQLO Pocketable UV Protection Parka Is Spring's Sleeper Hit",
+      "body": "The UNIQLO Pocketable UV Protection Parka — sub-$50, folds into its own pocket, raglan sleeves — is this week's fashion sleeper hit, with try-on hauls centering the 'fits in my purse' reveal and the unroll moment. Best shot: pull it from a tiny pouch and shake it out, then walk-and-show in natural light.",
+      "categories": ["Fashion & Apparel", "Travel & Hospitality"],
+      "source": "VITA Daily",
+      "source_url": "https://vitamagazine.com/2026/03/31/tiktok-made-me-buy-it-can-t-miss-buys-for-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#uniqlo", "#uvparka", "#travelfashion", "#springjacket"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["UNIQLO"],
+        "context": "Travel + fashion overlap — creators doing Europe-spring content are pairing this with carry-on haul videos",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Strawberry Sando Is April's Most-Saved Recipe on FoodTok",
+      "body": "The Japanese strawberry sando — milk bread, thick whipped cream, whole strawberries arranged in a cross-section — is this week's most-saved recipe video, with the diagonal-cut reveal driving the hook. Three-ingredient versions are outperforming elaborate ones; creators should shoot the straight-from-the-fridge cut in one continuous overhead take with no cuts.",
+      "categories": ["Food & Beverage"],
+      "source": "Fresh Savory",
+      "source_url": "https://www.freshsavory.com/strawberry-shortcake-sushi-rolls/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#strawberrysando", "#japanesedessert", "#fruitsandwich", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Japanese Milk Bread", "Shokupan"],
+        "context": "Japanese strawberries are 2026's breakout food trend (28% YoY growth, 23M+ social posts) — the sando is the most photogenic entry point",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Sleepy Girl Mocktail's Q2 Resurgence: Tart Cherry + Magnesium + Prebiotic Soda",
+      "body": "The Sleepy Girl Mocktail (tart cherry juice, magnesium powder, topped with a prebiotic soda like Poppi or Olipop) is having a Q2 resurgence as the functional-wellness drink of the spring. Creators are shooting nighttime routine edits — dim lamp, pour shot, sip, bed — set to lo-fi audio. Pair with a 'night 1 vs night 7' sleep-tracker reveal.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#sleepygirlmocktail", "#magnesium", "#sleephealth", "#functionaldrinks"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Natural Vitality Calm", "Poppi", "Olipop", "Cheribundi"],
+        "context": "Functional-beverage angle makes this affiliate-friendly across 3 product categories in one video",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Tuscan Mom' Aesthetic Explodes as TikTok's McMansion Rehabilitation Trend",
+      "body": "The Tuscan Mom aesthetic — terracotta walls, wood-beam ceilings, wrought-iron fixtures, layered Italianate textures — is pulling millions of views per week as Gen Z romanticizes early-2000s McMansion maximalism against millennial gray. Home creators should do 'my millennial rental, Tuscan-mom edition' transformation videos — one statement piece (a wrought-iron candelabra or terracotta urn) plus a warm lamp swap is enough for the before/after.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Fortune",
+      "source_url": "https://fortune.com/2026/04/11/tuscan-mom-aesthetic-comeback-tiktok-trend-mcmansions-millennial-grey/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#tuscanmom", "#mcmansioncore", "#italianaesthetic", "#maximalism"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pottery Barn", "World Market", "Anthropologie Home"],
+        "context": "Backlash against greige/minimalist home content is peaking — creators with warm-toned archives have an unfair advantage",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Canon PowerShot ELPH 360 HS Drives Digital Y2K Cam Resurgence",
+      "body": "The Canon PowerShot ELPH 360 HS is this week's Tech-&-Gadgets breakout, with creators posting 'I switched my iPhone for this $200 compact' side-by-sides. The nostalgic flash-washed digital-cam look is the conversion — creators should shoot a get-ready-with-me using only the compact and intercut the grainy digi-cam stills at beat drops.",
+      "categories": ["Tech & Gadgets"],
+      "source": "VITA Daily",
+      "source_url": "https://vitamagazine.com/2026/03/31/tiktok-made-me-buy-it-can-t-miss-buys-for-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#digicam", "#y2kcam", "#canonpowershot", "#photodump"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Canon", "Fujifilm", "Sony"],
+        "context": "Digital-cam aesthetic has transitioned from Gen Z niche to mainstream — retailers are reporting sellouts on eBay/Mercari",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Baby Fruit Feeders Are the Sleeper Viral on ParentTok This Week",
+      "body": "Silicone baby fruit feeders (frozen banana, strawberry, mango pouches) are trending on ParentTok as the 'thing I wish I had sooner' product. The reliable hook is a messy-to-clean cut: baby eating frozen mango, then a 3-second rinse of the feeder under the tap. Pair with 'baby-led weaning at 7 months' educational framing.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/@melissametrano/video/7518489414599773471",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#babyfruitfeeder", "#babyledweaning", "#momtok", "#toddlerhack"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Munchkin", "Nuby", "haakaa"],
+        "context": "2026 is a documented baby-boom year — new-parent audience is unusually large and actively seeking product recommendations",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Luxury Orthopedic Cat Sofas Cross $2K Price Point — and It's Working",
+      "body": "Hand-stitched orthopedic cat sofas from indie brands are selling at $1,500–$2,000 and fueling cat POV content that blurs pet care and home decor. Pet creators with cats should film the delivery unbox, first-sit reaction, and a 'does my cat actually use it' week-one review — the luxury price point makes the 'is it worth it' angle the conversion hook.",
+      "categories": ["Pets", "Home & Lifestyle"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#catsofa", "#catfurniture", "#petPOV", "#luxuryPets"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tuft + Paw", "Meyou Paris", "Catastrophic Creations"],
+        "context": "Pet-premiumization trend is scaling — cat POV videos are clearing 25M views on hit posts, making this a high-leverage angle",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'Extreme Day Trip' Is the Format Dominating TravelTok Right Now",
+      "body": "The extreme day trip — flying to a far-off destination and home within 24 hours — is TravelTok's most-engaged format this spring, with creators doing London-from-NYC-for-tea or Tokyo-from-LA-for-ramen as one-take POVs. Best shot list: 4 AM airport selfie, landing, single iconic experience, return flight mirror shot. Keep under 60 seconds with an on-screen elapsed-hours counter.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Islands",
+      "source_url": "https://www.islands.com/2137478/social-media-viral-extreme-day-trip-trend-regret-bad-idea/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#extremedaytrip", "#24hourtrip", "#traveltok", "#budgetluxury"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Skyscanner", "Google Flights", "Going"],
+        "context": "Gen Z redefining 'vacation' as one-day international — mixed sentiment (burnout concern) is part of why the format is engagement-heavy",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Charm Necklace 'Build Your Story' POVs Are Jewelry's Dominant Format",
+      "body": "Layered charm necklaces are the clear jewelry format of the moment, with creators doing 'each charm represents a year of my life' POVs — slow pan across the chain while voicing-over the meaning of each symbol. Best performance comes from a tight neckline frame with natural light and a single take. Brands are seeing direct conversion when creators link the exact charms.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "JuJu Loves",
+      "source_url": "https://www.jujuloves.com/blogs/blog/charm-necklaces-trend-report-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#jewelrystack", "#charmstory", "#layerednecklaces"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Missoma", "Catbird", "BaubleBar"],
+        "context": "Storytelling format converts for DTC jewelry brands at 3x rate of flat-lay — peak relevance for Mother's Day gifting prep (3 weeks out)",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "#EarthDay2026 Zero-Waste Swap Hauls Peak in the Next 48 Hours",
+      "body": "With Earth Day on April 22, #EarthDay2026 sustainable swap hauls are ramping hard — creators are doing 'throwing out vs replacing' videos featuring loofah sponges, bag sealers, refillable cleaners, and beeswax wraps. Best format: side-by-side trash shot vs kitchen shelf restyle, shot overhead, 15 seconds per swap. Post tonight or tomorrow morning for peak algorithmic pickup.",
+      "categories": ["Home & Lifestyle"],
+      "source": "eDigital Agency",
+      "source_url": "https://www.edigitalagency.com.au/tiktok/top-25-sustainability-hashtags-on-tiktok/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#EarthDay2026", "#zerowaste", "#sustainableswap", "#ecofriendly"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Blueland", "Package Free", "Stasher", "Bee's Wrap"],
+        "context": "Earth Day is April 22 — only clean window for this angle is 24–48 hours before and the day-of; creators who post after April 23 see sharp engagement drop",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

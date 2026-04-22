@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-22",
+  "scraped_at": "2026-04-22T10:00:00Z",
+  "expires_at": "2026-04-25T10:00:00Z",
+  "trends": [
+    {
+      "headline": "#EarthDay2026 'Our Power, Our Planet' Zero-Waste Swap Hauls — Today Only",
+      "body": "Earth Day is TODAY and this year's theme is 'Our Power, Our Planet.' Creators have a 12–24 hour window for the highest-engagement play: a tight 30-second swap haul (beeswax wraps, silicone stashers, refillable cleaners, solid shampoo, wool dryer balls), one item per beat, with a closing trash-pile vs restyled-shelf side-by-side. Don't post tomorrow — the algorithm moves on by April 23.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Earth Day Official",
+      "source_url": "https://www.earthday.org/earth-day-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#EarthDay2026", "#OurPowerOurPlanet", "#ZeroWasteSwap", "#SustainableHome"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Bee's Wrap", "Stasher", "Blueland", "Ethique", "Grove Collaborative"],
+        "context": "Single-day hashtag spike — 1B+ people participate in Earth Day across 200 countries, and sustainability swap content consistently peaks for 24 hours",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cabbagecore Is Spring's Breakout Home Aesthetic",
+      "body": "Cabbageware — cabbage-molded plates, salad bowls, pitchers, even wallpaper — is the runaway home decor story of the month. #CabbageCore is up 115% in three months and Pinterest's 'cabbageware' searches jumped 250% YoY. Easiest creator angle: a three-shot tablescape transformation with one cabbage serving bowl as the hero, scored to a whimsical sound. Bonus if you namedrop Dodie Thayer to lend provenance.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Decoist",
+      "source_url": "https://www.decoist.com/cabbagecore-decor-trend-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#tablescape", "#grandmillennial"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dodie Thayer", "Bordallo Pinheiro", "Isis Ceramics", "Anthropologie"],
+        "context": "Pinterest Predicts named it one of 21 biggest 2026 trends; historic roots with Jackie Kennedy-era ceramics give it 'quiet luxury' legitimacy",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Matcha Skincare Crossover Hits Beauty FYPs",
+      "body": "Matcha has officially jumped from the latte cup to the skincare shelf. Matcha-infused masks and serums are the fastest-rising Gen Z category, and hypochlorous acid skincare is up 132% YoY in search. The winning format is a split shot — matcha latte in one hand, matcha mask on the opposite cheek — with a caption explaining antioxidant + caffeine crossover. Works as a duet to any existing 'Matcha Girl' GRWM.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/beauty-trends-tiktok",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#matchaskincare", "#matchagirl", "#greenbeauty", "#skincareroutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Krave Beauty", "AmorePacific", "Tatcha", "Innisfree"],
+        "context": "Category crossover between two already-viral worlds — wellness/matcha aesthetic and clean-girl skincare. Creators with both niches get double pull",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask Still Dominating PM Routines",
+      "body": "The Medicube Collagen Night Wrapping Mask is the most-saved PM skincare hero on TikTok this week. Creators are filming the classic 'apply-sleep-reveal' arc: smear-on shot, timelapse to morning, bare-face reveal with raking side-light. Under-$30 price makes it a natural TikTok Shop affiliate winner — pair with the Beauty of Joseon Rice Sunscreen for a dewy-to-brightening day/night combo.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#medicube", "#collagenmask", "#nightroutine", "#kbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Beauty of Joseon", "Biodance", "Mixsoon"],
+        "context": "K-beauty category remains TikTok Shop's highest-converting sub-niche; overnight masks in particular give creators a built-in visual reveal",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Tired Girl' Makeup Overtakes Clean Girl on FYPs",
+      "body": "The 'Tired Girl' aesthetic — smudged under-eye liner, pale skin, flushed nose, soft undone brow — is racking 300K+ views per top post and driving a 35% bump in lash serum sales via the parallel #fullfacenomascara trend. Shooting cue: start with a real clean-girl base, then use your ring finger to smudge liner down and out, shot in low window light. A deliberate 'imperfect' look plays as authenticity.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/beauty-trends-tiktok",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#tiredgirl", "#fullfacenomascara", "#undoneglam", "#softgrunge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Glossier", "Merit", "Rhode", "Ilia"],
+        "context": "Aesthetic pendulum swinging back from polished clean-girl — creators who ran clean-girl heavy have a natural 'antithesis' sequel angle",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho-With-Bite Revival Dominates Spring Fashion Content",
+      "body": "Indie-sleaze boho is the decisive fashion story of April — sheer lace blouses layered over faded band tees, low-slung leather, paisley, tapestry florals, stacked mismatched necklaces. The highest-save format is a '1 item, 5 ways' styling reel built around a single boho piece (kimono, vest, lace top). Anti-minimalist energy is the whole point — this is boho '70s crossed with 2006 Kate Moss, not coastal-grandmother.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#bohochic", "#indiesleaze", "#bohowithbite", "#springfashion2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Isabel Marant", "For Love & Lemons", "Spell"],
+        "context": "Boho is the dominant spring/summer runway-to-feed trend, officially supplanting 'quiet luxury' minimalism — creators with vintage resale access have inventory advantage",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cargo-Belt Bags Break Out of Copenhagen Fashion Week",
+      "body": "The cargo-belt bag — essentially a wide utility belt with zippered pouches worn at the waist or slung cross-body — is the product of the moment for fashion creators. Rose out of Copenhagen Fashion Week s/s 2026 street style and is now flooding TikTok outfit-of-the-day videos. Best format: a 'pocket reveal' — cut to each pouch opening to show what fits inside. Functional + sculptural is the selling point.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Top Down Trading",
+      "source_url": "https://www.topdowntrading.co.uk/blog/tiktok-made-me-buy-it-the-power-of-viral-shopping-in-2026.html",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cargobelt", "#beltbag", "#copenhagenstyle", "#scandistyle"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ganni", "Rains", "Baggu", "Lululemon"],
+        "context": "Copenhagen street style has become the single most reliable predictor of TikTok fashion product trends — s/s 2026 street photos are still seeding FYPs now",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Vanilla Bean 'Little Sheep' Matcha Latte Goes Global",
+      "body": "Matcha Wang's Shanghai 'little sheep latte' — a vanilla-bean matcha with sheep-shaped foam art — has become April's most copied beverage. Original foreign-blogger TikTok calling it the 'sheep-killing plan' tipped it into international virality; tourists are now queueing up to an hour. Home-shoot cue: matcha whisked, sheep-foam top-down pour, one continuous 10-second take with no voiceover. Subtitle overlay explains the lore.",
+      "categories": ["Food & Beverage"],
+      "source": "China Daily",
+      "source_url": "https://www.chinadaily.com.cn/a/202604/14/WS69de5cafa310d6866eb43669.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#matchalatte", "#sheeplatte", "#matchawang", "#cafevlog"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Matcha Wang", "Ippodo", "Jade Leaf", "Rishi"],
+        "context": "Specific viral cafe moment with a copyable element (foam art) — creators anywhere can replicate at home. Matcha category is already peaking in spring 2026",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pistachio-Tahini Chocolate Bar Still Surging After Billie Eilish Vegan Remix",
+      "body": "The Dubai-style pistachio-tahini cream filled chocolate bar is the biggest food sensation of TikTok's current cycle — Billie Eilish's vegan twist crossed 100M views and pushed the trend into Week 5 of sustained momentum. Creator angle: at-home recipe with a 'cross-section' cut to show the green pistachio filling ooze. The single shot of slicing through is worth the whole video.",
+      "categories": ["Food & Beverage"],
+      "source": "Medium / Islifearecipe",
+      "source_url": "https://medium.com/@islifearecipe/the-top-ten-viral-tiktok-recipes-you-have-to-try-and-probably-will-scroll-away-from-93087d81af45",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pistachiobar", "#dubaichocolate", "#tahinirecipe", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Fix Dessert Chocolatier", "Seed + Mill", "Soom Foods"],
+        "context": "Celebrity (Billie Eilish) co-sign extended the trend's life cycle well past normal 2-week peak — vegan variant is the current entry point for new creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Hot Girl Walk Still Commands Half a Billion Views",
+      "body": "The Hot Girl Walk keeps compounding — 500M+ TikTok views and counting, now with a 3-2-8 pilates tie-in for the on-reformer crowd. Fresh creator angle: first-person POV walking shot, Stanley in one hand, voiceover listing three gratitudes, three goals, eight minutes of self-hype audio. AirPods Pro sound check, sunny morning light, one unbroken take. Works as a Monday-morning recurring format.",
+      "categories": ["Health & Fitness"],
+      "source": "Hola",
+      "source_url": "https://www.hola.com/us/lifestyle/20260418886507/hot-girl-walk-benefits/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#hotgirlwalk", "#328workout", "#walkingtok", "#wellnessroutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Stanley", "Lululemon", "Alo Yoga", "On Running"],
+        "context": "Self-perpetuating format that resets weekly — low production bar, near-infinite content permutations, and 'walking' maps onto pilates, running, hiking niches",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Theragun Mini 2 Is the Wellness-Creator Gadget of the Month",
+      "body": "The Theragun Mini 2 has jumped from athletic tool to lifestyle/wellness accessory on TikTok. Best review format: a 90-second 'tension test' — film three trigger points (neck, calves, glutes) with on-screen timer. Overlay text for each zone's use case. Creators cross-posting to fitness and beauty (jaw tension for facial slimming) are getting the strongest dual-affiliate pull.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "TechBuzz.ai",
+      "source_url": "https://www.techbuzz.ai/articles/tiktok-s-most-hyped-gadgets-which-ones-actually-deliver",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theragun", "#recoverytools", "#wellnessgadgets", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Therabody", "Hyperice", "Lululemon", "Alo Yoga"],
+        "context": "One of the rare consumer-gadget reviews converting on TikTok Shop — visible-on-camera results (skin flushing, tension release) make it inherently video-friendly",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Charm Necklace 'One Charm, One Story' Storytelling Format",
+      "body": "Charm necklaces are the dominant jewelry trend of spring, and the winning format is 'meaning per charm' — close-up flat-lay of the necklace, then a hand pointing at each charm while the creator voice-overs what it represents (a trip, a person, a milestone). Runs 30–45 seconds, ends on the full stack shot. Mother's Day is 3 weeks out — gifting angle is the obvious Q2 pivot.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "JuJu Loves",
+      "source_url": "https://www.jujuloves.com/blogs/blog/charm-necklaces-trend-report-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#jewelrystacking", "#mothersdaygift", "#storyjewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Catbird", "BaubleBar", "Missoma", "Pandora"],
+        "context": "Maximalist jewelry beating quiet-luxury pendants for fifth straight month; storytelling format plays to both lifestyle and gifting niches simultaneously",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Amsterdam Tulip Peak-Bloom Content — Final Week Window",
+      "body": "Mid-April is peak tulip bloom in the Netherlands and the window closes by next week. Creators still on trip can post Keukenhof wide shots, canal-and-tulip layered compositions, and bike-with-bouquet shots. For creators at home, the play is a 'tulips from home' desk arrangement with Dutch-inspired breakfast styling. Post by April 24 or the algorithm moves on to May summer-planning content.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#keukenhof", "#amsterdamintulip", "#springineurope", "#tuliptok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Keukenhof", "KLM", "Tony's Chocolonely", "Stroopwafel"],
+        "context": "Hard calendar cutoff — Keukenhof typically closes early May. Creators who captured footage this week have a 7-day posting runway before content feels stale",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Flying Bird Cat + Dog Toy Is the Pet-Tok Product of Q2",
+      "body": "The motorized flying bird toy — a hanging or free-flying plush that flaps and spins — is pet-Tok's breakout product. Works cross-species (cats hunt it mid-air, dogs chase it along the floor), which doubles creator reach. Shoot cue: slow-mo of the first-contact leap, then a reaction-face cut. Multi-cat or cat-and-dog households are outperforming single-pet posts by ~2x on this one.",
+      "categories": ["Pets"],
+      "source": "Kinship",
+      "source_url": "https://www.kinship.com/pet-shopping/tiktok-pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#catsoftiktok", "#dogsoftiktok", "#pettoys", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Potaroma", "Kong", "Chewy", "Petco"],
+        "context": "Cross-species appeal is rare in pet products — lets creators with mixed households stack content in a single shoot, and the flight motion is inherently video-friendly",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

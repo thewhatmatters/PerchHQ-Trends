@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-23",
+  "scraped_at": "2026-04-23T10:00:00Z",
+  "expires_at": "2026-04-26T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Stagecoach 2026 Cowboy Fit-Check Prep Peaks — Festival Opens Tomorrow",
+      "body": "Stagecoach kicks off Friday April 24 at Empire Polo Club, and the 24-hour pre-festival 'fit check' window is right now. This year's shift is refined-Western, not costume-Western: creators are pairing Ariat ropers or Lainey Wilson's new Golden West boots with slouchy trousers, a plain tank and one hero accessory (fringe bag, concho belt, single silver statement). Shoot format: three-shot closet dump, boot hero close-up, full-body 360 spin scored to a Lainey Wilson or Kacey Musgraves cut.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Rolling Stone",
+      "source_url": "https://www.rollingstone.com/product-recommendations/lifestyle/what-to-wear-to-stagecoach-2026-get-outfit-ideas-1235541431/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Stagecoach2026", "#WesternFashion", "#CowboyCore", "#FestivalOutfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ariat", "Golden West", "Lainey Wilson", "Bourbon Cowgirl", "Tecovas"],
+        "context": "T-minus-1-day festival fashion content historically spikes the night before opening; Stagecoach creators have a tight window to ride the algorithm",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sneakerina 'One Shoe, Five Outfits' Styling Reels Take Over Fashion FYPs",
+      "body": "The sneakerina — ballet flat fused with a sneaker sole — has officially broken out of runway conversations and into mainstream styling content. The dominant format is a sub-30-second 'one shoe, five outfits' reel: slip dress, wide-leg denim, pleated mini skirt, trouser suit, bike shorts + oversized tee, each cut flashed with the same pair. Works for any closet-haul creator regardless of niche aesthetic — delivers the 'polished + comfortable' promise Gen Z millennials can't stop talking about.",
+      "categories": ["Fashion & Apparel"],
+      "source": "RUNWAY Magazine",
+      "source_url": "https://www.runwaylive.com/sneakerina-fashion-the-hybrid-shoe-dominating-runways.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#sneakerina", "#balletsneaker", "#onepairfiveways", "#shoestyling"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Puma", "Adidas", "Miu Miu", "Alaia", "Zara"],
+        "context": "Hybrid shoe category is one of 2026's defining footwear stories; format is copy-pastable for any closet creator",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Layered-Tees '90s Revival Takes Over Styling TikTok",
+      "body": "Multi-tee layering is the fashion content story of the week: two, sometimes three tees stacked (collared over crewneck over long-sleeve), sleeves staggered, hems intentionally uneven. The winning edit is a split-screen 'Rachel Green then / me now' — a two-beat transition between a vintage Friends clip and a 2026 styled stack. Anchoring colors are cream, rust and faded navy. Low-lift for thrift creators; high-engagement for any '90s aesthetic account.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#layeredtees", "#90srevival", "#stackedtops", "#outfitlayering"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["COS", "Everlane", "Madewell", "Uniqlo"],
+        "context": "Maximalist layering is one of 2026's top TikTok fashion trends; pairs naturally with existing '90s nostalgia engagement",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Medicube PDRN Pink Peptide Serum Becomes Salmon-Sperm Skincare's Breakout Hero",
+      "body": "PDRN (polydeoxyribonucleotide, the 'salmon sperm' skincare ingredient) is officially the beauty ingredient of Q2, and Medicube's PDRN Pink Peptide Serum is the affordable entry point creators are all over. The winning format is a 7-day 'bare-face receipts' time-stamp: Day 1 morning skin, Day 4, Day 7, same window, same light, no filter. Pairs cleanly with a $40-ish price point for easy TikTok Shop affiliate monetization.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#PDRN", "#salmonspermskincare", "#medicube", "#pinkpeptide"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Rejuran", "Biodance", "Anua"],
+        "context": "PDRN has jumped from Korean derm clinics into mass skincare FYPs; visible 'receipts' format is the highest-converting structure for serum content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Ordinary Coverage Foundation Relaunch Drives 'Natural Skin' Review Wave",
+      "body": "The Ordinary quietly relaunched its Coverage Foundation after years off-shelf, and beauty creators are racing to film the first verdicts. Serum-like texture, buildable coverage, notably affordable — plays perfectly for the current 'tired girl' / no-filter skin era. Shooting cue: one-take half-face application (foundation on one cheek, bare on the other), close-up pore reveal, then settled shot at the 20-minute mark. Don't layer a filter; the whole point is authenticity.",
+      "categories": ["Beauty & Skincare"],
+      "source": "ITV This Morning",
+      "source_url": "https://www.itv.com/thismorning/articles/the-viral-beauty-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#theordinary", "#coveragefoundation", "#firstimpressions", "#realskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["The Ordinary", "Deciem", "e.l.f.", "Saie"],
+        "context": "Product relaunches with a gap in availability reliably drive first-impression review spikes; matches the no-filter aesthetic currently winning on FYPs",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Kettlebell Swing Circuits Replace Dumbbell Splits on FitTok",
+      "body": "Kettlebells are having a full-on comeback and female-fitness creators are pivoting from traditional dumbbell splits to 20-minute kettlebell swing-and-carry EMOMs. The dominant format is a top-down 'studio bird's-eye' shot, single kettlebell, four moves on loop, sweat-level reveal every round. Functional-fitness creators are pairing it with 'why I stopped heavy lifting' voiceovers — part content, part thesis. Low equipment cost makes this an easy jump-on for any fitness account.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#kettlebell", "#functionalfitness", "#kettlebellswing", "#EMOM"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Onnit", "Rogue", "Bells of Steel", "Kettlebell Kings"],
+        "context": "Functional-fitness content is up sharply in 2026 as lifters move away from bodybuilder splits; kettlebell barrier-to-entry is low enough for any creator",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Walking-Pad Cozy-Cardio Desk Setups Are Spring's Fitness-Gadget Moment",
+      "body": "Walking pads have officially jumped from niche product to full aesthetic category: under-desk pad, mug of matcha, laptop, single candle, soft-lamp lighting, a book propped on a stand. The winning content format is the 'get ready to walk with me' POV — 5:30am wake, pad unroll, candle, cozy show queued — shot in 9:16 with lamp-light only. Doubles as a tech-gadget affiliate play (Urevo, Deerrun, Sperax all have strong commission programs).",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "WalkingPad Blog",
+      "source_url": "https://www.walkingpad.com/blogs/whywewalk/the-ultimate-2026-guide-to-healthier-living-desk-workouts-daily-movement",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cozycardio", "#walkingpad", "#underdesktreadmill", "#wellnessroutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Urevo", "Deerrun", "Sperax", "WalkingPad", "Goyouth"],
+        "context": "Walking pads are one of the fastest-growing fitness categories online; 'cozy cardio' POV setups are both wellness and lifestyle-tech content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Owala FreeSip Spring 2026 Colorway Drop Officially Dethrones Stanley",
+      "body": "Owala's Spring 2026 FreeSip palette (muted pastels with a single vibrant accent) has cleanly overtaken the Stanley Quencher as TikTok's water-bottle of the moment. Creators are shooting 'unboxing + what-fits-in-my-bag' reels, usually with a tonal outfit match to the bottle color. Smart play for home/lifestyle creators: a 'hydration haul' carousel featuring two of the new colorways plus a matching Stojo collapsible — affiliate commissions are running high on the seasonal colors before they sell out.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Yahoo Shopping",
+      "source_url": "https://shopping.yahoo.com/home-garden/kitchen/articles/watch-stanley-owala-viral-water-213800951.html",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#owala", "#owalafreesip", "#waterbottleoftheday", "#hydrationhaul"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Owala", "Stanley", "HydroJug", "Stojo", "Hydro Flask"],
+        "context": "Seasonal colorway drops drive 72-hour affiliate spikes on Amazon + TikTok Shop; Spring 2026 palette is specifically named as a Stanley replacement",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Broken Floor Plan' Home Tours Become the Antidote to Open-Plan Fatigue",
+      "body": "After a decade of open-plan dominance, the pendulum has fully swung: 'broken floor plans' — archways, half-walls, changes in floor elevation, defined zones — are the hottest home-tour content of the month. Shooting cue: slow dolly push through a doorway, match-cut to the next zone, voiceover listing what this zone is FOR (reading chair, coffee corner, phone-away nook). Pairs cleanly with the ongoing 'friction-maxxing' wellness angle — zones make intention.",
+      "categories": ["Home & Lifestyle"],
+      "source": "NET-A-PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#brokenfloorplan", "#definedzones", "#hometour", "#interiordesign"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["West Elm", "CB2", "Rejuvenation", "Schoolhouse"],
+        "context": "Named one of 2026's four biggest TikTok interior-design movements with real-world traction; feeds directly into the friction-maxxing narrative",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Starbucks Iced Dubai Chocolate Mocha Joins the Matcha Version — Creator Side-By-Side Format",
+      "body": "Starbucks has expanded its viral Dubai-chocolate lineup with an Iced Dubai Chocolate Mocha (espresso + pistachio + chocolate cold foam + brown-butter topping) sitting alongside the matcha version. The winning food-creator format is a split-screen 'matcha vs. mocha' — same cup shape, same light, two straws, one first-sip reaction each. Home-barista creators are also remixing it as a dupe at $3/cup vs. $7 — classic viral price-arbitrage angle.",
+      "categories": ["Food & Beverage"],
+      "source": "Elite Daily",
+      "source_url": "https://www.elitedaily.com/lifestyle/starbucks-winter-2026-menu-review-dubai-chocolate-mocha",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DubaiChocolateMocha", "#StarbucksPistachio", "#coffeecreator", "#copycatdrink"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Starbucks", "Fix Dessert Chocolatier", "Torani", "Pistachio Compagnia"],
+        "context": "Pairs naturally with the Iced Dubai Chocolate Matcha that was already trending; two-drink launches drive A/B 'which is better' content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Legendairy Milk Honey Bear Straw Cup Is ParentTok's Sleeper-Hit Feeding Product",
+      "body": "The Honey Bear Straw Cup from Legendairy Milk — designed to teach straw drinking and 'grow with' the child from 6 months through toddler — is quietly dominating parent-creator product picks this month. The most-saved format is a split shot: 6-month-old first try on the left, same kid at 18 months on the right, captioned 'the one cup that actually grew with her.' Clean affiliate winner: under $20 and mother-recommended, which the algorithm rewards on ParentTok.",
+      "categories": ["Baby & Kids"],
+      "source": "Babylist",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#honeybearcup", "#parenttok", "#babyfeeding", "#mustbuybaby"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Legendairy Milk", "Munchkin", "Dr. Brown's", "ezpz"],
+        "context": "Feeding products that span multiple developmental stages convert better than single-stage gear because the content has a natural 'before/after' hook",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Reusable Pet-Hair Roller Before/After Cleans Are Pet-Tok's Most Satisfying Format",
+      "body": "The reusable self-cleaning pet-hair roller — brush mechanism that refills into a compartment you pop open — has become pet-creator content crack. The format writes itself: 30-second POV across a fur-coated sofa, zoom-in on a cleared strip, emptying-the-chamber payoff cut tight on the beat. Works equally for cat and dog accounts. Lives at the Home & Lifestyle intersection — pair with a 'what's in my apartment cleaning caddy' series.",
+      "categories": ["Pets", "Home & Lifestyle"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#petroller", "#pethairremover", "#oddlysatisfying", "#pettok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["ChomChom", "FurZapper", "Uproot Clean", "Bissell"],
+        "context": "Before-and-after cleaning content is among the most reliably viral pet formats; 'empty-the-chamber' beat acts as a dopamine payoff",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dubrovnik 'Cinematic Stone Wall' Reels Are Spring's Top TravelTok Export",
+      "body": "Dubrovnik is the spring 2026 travel destination TravelTok is stuck on, powered by the combination of honeyed stone walls, narrow cobblestone alleys and open Adriatic views that cut beautifully in 9:16. The winning format is a slow-motion walking tracking shot through an alley opening out onto the sea, scored to a filmic string cue — or a smash-cut sunrise-on-the-walls to a midday gelato shot. Angle for creators: the 'Dubrovnik costs less than Santorini' price-arbitrage narrative that has started to run.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Dubrovnik", "#croatia", "#cinematicreels", "#TravelTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Airbnb", "Booking.com", "Hilton", "Marriott Bonvoy"],
+        "context": "Spring shoulder-season travel content peaks late April; Dubrovnik's cinematic geometry is uniquely suited to the slow-tracking reel format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beaded-Bracelet Stacks Are Spring's Jewelry Content Format",
+      "body": "Beaded jewelry is back and the stacking-on-stacks energy is jewelry TikTok's most reliable content format this month. The winning edit is a wrist-up close-up: one bracelet, then hand-over-hand additions until there are ten or more, each with its own story voiceover ('this one's from my trip to Lisbon, this one my sister made me'). Works for personalized jewelry sellers as a 'build your stack' shopping prompt and for DIY creators as a bead-haul content pillar.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#beadedbracelet", "#braceletstack", "#jewelryhaul", "#friendshipbracelet"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pura Vida", "Little Words Project", "Kendra Scott", "Anthropologie"],
+        "context": "Stacking is the single dominant jewelry trend of 2026; beaded specifically is on the rise via the #bracelets and friendship-bracelet adjacencies",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

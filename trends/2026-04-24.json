@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-04-24",
+  "scraped_at": "2026-04-24T10:00:00Z",
+  "expires_at": "2026-04-27T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Stagecoach 2026 Opens Today — Gate-Side 'Fit Check at Check-In' Reels Go Live",
+      "body": "Stagecoach opens at Empire Polo Club in Indio this morning, and the format creators are pushing today is different from yesterday's prep content: an on-the-ground, phone-at-hip-height 'day one from the gates' reel — parking-lot boot shot, buckle close-up, walking-into-the-field POV, first-beer-of-Belt-Buckle-Friday B-roll. Lainey Wilson, Cody Johnson and Post Malone headline across the weekend, so creators are queuing cover sounds to each night's lineup. Key move: film now, post within the day — algorithm cuts off this content by Monday.",
+      "categories": ["Fashion & Apparel", "Travel & Hospitality"],
+      "source": "Havasu News",
+      "source_url": "https://www.havasunews.com/entertainment/stagecoach-2026-guide-what-to-know-about-the-festival-and-how-to-watch-from-home/article_8132e139-eac0-4c4e-95f9-e91a4b281dc2.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Stagecoach2026", "#BeltBuckleFriday", "#GatesFitCheck", "#IndioVibes"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ariat", "Tecovas", "Wrangler", "Lainey Wilson", "Empire Polo Club"],
+        "context": "Day-of festival content has the strongest 24-hour performance curve of the weekend; 'walking-in' POVs outperform styled pre-fest shoots once doors open",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Balletcore 2026 'One Romantic, One Structured' Styling Formula",
+      "body": "Balletcore has shed its costume feel and is now the dominant soft-girl template for daily dressing: one romantic piece (ribbon-tie wrap top, satin midi, tulle trim) balanced by one structured piece (sharp blazer, straight trouser, belted coat). Creators are using a 6-second hold-cut-walk edit set to Clairo or Beabadoobee cuts, shot in kitchen or hallway light. Louis Vuitton's April sneakerina launch has pulled a higher-price cohort into the aesthetic, so the styling content plays across both budget thrift hauls and quiet-luxury closets.",
+      "categories": ["Fashion & Apparel"],
+      "source": "RUNWAY Magazine",
+      "source_url": "https://www.runwaylive.com/balletcore-2026-evolves-into-a-more-wearable-everyday-fashion.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#balletcore", "#softgirlstyle", "#ribbontiestop", "#romanticoutfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Reformation", "Sandy Liang", "COS", "Aritzia", "Louis Vuitton"],
+        "context": "Aesthetic has matured from 2024 peak; the 'one romantic + one structured' formula is making it wearable and replicable for non-fashion creators",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Biodance Bio-Collagen Real Deep Mask Breaks Out as Overnight 'Wake Up Glowy' Hero",
+      "body": "Biodance's hydrogel Bio-Collagen Real Deep Mask is the overnight mask of the moment on TikTok — creators are filming pre-bed application, leaving it on 8 hours, then cutting to a 7am bare-face unveil. The shoot formula is brutal-honest: no ring light, no filter, phone against the mirror. Works especially well for travel-day content ('prepping skin before a flight') and recovery-morning content. Under $3 per mask keeps it in affiliate-friendly impulse territory.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#biodance", "#overnightmask", "#glowyskin", "#skintok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Biodance", "Amazon", "TikTok Shop"],
+        "context": "Overnight masks are the Q2 extension of the PDRN/collagen wave; Biodance sits at the sweet spot of efficacy perception + impulse price",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Me vs AI' Makeup Challenge Dominating Beauty FYPs",
+      "body": "The 'Me vs AI' makeup challenge has become the single biggest beauty content format of the month: creators generate a maximalist AI makeup look (think floating rhinestones, hyper-glossed lips, painted-on freckles), then attempt to recreate it on their real face in one take. The winning edit is a split-screen AI-reference / real-life attempt, with the reveal shot at natural-light window. Low production lift, infinite variations — perfect for mid-tier beauty creators who don't have a product launch cycle to ride.",
+      "categories": ["Beauty & Skincare"],
+      "source": "NellyRodi",
+      "source_url": "https://nellyrodi.com/en/tiktok-beauty-trends-april-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#MeVsAI", "#AIMakeup", "#makeupchallenge", "#beautytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["e.l.f.", "Rare Beauty", "NYX", "Charlotte Tilbury"],
+        "context": "AI-reference content is the defining beauty format of April 2026 — low-lift for creators and naturally remixable, which is why the algorithm keeps pushing it",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Hailey Bieber 'Sunburnt Strawberry Blush' Coachella Recap Looks Spawn Copycat Tutorials",
+      "body": "Hailey Bieber's heavier, strawberry-toned blush at Coachella Weekend 2 (April 17-20) is still driving a wave of recreate-the-look tutorials this week. The technique: pink-red cream blush applied high on the cheek, bridge of nose, brow bone and lid — a 'just got back from the beach' sunburnt flush. Best-performing edit is a one-take mirror tutorial with audio pulled from her post-festival Rhode behind-the-scenes. Leans into the broader 'strawberry girl makeup' revival.",
+      "categories": ["Beauty & Skincare"],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/culture-news/gallery/best-beauty-coachella-weekend-two-1238921575/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#strawberrygirl", "#sunburntmakeup", "#haileybieber", "#coachellabeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rhode", "Rare Beauty", "Glossier", "Merit"],
+        "context": "Festival-look recreation content has a 7-10 day tail after the last weekend closes; this is the mid-tail window for Coachella W2 beauty",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "3-Ingredient Pistachio Cottage Cheese Ice Cream Dominates Protein Foodtok",
+      "body": "The protein-dessert corner of FoodTok has a new hero: a 3-ingredient pistachio cottage cheese ice cream (full-fat cottage cheese, shelled pistachios, maple syrup — blend, freeze, scoop). Each serving clears 20g protein and the texture hack (blending long enough to kill the curds) is the hook creators riff on. Shoot formula: overhead blend shot, freezer-timer lapse, spoon-drag reveal. Pairs naturally with 'what I eat in a day' and 'high-protein sweet tooth' series.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Calla's Clean Eats",
+      "source_url": "https://callascleaneats.com/pistachio-cottage-cheese-ice-cream-high-protein-low-sugar/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cottagecheeseicecream", "#proteindessert", "#pistachio", "#highproteinsnack"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Good Culture", "Daisy", "Wonderful Pistachios"],
+        "context": "Cottage cheese viral wave has matured from savory to protein-dessert; pistachio variant rides the broader 2026 pistachio-everything flavor trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Sleepy Girl Mocktail Resurges as the 'Wind-Down' Drink of April",
+      "body": "The Sleepy Girl Mocktail — tart cherry juice + powdered magnesium + sparkling water + optional lemon — is back in the FYP rotation as sobriety-curious and wellness creators layer it into nighttime routines. The visual hook is the pour-over-ice moment in low warm light; audio is typically a soft piano or 'night mode' ASMR cut. Works as a 15-second aesthetic pour or a 60-second evening-routine insert. Tart cherry and magnesium brands see immediate affiliate lift during viral cycles.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Chowhound",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#sleepygirlmocktail", "#windownroutine", "#tartcherry", "#magnesiumglycinate"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Natural Vitality Calm", "Cheribundi", "Olipop"],
+        "context": "Recurring viral drink — each resurgence cycle spikes sales of tart cherry juice and magnesium powder; currently in a new upcycle driven by wellness-routine content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Pilates Princess 20-Minute Mat Flows Take Over Fitness FYPs",
+      "body": "The 'Pilates Princess' aesthetic is the dominant female-fitness content format this month: a 20-minute mat flow shot top-down in soft natural light, wearing coordinated pastel sets, scored to a Clairo, Lana Del Rey, or Sabrina Carpenter cut. Creators pair the workout with matcha-in-a-glass-mug B-roll and a 'why I stopped lifting heavy' voiceover. This has overtaken kettlebell and heavy-lift content for the aspirational-wellness audience. Monetization flows cleanly through Alo / Bala / Set Active affiliate codes.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pilatesprincess", "#matpilates", "#softgirlfitness", "#pilatesflow"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Alo Yoga", "Bala", "Set Active", "Lululemon"],
+        "context": "Aesthetic-led pivot away from heavy lifting content; spring/pre-summer timing aligns with the annual 'dress rehearsal' fitness surge",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cabbagecore: Cabbage & Lettuce Motifs Take Over Tablescape TikTok",
+      "body": "Cabbagecore — cabbage and lettuce motifs on ceramics, tableware, wallpaper and linens — has officially broken into mainstream home content. The hashtag climbed 115% in three months and Pinterest 'cabbageware' searches are up 250% YoY. Creators are shooting tablescape reels, thrift-haul 'cabbageware find' videos, and 'build-a-brunch-table' setups paired with Dodie Thayer nostalgia captions. Home and lifestyle creators can enter on any budget — Target has a $12 cabbage bowl, vintage Thayer pieces go for hundreds.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#tablescape", "#grandmillennial"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dodie Thayer", "Target", "Anthropologie", "Pottery Barn"],
+        "context": "One of the four defining home trends of 2026 per TikTok's own trend desk; pairs well with the ongoing grandmillennial/'grandma decor' wave",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Friction-Maxxing' Becomes Home-Content Answer to Tech Fatigue",
+      "body": "Friction-maxxing — intentionally swapping tech optimization back for analog friction — is the fresh content-format angle for home/lifestyle creators. Film formula: one smart-home 'before' (smart speaker, recessed lighting, Kindle) hard-cut to an analog 'after' (record player on the mantle, cluster of warm table lamps, a stack of paperback books). The voiceover pitches presence and intention over convenience. Resonates hard with the anti-optimization Gen Z contingent burned out on productivity content.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#frictionmaxxing", "#analoglife", "#slowliving", "#antioptimization"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Crosley", "Audio-Technica", "Muji", "Pottery Barn"],
+        "context": "Emerging counter-aesthetic to the smart-home optimization era; cheap to produce and strong thesis-driven voiceover potential",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "$15 LED Galaxy Projector 'Bedroom Glow-Up' Reels Are Still Driving TikTok Shop Orders",
+      "body": "The under-$20 rotating LED galaxy projector is one of the biggest Q1 2026 TikTok Shop breakouts — a single viral 'bedroom glow-up' clip has reliably driven 10K+ orders in 48 hours. Shoot formula: lights-off reveal, slow 360 ceiling pan, paired with a mellow Kali Uchis or Beabadoobee track. Tech and home creators are building whole routines around it (pre-sleep, study-session, date-night). Margin and virality are both strong — this is live product-review territory, not trend-report territory.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "TechBuzz.ai",
+      "source_url": "https://www.techbuzz.ai/articles/tiktok-s-most-hyped-gadgets-which-ones-actually-deliver",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#bedroomglowup", "#tiktokmademebuyit", "#cozyroom"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["BlissLights", "Amazon", "TikTok Shop"],
+        "context": "Visually dramatic, sub-$20 price, and immediate demonstrability = textbook TikTok Shop hit mechanics. Spring nesting season extends the runway",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Seal Plushies Hit 25M+ Units as 'Emotional ROI' Baby & Kids Hero",
+      "body": "The weighted seal plushie — a round, smooth, neutral-grey plush with a soft weighted core — has cleared 25 million units in TikTok Shop volume and is the breakout 'emotional support' toy for the baby-and-kids and wider 'adults with plushies' creator economy. Parenting creators film nap-time cuddle shots and 'this calmed him in 3 seconds' reaction reels; gifting-content creators run 'boyfriend reacts to seal' bits. Authenticity-first content (Reali-TEA style) outperforms staged shoots by a wide margin in this category.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#sealplush", "#weightedplushie", "#kidsgifts", "#emotionalsupport"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["IKEA Blåhaj", "Squishmallows", "TikTok Shop"],
+        "context": "Part of the broader 'emotional ROI' consumer shift — impulse purchases now have to offer a feeling, not just a function. Baby/kids and gifting overlap is wide open",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dog Enrichment Snuffle-Mat 'Morning Routine' Reels Are Pet TikTok's Breakout Format",
+      "body": "Structured enrichment content — snuffle mats, puzzle feeders, lick mats and scent-scatter games filmed as a morning routine — has overtaken 'cute reaction' content as the fastest-growing pet format. Top-performing edit: 4-shot morning cycle (wake-up, mat prep, scatter, sniffing close-up), 30 seconds, jaunty acoustic track. Resonates because it flatters owner and dog. Outward Hound and West Paw get most of the affiliate lift. Cat-owner creators are adapting it with puzzle balls and food-hiding games.",
+      "categories": ["Pets"],
+      "source": "Kinship",
+      "source_url": "https://www.kinship.com/pet-shopping/tiktok-pet-products",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dogenrichment", "#snufflemat", "#puzzlefeeder", "#doglifestyle"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Outward Hound", "West Paw", "PetSafe", "Chewy"],
+        "context": "Enrichment messaging aligns with the 'responsible pet-parent' identity that outperforms pure-cute content for monetization; evergreen but peaking this quarter",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Albania / Bosnia 'Destination Dupe' Content Spikes as Summer Booking Window Opens",
+      "body": "April is the peak research month for European summer travel, and 'destination dupe' reels — swapping Amalfi for Albanian Riviera, Santorini for Kotor (Montenegro), Dubrovnik for Mostar (Bosnia) — are the highest-performing travel format of the week. Flights to Bosnia are up 284% YoY, Albania and Montenegro also surging. Shoot formula: side-by-side B-roll of the 'famous' location vs. the dupe, price overlay, stat card at the end. Travel creators with even mid-sized audiences are seeing affiliate lift on Booking and Hostelworld.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#destinationdupe", "#albania", "#bosnia", "#montenegro", "#europesummer"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Hostelworld", "Airbnb"],
+        "context": "April is when Europe-summer booking decisions are made; dupe content converts especially well for creators with affiliate partnerships in mid-tier hospitality",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Charm-Bracelet Stacks Become Spring's Dominant Jewelry Content Format",
+      "body": "Charm-bracelet stacking — three or four bracelets layered with personalized charms (initials, birthstones, pet silhouettes, coffee cups, tiny boots) — is the breakout jewelry content format of April. Creators are shooting close-up wrist-drop reels set to a slow audio trend, telling one 'story per charm' in the voiceover. Works perfectly for Mother's Day gifting content (less than two weeks out) and transitions naturally into summer shell-and-bead stacks. Pandora, Catbird and indie Etsy sellers are the usual affiliate beneficiaries.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmbracelet", "#braceletstack", "#charmstory", "#mothersdaygift"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Catbird", "Mejuri", "Etsy"],
+        "context": "Mother's Day is May 10 — charm-bracelet gifting content traditionally peaks in the two-week run-up; perfect timing to ride the algorithm into the gifting window",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

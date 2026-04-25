@@ -1,0 +1,301 @@
+{
+  "batch_id": "trends-2026-04-25",
+  "scraped_at": "2026-04-25T10:00:00Z",
+  "expires_at": "2026-04-28T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask Becomes the New Overnight Hero on SkinTok",
+      "body": "Following the Biodance moment, Medicube's Collagen Night Wrapping Mask is the next overnight hero creators are reaching for — a lightweight collagen veil applied as the last step of a 10-step routine, then revealed at 7am with a dewy, plumped before/after. The format that's working: pre-bed selfie under warm lamp, voiceover ('I just slap this on and pass out'), morning bare-face cut filmed against bathroom mirror. Pairs naturally with PDRN serum content for a layered K-beauty routine reel.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#medicube", "#collagenmask", "#overnightskincare", "#kbeauty"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Biodance", "Beauty of Joseon"],
+        "context": "Continuation of the spring K-beauty overnight-mask cycle — creators who already filmed Biodance content are looking for a successor product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Cloud Skin' Makeup Technique Replaces Glass Skin as Spring's Soft-Focus Look",
+      "body": "Cloud skin — the blurred, ethereal finish that mimics a digital filter IRL — is overtaking glass skin on BeautyTok this week. Creators are filming the technique as a three-shot reel: bare base, sheer foundation pressed in with a damp sponge, then blurred powder tapped over the high points to get the soft-focus haze. Works for any skin type and doubles as a 'no-makeup makeup' tutorial for wedding-season content.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#softfocusmakeup", "#nomakeupmakeup", "#beautytutorial"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Charlotte Tilbury", "Rare Beauty", "Make Up For Ever", "Hourglass"],
+        "context": "Aesthetic shift away from high-shine glass skin — softer finish reads better on natural light video and is more forgiving for non-pro creators",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Stagecoach Day 2 'Boot Detail Close-Up' Becomes Saturday's Dominant Cowboy Reel Format",
+      "body": "Day 2 of Stagecoach in Indio shifts the festival format from yesterday's gates fit-check to a tighter, slower edit: macro shot of dust on the boot, buckle close-up, fringe-on-the-walk B-roll, cut to wide of the polo field. Lainey Wilson plays tonight, so creators are timing posts to ride her crowd hashtags. Cowgirl-coded micro-details (silver concho, turquoise ring, denim cuff) outperform full-outfit OOTDs on Day 2 because the algorithm has already saturated wide-shot fit checks from Friday.",
+      "categories": ["Fashion & Apparel", "Travel & Hospitality"],
+      "source": "Havasu News",
+      "source_url": "https://www.havasunews.com/entertainment/stagecoach-2026-guide-what-to-know-about-the-festival-and-how-to-watch-from-home/article_8132e139-eac0-4c4e-95f9-e91a4b281dc2.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#Stagecoach2026", "#CowgirlCore", "#BootDetail", "#LaineyWilson"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Ariat", "Tecovas", "Lucchese", "Wrangler", "Lainey Wilson"],
+        "context": "Festival content arc shifts on Day 2 from establishing fit checks to texture/detail shots — algorithm rewards the tighter format because Friday's wide shots have saturated FYPs",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Bridal Showgirl' Aesthetic Spikes After Sabrina Carpenter's Coachella Dior Look",
+      "body": "Sabrina Carpenter's white strapless Dior bodysuit with lace, fringe, and veil at Coachella Weekend 2 has launched a 'Bridal Showgirl' wedding-season styling moment. Bridal creators are riffing on it for the next 8 weeks of weddings: structured corset bodice + mini fringe skirt, white feathers, oversized bow detail, paired with cowboy boots OR strappy heels. Format: try-on haul with a 'bride' / 'bachelorette' / 'rehearsal dinner' three-look split, set to Sabrina audio.",
+      "categories": ["Fashion & Apparel"],
+      "source": "BuzzFeed",
+      "source_url": "https://www.buzzfeed.com/chelseastewart/coachella-2026-weekend-2-fashion",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BridalShowgirl", "#SabrinaCarpenter", "#BacheloretteOutfit", "#WeddingSeason2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Dior", "Reformation", "Lulus", "House of CB", "Revolve"],
+        "context": "Wedding/bachelorette content surges in the 8 weeks following major celebrity festival looks; bridal creators are riffing on Carpenter's silhouette for May-June bookings",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cargo-Belt Bags Have Crossed Into Mass Adoption — 'One Belt, Five Outfits' Format",
+      "body": "The cargo-belt bag (the wide pocketed belt-as-bag piece that emerged at Copenhagen S/S 2026) has fully crossed into mass adoption this week. The dominant content format is a 'one belt, five outfits' get-ready-with-me carousel — same belt over a slip dress, over jeans, over a blazer-and-tee, over cargo pants, over a sundress. Functional + fashion + replicable — checks every algorithm box for spring.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Top Down Trading",
+      "source_url": "https://www.topdowntrading.co.uk/blog/tiktok-made-me-buy-it-the-power-of-viral-shopping-in-2026.html",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cargobeltbag", "#styleformula", "#onepiecefiveways", "#springstyling"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Diesel", "Prada", "Coperni", "Free People", "Aritzia"],
+        "context": "Trend has matured from runway novelty to wearable everyday piece — replicability is what's driving the 'one piece, five outfits' format that's pushing it on FYPs",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Dunkin' Banana Bread Latte Drives Spring's Drive-Thru Taste Test Format",
+      "body": "Dunkin's Banana Bread Latte — newly added to the Spring 2026 menu — is the spring drive-thru taste-test of the week. Creators are pulling up to the window, doing a first-sip reaction, then cutting to a homemade dupe shot in their kitchen with a marble counter. The dupe content (oat milk + banana extract + brown sugar syrup + espresso) is outperforming the unboxing because it's affiliate-friendly via syrup and milk frother links.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#dunkin", "#coffeedupe", "#springmenu"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Dunkin'", "Torani", "Monin", "Califia Farms"],
+        "context": "Drive-thru-then-dupe is the spring 2026 coffee content arc; the homemade version drives more affiliate revenue than the original product review",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Strawberries Become Spring's Breakout Dessert Ingredient — Layered Cake Reels Surge",
+      "body": "Japanese strawberries (28% YoY growth, 23M social posts) are the breakout produce moment of spring 2026. The dominant content format: a slow-pour layered shortcake reel — strawberry slices fanned in cross-section against fresh whipped cream, shot top-down with natural light. Aesthetically minimal and food-photo-friendly. Premium-priced product makes it perfect for 'is it worth it' taste tests on TikTok.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#japanesestrawberry", "#strawberryshortcake", "#layeredcake", "#foodtok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Oishii", "Erewhon", "Whole Foods"],
+        "context": "Premium produce is the spring 2026 dessert moment; the cross-section layered cake shot is the format with the highest save rate",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Pilates Princesses Add Dumbbells — 'Pilates + Strength' Hybrid Workouts Take Over FitTok",
+      "body": "The Pilates Princess aesthetic is evolving: creators are now layering dumbbells, kettlebells, and ankle weights into mat flows, rebranded as 'Pilates + Strength' or 'Hot Pilates Heavy.' The format shows a graceful Pilates flow interrupted by a 30-second strength insert (weighted glute bridges, dumbbell press in tabletop). Content reads as an antidote to the 'Pilates alone won't change your body' discourse from Q1.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pilatesprincess", "#pilatesplusstrength", "#hotpilatesheavy", "#fittok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Bala", "Lululemon", "Alo Yoga", "Solidcore"],
+        "context": "Reaction to Q1 backlash that 'Pilates alone won't reshape the body' — creators adding strength elements while keeping the Pilates Princess aesthetic appeal",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cabbagecore Home Decor Hits Mainstream — #CabbageCore Up 115% in Three Months",
+      "body": "Cabbagecore — cabbage, lettuce, and leafy-green motifs across ceramics, textiles, lampshades, and dinnerware — is the home-decor breakout of spring. The hashtag has climbed 115% over three months. Best-performing content: tablescape reveal reels with green ceramic plates, ruffled napkins, and fresh produce as centerpieces. Pairs perfectly with garden-party hosting content for May. Dollar Tree and HomeGoods hauls outperform high-end pieces.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter (PORTER)",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#tablescape", "#gardenparty", "#diningroomdecor"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "HomeGoods", "Dollar Tree", "Sur La Table", "Crate & Barrel"],
+        "context": "115% TikTok hashtag growth in three months signals trend has crossed from niche aesthetic to broad adoption — perfect timing for May garden-party hosting content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "$15 LED Galaxy Projector Becomes Spring's Bedroom Glow-Up Hero Gadget",
+      "body": "A $15 LED galaxy projector is the breakout TikTok Shop gadget of Q2 2026 — single viral clips drove 10K+ orders in two weeks. Format: dark-room reveal where a creator turns it on and pans the camera up to show the ceiling, often with a 'turn the lights off with me' voiceover. Best for bedroom-tour, study-with-me, and wind-down-routine content. Affiliate-friendly with clear before/after lighting visuals.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "Net-A-Porter (PORTER)",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#bedroomglowup", "#tiktokshopfinds", "#moodlighting"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["BlissLights", "Amazon Basics", "TikTok Shop"],
+        "context": "$15 price point + dramatic visual reveal = ideal TikTok Shop product; under-$30 mood-lighting gadgets consistently outperform pricier tech this spring",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Baby Fruit Feeders Take Over ParentTok as Solid-Food Introduction Content",
+      "body": "Silicone fruit/mesh feeders are this week's breakout ParentTok product — creators film baby's first frozen-mango or strawberry-puree feed in a 12-second reel: feeder loading, baby's first bite reaction, dropped-on-the-floor cut. The format works because it doubles as a solids-introduction educational moment AND a wholesome baby reaction reel. Feeders are under $15, making them affiliate-friendly for new-parent influencers.",
+      "categories": ["Baby & Kids"],
+      "source": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#babyfruitfeeder", "#blwjourney", "#firstfoods", "#parenttok"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Munchkin", "Boon", "Nuby", "Haakaa"],
+        "context": "Solids-introduction content peaks April-June as 6-month babies hit feeding milestones; product doubles as educational content + wholesome reaction reel",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Pet Water Fountains Become PetTok's Spring Hydration Hero — 'Picky Cat Finally Drinks' Format",
+      "body": "Cat water fountains (AquaPurr leading at 386M views) are the breakout spring hydration product on PetTok. The dominant format: split-screen where the left shows a cat ignoring a normal water bowl, the right shows the same cat sticking its face in a fountain stream. Voiceover is always 'I tried EVERYTHING.' Format is endlessly remixable and pairs naturally with vet-approved hydration messaging that brands love.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#petwaterfountain", "#pickycat", "#cattok", "#petproducts"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr", "PetSafe", "Catit"],
+        "context": "Spring hydration content peaks as temperatures rise; before/after format is highly engagement-positive and works for cat-creator affiliate revenue",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Amsterdam Tulip-Field Reels Peak — April's #1 European Travel Content Window Closes Next Week",
+      "body": "Mid-to-late April is the peak window for Keukenhof and Amsterdam tulip-field content — and the algorithmic boost ends next week when the tulips wilt. Format that's working today: drone-or-wide shot of color rows, cut to creator walking-through-tulips POV, cut to bicycle-with-canal-and-tulip B-roll. 'Destination dupe' content (Lisse over Amsterdam to escape crowds) is also surging. Travel creators booking spring 2027 trips should publish now or wait a year.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#keukenhof", "#tuliptime", "#amsterdam", "#traveltok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Keukenhof Gardens", "KLM", "Booking.com"],
+        "context": "Hard seasonal window — bloom ends next week, so the algorithmic boost on tulip content closes with it; creators who post now lock in saves for 2027 trip planning",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mixed-Metal Bangle Stacks Replace Beaded Bracelets as Spring's Wrist Format",
+      "body": "Mixed-metal bangle stacks (gold + silver + rose gold worn together) are overtaking the beaded-bracelet stack of last week. The format that's performing: a slow wrist pan with a 'before' shot of one bangle, layering on each piece with the audible clink, cut to the final stack catching natural light. The mixed-metal angle is creator-led pushback against the 'pick a metal' rule that dominated 2024. Pairs with bracelet-stack giveaway hooks.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bangleStack", "#mixedmetals", "#wristcandy", "#jewelrytok"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Cartier", "Pandora", "Monica Vinader", "Missoma"],
+        "context": "Pushback against the 'pick one metal' rule — creators are using mixing as a self-expression statement, which doubles as a styling tutorial format",
+        "price_point": "various"
+      }
+    }
+  ]
+}

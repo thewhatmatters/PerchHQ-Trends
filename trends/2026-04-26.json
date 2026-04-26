@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-04-26",
+  "scraped_at": "2026-04-26T10:00:00Z",
+  "expires_at": "2026-04-29T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Cloud Skin Overtakes Glass Skin as Sunday's Soft-Focus Tutorial Format",
+      "body": "Cloud skin — the blurred, ethereal finish that mimics a digital filter IRL — has settled in as BeautyTok's dominant base-makeup format heading into the last week of April. The reel that's working: bare-skin slate, sheer foundation pressed in with a damp sponge, then translucent powder tapped over the high points to get that soft-focus haze, with a side-by-side reveal at the end. Pairs naturally with 'no-makeup makeup' wedding-season tutorials and reads better in natural Sunday-afternoon light than glossy glass skin.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#softfocusmakeup", "#nomakeupmakeup", "#beautytutorial"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Charlotte Tilbury", "Rare Beauty", "Make Up For Ever", "Hourglass"],
+        "context": "Continuation of the spring soft-focus shift away from glass skin — tutorial format has staying power because it works across skin types",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Blush Draping Reels Replace Contour Tutorials for Sunday Brunch GRWMs",
+      "body": "Blush draping — sweeping a cream blush diagonally from the apple of the cheek up toward the temple — is replacing traditional contour in get-ready-with-me reels this weekend. The format that's converting: one-take application with no cuts, rotating the head 90 degrees so viewers can see the lift in real time, then a Sunday-brunch outfit reveal at the end. Works as a 30-second hook for any creator who's been doing 'soft glam' tutorials and needs a fresh angle.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Runway Magazine",
+      "source_url": "https://www.runwaylive.com/blush-draping-is-the-viral-makeup-trend-of-2026.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#blushdraping", "#blushtechnique", "#grwm", "#softglam"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rare Beauty", "Milk Makeup", "Saie", "Glossier"],
+        "context": "Counter-trend to heavy contouring — fits the broader 'looking alive' aesthetic that's outpacing sculpted-face content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Medicube PDRN Pink Peptide Serum Becomes the Layered K-Beauty Hero",
+      "body": "After the Biodance and Medicube collagen-mask cycles, creators are moving the camera off the overnight wrap and onto the bottle: Medicube's PDRN Pink Peptide Serum is the K-beauty step viewers want demystified this week. The reel that's working is a slow drop-by-drop pour over a fingertip, voiceover explaining 'salmon-DNA-derived without the in-clinic price', then a 7-day before/after slide. Pairs naturally with morning sunscreen content and the broader 'skin longevity' (not anti-aging) reframing TikTok is leaning into.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pdrn", "#medicube", "#kbeauty", "#skinlongevity"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Beauty of Joseon", "Dr.Reju-All", "BIOHEAL BOH"],
+        "context": "Viewers who watched mask reveals now want the underlying ingredient explained — PDRN content fills that explainer gap",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Peasant Tops Hit Sell-Out Mode as the Official Boho-Spring Uniform",
+      "body": "Whitewashed cotton peasant tops — billowy sleeves, square neckline, sometimes with embroidery at the cuffs — are the spring fit-check piece sell-outs of the week. The format that's working is a 'one top, three ways' reel: tucked into denim cutoffs for Saturday market, knotted over a long skirt for Sunday brunch, layered under a slip dress for evening. Bootcut jeans and basket bags are the supporting cast. This is a true micro-trend, not a season-long aesthetic — creators who film this week catch the surge.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/tops/peasant-top-trend-spring-2026",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#peasanttop", "#bohospring", "#springootd", "#bohochic"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Doen", "Free People", "Reformation", "Zara"],
+        "context": "Centerpiece of the boho-spring revival — sell-throughs are reportedly tight, so creators with affiliate links benefit from urgency",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mary Jane Sneakers Become April's Default Casual Footwear Reel",
+      "body": "Mary Jane sneakers — the strap-across-the-instep hybrid of a ballet flat and a low-top trainer — are dominating spring shoe-haul reels right now. The format converting fastest: legs-only walking shot from the chest down, three pavement textures (brick, grass, polished concrete), then a static styling shot with white socks scrunched at the ankle. Pairs with the multi-layered tee trend and the bootcut-jean revival, so creators can stack two trends in one reel.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#maryjanesneakers", "#springfootwear", "#shoehaul", "#fashiontok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Adidas", "Puma", "Onitsuka Tiger", "Simone Rocha"],
+        "context": "Coquette-coded silhouette that bridges sneakerhead and balletcore audiences — wide lane for stylists and athleisure creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Banana Bread Latte Becomes the New Marble-Counter Morning Reel",
+      "body": "Banana bread lattes — espresso shaken with mashed ripe banana, brown sugar, and cinnamon, finished with steamed oat milk — are the FoodTok morning-coffee format of the moment. The reel that converts: pour-over espresso shot, banana-mash close-up, top-down latte-art finish, all set to a slowed lo-fi loop. Works for any creator with marble countertops or a clean kitchen aesthetic, and pairs with the wider 'protein matcha / coconut iced coffee' wellness-drink wave.",
+      "categories": ["Food & Beverage"],
+      "source": "Chowhound",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#coffeetok", "#morningroutine", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nespresso", "Oatly", "Califia Farms", "Chamberlain Coffee"],
+        "context": "Successor to dirty chai and pumpkin spice — visual and seasonal, but the brown-banana cue is what makes it click in late April",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Coconut Iced Coffee Surges as Sunday's Pool-Day Drink Reel",
+      "body": "Iced coffee shaken with coconut cream and a splash of vanilla — sometimes branded as a 'coastal cortado' or 'coconut cloud latte' — is taking over weekend drink content. The format that lands is a glass-on-tile pour shot with the white coconut cream blooming through the espresso, followed by a sandal-and-towel reveal. Hits the same wellness/aesthetic axis as matcha but reads as a warm-weather seasonal swap, which is exactly the angle creators need for the late-April pivot.",
+      "categories": ["Food & Beverage"],
+      "source": "FoodvLove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coconutcoffee", "#icedcoffeeseason", "#summerdrinks", "#drinktok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Chamberlain Coffee", "Califia Farms", "Trader Joe's", "Starbucks"],
+        "context": "Seasonal hand-off from hot-coffee morning content to iced — coconut cream is the differentiating beat over plain oat-milk iced",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cozy Cardio Reels Win Sunday Lazy-Workout Posts for Wellness Creators",
+      "body": "Cozy cardio — low-intensity movement filmed in loungewear, in a candle-lit living room, often with a cup of matcha and a book on the floor — is the Sunday workout format on FitTok this week. The reel that performs: a slow walk-in-place loop next to a window, voiceover ('this counts, you don't need to suffer'), then a split-screen with a more 'productive' day to underline the message. Pairs with the broader pivot from grindset fitness to soft-girl wellness and works for creators who don't want to film a sweaty gym session.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cozycardio", "#softgirlfitness", "#walkingpad", "#lowimpact"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lululemon", "Alo", "Walking Pad", "Bala"],
+        "context": "Counter to the 75 Hard / cold plunge cycle — slower, more sustainable framing that converts non-gym audiences",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Apple Cider Vinegar Morning Shots Stay Sticky as a 30-Day Challenge Format",
+      "body": "ACV morning-shot reels — one tablespoon of apple cider vinegar with water, lemon, and a splash of maple syrup — are still pulling on WellnessTok with creators framing them as 30-day gut-health challenges rather than one-off recipes. The format that lands: day-1 versus day-30 split-screen of energy/skin/bloating, with the morning shot itself filmed as a wince-into-camera reaction shot. Pairs with the broader gut-health wave (prebiotic sodas, ashwagandha gummies) for creators stacking wellness content into a series.",
+      "categories": ["Health & Fitness", "Food & Beverage"],
+      "source": "Glanbia Nutritionals",
+      "source_url": "https://www.glanbianutritionals.com/en/nutri-knowledge-center/insights/top-5-supplement-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#acvshot", "#guthealth", "#30daychallenge", "#wellnessroutine"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Bragg's", "Poppi", "OLIPOP", "MaryRuth's"],
+        "context": "Series-format wellness — challenge framing keeps viewers returning for the day-30 reveal, which is what the algorithm rewards",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Porch Ducks Become April's Quirky Front-Step Decor Reel",
+      "body": "Wooden porch ducks — chunky carved-block duck statues placed on the front step or stoop — are HomeTok's quirky-decor moment of late April. The format that's working: arrival shot of the duck on the doormat, a 360 walk-around, then a 'dressing the duck' beat (tiny rain hat, mini Easter basket, springtime ribbon). Pairs with the broader 'Reali-TEA' / cluttercore aesthetic and acts as a low-budget decor refresh for creators who don't want to redo a whole room.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Yahoo Shopping",
+      "source_url": "https://shopping.yahoo.com/home-garden/home-decor/articles/unexpected-homegoods-porch-trend-going-124500961.html",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#porchducks", "#frontporchdecor", "#hometok", "#cluttercore"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["HomeGoods", "Target", "Etsy", "At Home"],
+        "context": "Successor to the 'porch geese' wave — humor-first decor that reads as personality, not interior design, which is the lane",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Angry Mama Microwave Cleaner Drives Sunday-Reset CleanTok Reels",
+      "body": "The $9 'Angry Mama' microwave steam cleaner — a small plastic figurine you fill with vinegar and water and run for seven minutes — is the satisfying CleanTok reel of the weekend. The format that's working: filthy microwave 'before', the figurine steaming away, a wipe-down shot with a paper towel pulled cleanly out, set to oddly-satisfying audio. Pairs with the wider Sunday-reset format (laundry fold, fridge restock, sheets changed) creators are stacking into one long reel.",
+      "categories": ["Home & Lifestyle"],
+      "source": "The Nest Finds",
+      "source_url": "https://thenestfinds.com/this-9-kitchen-gadget-is-going-viral-for-good-reason-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cleantok", "#sundayreset", "#angrymama", "#cleaninghacks"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Angry Mama", "The Pink Stuff", "Scrub Daddy", "Bar Keepers Friend"],
+        "context": "Cheap, visual, repeatable — the trifecta CleanTok rewards. Easy affiliate angle for home creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Soundcore Boom 2 Becomes the Default Spring Pool/Beach Speaker Reel",
+      "body": "The Soundcore Boom 2 — a rugged, IPX7-waterproof Bluetooth speaker that floats — is the consumer-tech accessory creators are filming for spring outdoor reels. The format that's working: drop-test into a pool, the speaker bobbing back up, then a friend-group montage cut on the bass drop. Pairs with travel content, beach OOTDs, and pet-water-play reels, so it's a cross-vertical accessory rather than just a tech-niche product.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Gagadget",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#soundcore", "#bluetoothspeaker", "#poolday", "#techreview"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anker Soundcore", "JBL", "Bose", "UE"],
+        "context": "Practical gadget hitting its seasonal moment — late April is when outdoor speaker content starts landing for summer planning",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "CatPOV Ear-Cam Footage Dominates PetTok's Adventure Format",
+      "body": "Cat-POV cameras — small lightweight cams clipped to a harness or collar so the world is filmed from the cat's eye-level — are PetTok's breakout adventure format, with creators like @ivartheblindcat regularly clearing 25M+ views. The reel that's working: 30-second day-in-the-life cut from the cat's perspective, jump-cuts on every leap, and an owner reveal at the end. Works equally for indoor cats (sunbeam-to-sunbeam mini-stories) and outdoor leashed cats — easy entry for any cat creator with a willing animal.",
+      "categories": ["Pets"],
+      "source": "Oscillot",
+      "source_url": "https://forum.oscillotamerica.com/t/tiktok-next-2026-how-a-niche-pet-containment-wave-is-rewriting-pet-safety/3369",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#catpov", "#cattok", "#petadventure", "#ivartheblindcat"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Insta360", "GoPro", "Furbo", "Petcube"],
+        "context": "Format-driven trend — the camera angle itself is the gimmick, so any creator with a cat and a small camera can participate",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cherry Blossom DC 'Last Petals' Reels Catch the Tail of Bloom Season",
+      "body": "DC's late-bloom cherry varieties (Kwanzan, Akebono) are dropping their final petals this weekend — and creators are filming the petal-fall as a meditative B-roll trend rather than a tourist sightseeing reel. The format that's working: tripod-locked shot under a tree, slow-motion petal cascade, voiceover reading a haiku or quoting a quiet caption, ending on the empty branches. Pairs with the broader 'last weekend of spring break' travel-content cycle and works for any creator within driving distance of a blossom park (DC, Brooklyn, Vancouver, Macon).",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cherryblossom", "#dctravel", "#petalfall", "#springtravel"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Visit DC", "National Park Service", "Tidal Basin", "Brooklyn Botanic Garden"],
+        "context": "Time-sensitive — bloom window closes within days. Creators who film this weekend get the last of the algorithm push for cherry-blossom search intent",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mixed-Metal Bracelet Stacks Take Over Spring Wrist-Reveal Reels",
+      "body": "Bracelet stacks — layered bangles, herringbone chains, and dainty paperclip links worn three-to-five at a time, deliberately mixing gold and sterling silver — are JewelryTok's headline trend right now, with stylists explicitly framing 2026 as 'the year of sterling silver' alongside gold. The format that's working: arm laid flat on a linen table, a slow rotation that catches the light, then a hand-lifting-coffee-cup B-roll to show how the stack moves. Easy crossover with the boho-peasant-top fashion wave already running this week.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#braceletstack", "#mixedmetals", "#jewelrytok", "#stackingjewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Missoma", "Catbird", "Pandora"],
+        "context": "Successor to the ring-stack era — wrist real estate is the new frontier and 'mix don't match' is the explicit visual rule",
+        "price_point": "various"
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-27",
+  "scraped_at": "2026-04-27T10:00:00Z",
+  "expires_at": "2026-04-30T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen Becomes Monday Morning's K-Beauty SPF Reel",
+      "body": "Beauty of Joseon's Relief Sun: Rice + Probiotics SPF 50+ is the K-beauty step creators are featuring as the closing move in Monday-morning-routine reels. The format that's working is a slow squeeze onto a glass surface to show the no-white-cast finish, then a cheek-to-jaw application with the camera held at side-angle to catch the dewy sheen. Pairs with the broader 'skin longevity' framing and works as a budget-friendly counter to luxury sunscreens — most creators are pairing it with affiliate links since it's TikTok Shop's #1 SPF this spring.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#ricesunscreen", "#kbeauty", "#spf50", "#dewyskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "Round Lab", "Skin1004", "Anua"],
+        "context": "Continuation of K-beauty SPF dominance — the no-white-cast demo is the visual hook that drives sell-through in TikTok Shop",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#FullFaceNoMascara Drives Lash Serum Surge — Bold Brows + Dewy Skin Format Wins Monday GRWMs",
+      "body": "The #fullfacenomascara hashtag (now over 400K likes and climbing) has reframed Monday-morning GRWMs around bare lashes, bold laminated brows, and dewy skin — and lash serum sales are reportedly up 35% off the back of it. The reel that's converting: split-screen of week-1 vs week-8 lashes after consistent serum use, then a no-mascara application of brow gel + cream blush + glossy lip. Works for creators who want to lean out of heavy glam and pivot to wellness-adjacent content without losing their beauty audience.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Accio Business",
+      "source_url": "https://www.accio.com/business/beauty-trends-tiktok",
+      "trend_type": "hashtag",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#fullfacenomascara", "#lashserum", "#laminatedbrows", "#nomascaramakeup"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Vegamour", "GrandeLash", "Babe Lash", "Anastasia Beverly Hills"],
+        "context": "Lash-serum content rides the broader 'looking alive, not made up' aesthetic — the before/after week-by-week format is the part driving conversions",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bug-Eyed Oversized Sunglasses Become Spring's Office Siren Accessory Reel",
+      "body": "Bug-eyed oversized sunglasses — exaggerated round frames covering half the face, often in tortoiseshell or smoky black — are spring's breakout Gen Z accessory and the closing flourish on 'office siren' fit-check reels. The format that's working: ride-share interior shot, hand reaches up, sunglasses snap on, cut to walking-into-the-building B-roll. Pairs naturally with the multi-layered top trend and the cropped culotte revival, so creators can stack accessory + outfit content into a single reel.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/best-spring-microtrends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bugeyedsunglasses", "#officesiren", "#oversizedsunglasses", "#springaccessories"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Miu Miu", "Celine", "Dezi", "Le Specs", "Quay"],
+        "context": "Sunglasses are the lowest-effort fit-check upgrade right now — affiliate-friendly because most viral picks are sub-$50",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Multi-Layered '90s Tops Make a Comeback — Knit-Over-Slip Format Wins Monday Office Reels",
+      "body": "The multi-layered top revival from the late '90s is back at the front of fashion FYPs — but the format that's converting this week is knit cardigan over slip dress over fitted tee, all visible at the neckline. The reel: a single closet pull, three different layering combinations photographed in the same mirror, then a walking shot from each angle. Works as Monday office-outfit content for fashion creators and is especially affiliate-friendly given how many independent label slip dresses are in the picture.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#layeredtops", "#90srevival", "#officeoutfit", "#layeringseason"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Reformation", "Cos", "Aritzia", "Toteme", "Ganni"],
+        "context": "Spring layering is still cold-snap-driven in the Northeast — the format extends the styling content runway by 2-3 more weeks",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Crispy Rice Salmon Bowl Becomes Monday Meal-Prep TikTok's Default Reel",
+      "body": "The crispy rice salmon bowl — pan-seared rice cake bottom, hot-honey-glazed salmon, avocado, cucumber ribbons, sesame oil drizzle — has settled in as Monday meal-prep TikTok's most-saved recipe of April. The format that's working is a four-quadrant cooking shot (rice press, salmon flake, avocado fan, drizzle pour) at 0.7x speed, then a bite shot with chopsticks at the end. Pairs with the broader 'high-protein girl dinner' framing and gives food creators a Sunday-cooks-for-Monday angle that lasts a full week.",
+      "categories": ["Food & Beverage"],
+      "source": "Fount Beyond",
+      "source_url": "https://fountbeyond.com/blog/what-are-the-most-popular-viral-tiktok-food-recipes-in-2026-542920",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#crispyricesalmon", "#mealprep", "#salmonbowl", "#highproteindinner"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Bumble Bee", "Trader Joe's", "Wild Planet", "Whole Foods"],
+        "context": "Crispy rice has staying power because the visual sizzle is short-form-native — the recipe scales for one serving or a tray of six",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Hot Honey Chicken Sheet-Pan Reels Win Monday Dinner-Tok",
+      "body": "Hot honey chicken — bone-in thighs, hot honey glaze brushed mid-bake, finished under the broiler — is FoodTok's dominant Monday dinner reel right now. The format that's converting: a single sheet-pan establishing shot, then a five-second pour-and-brush-glaze cut, then a fork-pull bite at the end. Pairs cleanly with the cabbagecore tablescape trend (a pile of greens or shaved cabbage as the side) and works as the entry point for creators ramping into spring 'easy weeknight' content.",
+      "categories": ["Food & Beverage"],
+      "source": "Simply Good Cooking",
+      "source_url": "https://simplygoodcooking.com/viral-tiktok-dinner-recipe-ideas/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#hothoneychicken", "#sheetpandinner", "#weeknightdinner", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mike's Hot Honey", "Bachan's", "Trader Joe's", "Costco"],
+        "context": "Hot honey is sticky as a flavor trend — creators who already covered the chicken sandwich version can pivot to sheet-pan with the same audience",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Baby Boo Workout Challenge Becomes Monday's Core-Day Couples Reel",
+      "body": "The Baby Boo Workout Challenge — a partnered core circuit where one person planks while the other does sit-ups facing them — is FitTok's breakout Monday couples-content format. The reel that's working: a 30-second timer overlay, three rounds of synchronized reps, finishing on a high-five-then-collapse beat. Works for fitness creators who want to fold relationship/lifestyle audiences into their workout content, and the playful tone means it doesn't require a serious training audience to pop.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#babybooworkout", "#couplesworkout", "#coreworkout", "#fittok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lululemon", "Alo Yoga", "Nike Training", "Gymshark"],
+        "context": "Couples-fitness format reaches outside FitTok into LifestyleTok — the participation barrier is low enough that average viewers actually try it",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Wabi-Sabi Mushroom Table Lamps Become Spring's Bedside-Reveal Reel",
+      "body": "Mushroom-shaped wabi-sabi table lamps — organic dome silhouette, textured plaster or rice-paper finish, warm 2700K bulb — are HomeTok's breakout April lighting product. The format that's working is a 'before' shot of a bare nightstand, then a slow camera dolly toward the new lamp at golden hour, then a wider room shot with the lamp glowing. Affordable dupes are flooding TikTok Shop in the $30-60 range, which gives creators an easy budget vs splurge side-by-side reel.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Homio Decor",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#wabisabi", "#mushroomlamp", "#bedsidelamp", "#homedecortiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Gantri", "HAY", "IKEA", "Amazon"],
+        "context": "Lighting reveals are the cheapest-to-produce home content with the highest aesthetic payoff — mushroom shape photographs distinctively at any angle",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mini Wireless Projector Becomes Monday-Night 'Movie In Bed' Reel",
+      "body": "Compact rechargeable mini projectors — palm-sized units that throw a 100-inch image onto a bedroom wall — are spring's breakout TechTok lifestyle gadget. The format that's working: lights-off room, hand presses power button, the projector lights up the wall with a Netflix interface, B-roll of popcorn and a partner cuddled up. Pairs naturally with the 'cozy Monday reset' content theme and works as a luxury-feel reveal at a budget price point ($60-150).",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "AOL",
+      "source_url": "https://www.aol.com/articles/7-trendy-tiktok-gadgets-actually-160200561.html",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#miniprojector", "#movienight", "#bedroomglowup", "#tiktokgadgets"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["XGIMI", "Anker Nebula", "Samsung Freestyle", "Aurzen"],
+        "context": "Projector reels work for both tech-review and lifestyle creators — the visual payoff is in the room transformation, not the spec sheet",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Baby Trend Navigator Pro 2-in-1 Stroller Wagon Wins ParentTok Park-Day Reels",
+      "body": "The Baby Trend Navigator Pro 2-in-1 stroller wagon — converts between push-stroller and pull-wagon, seats two kids with harnesses, dual canopies, all-terrain wheels — has become April's breakout park-day reel for ParentTok. The format that's converting: an unfolded-shot setup, a kid drops their snack into the side cup-holder, then a low-angle pull through grass to show the suspension. Works as the spring counterpart to the wagon-stroller hybrid trend and is especially friendly for two-kid creators who hadn't found a single product that solved the format gap.",
+      "categories": ["Baby & Kids"],
+      "source": "Baby Trend",
+      "source_url": "https://www.babytrend.com/products/navigator-pro",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#strollerwagon", "#babytrend", "#parenttok", "#parkday"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Baby Trend", "Wonderfold", "Veer", "UPPAbaby"],
+        "context": "Park-day content is ramping into late spring — the 2-in-1 hybrid solves the 'kid wants to be carried' moment that single-mode strollers can't fix on camera",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Luxury Cat Sofas Drive PetTok's 'Pet Furniture as Real Furniture' Discourse",
+      "body": "Hand-stitched cat sofas with orthopedic cushions — some priced at $1,200 to $2,000 — have become PetTok's most-discussed product of the week. The reel that's working is a side-by-side of the cat's old cardboard scratcher vs the new sofa, scored to a sentimental song, ending with the cat actually using it. The discourse around 'are pets family or are we losing it' is half the engagement — creators who lean into either side (justify the spend, or take the gentle dunk) both get traction. Pairs naturally with the broader pet-as-family-member content surge.",
+      "categories": ["Pets", "Home & Lifestyle"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#catsofa", "#luxurypetfurniture", "#cattok", "#petsoffamily"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Tuft + Paw", "Catit", "Wayfair", "Etsy"],
+        "context": "The discourse drives engagement as much as the product — creators on both sides of 'is this too much' are getting reach",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Jeju Island Volcanic-Landscape Café Reels Become Spring's Korea Travel Format",
+      "body": "Jeju Island, South Korea — volcanic black-sand beaches, crater hiking trails, and a wave of trendy cafés built into lava-rock formations — is TravelTok's breakout April destination. The format that's working: aerial drone establishing shot of the volcano, cut to a hand-held latte against a black-rock backdrop, cut to a window-seat eat-and-look, cut to a sunset crater silhouette. Pairs with the broader 'Korea beyond Seoul' narrative and is especially friendly for solo female travel creators since Jeju has a reputation for being safe, walkable, and English-friendly.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Wander Women Strategies",
+      "source_url": "https://wanderwomenstrategies.com/2026/01/26/tiktok-travel-trends-to-watch-this-year/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#jejuisland", "#koreatravel", "#solotravel", "#cafetour"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Korean Air", "Airbnb", "Jeju Air", "Booking.com"],
+        "context": "Korea travel is broadening past Seoul/Busan — Jeju content fits the 'destination beyond the obvious' framing creators use to differentiate",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Tennis Necklaces Replace Pendants as Spring's Polished Evening-Reveal Jewelry",
+      "body": "Tennis necklaces — continuous strands of bezel-set diamonds or CZs, often layered with one or two delicate chains — are JewelryTok's breakout spring statement piece, replacing the simple pendant as the closing reveal in evening GRWM reels. The format that's working: clasp-closing shot at the back of the neck, slow turn to camera, neckline-only beauty shot under warm light. Works for both real-jewelry and lab-grown/CZ creators since the visual is identical at reel resolution. Pairs naturally with the boho-spring revival via mixed-metal layering.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#tennisnecklace", "#jewelrytrends", "#diamondnecklace", "#layerednecklaces"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Brilliant Earth", "Pandora", "Kendra Scott", "Missoma"],
+        "context": "Tennis necklace fits both prom-season and wedding-guest creator content — the price ladder from CZ to lab-grown to natural lets creators target multiple audiences",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Shell Jewelry Returns as Spring's Beach-Babe Stacking Format",
+      "body": "Shell jewelry — natural cowrie and puka shells strung as necklaces, anklets, and stacked bracelets — is back as JewelryTok's spring layering format heading into beach-content season. The reel that's working: an overhead flat-lay of the full stack on linen, a wrist-and-ankle close-up while walking on sand, then a sun-flare beauty shot of the necklace at the collarbone. Pairs with the boho-spring fit-check reels and the peasant-top trend, so creators can stack jewelry and apparel content into the same shoot.",
+      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#shelljewelry", "#beachjewelry", "#bohojewelry", "#summerjewelry"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Eliou", "Mikoh", "Free People", "Etsy"],
+        "context": "Shell jewelry tracks the boho-spring fashion cycle — the format works now as a 'pre-summer' tease and runs through August",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

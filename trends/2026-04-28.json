@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-28",
+  "scraped_at": "2026-04-28T10:00:00Z",
+  "expires_at": "2026-05-01T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube PDRN Pink Peptide Serum Becomes K-Beauty's Next Step After Snail Mucin",
+      "body": "PDRN (polydeoxyribonucleotide) is the K-beauty ingredient creators are positioning as the natural next step for anyone whose snail-mucin shelf is full, and Medicube's Pink Peptide Serum is the budget anchor product driving the hashtag. The reel that's converting on Tuesday morning routines is a slow-pour onto a glass slide to show the syrupy texture, then a pat-application across cheekbones with the camera close enough to read the tackiness — followed by a 'tap finger to forehead, lift, see how it pulls' stickiness test. Pairs naturally with the existing #mirrorskin and snail-mucin content runways and is affiliate-friendly because it's still under $30 on TikTok Shop.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pdrn", "#medicube", "#pinkpeptide", "#kbeauty", "#mirrorskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Beauty of Joseon", "COSRX", "Anua"],
+        "context": "PDRN is the new ingredient creators are explainer-reeling — the texture-pull demo is what's driving sell-through because it's the part that doesn't translate to a static photo",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#MirrorSkin Drives COSRX Advanced Snail Duo to a Second Viral Wave",
+      "body": "The #mirrorskin hashtag — skin so reflective it bounces light off the cheekbone — is past 580M views on the snail mucin tag alone, and COSRX's new Advanced Snail Duo (the 96 Essence + 92 Cream pairing) is the bundle creators are using to demo it. The format that's working is a full-face application then a literal mirror held up to the cheek to catch the reflection on camera, often filmed under ring light to exaggerate the shine. Works across budget-skincare creators and luxury-routine creators alike because the pair is under $50 and the visual payoff is the same regardless of skin tone.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Enterprise Asia",
+      "source_url": "https://www.enterpriseasia.org/cosrx-elevates-skincare-with-advanced-snail-duo-inspired-by-viral-mirrorskin-tiktok-trend/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#mirrorskin", "#snailmucin", "#cosrxsnailmucin", "#glassskin", "#kbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["COSRX", "Beauty of Joseon", "Skin1004", "Anua"],
+        "context": "The mirror-held-to-cheek demo is the visual hook — it's a hashtag, but the reel structure is what creators should copy, not just the tag",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Ordinary Multi-Peptide Lash & Brow Serum Hits 10/10 Reviews on First-Trial TikToks",
+      "body": "The Ordinary's recently released peptide-powered lash and brow serum is the budget answer to the lash-serum boom, and first-trial creators are reporting 10-out-of-10 results across the board. The reel that's converting: split-screen week-1 vs week-6 lashes shot with the same ring-light setup and camera angle so the comparison reads at a glance, ending with a no-mascara application of brow gel and a glossy lip. Pairs cleanly with the broader #fullfacenomascara framing and works for creators who want a budget alternative to recommend alongside Vegamour and GrandeLash affiliate links.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theordinary", "#lashserum", "#peptides", "#fullfacenomascara", "#nomascaramakeup"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["The Ordinary", "Vegamour", "GrandeLash", "Babe Lash"],
+        "context": "Budget lash-serum content slots into the existing no-mascara reel structure — creators who already do that format can drop this product in without rebuilding",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mary Jane Sneakers Pair With Cropped Culottes for Spring's Default Office Reel",
+      "body": "Mary Jane sneakers — sneaker soles with a strap-across-the-foot silhouette — are the spring footwear creators are using to bridge the lingering layered-tops aesthetic into warm-weather styling, most often paired with cropped wide-leg culottes and a slip-over-tee combo. The reel: closet pull, three sneaker-and-culotte combinations photographed in the same hallway mirror, a walking shot exiting the building. Works as Tuesday office-outfit content for fashion creators and stays affiliate-friendly because the viral picks span Adidas Sambas-with-strap kits, Onitsuka Mary Janes, and indie-label silhouettes under $80.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/best-spring-microtrends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#maryjanesneakers", "#culottes", "#officeoutfit", "#springshoes", "#officesiren"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Adidas", "Onitsuka Tiger", "Reformation", "Aritzia", "Cos"],
+        "context": "Mary Janes are the spring footwear pivot off the Sambas era — culotte pairing is the styling that signals the trend has officially crossed over into mainstream creator content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coachella Recap Reels Pivot Into 'What Front-Row Really Wore' Styling Breakdowns",
+      "body": "With both Coachella weekends closed (April 10–12 and April 17–19), fashion creators are pivoting from outfit-haul content into a slower 'what front-row really wore — and how to wear it on a Tuesday' breakdown format. The reel: side-by-side of a celebrity festival look and the creator's own remix, three frames each, with text overlay calling out the key pieces and price-equivalent dupes. Works for fashion creators who didn't go to Coachella themselves and need a runway extension on the festival content cycle for another two weeks before it cools.",
+      "categories": ["Fashion & Apparel"],
+      "source": "NewEngen",
+      "source_url": "https://newengen.com/insights/april-2026-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coachella2026", "#festivalfashion", "#coachellaoutfits", "#fashionrecap", "#outfitdupe"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Reformation", "Free People", "Revolve", "House of CB", "Princess Polly"],
+        "context": "Coachella content stays affiliate-relevant for ~2 weeks post-festival as creators stretch the cycle into 'how to wear it' explainers — this week is the sweet spot",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Iced Dubai Chocolate Matcha DIY Reels Replace Starbucks Drive-Thru Content",
+      "body": "Starbucks's Iced Dubai Chocolate Matcha and Paris Baguette's Dubai Chocolate Matcha Latte have spawned a wave of at-home dupe reels where food creators recreate the pistachio-sauce-plus-cold-foam-plus-kataifi build for under $5 a cup. The format that's working: side-by-side of the chain version next to the home build, a slow pour of the matcha over pistachio-streaked ice, then a kataifi sprinkle finish — shot top-down. Pairs with the lingering Dubai chocolate trend (now in its declining phase but still reel-friendly) and gives food creators a multi-week content runway through May.",
+      "categories": ["Food & Beverage"],
+      "source": "Restaurant Business",
+      "source_url": "https://www.restaurantbusinessonline.com/food/spinoffs-tiktok-famous-dubai-chocolate-bar-surge-chain-restaurant-menus",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#dubaichocolate", "#matchalatte", "#starbucksdupe", "#dubaichocolatematcha", "#kataifi"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Starbucks", "Paris Baguette", "Fix Dessert Chocolatier", "Lindt"],
+        "context": "Dubai chocolate is past its peak as a bar but the matcha pivot has reset the content runway — DIY chain dupes are where creator energy is going this week",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Chocolate-Covered Weetabix Bricks Trigger UK Cereal Shortage and US Copycat Reels",
+      "body": "A late-April TikTok where creators dip one flat side of a Weetabix biscuit in melted chocolate, dunk the brick into a glass of cold milk, and bite — went so viral it caused a Weetabix shortage in major UK grocery stores per Boston Globe reporting on Apr 27. US food creators without easy Weetabix access are doing the same demo with Shredded Wheat or biscoff biscuits as the substitution reel. The format: melt shot, dip shot, dunk shot, bite shot — all in 18 seconds, no voiceover, just the milk-pour foley.",
+      "categories": ["Food & Beverage"],
+      "source": "Boston Globe",
+      "source_url": "https://www.bostonglobe.com/2026/04/27/lifestyle/weetabix-shortage-tiktok-chocolate/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#weetabix", "#chocolateweetabix", "#weetabixchallenge", "#breakfasthack"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Weetabix", "Cadbury", "Shredded Wheat", "Biscoff"],
+        "context": "Boston Globe confirms a real-world shortage — the trend has crossed from FYP curiosity into news-cycle territory, which extends its lifespan another week for creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "First-Time Marathon Recovery Reels Surge After Boston-and-London Double Weekend",
+      "body": "With the Boston Marathon (Apr 20) and London Marathon (Apr 26) both wrapped, first-time marathoners are flooding fitness FYPs with 'what I wish I knew' recovery reels — ice baths, compression boots, slow-walk-around-the-block content, and the now-signature week-after-the-medal mirror-selfie pull. The format that's working: day-1 flat-on-couch shot, day-3 walking shot, day-7 first-easy-jog shot, all stitched in the same camera position with overlay text on what hurt and what helped. Pairs naturally with Runna training-app affiliate placements and gives running creators a 2-3 week content extension.",
+      "categories": ["Health & Fitness"],
+      "source": "Boston Athletic Association",
+      "source_url": "https://www.baa.org/news/runna/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bostonmarathon", "#londonmarathon", "#firstmarathon", "#marathontraining", "#marathonrecovery"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Runna", "Hyperice", "Theragun", "Garmin", "Asics"],
+        "context": "Marathon recovery is the participant-side content angle — not spectator news. Creator who just ran, telling other runners what to do next, is the framing that converts",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#Fibermaxxing Grocery Hauls Replace Protein-Maxxing on Wellness FYPs",
+      "body": "The fibermaxxing trend — deliberately stacking fiber across every meal — has crossed into millions of TikToks and is now the wellness-creator category's default Tuesday grocery-haul framing, with broccoli, beans, lentils, and chia at the front of every cart shot. The reel: cart pull through produce, four-up grid of the day's planned meals with fiber grams overlaid, then a 'how I felt by day 5' selfie outro. Works as a counter-pivot from the gym/protein-maxxing era and is brand-friendly for legumes (Goya, Eden), fiber bars (Belgian Boys, BelliWelli), and chia/flax powders.",
+      "categories": ["Health & Fitness", "Food & Beverage"],
+      "source": "HealthyWomen",
+      "source_url": "https://www.healthywomen.org/your-wellness/facts-about-tiktok-health-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#fibermaxxing", "#fiber", "#guthealth", "#wellnesstrend", "#groceryhaul"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["BelliWelli", "Goya", "Eden Foods", "Belgian Boys", "Bobs Red Mill"],
+        "context": "Fibermaxxing is the gut-health pivot off protein-maxxing — creators who already do hauls can swap the framing without changing their reel structure",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Wooden Porch Ducks Become Spring Stoop Decor's Breakout Item",
+      "body": "Porch ducks — wooden duck statuettes (often dressed in seasonal outfits, updating the 1980s 'porch goose' aesthetic) — are spring's breakout home-decor reel item, with home creators staging them in the entryway with a transition cut to the same duck in a rain-jacket, beach-towel, or Easter-bonnet outfit on the next frame. The format: front-door pull, duck-on-stoop reveal, three weather-and-holiday outfit changes shot in the same camera position. Works as a 4-week content runway because the costume swaps create a built-in series structure.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Dengarden",
+      "source_url": "https://dengarden.com/design/this-unexpected-homegoods-porch-trend-is-going-viral-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#porchduck", "#porchdecor", "#springdecor", "#frontporch", "#stoopstyling"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["HomeGoods", "Cracker Barrel", "Etsy", "Wayfair"],
+        "context": "The outfit-swap structure makes this a serial format — each weekly costume change is its own reel, which is why home creators are leaning in",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "$15 LED Galaxy Projector Reels Drive a Second 'Bedroom Glow-Up' Wave",
+      "body": "The $15 LED galaxy projector that broke out on TikTok Shop in Q1 2026 — sold via small-creator partnerships rather than influencer drops — has settled in as the default closing flourish on bedroom-glow-up reels, where a single viral clip drove over 10K orders in two weeks. The format: lights-on bedroom pan, lights-off, projector flick, slow-rotation shot of the ceiling stars while a soft audio plays. Pairs with the broader 'reali-tea' aesthetic where creators show real, lived-in rooms rather than staged sets — and works across home, tech, and lifestyle creators.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "EchoTik",
+      "source_url": "https://www.echotik.live/blog/tiktok-shop-q2-2026-trending-products-api-list-viral-items/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#bedroomglowup", "#tiktokshopfinds", "#roomdecor", "#lights"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Govee", "Sky Lite", "BlissLights", "Pococo"],
+        "context": "Small-creator partnerships are how this category is breaking out — not big influencer drops. Lower-follower creators get the affiliate windfall here",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Snuffle Mat and Puzzle Feeder Reels Become Pet TikTok's Default Tuesday Format",
+      "body": "Pet creators are leaning hard into structured-enrichment content — snuffle mats, treat-puzzle feeders, snake-bowl slow feeders, and DIY scent games — with the #dogenrichment tag now powering 'day in my dog's life' reels that average significantly higher saves than reaction videos. The format that's working: 15-second clip of the dog problem-solving the puzzle in real time (no cuts), title-card overlay with the product name, then a tail-wag-cuddle outro. Saves are the metric to optimize for here — viewers are bookmarking the products, which is why this format is converting on affiliate links.",
+      "categories": ["Pets"],
+      "source": "Whirr Media",
+      "source_url": "https://whirrmedia.com/blog/pet-economy-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dogenrichment", "#snufflemat", "#puzzlefeeder", "#dogtok", "#enrichmentideas"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Outward Hound", "PetSafe", "Kong", "West Paw", "Nina Ottosson"],
+        "context": "Saves > views for this format — viewers bookmark products to buy. Creators should optimize titles for searchability, not for the FYP punchline",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'How Much a Week in [Destination] Actually Costs' Reels Dominate Travel-TikTok Saves",
+      "body": "Receipt-breakdown travel reels — exact hotel costs, meal costs, transportation, daily totals — are the highest-saved format on travel TikTok in April 2026, beating both photo carousels and aspirational drone reels for share-and-save metrics. The format: front-camera intro 'I just spent a week in [city] — here's exactly what it cost,' then a numbered slide-show of receipts on a hotel-bed surface, ending with a grand-total reveal. Works especially well for under-$1,000-per-week destinations and pairs with the 'this eco-hotel costs $40 a night' framing on sustainability-leaning creators.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#travelbudget", "#traveltiktok", "#solotravel", "#travelcost", "#budgettravel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Hostelworld", "Booking.com", "Skyscanner", "Airbnb"],
+        "context": "The algorithm is weighing saves heavily — receipt reels get bookmarked for trip planning, which is why they're outperforming aspirational content right now",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm Necklace Storytelling Chains Become Spring's Default Layered-Jewelry Reel",
+      "body": "Charm-based necklaces — chains loaded with tiny initials, lucky talismans, birth-flower pendants, zodiac charms, and personal-meaning trinkets — are spring's breakout jewelry trend, with creators doing 'charm tours' that walk through what each piece represents. The format: top-down flat-lay of the necklace on linen, close-up zoom into each charm with text-overlay storytelling for each one (heirloom from grandma, anniversary, dog's name), then a wear-it-on-camera outro. Pairs with stacked rings and shell-jewelry content for creators who want to layer multiple jewelry trends into a single reel.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#charmjewelry", "#layerednecklaces", "#jewelrytrends", "#charmtour"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Catbird", "Missoma", "Ana Luisa", "BaubleBar"],
+        "context": "The 'storytelling tour' format is the part driving sell-through — creators who can build a personal narrative around each charm convert better than those who just show the chain",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-29",
+  "scraped_at": "2026-04-29T10:00:00Z",
+  "expires_at": "2026-05-02T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Met Gala 2026 'Predict the Beauty Look' Reels Surge Five Days Out from May 4",
+      "body": "With the 'Fashion Is Art' Met Gala just five days away, beauty creators are spinning up rapid-fire prediction reels — pulling 30-second mood boards for Beyonce, Sabrina Carpenter, Doja Cat, and Zoe Kravitz showing the eye look, blush placement, and lip combo they'll bet on. The format that's converting on Wednesday FYPs is a four-quadrant split-screen with the celebrity's last red-carpet look bottom-left and a recreated brow-and-blush demo top-right, captioned 'putting $50 on this.' Pairs naturally with affiliate-tagged products in the demo — primer, blush stick, lip oil — because the prediction format gives a justification to slot products in.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com/fashion-beauty/met-gala-2026-costume-art-exhibition-everything-you-need-to-know",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#metgala2026", "#fashionisart", "#metgalaprediction", "#beautyprediction", "#redcarpetbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pat McGrath Labs", "Charlotte Tilbury", "Rare Beauty", "Hourglass", "Dior Beauty"],
+        "context": "Five-day Met Gala anticipation window is the highest-engagement beauty content stretch of Q2 — prediction reels work because they let creators show technique without committing to a single editorial look",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Paula's Choice 2% BHA Liquid Exfoliant Returns as Spring's Pore-Shrinking Time-Lapse Hero",
+      "body": "Paula's Choice's 2% BHA exfoliant is back at the top of SkinTok's Wednesday FYP after creators pivoted from snail-mucin glow demos to a 30-day pore-tightening time-lapse format that shows side-by-side close-ups under the same ring light, same angle. The reel that's converting opens with a macro shot of nostril/cheek pores at day 1, jump-cuts to day 14 then day 30 — no makeup, same lighting setup — and ends with the bottle on the counter and the price overlay. Creators are leaning into 'first viral product I'm rebuying' framing because the brand is pre-trusted, which makes it a high-conversion affiliate hero versus the usual K-beauty newcomer.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#paulaschoice", "#bha", "#poreshrink", "#30daychallenge", "#exfoliant"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Paula's Choice", "The Ordinary", "COSRX", "Naturium"],
+        "context": "Time-lapse format works because the pore reveal is unfakeable on a same-angle ring-light setup — and the product is cheap enough that the affiliate click-through holds even at the $30+ price point",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bikini Shorts Overtake Thong Bikinis as Spring's Comfort-Coverage Swim Format",
+      "body": "Searches for bikini shorts have soared past thong bikinis on TikTok Shop, and creators are pivoting the spring swim haul format from the back-bend reveal to a 'walking shot' that shows how the shorts hold during actual movement — pool steps, sand walking, beach-chair sit. Seafolly and Billabong led the launch wave but the dupe race is on, and creators are pairing the shorts with crop-top and longline-triangle sets to make the 'sporty-hot' silhouette readable on camera. Format that's working: side-by-side 'thong bikini vs. bikini shorts' walking shots, captioned 'finally I can sit down at brunch.'",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear UK",
+      "source_url": "https://www.whowhatwear.com/uk/tiktok-swimwear-trends",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bikinishorts", "#swimwear2026", "#sportybikini", "#beachhaul", "#poolready"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Seafolly", "Billabong", "Aerie", "Cupshe", "Hunza G"],
+        "context": "Comfort-pivot in swimwear is the early-summer story — the walking-shot format is what shows the silhouette holding, which is the part static photos cannot deliver",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Met Gala 2026 'Fashion Is Art' Prediction-Styling Reels Dominate Wednesday FYPs",
+      "body": "Five days out from the May 4 Met Gala — themed 'Fashion Is Art' with Beyonce, Nicole Kidman, and Venus Williams co-chairing — fashion creators are doing rapid-fire prediction reels that pair attendee headshots with the famous artwork they'd build a look from (Klimt's Kiss for Doja Cat, Frida self-portrait for Salma Hayek, etc.). The format that's converting opens on a Pinterest-grid moodboard, then flips to a styled-on-mannequin recreation using mid-range pieces, then ends with the 'real prediction' — what the celebrity will actually wear. Creators are using the gala as the stylist-credibility flex of Q2 because every prediction is a public bet that scores itself on May 4.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Vogue Scandinavia",
+      "source_url": "https://www.voguescandinavia.com/articles/met-gala-2026-everything-you-need-to-know",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#metgala2026", "#fashionisart", "#metgalaprediction", "#stylistreel", "#redcarpet"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Schiaparelli", "Saint Laurent", "Loewe", "Maison Margiela", "Jean Paul Gaultier"],
+        "context": "The gala is in five days and the prediction window scores on May 4 — creators who score a hit on a celebrity look will get the recap-reel volume next week, so accuracy is the play",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Billie Eilish-Style Vegan Pistachio-Tahini Chocolate Bar Drives DIY Dupes Across BakingTok",
+      "body": "Billie Eilish's vegan twist on the pistachio-tahini-cream chocolate bar pulled past 100M views, and BakingTok is now mid-dupe-race — the format that's working is a four-step 'tempering chocolate over a glass bowl' POV with the pistachio-tahini cream piped in via a sandwich bag and a top-down crack-and-snap reveal at the end. Creators are tagging the cream center as 'the part that makes it' and using oat-milk chocolate (Hu, Hippeas, Eat Banza) to keep it vegan-readable on camera. Pairs with the existing 'snap test' format and is the highest-engagement spring dessert reel because the visual payoff is the green pistachio paste contrasting against dark chocolate.",
+      "categories": ["Food & Beverage"],
+      "source": "Chowhound",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pistachiochocolate", "#dubaichocolate", "#vegandessert", "#tahini", "#bakingtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Hu Chocolate", "Eat Banza", "Hippeas", "Once Upon a Farm"],
+        "context": "Pistachio-tahini cream center is the visual payoff that doesn't translate to a static photo — the snap-and-crack reveal is the part that makes the reel worth the 90 seconds",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Kanna Mood Mocktails Replace Mushroom Lattes as Wellness Bar-Cart Reel",
+      "body": "Kanna (Sceletium tortuosum) — a South African mood-and-stress botanical — has crossed into mainstream WellnessTok this week, and creators are building three-step bar-cart reels that swap the morning mushroom latte for an afternoon kanna mocktail with grapefruit, sparkling water, and rosemary garnish. The format that's converting opens on the kanna tincture dropper hitting a coupe glass, then a slow-pour of grapefruit, then a top-down garnish reveal — captioned 'the 4 PM slump fix.' Pairs naturally with the demure-cocktail aesthetic and works for both Dry-May creators and full-functional-drink reels because kanna doesn't have alcohol's 'is this even a vibe' question.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Foodvlove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#kanna", "#mocktail", "#wellnessdrink", "#barcart", "#functionaldrink"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["KA! Empathogenics", "Recess", "De Soi", "Kin Euphorics"],
+        "context": "Kanna is the new adaptogen-of-the-quarter — works as a wellness drink reel because the dropper-into-coupe shot is satisfying and the 'it actually works' angle has stronger sticky-conversion than mushroom",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cycle-Syncing Workout Calendars Become Wednesday's Fitness Planning-Reel",
+      "body": "Cycle syncing — adjusting workouts to match the menstrual cycle's four phases — has crossed from niche WellnessTok into mainstream FitTok this week, and creators are building 'four-phase workout calendar' planning reels with handwritten Notion templates: follicular = strength, ovulatory = HIIT, luteal = pilates, menstrual = walking only. The format that's working is a calendar-app screen recording with the four phases color-coded, then jump-cuts to one workout from each phase. Pairs with the cozy-cardio reel runway and is the highest-engagement Wednesday fitness format because it lets women justify a lazy day as 'science.'",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cyclesync", "#cyclesyncing", "#fittok", "#workoutcalendar", "#womenshealth"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Alo", "Lululemon", "Vuori", "Bala", "Beachbody"],
+        "context": "Cycle-syncing has the planning-reel hook (Notion calendar visual) plus the science-coded permission to do less on low-energy days — that combo is what's pulling the format past 'just walking'",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cluttercore Book-Stack Reveal Reels Replace Minimalist Shelfies",
+      "body": "Cluttercore — maximalism with main-character energy, art-stacked walls, teetering book piles, curiosities under glass cloches — has officially overtaken minimalist shelf styling on HomeTok this week. The format that's converting is a slow-pan reveal across a styled console: stacked vintage books with marbled paper edges, a brass cloche over a found-object curio, a small framed oil painting leaned (not hung) against the wall. Creators are tagging the look as 'reali-TEA' decor and pairing it with thrift-haul B-roll because the price differential vs. minimalism is the actual selling point — every piece is a story you can talk through on camera.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cluttercore", "#realitea", "#booktok", "#thrifthaul", "#vintagedecor"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Urban Outfitters Home", "Etsy", "Chairish", "World Market"],
+        "context": "Cluttercore works because every prop has a story — that's the conversational hook minimalism never gave creators, and the thrift-sourced angle keeps the reel relatable rather than aspirational",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Theragun Mini 2 Becomes Spring's Post-Workout Jaw-and-Trap Massage Reel",
+      "body": "The Theragun Mini 2 has emerged as Q2's breakout recovery gadget, and creators are using it for a hybrid wellness reel that pairs post-workout trap massage with a 'jaw-relaxer' segment for jawline-content viewers. The format that's converting is a 60-second 'tension reset' POV: the device coming on with a click, slow circles on the trap, then a quick under-jaw / under-ear pass with the close-attachment, captioned 'the 60 seconds that fix everything.' Sits cleanly in Tech & Gadgets despite the wellness audience because the device itself is the hero — and the price point ($199) makes it a giftable stocking-filler for Mother's Day campaigns ten days from now.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Gagadget",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theragun", "#theragunmini", "#recovery", "#jawmassage", "#tensionreset"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Therabody", "Hyperice", "Ekrin Athletics", "Bob and Brad"],
+        "context": "Mini 2 is the size that fits the post-workout-AND-jaw-tension hybrid reel — that hybrid is what's pulling beauty viewers into a wellness gadget reel they'd otherwise scroll past",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Doodle Bot Drawing Robot Becomes ParentTok's Screen-Free Activity Reel",
+      "body": "The Doodle Bot — an interactive drawing robot that sketches alongside kids or generates time-lapses — has taken over ParentTok this week as the screen-free activity creators are using to fill the 4 PM after-school window. The format that's converting is a stop-motion time-lapse of the robot drawing a face while the toddler colors in next to it, ending with the parent holding up both finished pages side-by-side captioned 'no iPad, no meltdown.' Pairs with the broader 'screen-free Wednesday' content trend and is affiliate-friendly because it's a single-product story — no cross-sell needed, the demo is the pitch.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok Discover - Viral Baby Products",
+      "source_url": "https://www.tiktok.com/discover/viral-baby-products-2024",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#doodlebot", "#screenfree", "#parenttok", "#kidsactivity", "#momhack"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Botzees", "Osmo", "Magformers", "Crayola", "Melissa & Doug"],
+        "context": "Drawing-robot reel works because the time-lapse compresses the actual playtime into 30 watchable seconds — without that compression, the activity is too slow to make a TikTok work",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Frozen Peanut-Butter Lick Mat Reels Become PetTok's Summer-Prep Cooling Format",
+      "body": "Lick mats — the textured silicone mats peppered with grooves that slow-feed dogs and cats — have crossed from niche enrichment-tok to mainstream summer-prep PetTok this week. The format that's converting is a top-down freezer-prep reel: peanut butter spread across the mat, a sprinkle of frozen blueberries, into the freezer, then a jump-cut to the dog working it on the kitchen tile for 20 minutes captioned 'cheaper than daycare.' Distinct from yesterday's snuffle-mat trend (mental enrichment, dry food) because the lick-mat angle is the cooling-treat hook — which is what makes it summer-ready for May/June creator content.",
+      "categories": ["Pets"],
+      "source": "West Paw",
+      "source_url": "https://www.westpaw.com/blogs/scoop/the-two-sided-enrichment-mat-every-dog-owner-needs",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#lickmat", "#dogenrichment", "#pettok", "#frozentreat", "#cooldogs"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["West Paw", "LickiMat", "SodaPup", "Outward Hound", "Kong"],
+        "context": "Cooling-treat angle is the summer-prep version of the snuffle mat — and the freezer-prep + dog-eating-it timelapse is the satisfying-content hook that snuffle mats lack",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Helsinki Booking Surge Drives 'Cool-Climate Europe' Reels as Anti-Heat Summer Alt",
+      "body": "Chase Travel data shows Helsinki and Quebec City rising fastest in summer 2026 bookings as travelers pivot away from Mediterranean heat — and travel creators are spinning up 'skip Barcelona, book Helsinki' reels with side-by-side temperature comparisons (28C vs. 18C in July) and price-per-day overlays. The format that's converting opens with a 'why I cancelled my Greece trip' hook, then jumps to Helsinki sauna culture, archipelago day-trip B-roll, and ends with a price overlay 'one week, all-in.' Pairs with the existing 'how much a week actually costs' reel format and is the breakout summer 2026 European travel angle because the heat-pivot story has stickiness as June news cycles continue.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Travel And Tour World",
+      "source_url": "https://www.travelandtourworld.com/news/article/chase-travel-data-reveals-summer-2026-destinations-shift-as-helsinki-quebec-city-tokyo-paris-and-london-dominate-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#helsinki", "#coolclimate", "#europetravel", "#summer2026", "#offthebeatenpath"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Finnair", "Booking.com", "Airbnb", "Visit Finland"],
+        "context": "Climate-pivot is the strongest fresh-Europe travel angle for May/June creators because Mediterranean fatigue is the stickiest pre-summer story and Helsinki has actual booking data backing it",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Asymmetrical Single-Earring Styling Becomes Spring's Lowest-Lift Jewelry Reel",
+      "body": "Asymmetry — wearing one earring, or pairing a single hoop with a stud or pearl drop on the other ear — has emerged as Spring 2026's easiest-to-execute jewelry trend, per Marie Claire. The format that's converting on Wednesday GRWMs is a 15-second 'three ways to wear one earring' reel: hoop + bare lobe, drop + huggie, statement + tiny stud — all on the same model with the same outfit. Pairs with the broader storytelling-jewelry runway (yesterday's charm necklace post) and is the highest-engagement low-budget jewelry format because every creator already owns mismatched earrings — the trend is permission to use them.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Marie Claire",
+      "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-jewelry-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#asymmetricalearrings", "#oneearring", "#jewelrytrend", "#earstyle", "#earcurate"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Catbird", "Missoma", "Jenny Bird", "BaubleBar"],
+        "context": "The 'three ways to wear one earring' format is the lowest-lift jewelry reel because every creator already has mismatched earrings — it's permission content, not haul content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Puffy Square Stud Earrings Become Spring's Hero Shape — 'Square Beats Hoop' Reels Drive Sell-Through",
+      "body": "Marie Claire flagged the square as Spring 2026's hero shape, and TikTok's jewelry creators are now running 'square beats hoop' comparison reels — same outfit, same earlobe, hoop on the left ear, puffy square stud on the right. The format that's converting opens with a tight ear-shot, jump-cuts to the swap, and ends with a wider face shot showing how the squares 'frame the jaw' differently than hoops. Drives strong sell-through because the puffy square is a single-purchase decision (no stack required) and the price point sits comfortably mid-range — Mejuri, Missoma, and Jenny Bird are the leading affiliate-tagged brands.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Marie Claire",
+      "source_url": "https://www.marieclaire.com/fashion/spring-fashion/spring-jewelry-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#puffystuds", "#squareearrings", "#jewelry2026", "#earrings", "#springjewelry"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Missoma", "Jenny Bird", "Monica Vinader", "Catbird"],
+        "context": "Square stud is a single-purchase decision (no stack required) — that's the conversion edge over the asymmetrical hoop runway it's competing against",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

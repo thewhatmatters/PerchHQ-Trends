@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-04-30",
+  "scraped_at": "2026-04-30T10:00:00Z",
+  "expires_at": "2026-05-03T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Met Gala Beauty Prediction Reels Peak Four Days Out from May 4 'Fashion Is Art'",
+      "body": "With the 'Fashion Is Art' Met Gala on Monday May 4, beauty creators are riding the highest-engagement window of the prediction cycle — Thursday FYPs are dominated by 30-second 'casting the look' reels for Beyonce (her first Met Gala in a decade), Nicole Kidman, Venus Williams, Sabrina Carpenter, and Zoe Kravitz. The format that's converting is a four-quadrant split-screen showing the celebrity's reference image bottom-left and a recreated brow-blush-lip demo top-right with 'putting $50 on this' captions. Creators are slotting affiliate-tagged primer, blush stick, and lip oil into the demo because the prediction format gives an organic justification for product cameos.",
+      "categories": ["Beauty & Skincare"],
+      "source": "ABC7 News",
+      "source_url": "https://abc7news.com/post/met-gala-2026-preview-fashion-art-beyonc-hosting-what-know-before-fashions-biggest-night/18987297/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#metgala2026", "#fashionisart", "#metgalaprediction", "#beautyprediction", "#redcarpetbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pat McGrath Labs", "Charlotte Tilbury", "Rare Beauty", "Hourglass", "Dior Beauty"],
+        "context": "The four-day pre-Met Gala stretch is the highest-engagement beauty content window of Q2; prediction reels work because they let creators show technique without committing to a single editorial look",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "PDRN 'Salmon DNA' Serums Cross 800M TikTok Views as the Snail-Mucin Successor",
+      "body": "PDRN (polydeoxyribonucleotide) — the K-beauty ingredient derived from salmon DNA fragments — has officially crossed 800M views on TikTok and dethroned snail mucin as SkinTok's hero ingredient, with three major K-beauty brands now leading with PDRN serums. Creators are pivoting from generic glow demos to a 'derm-explained' format: a 15-second whiteboard or text overlay explaining how PDRN activates A2A receptors to repair barrier damage, then a 30-day before/after under fixed lighting. Vegan PDRN sourced from ginseng/yeast is opening the trend up to plant-based beauty creators who previously sat the salmon-sperm cycle out.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetics Business",
+      "source_url": "https://cosmeticsbusiness.com/snail-mucin-is-out-tiktok-famous-pdrn-is",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pdrn", "#salmondna", "#kbeauty", "#skintok", "#pdrnserum"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Rejuran", "Daeskin", "Nuriglow", "BIOHEAL BOH"],
+        "context": "Affiliate-friendly because PDRN serums sit in the $30-60 range — high enough commission to matter, low enough that viewers actually buy",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Met Gala 'Anatomical Fashion' Predictions Drive Stylist-POV Outfit Reels",
+      "body": "Stylists and fashion creators are spinning up 'what I'd put my client in for Fashion Is Art' reels predicting anatomical fashion — bones, organs, vasculature as garment motifs — alongside Mugler archive deep-dives and naked-dress forecasts. The hook is a moodboard intro (15-second carousel of Mugler corsets, Schiaparelli anatomical work, body-as-canvas references) followed by the creator styling a budget-friendly version on themselves or a mannequin. Two days before the gala the format peaks, and 'I called it' reaction reels Monday night are already pre-scripted to capture post-event engagement.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Fakta",
+      "source_url": "https://www.fakta.co/met-gala-fashion-predictions-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#metgala2026", "#fashionisart", "#anatomicalfashion", "#stylistpov", "#muglerarchive"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mugler", "Schiaparelli", "Iris van Herpen", "Vera Wang", "Marc Jacobs"],
+        "context": "Creators who pre-script Monday night reaction reels capture both the prediction and the recap engagement waves — double the content from one event",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mary Jane Sneakerinas Become Spring 2026's Cross-Category Hero Shoe",
+      "body": "Mary Jane sneakers — also called sneakerinas, the ballet-flat-meets-trainer hybrid with the signature foot strap — are spring 2026's most-shared shoe across Fashion FYPs after Dua Lipa, Kim Kardashian, and Jennifer Lawrence wore them on the same week. Creators are leaning into a three-outfit transition reel format (gym-to-cafe, denim-and-tee, sundress) using the same pair, captioned with where they bought them and the price. The wide range — Adidas Sambarinas, Nike, Vans, Salomon, Miu Miu — means creators at every price tier have a version to recommend, making this affiliate gold.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Marie Claire",
+      "source_url": "https://www.marieclaire.com/fashion/mary-jane-sneaker-trend/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#maryjanesneakers", "#sneakerina", "#springshoes2026", "#shoetransition", "#shoetrend"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Adidas", "Miu Miu", "Salomon", "Nike", "Vans", "Old Navy"],
+        "context": "Three-outfit transition format is the cleanest way to demonstrate versatility, which is the actual purchase driver for shoes in this category",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Banana Bread Latte Re-Surges as Coffee Chains Add It to Spring 2026 Menus",
+      "body": "The banana bread latte — banana, brown sugar, cinnamon, vanilla syrup over espresso — is back at the top of the Coffee FYP after Dutch Bros, 7 Brew, and Sidecar quietly added versions to spring menus, kicking off a 'home version vs. chain version' creator format. The recipe video uses the original viral framework (mashed banana + 1 cup brown sugar + 1 cup water + cinnamon, simmered 10 min, strained), then jump-cuts to the creator visiting the chain store and rating it. Pairs with kitchen-tool affiliate slots — Nespresso machines, fine-mesh strainers, syrup bottles — and gets organic reach because both 'recipe' and 'I tried the new menu item' searches feed it.",
+      "categories": ["Food & Beverage"],
+      "source": "Spoon University",
+      "source_url": "https://spoonuniversity.com/news/banana-bread-lattes-are-taking-over-tiktok/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#bananasyrup", "#coffeetiktok", "#coffeerecipe", "#dutchbros"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dutch Bros", "Starbucks", "Sidecar Coffee", "7 Brew", "Nespresso"],
+        "context": "Home-vs-chain format double-dips on search demand — recipe seekers AND chain reviewers both surface the video",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Pilates with Weights' Hybrid Workout Reels Convert Stronger Than Pure Pilates",
+      "body": "The 2026 fitness FYP is being eaten by 'Pilates with weights' — Pilates-style controlled movement layered with 2-3lb wrist weights, ankle weights, or light dumbbells — and the format outperforming pure Pilates is a 30-second mat sequence shot from above, captioned with the specific weight (e.g. '2lb wrists'). Creators are pairing it with affordable affiliate gear (Bala Bangles, Amazon-tier dumbbells, mat brands) because the entry-level weights are budget-priced and viewers convert at high rates after seeing the 'Pilates results in half the time' hook. Strength-curious women who found pure Pilates too slow are the named target.",
+      "categories": ["Health & Fitness"],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pilatesweights", "#weightedpilates", "#balabangles", "#womensstrengthtraining", "#pilateshome"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Bala", "Lululemon", "Alo Yoga", "Manduka", "Amazon Basics"],
+        "context": "Overhead 30-second format wins because viewers can mirror it in real-time without instruction — the weight specification in the caption is the affiliate hook",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#WhimsySummer Becomes Q2's Defining Home Decor Hashtag at 321K+ Posts",
+      "body": "'Whimsy summer' has crossed 321K posts on TikTok with 'whimsical' nearly hitting 529K, and Pinterest searches for 'whimsy' jumped 400%+ YoY — making it the runaway home aesthetic for Q2 and the natural anti-minimalist counterpunch creators are riffing on. The high-converting reel format is a 'transition my apartment to whimsy summer' before/after with creators layering florals, ribbons, mismatched ceramics, vintage glass, and cabbageware into corners and tabletops. The trend's broadness — applies to bedrooms, kitchens, balconies, garden tables — means any home creator can angle in, and whimsy-coded products at Anthropologie, Etsy, and HomeGoods are the affiliate engine.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Good Morning America",
+      "source_url": "https://www.goodmorningamerica.com/shop/story/whimsy-summer-tiktok-trend-2026-132199612",
+      "trend_type": "hashtag",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#whimsysummer", "#whimsy", "#whimsical", "#whimsycore", "#dopaminedecor"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Etsy", "HomeGoods", "Urban Outfitters Home", "Society6"],
+        "context": "Broad enough that any home creator can angle in (bedroom, kitchen, garden, balcony) — the room-specific transition reel is the conversion format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#CabbageCore Climbs 115% in Three Months as Pinterest Predicts 2026's 'Cabbage Crush'",
+      "body": "Cabbageware — the lettuceware ceramic motif Dodie Thayer popularized for Jackie Kennedy in the 1960s — is the unexpected breakout home trend of spring 2026, with #CabbageCore up 115% on TikTok in 90 days and Pinterest naming 'Cabbage Crush' a 2026 megatrend (cabbageware searches +250% YoY). Creators are doing tablescape reels — green-glazed cabbage plates, leaf-edge bowls, hand-painted napkin rings — staged for spring lunches, Easter brunches, and Mother's Day prep. The cross-pollination with cabbagecore food content (the same green-leaf aesthetic) means lifestyle creators can stretch one shoot across two niches.",
+      "categories": ["Home & Lifestyle"],
+      "source": "House Digest",
+      "source_url": "https://www.housedigest.com/2075446/cabbage-decor-pinterest-trend-take-over-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#lettuceware", "#tablescape", "#cabbagecrush"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Etsy", "Tory Burch Home", "Sur La Table", "Pottery Barn"],
+        "context": "Mother's Day is May 10 — cabbageware tablescape reels timed for the week prior have a built-in conversion spike",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "$15 LED Galaxy Projectors Drive 'Bedroom Glow-Up' Reels Past 10K Orders/Two Weeks",
+      "body": "The under-$20 LED galaxy projector — the one with the moving nebula and rotating star pattern — is having a Q2 surge on TikTok Shop after small creators paired it with 'bedroom glow-up' reels and one Q1 listing pulled 10K+ orders in two weeks. The high-converting format is a lights-off 8-second reveal: creator flips the switch, camera rotates 360 to catch the projection on walls and ceiling, sound bed is a slowed Lana Del Rey or Frank Ocean track. Tech-and-gadget creators are stacking it with white-noise machines and bedside lamps in 'cozy bedroom essentials under $50' bundles.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "Dark Room Agency",
+      "source_url": "https://www.darkroomagency.com/observatory/the-best-tiktok-products-to-sell-in-2026-what-actually-works-on-tiktok-shop",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#bedroomglowup", "#tiktokmademebuyit", "#cozybedroom", "#tiktokshop"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["BlissLights", "Sky Lite", "Govee", "Pococo", "Amazon"],
+        "context": "Sub-$20 price point + visual payoff in 8 seconds = highest-converting tech format on TikTok Shop right now",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "DIY Slime and Craft Activity Kits Become the Tween-Mom Affiliate Hero",
+      "body": "DIY craft kits and slime-making kits are dominating tween-mom and kidfluencer FYPs heading into May, with 'DIY Fun Activity Kits for Kids' search holding strong from holiday peak through April. The format that converts is a five-minute follow-along: kit-unboxing → step-by-step craft → final reveal of the kid's finished piece, captioned 'screen-free Saturday' or 'rainy-day kit.' Mother's Day gift guides are the immediate seasonal angle (May 10), and creators are bundling the kits into 'gifts that buy you 90 minutes of quiet' affiliate listicles. The sub-$25 price means parent-creator affiliate clicks convert at much higher rates than premium toy categories.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_trends_for_tweens",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#diycraftkit", "#slimekit", "#screenfreeactivities", "#mothersdaygifts", "#kidactivities"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Crayola", "Melissa & Doug", "KiwiCo", "Elmer's", "Target"],
+        "context": "Mother's Day gift-guide angle (May 10) is the sharpest near-term hook — 'screen-free' framing converts on parenting-burnout sentiment",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "AquaPurr Cat Water Fountain Holds at 386M TikTok Views as the Pet Hydration Hero",
+      "body": "The AquaPurr automatic cat water fountain — the faucet-style fountain that triggers when the cat approaches — is sitting at 386M cumulative TikTok views and remains the top-converting viral pet product heading into May. The reel format that consistently wins is a fixed-camera hydration reveal: a 'my cat refused to drink water for weeks' hook, then a 10-second clip of the cat using the fountain. Creators are stacking it with vet-coded captions about UTI prevention and chronic kidney disease in cats — the medical framing is what differentiates this from other gimmicky pet gadgets and converts vet-anxious owners. Fits naturally into 'cat essentials I wish I'd bought sooner' affiliate roundups.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#aquapurr", "#catfountain", "#cathydration", "#cattok", "#cathealth"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr", "PetSafe", "Catit", "Petlibro", "Chewy"],
+        "context": "Medical/vet framing is the differentiator versus generic 'cute pet gadget' content — converts on health anxiety, not novelty",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "#EgyptIsCalling Hits Twitter Top-5 Globally and Drives 20% Tourism Surge",
+      "body": "#EgyptIsCalling has snowballed from a few spontaneous traveler clips into the dominant global travel hashtag of 2026 — peaking at #4 on Twitter's worldwide trending list and driving a 20% YoY surge in international arrivals to Egypt. The viral formula is dead simple: dancing-with-passport, rain-on-airplane-window, grinning-at-arrival-hall — set to a hyped Arabic or Afrobeats track. Travel creators are now spinning up the 'Egypt is calling and I'm answering' POV format with itinerary reveals (Pyramids, Luxor, Red Sea diving). Copycats — 'Vietnam is calling,' 'Spain is calling,' 'Japan is calling' — are bubbling up, giving creators a remix template for any destination they're heading to.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Daily Postal",
+      "source_url": "https://dailypostal.com/2026/04/02/egypt-is-calling-how-a-viral-tiktok-trend-is-changing-travel-in-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.89,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#egyptiscalling", "#egypttravel", "#vietnamiscalling", "#spainiscalling", "#travelreels"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["EgyptAir", "Booking.com", "Airbnb", "Intrepid Travel", "G Adventures"],
+        "context": "The 'is calling' template is now genre-portable — any destination plus the dancing-with-passport beat is a viable remix, lowering the bar for creators to participate",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'How Much a Week in [Destination] Actually Costs' Reels Dominate Travel Saves",
+      "body": "Practical, budget-broken-down travel reels — the 'how much a week in Lisbon/Tokyo/Bali actually costs' format — are leading travel saves and shares heading into summer-trip-planning season, with viewers screenshotting daily-spend breakdowns in droves. The winning structure is a seven-day itinerary with a clear running total: flights → hotel/airbnb per night → daily food → transit → one splurge experience, ending with the final number on a black title card. Creators are layering in affiliate links to booking platforms, currency cards (Wise, Revolut), and packing essentials. April-June is peak research season for European summer travel, so destination-specific reels timed for this window get six weeks of compound discovery.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#traveltiktok", "#budgettravel", "#travelplanning", "#europeansummer", "#traveltips"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Wise", "Revolut", "Booking.com", "Skyscanner", "Airbnb"],
+        "context": "Budget-broken-down format wins because viewers SAVE the reel for trip planning — saves outweigh likes for the algorithm and signal high intent",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bracelet Stacking 'Arm Candy' Reels Replace the Ring Stack as Spring's Hero Format",
+      "body": "Spring 2026's jewelry FYP has officially shifted from the ring stack to the bracelet stack — layered charm bracelets, metal bangles, beaded strands, and pearl pieces stacked wrist-to-elbow into 'arm candy' reels. The format that's winning is a slow wrist-rotation under natural light, captioned 'how I built my stack for under $X,' often pairing one designer anchor piece (Cartier Love bracelet, Tiffany T) with affordable layering pieces from Mejuri, Catbird, and Etsy. Charm bracelets specifically are surging because every charm = a story creator can tell, which gives the same reel multiple upload angles ('the meaning behind every charm', 'my mom's charm story', 'travel charm pulls').",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#braceletstack", "#armcandy", "#charmbracelet", "#layerednecklaces", "#jewelrytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Catbird", "Cartier", "Tiffany & Co", "Pandora"],
+        "context": "Charm bracelets convert better than plain bangles because every charm = a discrete content angle — one stack yields 5-10 reels of storytelling",
+        "price_point": "various"
+      }
+    }
+  ]
+}

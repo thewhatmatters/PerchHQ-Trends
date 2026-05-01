@@ -1,0 +1,498 @@
+{
+  "batch_id": "trends-2026-05-01",
+  "scraped_at": "2026-05-01T10:00:00Z",
+  "expires_at": "2026-05-04T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Met Gala Beauty 'Cast the Look' Reels Hit Final-Push Peak Three Days Out from May 4",
+      "body": "T-3 days from the 'Fashion Is Art' Met Gala on Monday May 4, beauty creators are inside the absolute peak window for prediction content — Friday-through-Sunday FYPs are dominated by 30- to 45-second 'cast the look' reels stacking three to four cohosts in a single video (Beyonce, Nicole Kidman, Venus Williams, Sabrina Carpenter, Zoe Kravitz). The format converting strongest is a quad-split with the celebrity reference top-left, a soft-focus 'cloud skin' base demo bottom-left, a blurred-lip closeup top-right, and a structured graphic liner reveal bottom-right — affiliate slots for primer, cream blush, and lip oil land naturally because the prediction frame justifies the product cameos. Creators are pre-loading Monday-night reaction reels (close-up beauty grids, color-story breakdowns) to capture the recap engagement wave that historically delivers 2-3x the prediction-window views.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Marie Claire",
+      "source_url": "https://www.marieclaire.com/culture/how-to-watch-2026-met-gala/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#metgala2026",
+          "#fashionisart",
+          "#metgalaprediction",
+          "#metgalabeauty",
+          "#castthelook"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Charlotte Tilbury",
+          "Pat McGrath Labs",
+          "Rare Beauty",
+          "Hourglass",
+          "Dior Beauty"
+        ],
+        "context": "Final 72-hour pre-Met Gala window — historically the highest-engagement beauty content stretch of Q2; quad-split prediction reels work because they let creators show four techniques in one video and triple the affiliate surface area",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Cloud Skin' Soft-Focus Makeup Technique Overtakes Glass Skin on Beauty FYPs",
+      "body": "Cloud skin — a blurred, diffused, ethereal finish that mimics a digital soft-focus filter in real life — has officially overtaken glass skin as the most-imitated face base technique on TikTok beauty, with creators pivoting away from high-shine dewy looks toward a powdery-veil aesthetic that reads better in 4K. The format that's converting is a 20-second side-by-side: one half of the face left bare or with shine, the other built up through cream blush + setting powder + diffusing brush, with text overlay calling out the three-product ladder. Affiliate-friendly because the technique requires three SKUs (a satin foundation, a finely-milled powder, and a fluffy diffusing brush) instead of the single dewy-skin highlighter purchase — creators are bundling under-$50 'cloud skin starter kit' carousels.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cloudskin",
+          "#softfocusmakeup",
+          "#blurredskin",
+          "#makeuptechnique",
+          "#skintok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Hourglass",
+          "Laura Mercier",
+          "Charlotte Tilbury",
+          "Rare Beauty",
+          "Make Up For Ever"
+        ],
+        "context": "The 4K-camera era is pushing creators away from glass skin (which reads sweaty on phone screens) toward a diffused powdery finish that holds up under direct light; three-product ladder makes for richer affiliate carousels than single-highlighter content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Met Gala 'Fashion Is Art' Painterly Gown Recreations Drive Stylist-POV Reels Three Days Out",
+      "body": "Three days from the May 4 'Fashion Is Art' Met Gala, fashion creators are pivoting from generic predictions to a more specific 'recreate the painting' format — pulling references from the Costume Institute's Costume Art exhibit (gowns inspired by Klimt, Schiaparelli's anatomical work, Mugler corsetry, sculptural couture) and styling DIY budget versions on themselves or a mannequin in 60 seconds. The strongest reel architecture: 5-second moodboard (the source painting/sculpture), 15-second high-fashion reference (the predicted celebrity look), then a 40-second styling demo using thrifted/Amazon pieces under $100. Naked dressing and sheer 'painterly' overlays are the predicted dominant aesthetic — creators are pre-staging Monday-night recap reels to ride the post-event recap wave.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/culture-news/met-gala-dress-code-2026-fashion-is-art-1238623365/",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#metgala2026",
+          "#fashionisart",
+          "#metgalaprediction",
+          "#painterlydress",
+          "#stylistpov"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Schiaparelli",
+          "Mugler",
+          "Saint Laurent",
+          "Anthropologie",
+          "Lulus"
+        ],
+        "context": "Last 72-hour pre-Met Gala window; 'recreate the painting' format outperforms generic celebrity-look predictions because it gives creators a specific aesthetic anchor (Klimt, anatomical, sculptural) and lets them ladder budget/mid/luxury versions in the same reel",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Ballet Sneakers Hit 2026 Tipping Point as Rihanna's Prada Pair Spreads Across Spring Hauls",
+      "body": "The ballet sneaker — a dainty ballet-flat upper married to a chunky rubberized trainer sole, often with a Mary Jane strap — has hit the spring 2026 tipping point after Rihanna was photographed in a satin Prada pair, sending creators into a styling frenzy across both the dressy and athletic ends of fashion TikTok. The reel format converting is the 'one shoe, three outfits' transition: gym set → wide-leg jeans + tee → spring sundress, all worn with the same satin or mesh ballet trainer. The price ladder is wide and affiliate-friendly: Old Navy and Adidas Sambarinas at the bottom, Puma and Naturalizer in the middle, Miu Miu and Prada at the top — every creator can pick their tier without abandoning the trend.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Marie Claire",
+      "source_url": "https://www.marieclaire.com/fashion/celebrity-style/ballet-sneaker-trend-spring-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#balletsneakers",
+          "#balletcore",
+          "#sneakerinas",
+          "#maryjanesneakers",
+          "#springshoes2026"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Prada",
+          "Miu Miu",
+          "Adidas",
+          "Puma",
+          "Old Navy",
+          "Naturalizer"
+        ],
+        "context": "Spring 2026 hero shoe — Rihanna's Prada pair is the celebrity validation moment that pushed a niche silhouette into mainstream haul content; wide price ladder lets creators at every tier participate with affiliate links",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cinco de Mayo Recipe Reels Hit Final-Push Window Four Days Out from May 5",
+      "body": "Four days from Cinco de Mayo (Tuesday May 5), food creators are inside the conversion window for recipe content — the highest-saved formats are 'three-cocktail flight' reels (margarita, paloma, michelada in a single 60-second pour-over) and 'breakfast-to-dessert menu' carousels (chilaquiles → loaded nachos → tres leches). The duet format gaining traction is 'Mexican grandmother vs. white roommate makes a margarita,' with side-by-side authentic vs. shortcut versions driving comment debate (which doubles algorithmic distribution). Creators are slotting affiliate links to mezcal/tequila brands, Tajin, fresh lime juicers, and chip-and-salsa flight boards — and pre-scheduling Monday May 4 evening posts to land in the Tuesday morning prep window.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Good Morning America",
+      "source_url": "https://www.goodmorningamerica.com/food/story/cinco-de-mayo-recipes-top-mexican-food-creators-109904667",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cincodemayo",
+          "#cincodemayo2026",
+          "#margarita",
+          "#mexicanrecipes",
+          "#palomas"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Tajin",
+          "Jarritos",
+          "Casamigos",
+          "Don Julio",
+          "Herdez"
+        ],
+        "context": "T-4 days from Cinco de Mayo — peak recipe-save window; three-cocktail flight format and 'authentic vs. shortcut' duets dominate because they double the affiliate surface area (multiple liquor/tool tags) and farm comment debate",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Salted Tahini Honeycomb Latte Surges 900% in Yelp Searches as Tahini-in-Coffee Goes Mainstream",
+      "body": "The Salted Tahini Honeycomb Latte has crossed into the mainstream after a 900% Yelp search spike, anchoring a broader 'tahini in coffee' wave that's pulling sesame paste out of the dessert aisle and into the cup. Creators are running 'specialty cafe drink at home' format reels — a 60-second pour from espresso → frothed milk → tahini drizzle → flaky honeycomb crumble — alongside cafe-finder duets ('the only spot in [city] making this'). Affiliate-friendly because the build requires four SKUs (a tahini brand, honeycomb candy, salt flakes, espresso pods or beans) and the dessert-leaning aesthetic photographs strongly for both Reels and Pinterest pin format.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Symrise In-Sight",
+      "source_url": "https://in-sight.symrise.com/article/tiktok-food-trends-2026-where-virality-meets-innovation-and-excess",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#tahinilatte",
+          "#honeycomblatte",
+          "#cafedrinkathome",
+          "#specialtycoffee",
+          "#tahini"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Soom",
+          "Seed + Mill",
+          "Honey Stinger",
+          "Nespresso",
+          "Maldon"
+        ],
+        "context": "900% Yelp search increase = real consumer demand, not just algorithmic noise; four-SKU build gives creators a stackable affiliate carousel and the dessert-leaning visuals work cross-platform on Reels and Pinterest",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Kenetik Ketone 'Brain Fuel' Drinks Lead the 2026 Cognitive-Performance Beverage Wave",
+      "body": "Kenetik — the ready-to-drink ketone beverage marketed for 'clean focus and lasting clarity without the crash' — has become the breakout product in the 2026 cognitive-performance category, with wellness creators pivoting from generic energy-drink reviews toward a more specific 'pre-meeting' or 'pre-creative-session' use-case format. The format converting is a 30-second day-in-the-life with the can shown three times (morning desk, afternoon walk, post-workout) and a fixed-shot focus check at the end. Affiliate ladder pairs Kenetik with adjacent SKUs — lion's mane mushroom coffee, magnesium glycinate, blue-light glasses — letting creators stack the 'brain stack' carousel format that's outperforming single-product reviews in the wellness vertical.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Global Cosmetic Industry",
+      "source_url": "https://www.gcimagazine.com/brands-products/ingestibles-supplements/news/22956615/top-10-wellness-brands-gaining-tiktok-momentum",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#brainfuel",
+          "#ketones",
+          "#kenetik",
+          "#cognitiveperformance",
+          "#wellnesstok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Kenetik",
+          "Four Sigmatic",
+          "Magnesi-Om",
+          "AG1",
+          "Liquid IV"
+        ],
+        "context": "Cognitive-performance beverages are the 2026 successor to plain energy drinks; 'brain stack' carousel format works because it bundles 3-4 SKUs with non-overlapping affiliate windows instead of a single review",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "#WhimsySummer Holds at 321K+ Posts as the Defining Anti-Minimalist Aesthetic of Q2",
+      "body": "#WhimsySummer is holding its position as the defining home decor aesthetic of Q2 2026 — past 321K posts, with #whimsical near 529K and Pinterest 'whimsy' searches up 400% YoY. The format converting strongest is the 'transition my apartment to whimsy summer' before/after, layering florals, bows and ribbons, mismatched ceramics, vintage glass, and cabbageware across a coffee table or shelf vignette in 60 seconds. The aesthetic is broad enough that bedroom, kitchen, balcony, and garden creators can all angle in — affiliate ladder runs Anthropologie and Ballard Designs at the top, Etsy mid-tier, HomeGoods and Target Threshold at the bottom. The Mother's Day timing (May 10) layers a 'whimsy tablescape for Mom's brunch' angle on top of pure decor content.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Good Morning America",
+      "source_url": "https://www.goodmorningamerica.com/shop/story/whimsy-summer-tiktok-trend-2026-132199612",
+      "trend_type": "hashtag",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#whimsysummer",
+          "#whimsy",
+          "#whimsical",
+          "#whimsicalhome",
+          "#cottagecore"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anthropologie",
+          "Etsy",
+          "HomeGoods",
+          "Target Threshold",
+          "Ballard Designs"
+        ],
+        "context": "Anti-minimalist counterpunch defining Q2 home decor; broad enough that any room creator can angle in, and Mother's Day tablescape angle adds a second-layer use case in the same shoot",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cloud Sofa 'Sit-Test' Reaction Reels Surge as 'Companion Content' Dominates Furniture TikTok",
+      "body": "The Cloud Sofa — the deep, pillowed 'sink-in' silhouette that exploded in 2025 — has crossed past one million cumulative views and is leading the 2026 'Companion Content' shift in home creator content (where creators invite viewers into a vibe instead of pitching a product). The format converting is a 90-second 'first sit' reaction reel: unboxing → assembly time-lapse → the creator dropping into the sofa with a pet/partner for the first time → 'how it sleeps' nighttime callback. Lookalike Restoration Hardware Cloud dupes from Albany Park, Castlery, and Wayfair are the affiliate sweet spot at the $1,500-$3,000 tier — creators are pairing them with cloud-themed coffee tables, sherpa throws, and ambient lighting to extend the single-product reel into a multi-SKU room reveal.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Homio Decor",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cloudsofa",
+          "#cloudcouch",
+          "#newcouch",
+          "#furnitureTikTok",
+          "#firstapartment"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Restoration Hardware",
+          "Albany Park",
+          "Castlery",
+          "Wayfair",
+          "Burrow"
+        ],
+        "context": "'Companion Content' is the 2026 furniture-TikTok shift away from polished ad reels toward 'first sit' reaction-style reveals; high-AOV affiliate (sofas are $1,500+) compensates for lower volume vs. cheap-decor content",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Wireless Mini Lavalier Microphones Become the Hero Tech Affiliate of Spring 2026",
+      "body": "Wireless mini lavalier microphones (Hollyland Lark M2, DJI Mic Mini, Rode Wireless Micro) have become the breakout creator-facing tech affiliate of spring 2026 — gadget-review and 'creator setup' reels are anchoring on the sub-$200 wireless mic tier, with the converting format being a 30-second 'phone audio vs. lav audio' A/B side-by-side. The on-camera angle works because the audio quality difference is immediately legible to any viewer (unlike camera or lighting upgrades, which require a trained eye), and the price tier is impulse-purchasable. Affiliate ladders pair the mic with a phone tripod, ring light, and a teleprompter app subscription — a complete sub-$300 'starter creator kit' carousel format that's outperforming single-product reviews in tech and small-business creator niches.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "QuickSync",
+      "source_url": "https://quicksync.pro/blog/tiktok-shop-trending-products-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#creatorgear",
+          "#wirelessmic",
+          "#contentcreator",
+          "#tiktokmadememabuyit",
+          "#tech"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "DJI",
+          "Hollyland",
+          "Rode",
+          "Sennheiser",
+          "Shure"
+        ],
+        "context": "Audio-quality difference is immediately legible to viewers (unlike camera upgrades), and sub-$200 price is impulse-purchasable; 'starter creator kit' carousel bundles 3-4 SKUs to extend AOV",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yoto Player Becomes the Mother's Day Screen-Free Gift Pick Nine Days Out from May 10",
+      "body": "The Yoto Player (the kid-safe screen-free audio device with parent-vetted music, stories, and podcasts on physical cards) is the breakout Mother's Day gift pick in the parenting niche, with 'gifts for the screen-free mom' carousels stacking it with Tonie Box and Lovevery Play Kit. The format converting is a 'POV: my kid hands me a Yoto card on Saturday morning' reel — 30 seconds of a child loading a card, the audio playing in the background while the parent gets coffee, captioned with parenting-burnout sentiment ('she gets her morning back'). Affiliate ladders pair Yoto with a starter card pack, Lovevery subscription, and a kid-safe headphones SKU — a full 'screen-free Saturday' bundle that double-dips on Mother's Day gift-guide search demand and the broader anti-screen-time conversation parents are leaning into in 2026.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Tinybeans",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#yotoplayer",
+          "#screenfreekids",
+          "#mothersdaygifts",
+          "#momtok",
+          "#screenfreesaturday"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Yoto",
+          "Tonie Box",
+          "Lovevery",
+          "Piccalio",
+          "Baby Einstein"
+        ],
+        "context": "T-9 days from Mother's Day (May 10); 'screen-free Saturday' framing converts because it pairs a product (Yoto) with a parental-burnout sentiment that creators can perform in 30 seconds without scripting",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Snuffle Mats and Puzzle Feeders Anchor Spring's 'Dog Enrichment' Boredom-Buster Wave",
+      "body": "Snuffle mats and puzzle feeders are anchoring the spring 2026 'dog enrichment' wave on PetTok — creators are pivoting from pure-cuteness POV reels to a more practical 'destructive dog vs. enrichment toy' format that frames the products as a behavioral solution rather than a novelty. The 30-second reel architecture: 5 seconds of the destructive behavior (chewed couch corner, dug-up backyard), 20 seconds of the enrichment session (snuffle mat, lick mat, treat-dispensing puzzle), 5 seconds of the post-session calm dog. The behavioral-framing converts harder than novelty because owners scroll PetTok looking for solutions to specific problems — affiliate ladder pairs the snuffle mat with a slow-feeder bowl, lick mat, and puzzle feeder for a complete sub-$100 enrichment bundle.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dogenrichment",
+          "#snufflemat",
+          "#puzzlefeeder",
+          "#destructivedog",
+          "#dogtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Outward Hound",
+          "PetSafe",
+          "Kong",
+          "West Paw",
+          "Nina Ottosson"
+        ],
+        "context": "Behavioral-solution framing outperforms novelty/cuteness in 2026 PetTok because owners are scrolling for fixes to specific problems (chewing, digging, separation anxiety); sub-$100 bundle keeps the AOV impulse-friendly",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'$50 a Day in [City] vs. [City]' Comparison Travel Reels Dominate Pre-Summer Planning Season",
+      "body": "Comparison travel reels — the '$50 a day in [City] vs. [City]' format ($50 in Bali vs. Albania, Greece vs. Turkey, Vietnam vs. Thailand) — are dominating travel TikTok heading into European summer planning season, outperforming pure aesthetic travel content as viewers look for advice-driven utility instead of pretty footage. The reel format that's converting: a vertical split-screen with one destination on each side, 7 visual category slots (coffee, lunch, attraction, transit, dinner, drinks, accommodation), each with a price overlay, then a 'winner' callout in the final 3 seconds. The format farms massive comment-section debate (which doubles algorithmic reach) and gives creators a structural template they can re-shoot for any city pairing. Affiliate-friendly because each compared destination justifies a separate booking link, eSIM affiliate, and travel-insurance pitch.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#travelhacks",
+          "#budgettravel",
+          "#travelcomparison",
+          "#summertravel2026",
+          "#europetravel"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Hostelworld",
+          "Booking.com",
+          "Airalo",
+          "Skyscanner",
+          "Wise"
+        ],
+        "context": "Pre-summer European planning peak; advice-driven comparison content outperforms aesthetic travel reels because viewers want decision utility — and the format farms comment debate that doubles distribution and gives creators a re-runnable template for any city pairing",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Clover Bracelets Surge on the 'Van Cleef Effect' as the Bracelet Stack's New Hero Charm",
+      "body": "Clover-motif bracelets — the four-leaf silhouette pulled from Van Cleef & Arpels' Alhambra line — have become the breakout addition to the 2026 bracelet stack, with the 'Van Cleef effect' driving search volume across TikTok and Instagram and a wide dupe market making the look accessible at every price tier. The reel format converting is the 'arm candy stack reveal' — a 30-second slow pan up the wrist showing how the clover bracelet layers with a tennis bracelet, bangles, charm bracelet, and watch, captioned with the price-per-piece overlay. Affiliate ladder runs Etsy and Mejuri at the bottom ($30-$150 dupes), Pandora and Kendra Scott in the middle, Van Cleef at the aspirational top — and the layering format gives creators five separate affiliate links per video instead of one.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/bracelet-trends",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cloverbracelet",
+          "#vancleefdupe",
+          "#armcandy",
+          "#braceletstack",
+          "#jewelrylayering"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Van Cleef & Arpels",
+          "Mejuri",
+          "Pandora",
+          "Kendra Scott",
+          "Etsy"
+        ],
+        "context": "'Van Cleef effect' is driving the wider bracelet-stack trend in a single direction; layered arm-candy reveal gives creators 5 affiliate links per video and works across budget/mid/luxury tiers in the same shot",
+        "price_point": "various"
+      }
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "batch_id": "trends-2026-05-02",
+  "scraped_at": "2026-05-02T10:00:00Z",
+  "expires_at": "2026-05-05T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Kentucky Derby Hat & Fascinator 'Outfit Reveal' Reels Dominate Saturday's Fashion FYP",
+      "body": "It's Derby Day at Churchill Downs and fashion creators are inside the single highest-engagement hat-and-millinery window of the year — Saturday FYPs are saturated with 30- to 45-second 'outfit reveal' reels that stack a hat-box unboxing, a head-to-toe full-look pan, and a derby-party arrival shot, with creators tagging milliners (The Hat Girls, Polly Singer, Christine A. Moore) and pastel-suit affiliate links in the same caption. The format converting strongest is a slow-walk reveal with the hat coming on last as the song peaks (sculptural brims, oversized blooms, feather-and-ribbon detailing) — pastel midi dresses, kitten heels, and silk gloves are picking up the secondary affiliate clicks. Creators are pre-loading post-race recap reels (winner's circle reaction, mint-julep-in-hand toast) to ride Sunday's recap engagement wave.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "NBC Sports",
+      "source_url": "https://www.nbcsports.com/horse-racing/news/2026-kentucky-derby-outfits-hats-what-to-wear-fashion-style-tips-dress-code-explained",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#kentuckyderby2026",
+          "#derbyday",
+          "#derbyhats",
+          "#derbystyle",
+          "#runfortheroses"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The Hat Girls",
+          "Polly Singer",
+          "Christine A. Moore",
+          "LoveShackFancy",
+          "Reformation"
+        ],
+        "context": "152nd Kentucky Derby falls on Saturday May 2 — the live-event window pulls 2-3x the daily engagement of any other fashion content stretch in Q2; the hat-as-final-reveal beat structure is the format that delivers both pastel-dress and millinery affiliate conversions in a single video",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mint Julep 'Stir, Don't Muddle' Technique Reels Surge as Derby Day's Hero Cocktail Format",
+      "body": "Derby Day is driving a wave of bartending-creator reels showing the official Churchill Downs mint julep technique — the strongest-converting build is a 25-second top-down: muddle simple syrup with eight mint leaves for exactly 20 seconds, slap (don't crush) a sprig garnish, mound pebbled ice into a pyramid above the rim of a sterling julep cup, and pour Old Forester at the end so the bourbon doesn't bruise the mint. Creators are stacking three affiliate touchpoints in a single video: julep cups, a bag of pebbled ice, and a Lewis bag/muddler combo, plus a bourbon bottle for the older-skewing audience. The format reads as both 'how-to' and 'aesthetic' — silver cups frosting on camera is the visual hook driving completion rate.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "The Kitchn (TikTok)",
+      "source_url": "https://www.tiktok.com/@thekitchn/video/7499911016646610222",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#mintjulep",
+          "#kentuckyderby",
+          "#derbycocktail",
+          "#bourbontok",
+          "#cocktailtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Old Forester",
+          "Woodford Reserve",
+          "Maker's Mark",
+          "Williams Sonoma",
+          "Crate & Barrel"
+        ],
+        "context": "Derby Day cocktail content historically peaks the morning of the race; the slap-don't-muddle technique reel is more affiliate-rich than a basic recipe because the cup-and-ice props each carry their own purchase paths",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Louisville 'Beyond the Track' Travel Reels Surge as Derby Drives Destination-Content Saves",
+      "body": "Derby Day is the trigger event for a measurable spike in 'Louisville beyond Churchill Downs' travel reels — creators on the ground are filming 60-second neighborhood guides covering NuLu (independent-shop walkable district), the Urban Bourbon Trail (eight downtown distillery stops within a mile), and the Frazier History Museum's bourbon exhibit, with 'first-time-in-Louisville' walking-tour reels converting strongest. The format that's saving best is a three-stop format: one breakfast spot (biscuits and bourbon-glazed bacon), one bourbon-tasting room, one quirky shop (vintage hats, derby memorabilia), shot in a single afternoon and edited as a 'plan your derby trip' itinerary. Hotel-affiliate links and bourbon-tour booking links are converting in the comments — creators are positioning Louisville as the next 'long-weekend city break' alternative to Nashville.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Yahoo Sports",
+      "source_url": "https://sports.yahoo.com/articles/2026-kentucky-derby-outfits-hats-120000840.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#louisvilleky",
+          "#kentuckyderby",
+          "#bourbontrail",
+          "#nulu",
+          "#travelreel"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Old Forester",
+          "Buffalo Trace",
+          "Frazier History Museum",
+          "21c Museum Hotel",
+          "Brown Hotel"
+        ],
+        "context": "Derby weekend is the highest-search week of the year for Louisville travel; creators who pivot off the track itself toward neighborhood guides capture the year-round 'plan a bourbon trip' save audience, not just the one-weekend race crowd",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cinco de Mayo Birria Taco DIY Recipe Reels Hit Peak Window Three Days Out",
+      "body": "Three days out from Cinco de Mayo (May 5), food creators are inside the highest-conversion DIY recipe window of the cycle — birria taco reels are leading the category, with the strongest format being a 90-second build: bone-in chuck slow-braised in dried guajillo and ancho chiles, shredded into corn tortillas dipped in the consommé, crisped on a comal, then dunked on camera as the closing beat. Creators are stacking molcajete sets, dutch ovens, and spice-bundle affiliate links into the same video — the consommé dunk shot is functioning as the universal hook driving 80%+ completion rate. Saturday-and-Sunday FYPs will compress into Monday's 'taco bar setup' party-prep reels, then Tuesday's live-cook content — creators pre-shooting Tuesday assets Saturday morning are claiming the FYP real estate first.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Chowhound",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cincodemayo",
+          "#birriatacos",
+          "#tacotuesday",
+          "#mexicanfood",
+          "#recipetok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Le Creuset",
+          "Lodge",
+          "Maseca",
+          "La Costeña",
+          "Williams Sonoma"
+        ],
+        "context": "T-3 from Cinco de Mayo is the steepest part of the recipe-save curve — creators who post Saturday-Sunday compound into Monday's grocery-list save spike before Tuesday's live-event content; the dunk-shot beat structure is the most affiliate-rich format because cookware and ingredients both carry purchase paths",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Met Gala 'Couture Nail' Embellished Crystal & Pearl Mani Reels Spike T-2 from May 4",
+      "body": "Two days from the May 4 'Fashion Is Art' Met Gala, beauty creators are pivoting from face-base prediction reels into nail-art content — Nails.Inc founder Thea Green's call for 'haute-couture craftsmanship' nails (pearls, crystals, chains over high-gloss bases in oxblood, espresso, and black cherry) is converting in 60-second 'recreate the couture nail' reels. The strongest format is a four-finger build: base-coat the dominant oxblood/espresso shade, then on each successive nail layer up to a fully embellished 'statement' finger with pearls or crystals applied in tweezer-close-up shots. Affiliate-rich because the look requires multiple SKUs (gel polish, top coat, nail-art pearls/crystals, fine tweezers) — creators are bundling under-$40 'Met-Gala-couture-nail kits' in carousel posts. Pre-loading Monday-night red-carpet reaction reels (zoom-in on celebrity nails) is the play to ride the recap wave.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/culture-news/met-gala-beauty-trend-predictions-1238936330/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#metgala2026",
+          "#metgalanails",
+          "#couturenails",
+          "#fashionisart",
+          "#nailtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Nails.Inc",
+          "OPI",
+          "Essie",
+          "Olive & June",
+          "Static Nails"
+        ],
+        "context": "T-2 is when nail-art content takes over from face-makeup prediction content because the nail look is the most replicable Met Gala beauty element for amateur creators; couture-nail kits monetize a multi-SKU ladder versus a single-product highlighter",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Rice SPF50+ Sunscreen Becomes Spring's K-Beauty Daily-SPF Hero",
+      "body": "As the calendar turns into UV-index-peak season, Beauty of Joseon's Relief Sun: Rice + Probiotics SPF50+ has emerged as the top-mentioned daily sunscreen on K-beauty FYPs — creators are pivoting away from the heavier zinc mineral formulas toward this rice-water + prebiotic chemical filter for its no-white-cast, no-pilling finish under makeup. The strongest format is a 30-second 'two-finger rule' application demo: a dime-sized dot on the back of the hand, two stripes drawn from cheekbone to temple, then patted in over a full base routine to show zero pilling or white cast. Affiliate-friendly because the price point is sub-$20 and the brand sits inside the broader K-beauty PDRN/snail-mucin universe creators are already monetizing — bundling with a hydrating toner and a barrier cream for a 'three-step Korean morning routine' carousel.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#beautyofjoseon",
+          "#ricesunscreen",
+          "#kbeauty",
+          "#sunscreenreview",
+          "#skintok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Beauty of Joseon",
+          "COSRX",
+          "Anua",
+          "Round Lab",
+          "Skin1004"
+        ],
+        "context": "May is the start of UV-index-peak season — sunscreen content moves from a winter-niche to mainstream skincare; the Beauty of Joseon Rice SPF sits at the intersection of two converging trends (K-beauty + non-greasy daily SPF) which makes it the most affiliate-rich SPF SKU on the platform right now",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Wide-Leg Trousers + Ballet Flats Become Spring 2026's Default 'Office Outfit' Reel",
+      "body": "Wide-leg linen trousers paired with woven or satin ballet flats have crystallized as the singular spring-2026 office reel format — creators are filming 15-second 'Monday outfit' reels in mirror-front, a 360-twirl, and a sit-down desk shot that proves the trousers don't bunch and the flats don't slip. The format that's converting strongest is a four-look carousel reel pairing the same wide-leg base with: a cropped tee for casual Friday, a tailored bandeau and trench for a client meeting, an oversized button-down for travel, and a tucked silk cami for after-work drinks. Affiliate ladder: trouser, ballet flats, structured tote, gold layered necklaces — the 'one trouser, four ways' frame justifies four separate affiliate clicks per video, which creators are stacking against the tail of the broader ballet-sneaker wave covered earlier this week.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/outfit-ideas/wide-leg-trousers-ballet-flats-outfits-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#wideleg",
+          "#balletflats",
+          "#officewear",
+          "#workwear",
+          "#springoutfits"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Reformation",
+          "Aritzia",
+          "Massimo Dutti",
+          "Sam Edelman",
+          "Margaux"
+        ],
+        "context": "May 1 saw return-to-office spring fashion reels spike across LinkedIn-adjacent fashion creators; the four-look-one-trouser frame compounds affiliate revenue by justifying four separate purchase paths from a single 60-second video",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Wall Pilates '25-Day Challenge' Reels Take Over as Spring's Reformer-Free Hero Workout",
+      "body": "Wall Pilates — body-weight pilates done against a wall instead of a $4,500 reformer — has crystallized into the dominant spring fitness reel format, anchored by Izzy Samuel's 25-day challenge driving cohort-style 'day 1 → day 25 transformation' content. The strongest-converting reel is a 45-second split-screen: top half shows day-1 wobbly form, bottom half shows day-25 controlled glute bridges, leg lifts, and chest flys, with a 'no equipment, no reformer, just a wall' caption. Affiliate ladder is leaner than reformer content but creators are stacking yoga mats, ankle weights, resistance bands, and grip socks as the entry-level kit — under-$80 total cart value drives stronger conversion than $300+ reformer-substitute equipment. Saturday morning is the highest-engagement window for the 'start the challenge tomorrow' beat.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Kenko",
+      "source_url": "https://www.gokenko.com/articles/pilates-challenges-to-go-viral",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#wallpilates",
+          "#pilateschallenge",
+          "#25daypilates",
+          "#pilatesathome",
+          "#fitnesstok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lululemon",
+          "Alo Yoga",
+          "Gaiam",
+          "Bala",
+          "Manduka"
+        ],
+        "context": "Pilates-with-weights and reformer pilates dominated April fitness reels but priced out the affiliate-clickable audience; wall pilates pulls the same demo at a sub-$80 cart value, which is why challenge-format creators are converting harder than reformer creators going into May",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mini Misting Handheld Cooling Fans Become Spring's Pre-Summer Tech Affiliate Hero",
+      "body": "As the first 80°F+ days hit the southern US, handheld misting fans (the cordless, water-reservoir hybrids that puff a fine mist while spinning) have surged on TikTok Shop as the earliest summer-prep affiliate of 2026 — creators are filming 15-second 'park bench / commute / festival' demos with the mist visible against direct sun, framed as the 'cheapest viral upgrade for summer.' The strongest format is a three-context test: outdoor coffee shop, walk to the subway, sideline at a kid's soccer game — proving the fan handles each scenario without leaking. Sub-$25 price point and high visual impact (the visible mist on camera) make it one of the highest-conversion sub-$30 tech SKUs of Q2; creators are bundling with portable phone fans and clip-on stroller fans for a 'summer survival kit' carousel.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "CJDropshipping",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#mistingfan",
+          "#summerprep",
+          "#tiktokmademebuyit",
+          "#summergadgets",
+          "#amazonfinds"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "JISULIFE",
+          "Geek Aire",
+          "Treva",
+          "OPOLAR",
+          "Honeywell"
+        ],
+        "context": "First 80°F days in the southern US trigger the earliest 'summer survival kit' affiliate cycle on TikTok Shop; handheld misting fans are the highest visual-impact-per-dollar SKU because the mist is visible on camera, which drives a 30%+ higher completion rate than non-misting comparable fans",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mother's Day 'What Mom Actually Wants' Wishlist Reels Hit Peak Affiliate Window Eight Days Out",
+      "body": "Eight days from Mother's Day (Sunday May 10), creators are inside the optimal save-and-bookmark window — the highest-converting format right now is a 60-second 'what mom actually wants vs. what you're about to buy her' split-screen reel, where the left frame shows generic gifts (a candle, a card, flowers) and the right shows what data says actually converts (a personalized photo book, a Theragun Mini, a silk pillowcase, a Yeti rambler in her handbag color, a Stanley with her name engraved). Creators are stacking 5-7 affiliate links per video and pinning the comment with a Linktree to all of them — the personalized/engraved tier (Etsy customs, Mark and Graham monograms) is the highest-margin category. Saturday-night save behavior is what drives Sunday-morning purchases; creators who post before Sunday afternoon claim the algorithmic save curve.",
+      "categories": [
+        "Home & Lifestyle",
+        "Beauty & Skincare"
+      ],
+      "source": "Ecomdy Media",
+      "source_url": "https://ecomdymedia.com/blog/mother-day-2026-winning-niche",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#mothersday2026",
+          "#mothersdaygifts",
+          "#giftguide",
+          "#giftideas",
+          "#tiktokshop"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Etsy",
+          "Mark and Graham",
+          "Yeti",
+          "Stanley",
+          "Theragun"
+        ],
+        "context": "T-8 is the peak save-and-bookmark window for Mother's Day affiliate content — the 'what mom actually wants vs. generic' format compounds affiliate revenue across 5-7 SKUs per video, with personalized/engraved items carrying the highest margin tier; Saturday-night saves convert into Sunday-morning purchases",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Self-Cleaning Litter Box 'Before vs. After' Reels Become PetTok's Hero Cat-Gadget Format",
+      "body": "Self-cleaning automatic litter boxes (Litter-Robot 4, PetSafe ScoopFree, Whisker products) have surged on PetTok as the highest-engagement cat gadget reel of spring — creators are filming 30-second 'before vs. after' transformation reels showing a manual scoop pile next to the closed dome unit, with cat-acceptance footage as the closing beat (the cat sniffing, then walking in willingly is the universal hook). The format that converts strongest is a multi-cat household demo proving the unit handles the volume — affiliate price point sits at $400-700, which is unusually high for TikTok Shop but compensates by carrying 8-12% commission on a single sale. Creators stack the demo with eco-friendly clumping litter affiliate links and odor-eliminator sprays, building a $500+ cart value from one video.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Whirr Media",
+      "source_url": "https://whirrmedia.com/blog/pet-economy-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#litterrobot",
+          "#cattok",
+          "#cattoys",
+          "#cathacks",
+          "#petgadgets"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Litter-Robot",
+          "Whisker",
+          "PetSafe",
+          "Petkit",
+          "Leo's Loo"
+        ],
+        "context": "Cat-gadget reels were dominated by water fountains in April; self-cleaning litter boxes are the next premium-price-point cat affiliate, with a much higher commission per sale ($35-70 vs. $5-10 on water fountains); 'before vs. after' format is the universal pet-tech-gadget conversion structure",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Baby Trend Navigator Pro 2-in-1 Stroller Wagon Becomes Spring's ParentTok Affiliate Hero",
+      "body": "The Baby Trend Navigator Pro 2-in-1 Stroller Wagon (the convertible that pushes like a stroller and pulls like a wagon) has emerged as the dominant ParentTok spring-outdoor affiliate, with creators filming 45-second 'park to splash pad to grocery run' use-case reels showing the same product in three different contexts in a single video. The strongest format is a multi-kid household demo (one toddler seated, one preschooler walking alongside with their snacks in the wagon bin) — the 'grows with your family' caption converts because it justifies the $250+ price point against single-use stroller alternatives. Mother's Day-aware creators are positioning it as a 'gift for the new mom in your life' for the T-8 window; affiliate pairing with a sun-canopy add-on, a stroller fan clip, and a wagon-bag insert builds a $350+ cart value.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "InfluencerMarketingHub",
+      "source_url": "https://influencermarketinghub.com/tiktok-shop-campaigns-baby-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#babytrend",
+          "#strollerwagon",
+          "#parenttok",
+          "#momtok",
+          "#babymusthaves"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Baby Trend",
+          "Wonderfold",
+          "Veer",
+          "Keenz",
+          "Evenflo"
+        ],
+        "context": "Spring outdoor stroller content peaks once weekend park-and-splash-pad weather hits the northern US; the 2-in-1 stroller-wagon is the highest-margin affiliate in the category because the convertible justifies a higher price ceiling than either format alone; Mother's Day T-8 amplifies the gift-ladder framing",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Charm Bracelet 'Open and Add' Reveal Reels Become Spring's Default Layered-Jewelry Format",
+      "body": "Open-able charm bracelets (the kind you click open at a hinge to add charms one at a time) have crystallized into the dominant spring jewelry reel format, anchored by Celine's Spring 2026 charm-bracelet runway moment carrying into mass-market jewelry through Burberry, Zimmermann, and Pandora. The strongest-converting reel is a 30-second 'unbox + add charm + clip on stack' build, with creators showing a single new charm being added to an existing wrist stack of three to four bracelets — the click-shut sound is the auditory hook driving completion rate. Affiliate ladder: the bracelet itself (sub-$60 entry, $200+ for fine jewelry tier), individual charms ($15-50 each), and a stacking second bracelet — creators are framing each charm as 'a memory you can wear,' which converts the personalization-driven Mother's Day gift audience for the T-8 window.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Marie Claire UK",
+      "source_url": "https://www.marieclaire.co.uk/fashion/shopping/charm-bracelets-trend",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmbracelet",
+          "#armcandy",
+          "#braceletstack",
+          "#jewelrytrends",
+          "#mothersdaygift"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Pandora",
+          "Mejuri",
+          "Missoma",
+          "Brilliant Earth",
+          "Catbird"
+        ],
+        "context": "Celine's Spring 2026 collection catapulted charm bracelets from noughties nostalgia into mass-market trend; the click-open hinge is the new beat structure that distinguishes spring 2026 charm content from generic charm bracelets — and the 'memory you can wear' framing aligns perfectly with the Mother's Day T-8 gift narrative",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Derby-Day & Cinco Bourbon Bar-Cart Tablescape Reels Drive Home Entertaining Saves",
+      "body": "Saturday's Kentucky Derby and Tuesday's Cinco de Mayo are anchoring a back-to-back home-entertaining reel cycle — creators are filming 60-second tablescape reveals with two timely styles: a Derby-Day setup (gingham runner, mason jars of bourbon-soaked cherries, silver julep cups, fresh peony centerpieces) flipping into a Cinco-de-Mayo setup (terracotta plates, talavera-print napkins, painted-tin votives, blue-rim margarita glasses). The format that's saving strongest is a top-down four-corner pan, then a 'guest-arrival POV' shot showing the cart at eye-level. Affiliate-rich because each tablescape stacks 8-10 SKUs (linens, glassware, candle vessels, florals, serveware) and the back-to-back Saturday-and-Tuesday holiday calendar lets creators reuse base infrastructure across two weekends of content.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Good Morning America",
+      "source_url": "https://www.goodmorningamerica.com/shop/story/whimsy-summer-tiktok-trend-2026-132199612",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#tablescape",
+          "#barcart",
+          "#derbyparty",
+          "#cincodemayo",
+          "#homeentertaining"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Williams Sonoma",
+          "Crate & Barrel",
+          "World Market",
+          "Anthropologie",
+          "Pottery Barn"
+        ],
+        "context": "Back-to-back Derby (Saturday May 2) and Cinco de Mayo (Tuesday May 5) is a rare consecutive-holiday entertaining window; creators who film both tablescapes in a single Saturday afternoon get four days of distributed-posting fuel from one production, with each scene carrying 8-10 affiliate SKUs",
+        "price_point": "various"
+      }
+    }
+  ]
+}

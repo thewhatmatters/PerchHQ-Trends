@@ -1,0 +1,499 @@
+{
+  "batch_id": "trends-2026-05-03",
+  "scraped_at": "2026-05-03T10:00:00Z",
+  "expires_at": "2026-05-06T10:00:00Z",
+  "trends": [
+    {
+      "headline": "'Fashion Is Art' Met Gala Predict-the-Look Reels Spike Sunday Ahead of Monday's Carpet",
+      "body": "With the 2026 Met Gala 24 hours out (Monday May 4, theme 'Costume Art' / dress code 'Fashion Is Art'), fashion creators are publishing 30- to 60-second 'predict the look' reels matching each cochair (Beyoncé, Nicole Kidman, Venus Williams, Anna Wintour) to a specific painting or sculpture and styling a high-street recreation in the same frame. The format that's converting strongest is a split-screen: famous artwork on the left, a curated outfit board on the right (sculptural shoulder, painterly print, gilded headpiece) with affiliate links to Reformation, Net-a-Porter, and SSENSE in the caption. Creators are pre-loading Monday-night 'live reaction' overlays so they can drop carpet recap reels within 20 minutes of each arrival.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Yahoo Entertainment / Vogue",
+      "source_url": "https://www.yahoo.com/entertainment/celebrity/article/met-gala-2026-will-celebrate-fashion-as-an-embodied-art-form-a-guide-to-the-theme-dress-code-cochairs-and-hosting-committee-of-the-starry-event-200520308.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.94,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#metgala2026",
+          "#fashionisart",
+          "#costumeart",
+          "#metgalapredictions",
+          "#metgalalook"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Reformation",
+          "Net-a-Porter",
+          "SSENSE",
+          "Schiaparelli",
+          "Loewe"
+        ],
+        "context": "Met Gala Sunday-eve content historically delivers the highest pre-event engagement window of the fashion calendar; the predict-the-look format converts on both styling affiliates and the Monday-night recap watch-along, doubling a single creator's posting opportunity",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Painterly Skin & Watercolor-Blush Tutorials Trend as Pre-Met Gala Beauty Content",
+      "body": "Beauty creators are racing to publish 'art history makeup' tutorials before Monday's Met Gala carpet — the highest-engagement format is a 45-second build that layers a sheer wash of foundation (Armani Luminous Silk, Hourglass Vanish), a watercolor-style cream blush diffused outward like a brushstroke, and one architectural detail (graphic eyeliner, chrome lid, or doll-length lashes inspired by 'Soft Glam Rebellion' and gilded statuary). Creators are pairing each tutorial with a specific famous portrait reference in the caption (Klimt, Vermeer, Frida Kahlo) and stacking three affiliate touchpoints — a sheer base, a cream blush, and either a chrome eyeshadow or gold mascara. The 'name-the-painting' guess game in comments is driving above-average save rates.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/culture-news/met-gala-beauty-trend-predictions-1238936330/",
+      "trend_type": "content_format",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#metgalabeauty",
+          "#painterlymakeup",
+          "#watercolorblush",
+          "#softglamrebellion",
+          "#arthistorymakeup"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Armani Beauty",
+          "Hourglass",
+          "Rare Beauty",
+          "Pat McGrath Labs",
+          "Charlotte Tilbury"
+        ],
+        "context": "Pre-Gala beauty tutorials are historically the highest-saved beauty format of Q2; the painterly-skin/watercolor-blush combo lets creators ride both the 'soft glam' and 'maximalist' sides of this year's predicted trend split, hedging algorithm bets",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Cinco de Mayo Birria Make-Ahead Reels Surge Sunday for Tuesday Meal Prep",
+      "body": "Sunday meal-prep accounts are leaning into Cinco de Mayo (Tuesday May 5) with 60- to 90-second 'make Sunday, eat Tuesday' birria reels — slow-braise chuck roast and short rib in dried guajillo/ancho/chile de árbol consommé Sunday afternoon, refrigerate overnight to deepen the flavor, then quick-fry quesabirria tacos in the consommé fat on Tuesday. The strongest-converting build stacks four affiliate touchpoints in one video: a dutch oven, a chile assortment kit, fresh-pressed corn tortillas, and a Mexican lager pairing. Creators are anchoring each reel with a 'this is why birria from Monday tastes better than birria from today' hook to justify the make-ahead format and drive saves.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Chowhound",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cincodemayo",
+          "#birria",
+          "#quesabirria",
+          "#mealprepsunday",
+          "#tacotuesday"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Le Creuset",
+          "Lodge",
+          "La Tortilla Factory",
+          "Modelo",
+          "Tajín"
+        ],
+        "context": "Cinco de Mayo recipe content peaks the Saturday-Sunday before the holiday because creators are giving viewers enough lead time to shop and execute; the make-ahead birria framing converts saves at 2-3x a same-day recipe reel",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Two-Ingredient Japanese Cheesecake (Yogurt + Cookies) Goes Viral on Food TikTok",
+      "body": "A two-ingredient Japanese cheesecake — strained Greek yogurt and crushed white-chocolate cookies (typically Kinder Country, Lotus Biscoff, or Milano) baked in a parchment-lined springform pan — is the viral 60-second food reel of the week. Creators are filming the 'fold and pour' build top-down (the visual of yogurt cascading into a cookie-dust base is the hook), then the dramatic 'rises like a soufflé, jiggles like a cheesecake' oven-door reveal. The format converts strongest with affiliate links to a 6- or 7-inch springform pan, a fine-mesh strainer, and the specific cookie SKU featured. The 'no eggs, no flour, no cream cheese' caption is driving above-average comment debate.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Chowhound (TikTok food trends 2026)",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#japanesecheesecake",
+          "#twoingredient",
+          "#easybaking",
+          "#tiktokrecipes",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lotus Biscoff",
+          "Pepperidge Farm Milano",
+          "Fage",
+          "Williams Sonoma",
+          "OXO"
+        ],
+        "context": "Two-ingredient recipe reels are over-indexing on completion rate in 2026 because the entire build fits in a single sub-30-second clip; the 'jiggle reveal' is the most-saved frame of the format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Walking (3-3-3 Interval) Reels Explode as the Spring Outdoor Cardio Format",
+      "body": "Japanese walking — alternating 3 minutes of brisk pace with 3 minutes of slow recovery for 30 minutes total — is the breakout fitness format of spring 2026, with PureGym data showing a 2,986% interest spike YoY. Creators are publishing 60-second 'morning walk with me' POV reels (Apple Watch interval timer visible, blood-pressure / HR cuff cutaway, 'I lost X lbs walking 4x a week' on-screen text) and stacking three affiliate touchpoints: walking shoes (HOKA Clifton, Asics GT-2000), a leakproof Stanley/Owala cup, and a fitted lightweight set (Vuori, Alo). Sunday is over-indexing because viewers are queuing up Monday workout intent — creators with morning routine accounts are getting the strongest comment-section conversion.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "PureWow",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#japanesewalking",
+          "#333walking",
+          "#walkingworkout",
+          "#hotgirlwalk",
+          "#walktok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "HOKA",
+          "Asics",
+          "Owala",
+          "Vuori",
+          "Alo Yoga"
+        ],
+        "context": "Japanese walking is replacing the hot girl walk as the dominant low-impact cardio format because it has a measurable interval structure that fits a 30-second how-to reel and a clear before/after narrative arc; Sunday-night posts convert highest on Monday workout intent",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cabbagecore Home Refresh Hauls Take Over Spring Decor TikTok",
+      "body": "Cabbagecore — cabbage, lettuce, and leafy-green motifs across ceramics, glassware, table linens, lampshades, and even upholstered headboards — is one of the four biggest TikTok interior trends of 2026 and is peaking right now as creators stage spring tablescape and dining-room refresh hauls. The format converting strongest is a 45-second 'I bought cabbageware so you don't have to' haul: pull each piece out of the box, place on a styled table, then a one-shot final pan with candlelight. Creators are stacking affiliates from Anthropologie, Dolce&Gabbana Casa, Estelle Colored Glass, and small Etsy ceramicists; pieces under $40 are converting fastest. Pair with skirted-furniture content (the other 2026 trend on the rise) for engagement compounding.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Net-a-Porter / PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cabbagecore",
+          "#cabbageware",
+          "#tablescape",
+          "#hometok",
+          "#springrefresh"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anthropologie",
+          "Dolce&Gabbana Casa",
+          "Estelle Colored Glass",
+          "Williams Sonoma",
+          "World Market"
+        ],
+        "context": "Cabbagecore is in its 'mainstream-but-not-saturated' window — the visual is so distinct it stops the scroll, and tablescape hauls are inherently affiliate-rich (5-8 SKUs per video); pair with Mother's Day gifting framing to compound engagement",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sunday-Reset Pantry-Perfectionist Restocks Drive Weekly Storage-Product Sell-Outs",
+      "body": "Sunday-reset content — the weekly pantry, fridge, and bathroom-cabinet restock filmed as ASMR top-down — is delivering measurable storage-product sell-outs within hours of posting. The strongest-converting reel is a 60-second pantry pull-out: empty everything, wipe shelves, decant flour/sugar/cereal/snacks into matching Kilner or OXO Pop containers, color-code condiments, label with a P-Touch printer, and finish with a 'click-and-snap' final shot. Creators (in the Rosanna Gray / Home Edit lineage) are stacking four affiliate categories per video: airtight containers, label maker, lazy susans, and acrylic risers. 'Pantry as the new walk-in wardrobe' is the framing driving the highest comment engagement.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Displaysense",
+      "source_url": "https://www.displaysense.co.uk/blogs/sector-hub/proof-of-tiktok-s-viral-influence-on-home-decor-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#sundayreset",
+          "#pantryorganization",
+          "#restockwithme",
+          "#asmrcleaning",
+          "#hometok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "OXO",
+          "Kilner",
+          "The Container Store",
+          "Brother P-Touch",
+          "iDesign"
+        ],
+        "context": "Sunday-reset content peaks Sunday afternoons (3-7pm local) and converts both immediate Monday-AM Amazon orders and saved 'I'll do this next Sunday' aspirational engagement; container SKUs sell out within hours of a high-view reel",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Mini LED Galaxy Projector 'Bedroom Glow-Up' Reels Driving $15 TikTok Shop Volume",
+      "body": "$15 mini LED galaxy projectors are still the highest-volume TikTok Shop tech SKU of Q2 2026 — over 10,000 orders driven in the past two weeks by a single 'bedroom glow-up' reel format. The build that converts is a 30-second hard cut: lights on (boring beige bedroom), flick the switch on the projector, lights off, slow pan around the now-nebula-walled room with a chill lo-fi sound on top. Creators are stacking the projector with three companion SKUs — a mushroom lamp, an LED strip behind a TV/headboard, and a cheap velvet cushion — to lift average order value. Subset 'gift for tween daughter' framing is over-indexing the week before Mother's Day as moms screenshot for kids' gifts.",
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
+      "source": "CJ Dropshipping",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#galaxyprojector",
+          "#bedroomglowup",
+          "#tiktokshopfinds",
+          "#amazonfinds",
+          "#aestheticbedroom"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "BlissLights",
+          "Govee",
+          "Pottery Barn Teen",
+          "Amazon Basics",
+          "Sky Lite"
+        ],
+        "context": "The galaxy projector is the rare $10-30 SKU that hits both the tech and aesthetic-bedroom audiences; the on/off lighting cut is the highest-completion-rate visual on TikTok Shop right now, and Mother's Day tween-gift framing is unlocking a second buyer demo",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Pandora Vault Locket Necklace Surges as Mother's Day Personalization Hero (May 10)",
+      "body": "With Mother's Day one week out (Sunday May 10), the Pandora Vault Locket — a charm that can be programmed with a custom YouTube playlist, voice notes, photos, video, and a handwritten note unlockable by tapping the locket to a phone — is the viral personalization-jewelry SKU of the week. The format that converts is a 45-second 'making my mom's locket with me' reel: scroll-through of song-picking, voice-note recording, photo selection, then the gift-reveal moment with mom tapping the locket and her reaction (tears guaranteed). Creators are stacking affiliate links to the locket itself plus three companion picks — a personalized initial necklace (ABLE, Brook & York), a birthstone ring stack, and a velvet jewelry pouch. 'Last week to ship' urgency in the caption is over-indexing engagement Sunday/Monday.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Billboard",
+      "source_url": "https://www.billboard.com/culture/product-recommendations/unique-mothers-day-gift-ideas-1236233700/",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#mothersday2026",
+          "#pandoravault",
+          "#personalizedjewelry",
+          "#mothersdaygift",
+          "#jewelrytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Pandora",
+          "ABLE",
+          "Brook & York",
+          "Mejuri",
+          "Kendra Scott"
+        ],
+        "context": "The Vault Locket is over-performing because the 'tap-to-reveal' interaction creates a built-in second video (mom's reaction) that creators can post separately for compounding engagement; week-out-from-Mother's-Day urgency is the strongest conversion driver",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Honey Bear Straw Cup Surges on TikTok as Speech-Therapist-Approved Toddler Pick",
+      "body": "The Honey Bear Straw Cup is the breakout viral baby SKU of Q2 2026 — pediatric SLPs (speech-language pathologists) on TikTok are publishing 30-second 'why I recommend this for straw drinking, oral motor development, and post-bottle transition' explainers, and parent creators are following with 'tested it on my 14-month-old' reaction reels. The format converting strongest is a side-by-side: traditional sippy cup on the left (no oral benefit), Honey Bear on the right (visible squeeze-assist for first sips), then a clean 'three days later' progress shot. Creators are stacking the cup with two companion SKUs — a silicone bib catcher and a Boon dishwasher rack basket — and tagging the 'mom-influencer' SLP audience for credibility.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Babylist",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#honeybearcup",
+          "#speechtherapy",
+          "#momtok",
+          "#toddlerlife",
+          "#babymusthaves"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Ark Therapeutic",
+          "Boon",
+          "Bumkins",
+          "Munchkin",
+          "Babylist"
+        ],
+        "context": "The SLP-credibility hook is what's separating Honey Bear from generic 'TikTok made me buy it' baby products — pediatric professionals on the platform are driving organic momentum that's harder to manufacture; Mother's Day proximity is amplifying gift-for-new-mom framing",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Smart Flapping Bird Cat Toys Drive Pet-TikTok Reaction-Reel Surge",
+      "body": "Battery-powered flapping bird cat toys — sensor-triggered toys that flutter, spin, and chirp when a cat touches them — are the breakout viral pet SKU of the week, with creators publishing 30- to 45-second 'first reaction' reels from cats encountering the toy for the first time. The format that's converting strongest is a static-cam setup capturing the full sequence: cautious sniff, hunter-mode crouch, predatory pounce, surprised recoil at the chirp, then a dignified victory walk with the 'corpse'. Creators are stacking three affiliates per reel: the bird toy itself, a snuffle mat (for the 'enrichment hour' caption), and an automatic feeder. 'My cat's depression cure' framing is the comment-section bait.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Kinship",
+      "source_url": "https://www.kinship.com/pet-shopping/tiktok-pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cattoys",
+          "#cattok",
+          "#cattoymadness",
+          "#interactivecattoys",
+          "#pettok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Potaroma",
+          "PetSafe",
+          "Chewy",
+          "Litter-Robot",
+          "Hexbug"
+        ],
+        "context": "Cat reaction reels have one of the highest completion rates of any product category on TikTok because the emotional payoff is built into the toy itself; pair with self-cleaning litter box content for compounding cat-parent algorithmic favorability",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'$50 a Day in X vs. Y' Country-Comparison Reels Take Over Travel TikTok for Summer Planning",
+      "body": "Travel creators are capturing summer-2026 trip-planning intent with 60- to 90-second '$50 a day in [Country A] vs. [Country B]' comparison reels — Albania vs. Greece, Vietnam vs. Thailand, Montenegro vs. Croatia, Laos vs. Bali — built as a 4-up grid showing what $50 buys in each (hotel/hostel night, full meal, one paid activity, one transit hop). The format converts because it's inherently shareable (viewers tag travel-buddy friends in the comments, which TikTok reads as engagement) and because the comparison frame works for both budget and mid-range audiences. Creators are pairing with affiliate links to Hostelworld, Booking.com, GetYourGuide, and a packing-cube starter set; the Eastern Europe and Southeast Asia pairings are over-indexing.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Viryze (TikTok travel trends 2026)",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#budgettravel",
+          "#50adaytravel",
+          "#travelcomparison",
+          "#summertravel2026",
+          "#traveltok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Hostelworld",
+          "Booking.com",
+          "GetYourGuide",
+          "Away",
+          "Béis"
+        ],
+        "context": "Country-comparison reels generate disproportionate comment volume (the 'tag a friend' mechanic) which TikTok rewards with extended reach; summer trip-planning intent peaks early-to-mid May, making this the highest-leverage two weeks of the travel-creator calendar",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Faux Micro-Fringe 'Met-Gala-Inspired' Hair Transformation Reels Trend This Weekend",
+      "body": "Pre-Met Gala hair-transformation content is leaning into faux micro fringe — a tiny editorial bang clipped or temporarily attached without a commitment cut — as the predicted breakout hair beat for Monday's carpet. Creators are publishing 30-second 'no-commitment Bardot bang' reels: pin existing hair into a slick low bun, attach a clip-in micro fringe (Sally Beauty / Bellami human-hair clip-ins), trim wisps to face shape, then a head-to-side 'character energy' final pan. The format stacks affiliates for the clip-in, sectioning clips, dry shampoo, and a flat iron. 'Pretending I have a Met Gala invite' is the dominant caption format driving comment-section saves.",
+      "categories": [
+        "Fashion & Apparel",
+        "Beauty & Skincare"
+      ],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/culture-news/met-gala-beauty-trend-predictions-1238936330/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#microfringe",
+          "#fauxbangs",
+          "#hairtok",
+          "#metgalahair",
+          "#hairtransformation"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Bellami",
+          "Sally Beauty",
+          "Ouai",
+          "Dyson",
+          "GHD"
+        ],
+        "context": "Clip-in fringe content sits at the Fashion-Beauty intersection and benefits from Met Gala carpet adjacency; the 'no commitment' angle drives the conversion because viewers know they can return the clip-in if they hate it after one wear",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen 'Stamp & Press' Application Reels Stay Hot Into May",
+      "body": "Beauty of Joseon Relief Sun Rice + Probiotics SPF 50+ continues its multi-quarter TikTok run with a fresh format twist — the 'stamp and press' application reel, where creators dispense a generous quarter-size dollop, stamp it across forehead/cheeks/nose/chin, then press (don't rub) for 30 seconds while explaining the rice-water and prebiotic complex benefits. The format that converts is a 30-second close-up of a glassy, dewy, no-white-cast finish with the bottle in frame. Creators are stacking three K-beauty affiliates per video: the Beauty of Joseon SPF, a Biodance Bio-Collagen Real Deep Mask, and a Medicube Collagen Night Wrapping Mask, framed as 'the K-beauty starter pack.' Mother's Day gift-bundle framing is unlocking a second buying demo this week.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#beautyofjoseon",
+          "#ricesunscreen",
+          "#kbeauty",
+          "#spf50",
+          "#dewyskin"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Beauty of Joseon",
+          "Biodance",
+          "Medicube",
+          "Anua",
+          "COSRX"
+        ],
+        "context": "Beauty of Joseon SPF has unusual format longevity because the no-white-cast visual is irreplicable in a still photo — only video proves it; the K-beauty starter-pack bundle structure is what's keeping it surfacing for new audiences each cycle",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

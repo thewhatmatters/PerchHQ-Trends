@@ -1,0 +1,465 @@
+{
+  "batch_id": "trends-2026-05-04",
+  "scraped_at": "2026-05-04T10:00:00Z",
+  "expires_at": "2026-05-07T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Met Gala 2026 'Costume Art' Live-React Recap Reels Spike Monday Afternoon Ahead of 6pm Carpet",
+      "body": "With the 2026 Met Gala kicking off tonight (Monday May 4, theme 'Costume Art' / dress code 'Fashion Is Art', red carpet livestream from Vogue at 6pm EST on YouTube + TikTok), fashion creators are pre-staging 30-second carpet-react templates so they can drop a recap reel within 15-20 minutes of each major arrival. The format converting hardest is split-screen: famous artwork on the left, the celebrity look on the right, with a 'name the painting' prompt in the caption that drives save+comment activity. Smart creators are queueing affiliate-link 'shop the look' carousels for cochairs Beyoncé, Nicole Kidman, Venus Williams and Anna Wintour — Reformation, Net-a-Porter and SSENSE links convert strongest in the first 90 minutes.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Vogue / Yahoo Entertainment",
+      "source_url": "https://entertainmentnow.com/fashion-famous-celebrity-designers/2026-met-gala-red-carpet-streaming-watch-live/",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#metgala2026",
+          "#fashionisart",
+          "#costumeart",
+          "#metgalalive",
+          "#metgalareact"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Vogue",
+          "Reformation",
+          "Net-a-Porter",
+          "SSENSE",
+          "Schiaparelli"
+        ],
+        "context": "Met Gala carpet day delivers the single biggest organic engagement window in the fashion calendar; first-90-minute reaction reels regularly out-perform pre-event 'predictions' content by 3-5x and stack on top of yesterday's predict-the-look posts for a same-week double-dip",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Glassy Lacquered Slick-Back 'Hair-as-Sculpture' Tutorials Surge as Met Gala Beauty Hero",
+      "body": "Hair creators are racing to ride tonight's Met Gala 'Fashion Is Art' moment by publishing 45-60 second 'lacquered glass' slick-back tutorials — celebrity stylist Clayton Hawkins explicitly called out 'ultra slick, lacquered finishes with glassy, almost-varnished textures and precision center partings' as the carpet's defining hair direction. The format converting hardest stacks three affiliate touchpoints in one reel: a wet-look gel (IGK, Bumble and Bumble Sumotech), a fine-tooth precision parting comb, and a finishing high-shine spray. Creators are pairing every tutorial with a sculpture or portrait reference in the caption to fold into the broader #metgala2026 conversation.",
+      "categories": [
+        "Beauty & Skincare",
+        "Fashion & Apparel"
+      ],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/culture-news/met-gala-beauty-trend-predictions-1238936330/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#metgalahair",
+          "#slickback",
+          "#glassyhair",
+          "#fashionisart",
+          "#hairtutorial"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "IGK",
+          "Bumble and Bumble",
+          "Oribe",
+          "Color Wow",
+          "Kevin Murphy"
+        ],
+        "context": "Hair tutorials tied to a same-day red carpet moment historically out-pace makeup tutorials by margin on YouTube Shorts and Reels — the carpet supplies free reference imagery all night, giving creators a 12-hour content tail",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "PDRN 'Salmon DNA' Serum Application Reels Pass 800M TikTok Views as K-Beauty's New Hero Ingredient",
+      "body": "PDRN (polydeoxyribonucleotide, the salmon-DNA-derived ingredient) has crossed 800M views on TikTok with search volume up 700% globally in 2026 — creators are publishing 30-second 'apply, press, glaze' application tutorials emphasizing the visible same-night plumping effect that makes before/afters genuinely look different. The format converting hardest is a side-by-side 'Day 1 vs Day 7' on bare-faced morning skin, with the creator naming the specific ampoule and pairing it with a hyaluronic-acid+collagen layering routine. Anua's PDRN+HA+collagen serum and Rejuran Turnover Ampoule ($52) are the two products driving the bulk of TikTok Shop conversions.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Cosmetics Business",
+      "source_url": "https://cosmeticsbusiness.com/snail-mucin-is-out-tiktok-famous-pdrn-is",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#pdrn",
+          "#salmondna",
+          "#kbeauty",
+          "#pdrnserum",
+          "#glassskin"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anua",
+          "Rejuran",
+          "Medicube",
+          "Cell Fusion C",
+          "VT Cosmetics"
+        ],
+        "context": "PDRN has displaced snail mucin as K-beauty's hero ingredient on TikTok — the 'visible same-day' plumping makes it one of the rare actives that performs in short-form video, which is why creator demand is sustained vs. the typical 4-6 week ingredient cycle",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cinco de Mayo Day-Of Birria Taco 'Quick-Fire' Reels Trend Monday for Tomorrow's Spread",
+      "body": "Food creators are publishing 60-second day-before birria reels Monday afternoon for the Tuesday May 5 Cinco de Mayo cook — the format that's converting hardest is a 'three-bowl prep' (consomé, shredded brisket/chuck, dipping cheese tacos) styled as a make-ahead so viewers can save it tonight and execute tomorrow. Creators stacking three affiliate hooks in one reel — a cast iron, a pre-mix birria seasoning blend (Loisa, Las Cabras), and a tortilla press — are seeing the strongest TikTok Shop pull-through. The 'dip the taco' slow-mo end card is the move that drives the rewatch loop.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Mexican Please",
+      "source_url": "https://www.mexicanplease.com/fast-and-easy-cinco-de-mayo-recipes/comment-page-1/",
+      "trend_type": "content_format",
+      "confidence_score": 0.93,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#cincodemayo",
+          "#birriatacos",
+          "#tacotuesday",
+          "#mexicanfood",
+          "#mealprep"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Loisa",
+          "Las Cabras",
+          "Lodge Cast Iron",
+          "Ortega",
+          "Goya"
+        ],
+        "context": "Cinco de Mayo on a Tuesday is the rare scenario where Monday-night save-rate is a leading indicator of Tuesday execution — creators who publish day-before are getting outsized save-to-comment ratios as viewers bookmark for tomorrow's cook",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Two-Layer Spicy Queso Dip Reels Lock In as Cinco de Mayo Party Hero on TikTok",
+      "body": "Beyond birria, the single fastest-spreading Cinco de Mayo recipe today is a two-layer spicy queso (chorizo + Velveeta + Rotel base, topped with avocado-lime crema and queso fresco) — creators are billing it as 'life-changing' with the 8-second close-up 'cheese pull' as the hook. The format works because it's a one-pan, four-ingredient executable that beginner cooks can replicate from a single watch, and the affiliate hooks are inexpensive enough (cast iron skillet, Rotel, chorizo brand) to convert at scale. Multiple creators are A/B-testing 'spicy vs. mild' captions and the spicy version is winning views 2:1.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/@recipes/video/7364055967127866632",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#queso",
+          "#cincodemayo",
+          "#cheesepull",
+          "#dip",
+          "#partyfood"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Velveeta",
+          "Rotel",
+          "Cacique",
+          "Kraft Heinz",
+          "Tostitos"
+        ],
+        "context": "Queso dip is the lowest-friction Cinco de Mayo content — a creator without authentic-cuisine credentials can publish it without backlash, and the cheese-pull hook out-performs more elaborate dishes on retention curve",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-2-1 Method (Strength + Pilates + Cardio) Workout Split Reels Dominate FitTok Pre-Summer",
+      "body": "The '3-2-1 method' weekly workout split — three strength days, two Pilates days, one cardio day — is the single most-viewed fitness format on TikTok this week as women plan their pre-summer training cycle. The format converting hardest is a 60-second 'walk through my week' carousel-style video where a creator frames each day's workout as a single dumbbell-and-mat session executable at home, with a printable PDF affiliate or app referral in the bio (Nourish Move Love's free 3-2-1 PDF is the highest-volume reference). Creators are stacking a dumbbell set, a Pilates mat, and a heart-rate watch as the three product affiliates per week.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Nourish Move Love",
+      "source_url": "https://www.nourishmovelove.com/3-2-1-method-workout/",
+      "trend_type": "content_format",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#321method",
+          "#321workout",
+          "#pilatesandstrength",
+          "#workoutsplit",
+          "#gymgirl"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Bala",
+          "Lululemon",
+          "Alo",
+          "Apple Watch",
+          "Manduka"
+        ],
+        "context": "Pilates+strength hybrid splits are the dominant women's fitness narrative for summer 2026 (replacing the 'all-Pilates' cycle of 2024-25); the 3-2-1 framing is sticky because it's specific enough to commit to but flexible enough to publish weekly progress check-ins",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Skirted Furniture 'Grandma Decor' Refresh Hauls Take Over Home TikTok",
+      "body": "Skirted upholstered furniture — sofas, chairs, and ottomans with fabric that puddles to the floor — is the most-saved home aesthetic of the week as TikTok's 'grandma decor' wave matures into a buying cycle. Creators are publishing 90-second 'before/after' room refreshes with a single skirted accent piece (chair, ottoman, or vanity stool) as the hero, paired with a tassel pillow and a fringed lamp. The format that's converting hardest is a 'Facebook Marketplace flip' framing — find a frame, get a custom slipcover sewn — which keeps the price point accessible enough for the median TikTok viewer to actually execute.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Net-a-Porter PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#skirtedfurniture",
+          "#grandmadecor",
+          "#grandmillennial",
+          "#hometok",
+          "#homerefresh"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anthropologie",
+          "Wayfair",
+          "Society Social",
+          "Ballard Designs",
+          "Etsy"
+        ],
+        "context": "Skirted furniture is the third leg of TikTok's 2026 'grandma decor' triangle (alongside cabbagecore and curated cluttercore) — it's the highest-ticket of the three, which makes it the most commercially valuable for affiliate creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Touchless Motion-Sensor Kitchen Trash Can 'Hands-Free Cooking' Reels Drive TikTok Shop Volume",
+      "body": "Motion-sensor touchless trash cans (typically $40-90 on TikTok Shop) are the breakout small-appliance hero this week, with creators publishing 30-second 'while I'm cooking with raw chicken' POVs that show the hands-free wave-open in context. The format converting hardest is a one-shot kitchen reel where the creator narrates a recipe while the can is in continuous use in the background — the casual, non-product-focused framing converts better than a dedicated review. Simplehuman, Townew (auto-bagging), and the lower-priced Itouchless are the three brands driving the bulk of TikTok Shop pull-through.",
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
+      "source": "Simplify Kitchen Co.",
+      "source_url": "https://simplifykitchenco.com/2026/01/17/viral-tiktok-kitchen-products-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#touchlesstrashcan",
+          "#kitchengadgets",
+          "#tiktokmademebuyit",
+          "#kitchenupgrade",
+          "#smarthome"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Simplehuman",
+          "Townew",
+          "Itouchless",
+          "Ninestars",
+          "Amazon Basics"
+        ],
+        "context": "Touchless trash cans pull double duty — they're a kitchen-tech upgrade and a hygiene story (post-pandemic carryover demand is still strong), which gives creators two distinct hooks to A/B test on the same product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Engravable 'MOM' Charm Bracelet Stacks Surge as Mother's Day 2026 Personalization Hero (May 10)",
+      "body": "With Mother's Day six days out (Sunday May 10), engravable charm bracelet stacks — particularly all-caps MOM script bar charms layered with floral and birthstone disks — are the breakout jewelry buy of the week. Creators are publishing 30-45 second 'I made my mom's bracelet' reels showing the engraving step in real time at a Pandora or James Avery counter, with the unboxing/gift-wrap reveal as the close. The format converting hardest stacks two affiliates: the bar charm itself (the engraving fee is the emotional sell) plus a nature-motif charm (bee, butterfly, clover) — which lands the spring-2026 'floral jewelry' story in the same reel.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Hollywood Reporter",
+      "source_url": "https://www.hollywoodreporter.com/lifestyle/shopping/mothers-day-gifts-for-mom-2026-best-luxury-presents-online-1236579047/",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#mothersday",
+          "#mothersdaygift",
+          "#engravedjewelry",
+          "#charmbracelet",
+          "#pandora"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Pandora",
+          "James Avery",
+          "Kendra Scott",
+          "Mejuri",
+          "Brilliant Earth"
+        ],
+        "context": "The week-of Mother's Day window is jewelry's single highest-volume gifting moment after Christmas; engraved/personalized stacks have a higher AOV and lower return rate than non-personalized, which is why retailers are pushing them hardest in creator partnerships this week",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Toniebox 2 Toddler Audio Player Goes Viral on TikTok Shop as Screen-Free Gift Pick",
+      "body": "The Toniebox 2 — the second-gen screen-free audio player for ages 1-9+ — is the breakout baby/kids product of the week on TikTok Shop, with creators publishing 'first reaction' POVs of toddlers using the figurine-on-top playback mechanic. The format converting hardest is a 'Tonies haul' carousel where a parent shows their kid's growing figurine collection (Disney, Eric Carle, Sesame Street licenses), framed as 'the Apple TV alternative for under-fives.' Mother's Day positioning is also driving volume — creators are pairing the Toniebox with a 'gifts for new moms' bundle frame that includes a Tonie figurine for the baby and a quiet-time hour for the mom.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "BuzzFeed",
+      "source_url": "https://www.buzzfeed.com/gabrielamanjarrez/newer-tiktok-viral-actually-work",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#toniebox",
+          "#screenfree",
+          "#tiktokshop",
+          "#toddlerlife",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Tonies",
+          "Disney",
+          "Eric Carle",
+          "Sesame Street",
+          "Yoto"
+        ],
+        "context": "Screen-free toddler audio is the dominant 2026 parent-creator narrative replacing 'Ms. Rachel on the iPad'; Toniebox 2's figurine-collection mechanic gives creators repeat content (each new figurine = a new reel) which is why it's outpacing Yoto on TikTok despite a similar product story",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Fi Series 3 Plus Smart Dog Collar 'Found My Escape Artist' Reels Drive PetTok Conversions",
+      "body": "The Fi Series 3 Plus GPS smart collar is the breakout pet-tech hero this week as outdoor weather pulls more dogs into yards and parks — creators are publishing 'real-time tracking' reels showing the geofence-breach push notification firing on their phone the moment their dog leaves the property. The format converting hardest is a 'first 24 hours with the collar' day-in-the-life that documents the activity-tracking, sleep-pattern, and location-history features in a single carousel. Pairing the Fi with a backup AirTag in the collar tag pocket is the redundancy move creators are recommending in captions.",
+      "categories": [
+        "Pets",
+        "Tech & Gadgets"
+      ],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/hot-selling-pet-products-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#smartcollar",
+          "#dogtok",
+          "#fidogcollar",
+          "#pettech",
+          "#dogsoftiktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Fi",
+          "Apple AirTag",
+          "Whistle",
+          "Tractive",
+          "Halo Collar"
+        ],
+        "context": "Spring/early-summer is the highest-volume window for pet-GPS purchases (escape-attempts spike with open windows and yard time); the Fi's $199+ AOV plus annual subscription makes it one of the highest-LTV affiliate items in the pet vertical",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'Coastal Cowgirl 2.0' Summer Outfit Hauls Trend on Fashion TikTok with Western/Linen Mash-Ups",
+      "body": "Coastal Cowgirl is back for 2026 with a stylistic upgrade — creators are publishing 60-second 'one piece, three ways' hauls styling oversized western shirts over swimsuits, layering denim with sheer linen, and pairing wide-brim hats with sandy-beige and ocean-blue palettes. The format converting hardest is a five-look closet remix from a single new western shirt (Tecovas, Wrangler, or a vintage flip), framed as a transitional Memorial-Day-through-Labor-Day capsule. Affiliate stacks pair the western shirt with a linen pant or skirt and a non-conventional hardware-detail jewelry piece (chunky silver, turquoise) — the jewelry layer is what differentiates 2026's version from 2024's original wave.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Tecovas Blog",
+      "source_url": "https://www.tecovas.com/blog/tomato-girl-summer",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#summer2026",
+          "#westernfashion",
+          "#summeroutfits",
+          "#linencapsule"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Tecovas",
+          "Wrangler",
+          "Reformation",
+          "Free People",
+          "Madewell"
+        ],
+        "context": "Coastal Cowgirl 2.0 is the dominant pre-summer styling narrative for non-Brat-Summer audiences in 2026; the western+linen mash-up gives creators a fresh affiliate combo without abandoning the closet they built last summer",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Southeast Asia '$50 a Day' Laos & Philippines Budget Travel Reels Take Over Travel TikTok for Summer",
+      "body": "With shoulder-season Southeast Asia bookings opening up, travel creators are leaning hard into Laos (Luang Prabang's morning alms ceremony, Kuang Si waterfalls) and the Philippines (Siargao, Coron, Siquijor) — Vietnam's Central Highlands and Cambodia's rural provinces are the secondary picks. The format converting hardest is a daily-cost photo carousel ('what $50 got me in Luang Prabang' — guesthouse, three meals, transit, one excursion) set to a trending audio, and TikTok's algorithm currently favors photo carousels over video for travel, with creators consistently hitting 500K+ views. Affiliate stacks pair a single carry-on bag (Away, Béis), a universal adapter, and a Wise/Revolut card sign-up.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Viryze Travel TikTok Trends",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#budgettravel",
+          "#laos",
+          "#philippines",
+          "#southeastasia",
+          "#travelTikTok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Away",
+          "Béis",
+          "Wise",
+          "Revolut",
+          "Hostelworld"
+        ],
+        "context": "Shoulder-season May/June is when summer Southeast Asia trip planning peaks on TikTok; the carousel format is currently algorithmically advantaged for travel content, which is why daily-cost still-photo posts are out-performing flashier video edits",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

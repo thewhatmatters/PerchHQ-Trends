@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-05",
+  "scraped_at": "2026-05-05T10:00:00Z",
+  "expires_at": "2026-05-08T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Met Gala 2026 'Best & Worst Dressed' Day-After Tier-List Recap Reels Take Over Tuesday Fashion FYP",
+      "body": "With last night's 'Fashion Is Art' carpet now fully shot and photographed (Beyonce's crystal-skeleton Olivier Rousteing gown, Teyana Taylor's Tom Ford, Naomi Osaka's Robert Wun, Janelle Monae's micro-bob look, Emma Chamberlain's platinum pixie), fashion creators are publishing the day-after S-Tier / A-Tier 'rank the carpet' reels that historically out-perform live-react content by 2-3x because viewers were asleep when the looks dropped. The format converting hardest is a 60-90 second tier-board with the creator's own callouts ('S-Tier: actually understood the brief; F-Tier: arrived in a regular dress'), with affiliate-link 'shop the closest version' carousels for each highlighted look. Smart creators are pairing this with a 'shop the look' Reformation/Net-a-Porter/SSENSE link block that drives the strongest 24-48 hour conversion window of the entire Met Gala calendar.",
+      "categories": ["Fashion & Apparel"],
+      "source": "The Washington Post / Yahoo Entertainment",
+      "source_url": "https://www.washingtonpost.com/style/fashion/2026/05/04/best-dressed-met-gala-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#metgala2026", "#metgalarecap", "#bestdressed", "#fashionisart", "#tierlist"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tom Ford", "Olivier Rousteing", "Robert Wun", "Reformation", "Net-a-Porter", "SSENSE"],
+        "context": "Day-after tier-list recap reels stack on top of last night's live-react content for a same-week double-dip; Tuesday/Wednesday is the peak save-and-share window because the content is now photo-ready and viewers can see every look in one scroll",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Beyonce Met Gala Sun-Crown Golden Curls 'Recreate the Look' Hair & Glam Tutorials Spike Tuesday",
+      "body": "Beyonce's return-after-a-decade Met Gala beauty look — sun-shaped diamond crown over pinned-back golden curls with light eyeshadow, slick eyeliner and a nude lip — is the carpet's most-saved beauty moment overnight, and hair creators are pushing 60-90 second 'how to get the curl' tutorials Tuesday morning while the search volume is still fresh. The format converting hardest stacks a 1.25-inch curling wand demo, a 'pin and pull' technique close-up, and an affiliate trio: gold tone-correcting toner (Wella, Joico K-PAK Color Therapy), a curl-defining cream (Pattern Beauty, Mielle), and a high-shine finishing spray (Color Wow Dream Coat). Creators are tagging into the #metgalabeauty conversation to ride the 24-hour search peak.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "source": "WWD",
+      "source_url": "https://wwd.com/pop-culture/celebrity-news/met-gala-2026-best-beauty-hair-makeup-1238939578/",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#metgalabeauty", "#beyoncehair", "#goldencurls", "#hairtutorial", "#metgala2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pattern Beauty", "Mielle", "Color Wow", "Wella", "Joico"],
+        "context": "Tuesday-after Met Gala 'recreate the look' tutorials hit peak search 12-24 hours after the carpet — viewers who saved a look overnight come back during morning routines looking for the technique, making this the highest-converting hair affiliate window of the month",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Mango Margarita with Hot Honey Drizzle Becomes Cinco de Mayo 2026 Day-Of Cocktail Reel of the Day",
+      "body": "The Whole Foods 'Mango Margarita with hot honey drizzle' reel (1.5 oz tequila, lime juice, two parts orange-mango juice, chili-lime rim, optional hot honey drizzle) is the #1 Cinco de Mayo cocktail format trending Tuesday morning, and food creators are racing same-day 30-second pour-and-rim tutorials as viewers search for one-drink-to-make-tonight ideas. The format converting hardest stacks three affiliate touchpoints in one reel: a tequila bottle (Espolon, Casamigos), a chili-lime rim seasoning (Tajin), and a hot honey (Mike's Hot Honey, Bushwick Kitchen). Tuesday-night-of-Cinco posts have a 4-hour decision window, so creators are dropping these by 2pm EST.",
+      "categories": ["Food & Beverage"],
+      "source": "Whole Foods Market via TikTok",
+      "source_url": "https://www.tiktok.com/@wholefoodsmarket/video/7501028340128648491",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.9,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#cincodemayo", "#mangomargarita", "#hothoney", "#tequilarecipes", "#cocktailrecipes"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Whole Foods", "Espolon", "Casamigos", "Tajin", "Mike's Hot Honey"],
+        "context": "Cinco de Mayo falls on Tuesday in 2026, compressing the 'plan it / make it' window — day-of cocktail reels published before 2pm EST capture the largest share of decide-tonight viewers and convert affiliate links at 2-3x the prior-day prep content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Freezer-Door Paloma Pitcher 'Make-Ahead Big-Batch' Reels Take Over Cinco de Mayo Cookout Content",
+      "body": "Freezer-door pre-batched palomas (tequila, fresh grapefruit juice, lime, agave, topped with grapefruit Squirt or Jarritos at serve) are surging Tuesday morning as the no-fuss Cinco de Mayo cookout cocktail — the appeal is that one reel teaches a 6-serving pitcher you can pull from the freezer all night, hitting the 'host with one drink, not ten' affiliate angle. The format converting hardest is a 45-60 second 'pour it once, drink it all night' demo paired with a freezer-safe glass pitcher (Bormioli Rocco, OXO), Jarritos grapefruit soda, and Cointreau or agave nectar. Creators are explicitly framing this as 'better than a margarita' to ride the in-Mexico paloma-over-margarita debate.",
+      "categories": ["Food & Beverage"],
+      "source": "Served By Sammy via TikTok",
+      "source_url": "https://www.tiktok.com/@servedbysammy/video/7500679421603368234",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#paloma", "#cincodemayo", "#freezercocktails", "#bigbatchcocktails", "#tequila"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Jarritos", "Squirt", "Bormioli Rocco", "OXO", "Cointreau"],
+        "context": "Big-batch make-ahead cocktail reels have a longer shelf life than single-serve recipes because they double as cookout/entertaining content — this format keeps converting through Memorial Day weekend, not just Cinco de Mayo",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Butter Yellow '1 Color, 5 Outfits' Spring Capsule Reels Surge as Pantone-Adjacent Color of Spring 2026",
+      "body": "Butter yellow has officially crossed from 2025 carryover into Spring 2026's most-styled color — Jennifer Lawrence and Alexa Chung are wearing it everywhere, and fashion creators are publishing 30-45 second '1 butter yellow piece, 5 ways to wear' reels pairing it with white, cream, navy, sage green, lavender and chocolate brown. The format converting hardest is a single butter-yellow blazer or cardigan styled across five looks (workwear, brunch, errands, date night, weekend) with shop-the-look affiliate links to Madewell, J.Crew, Mango, Reformation and Sezane. Creators starting with the lowest-commitment piece (a butter-yellow ballet flat or a $30 tee) are converting the most first-time butter-yellow buyers.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/celebrity-style/butter-yellow-colour-trend-spring-2026-jennifer-lawrence-alexa-chung",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#butteryellow", "#springfashion2026", "#capsulewardrobe", "#1pieceXways", "#springoutfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Madewell", "J.Crew", "Mango", "Reformation", "Sezane"],
+        "context": "Single-color capsule styling reels have the highest save-rate of any spring fashion format because viewers screenshot for outfit reference; butter yellow is the rare 'trend color' that pairs with neutrals already in most closets, lowering the affiliate barrier",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Hot Girl Walk' Cozy Cardio Outdoor Audio-Led Walking Reels Dominate Spring FitTok",
+      "body": "With spring weather opening up across the US, 'Hot Girl Walk' (3-4 mile outdoor walks with a gratitude/affirmation audio prompt) has crossed half a billion TikTok views and is converting harder than gym-based content this week — creators are publishing 60-second POV walking reels paired with the specific audio (gratitude prompt, podcast clip, or upbeat playlist) and an affiliate stack of walking-friendly Hokas/On Cloud sneakers, a phone armband, AirPods Pro, and a sun visor. The format converting hardest is a 'romanticize your walk' GRWM where the creator names the route, the audio, and what they're processing. Cozy-cardio (low-stress indoor walking variants for rainy days) is the rainy-day backstop.",
+      "categories": ["Health & Fitness"],
+      "source": "Stylist UK",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#hotgirlwalk", "#cozycardio", "#walkingworkout", "#romanticizeyourlife", "#springfitness"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Hoka", "On Running", "Apple AirPods", "Lululemon", "Vuori"],
+        "context": "Outdoor walking content peaks in early May as weather turns and viewers shift from gym to outside; the gratitude-audio framing creates a wellness/lifestyle hybrid that out-performs pure workout content on save-rate",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pandora 'Spend $135 Get a Free Bracelet' Promo Drives Mother's Day Final-Push Charm-Stack Reels (Through May 12)",
+      "body": "Pandora's Mother's Day Free Bracelet Event (spend $135+ for a free sterling silver bracelet, $275+ for 14k gold-plated, plus Buy 2 Get 1 Free on charms through May 12) is now driving the final Mother's Day affiliate push five days out from May 10 — jewelry creators are publishing 30-second 'build a bracelet for $135' reels showing exactly which charms hit the spend threshold (typically two $65 charms + a $5 spacer = free bracelet). The format converting hardest pairs an engravable MOM bar charm, a birthstone charm in mom's stone, and a meaningful symbol charm (clover, bee, butterfly per Pandora's spring nature collection). Personalized birthstone bracelets continue to lead the Mother's Day jewelry category.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Pandora US",
+      "source_url": "https://us.pandora.net/en/gifts/occasions/mothers-day/",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#pandoramothersday", "#charmbracelet", "#mothersdaygift", "#pandorastack", "#birthstone"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "James Avery", "Mint & Lily"],
+        "context": "Mother's Day is Sunday May 10 — the May 5-8 window is the final affiliate push for shippable jewelry gifts; promos with a clear spend threshold convert harder than open-ended gift guides because they create a hit-the-number game for the viewer",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Aesthetic Cat Sofas (Up to $2K) Drive 'Reveal & React' Luxury PetTok Furniture Wave",
+      "body": "Cat sofas with hand-stitched upholstery and orthopedic cushions — selling for as much as $2,000 — are surging on PetTok as the new flex-purchase for cat parents, with 60-second 'reveal & react' reels where the owner unboxes the sofa and the cat either claims it instantly or ignores it for the box. The format converting hardest is split-screen: the price tag in one corner, the cat's reaction in the other. The lower-price affiliate ladder is what makes this work — most creators link a $40-80 dupe (Tucker Murphy Pet, Best Friends by Sheri velvet bolster, Frisco modern cat sofa) under the luxury hero. This format is also pulling in non-cat-owner viewers for the comedy of the cat picking the box.",
+      "categories": ["Pets", "Home & Lifestyle"],
+      "source": "Net-a-Porter PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cattok", "#catfurniture", "#luxurypets", "#catsofa", "#aestheticpets"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tuft + Paw", "Frisco", "Best Friends by Sheri", "Tucker Murphy Pet"],
+        "context": "Cat-furniture-as-decor crosses PetTok into HomeTok, doubling the addressable audience — the 'cat ignores the $2K sofa for the box' beat reliably hits non-pet-owner viewers, expanding reach beyond the niche",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Colombia & Ecuador 'Beyond Mexico' Budget Travel Reels Surge as 2026 Summer Latin America Pivot",
+      "body": "Travel creators are publishing 60-second Cartagena, Medellin, Quito and Galapagos budget reels Tuesday as the 'next destination after Mexico City' summer pivot — cost breakdowns ($35-45 a day in Medellin, $50/day in Cartagena including a coffee farm tour) are genuinely surprising to North American audiences and driving the highest save-rate in the Latin America travel category for 2026. The format converting hardest stacks three components: a 'what $50 a day actually gets you' day-in-the-life, a flight-deal screenshot from the creator's home airport, and a credit-card affiliate (Chase Sapphire Preferred / Capital One Venture). Pre-summer planning season (May 5-25) is the peak save window for international trips that book in June.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#colombiatravel", "#medellin", "#cartagena", "#ecuador", "#budgettravel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Chase Sapphire", "Capital One", "Hostelworld", "Selina"],
+        "context": "Mexico City and Tulum are saturated content territory — Colombia and Ecuador are the 2026 'next-up' pivot offering creators easier algorithmic differentiation and more surprising cost reveals, both of which drive higher save-rate",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Doona Infant Car Seat + Stroller 'One-Click Transition' Demo Reels Drive ParentTok Big-Ticket Affiliate",
+      "body": "The Doona car-seat-to-stroller hybrid is having its biggest TikTok moment of 2026 as expecting and new parents in second-trimester+ planning windows publish 30-second 'one-click transition' demo reels showing the wheels deploy from the car seat in under 3 seconds. The format converting hardest is a parking-lot POV: park the car, click, walk into the store with the same unit. Affiliate angle is the $550 unit + the Doona Snap-On Storage and Doona Infant Insert add-ons that bundle the average order over $700. Creators are pairing this with a Mother's Day 'gift the registry' callout, hitting the May 5-10 dual window of Mother's Day + spring baby-shower season.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio Business / The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#doona", "#carseatstroller", "#newmom", "#babyregistry", "#parenttok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Doona", "Nuna", "Maxi-Cosi", "UPPAbaby"],
+        "context": "Big-ticket baby-gear demos hit peak conversion in May (registry season + Mother's Day expecting-mom gifting) — the one-click reveal is one of the few baby-product formats that performs on FYP because the visual surprise lands even with non-parent viewers",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Dopamine Decor Bright-Print Spring Refresh Hauls Take Over Home TikTok",
+      "body": "Dopamine decor — bright colors, bold prints, radioactive brights — is the dominant spring-refresh aesthetic on Home TikTok this week, with 45-60 second 'before/after one room' refresh reels driving the strongest home affiliate volume of the season. The format converting hardest is a single-room transformation (entryway, reading nook, bar cart) where the creator swaps three items: a bright-print throw pillow, a bold piece of wall art (Society6, Etsy artist), and a colorful accent lamp (Anthropologie, Urban Outfitters). Creators are explicitly framing this as the anti-minimalist, 'feel-good' alternative to last year's beige-everything trend — viewers respond to the joyful before/after energy.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-a-Porter PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminedecor", "#brightcolor", "#springrefresh", "#homemakeover", "#colorfulhome"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Urban Outfitters", "Society6", "HomeGoods", "World Market"],
+        "context": "Single-room before/after reels are the highest-engagement home format because the visual transformation is immediate; the dopamine-decor framing gives creators an emotional hook that beats 'spring cleaning' content on shares",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet Cooling Mat 'Dual-Use Human + Dog' Pre-Summer Demo Reels Drive Dog Affiliate Surge",
+      "body": "Self-cooling pressure-activated pet mats (Green Pet Shop, The Green Pet Shop, Frisco) are surging this week as the pre-summer dog-comfort hero — the breakthrough creator angle is the dual-use pitch: the mat works for the dog under the porch, but also slips into a camp chair or under the human at a beach picnic. The format converting hardest is a 30-second 'one mat, two uses' demo with the dog flopping onto it first, then the creator using it themselves on a hot road trip or camping setup. Affiliate stack pairs the cooling mat ($35-60), a portable water bowl, and a pet seatbelt for road-trip season. The 'gear up before Memorial Day' framing is the conversion driver.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill / Tradelle",
+      "source_url": "https://pbfulfill.com/blogs/product-recommendation/most-viral-pet-products-for-dropshippers",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dogcoolingmat", "#dogtok", "#summerwithdogs", "#dogroadtrip", "#petsummer"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["The Green Pet Shop", "Frisco", "Chewy", "Kurgo"],
+        "context": "Pre-summer (May 5-25) is the peak pet-gear gear-up window before Memorial Day road trips; the dual-use human+dog framing roughly doubles affiliate conversion vs. single-use pet-only positioning",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Furbo 'Caught My Dog Doing X' Hidden-Camera Reaction Reels Drive Pet-Tech Affiliate Sales",
+      "body": "Furbo Dog Cameras (treat-tossing 360 view + bark alerts) are surging on PetTok as the work-from-home pet-tech hero, with 30-60 second 'caught my dog doing X while I was at work' reaction reels driving the strongest pet-tech affiliate volume this week. The format converting hardest is split-screen: live Furbo feed on the left, owner's reaction at home in the evening on the right (dog on the couch, dog in the trash, dog napping in the laundry basket). Affiliate stack pairs the Furbo 360 ($199-299) with a Furbo Dog Nanny subscription and a treat-refill bag. The 'separation anxiety + WFH-to-office return season' framing is converting harder than pure novelty.",
+      "categories": ["Pets", "Tech & Gadgets"],
+      "source": "Kinship",
+      "source_url": "https://www.kinship.com/pet-shopping/tiktok-pet-products",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#furbo", "#dogcamera", "#caughtmydog", "#pettech", "#dogtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Furbo", "Petcube", "Wyze", "Eufy"],
+        "context": "WFH-to-RTO transition season (Q2 2026) is driving renewed pet-camera interest as more parents are away from pets during the day — the comedic 'caught my dog' reaction format converts non-owner viewers as well, which expands reach beyond the niche",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

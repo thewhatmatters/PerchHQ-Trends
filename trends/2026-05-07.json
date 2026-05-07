@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-07",
+  "scraped_at": "2026-05-07T10:00:00Z",
+  "expires_at": "2026-05-10T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube PDRN 'Salmon Sperm' Peptide Serum Surges on TikTok Shop as Affordable Alternative to In-Office PDRN Injectables",
+      "body": "Medicube's PDRN Pink Peptide Serum is the breakout TikTok Shop skincare unit this week — creators are framing it as the at-home version of the $400+ 'salmon sperm' polynucleotide injectable trend that exploded out of Korean derm clinics. The hardest-converting format is a split-screen 'syringe vs. serum' comparison (price-tag overlay) plus a 7-day timelapse of pore-tightening on bare skin, ending with the TikTok Shop sticker. Stack with Beauty of Joseon Rice Sunscreen for the full 'glass skin without the needle' routine.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#salmonspermskincare", "#medicube", "#tiktokshopfinds", "#glassskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Beauty of Joseon", "Skin1004"],
+        "context": "Affordable dupe for a clinical injectable — the 'I tried it so you don't have to pay $400' angle is converting hard on TikTok Shop with mid-funnel buyers",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Hypochlorous Acid Face Sprays Hit Mainstream Beauty Creator Rotation — 132% YoY Search Growth",
+      "body": "Hypochlorous acid (Tower 28 SOS Daily Rescue, Magic Molecule) is moving from acne-niche into mainstream beauty creator routines this week, with derm-creators framing it as the 'post-gym, post-mask, post-Botox' spritz that calms redness in under 60 seconds. Best-converting format: 30-second 'before-bed routine' with three spritzes shot under bathroom lighting, plus a slow zoom on the redness fading. Pair with the dewy-skin shift in #fullfacenomascara content.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web Search",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#hypochlorousacid", "#tower28", "#magicmolecule", "#skinbarrier", "#dewyskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tower 28", "Magic Molecule", "SoLo Skin"],
+        "context": "Ingredient is crossing over from acne-niche into general 'skin-barrier' routines — creators get high save-rates by demoing the calming-spritz moment",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Butter Yellow Lockstep Across TikTok #OOTD — Single-Color Summer Outfit Challenge Drives May 7 Saves",
+      "body": "Butter yellow is the dominant single-color tag on summer 2026 outfit posts this week — creators are doing 'one color, five outfits' transitions to butter-yellow Bermudas, sheer skirts, and oversized button-downs over swim. Strongest format right now is the seven-second 'butter yellow week' challenge: one head-to-toe outfit per day of the week, ending with the wedding-guest dress reveal. Ride it as a styling-creator before the brand-collab cycle eats the trend by Memorial Day.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/summer-top-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#butteryellow", "#summer2026", "#OOTD", "#colortheoryoutfit", "#monochromaticoutfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Reformation", "Mango", "Aritzia", "Free People", "ZARA"],
+        "context": "Color-of-summer trends typically peak 4-6 weeks before Memorial Day — creators jumping in this week catch the algorithmic boost before brand-collabs saturate the tag",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Super-Long Bermuda Shorts Replace Mid-Thigh Cuts as TikTok's Defining Summer 2026 Bottom",
+      "body": "Knee-grazing and below-the-knee Bermuda shorts are the most-saved bottoms across May 2026 #OOTD content, beating out mid-thigh shorts that dominated 2024-2025. Creators are pairing them with sheer linen tops and the boho/coastal-cowgirl crossover, and the highest-saved videos are 'I tried the longer Bermuda everyone said I couldn't pull off' before/after fits. Affiliate-friendly stack: ZARA, Reformation, ASOS, plus a vintage thrift haul angle.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Women.com",
+      "source_url": "https://www.women.com/2165470/summer-2026-denim-trends-embrace-outdated-ditch/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bermudashorts", "#longshorts", "#summeroutfits2026", "#bohofashion"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["ZARA", "Reformation", "Aritzia", "ASOS", "Levi's"],
+        "context": "Hemline shift signals — when a single silhouette replaces another, creators who stake out the 'I converted to the longer cut' POV early get the FYP",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "White Chocolate Matcha Latte Recipe Tutorials Climb on TikTok as the Summer Iced Drink Format",
+      "body": "@shaejuliuss-style white chocolate matcha latte recipes (Monin white-chocolate sauce + ceremonial matcha + cold oat milk over ice) are the most-saved iced drink format on TikTok this week as temperatures climb. The winning structure is a 25-second tutorial with no voiceover, ASMR pour, and the brand sticker on the matcha tin. Bonus angle for food creators: a 'three matcha drinks I'm making this week' carousel — strawberry cold foam, white chocolate, and a matcha-tini variant.",
+      "categories": ["Food & Beverage"],
+      "source": "The Handbook",
+      "source_url": "https://www.thehandbook.com/white-chocolate-matcha-recipe/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#matchalatte", "#whitechocolatematcha", "#matcharecipe", "#icedmatcha", "#matchatiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ippodo", "Encha", "Monin", "Chamberlain Coffee", "Ceremonial Matcha Co."],
+        "context": "Wordless ASMR drink tutorials over-index on saves vs. shares — creators should optimize for the 'I'll make this later' bookmark behavior",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Mother's Day Gift-Reaction Videos (May 10) Are Driving Conversions on Personalized Acrylic Plaques and Birth-Flower Jewelry",
+      "body": "With Mother's Day three days out (Sunday May 10), the highest-converting TikTok format right now is the unscripted 'I gave my mom this' reaction video: personalized acrylic plaques with a handwritten note transferred onto them, a child's drawing turned into a keepsake, and birth-flower necklace reveals are all hitting algorithm-favorable view-to-save ratios. Creators have a 48-hour window before the gift-shipping cutoff kills affiliate links — pivot now to 'last-minute Etsy/TikTok Shop' digital gifts and IPSY subscription reveals.",
+      "categories": ["Home & Lifestyle", "Jewelry & Accessories", "Beauty & Skincare"],
+      "source": "Ecomdy Media",
+      "source_url": "https://ecomdymedia.com/blog/mother-day-2026-winning-niche",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#mothersday2026", "#mothersdaygift", "#lastminutegift", "#giftreveal", "#personalizedgift"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Etsy", "Cricut", "IPSY", "Catbird", "Mejuri"],
+        "context": "Holiday is May 10 — Thursday-through-Saturday is the conversion window for last-minute gifts and digital/subscription gifts that ship instantly",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart Ring Reviews (Oura, Ultrahuman, Samsung Galaxy Ring) Replace Watch Reviews as the Top Wearable Format",
+      "body": "Smart ring face-offs are now beating smartwatch comparison videos for fitness/wellness creators in May 2026 — creators are doing 7-day side-by-side wear tests and the 'which ring caught my actual sleep?' comparison. The strongest format: split-screen sleep-score graph + the creator's actual morning energy review, with a 'is this worth $349?' close-out and affiliate stack. Pair with the #HighProtein, #functionalfoods angles that are over-indexing this quarter.",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "Social Growth Engineers",
+      "source_url": "https://www.socialgrowthengineers.com/health-fitness-well-being-may-2026-growth-guide",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#smartring", "#oura", "#ultrahuman", "#sleepscore", "#wearabletech"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Oura", "Ultrahuman", "Samsung", "RingConn", "Whoop"],
+        "context": "Wearables category is rotating from wrist to finger — creators reviewing the new form factor get the 'first impressions' bonus on the FYP",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "#CabbageCore Decor Surges 115% — Cabbageware, Lettuceware, and Vegetable-Motif Servingware Take Over TikTok Tablescapes",
+      "body": "CabbageCore — the cabbage-leaf and lettuce-shaped tureens, plates, and candleholders trend — is up 115% on TikTok in three months and 250% on Pinterest. Creators are styling it for spring tablescapes, brunch hosting, and 'Mrs. Doubtfire core' kitchens. The winning format is a 30-second tablescape build set to a slowed audio, plus a thrift-haul version showing the $4 Goodwill find vs. the $180 Anthropologie equivalent. Strong overlap with the broader maximalist 'cluttercore' shift.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#cabbageware", "#tablescape", "#cluttercore", "#cottagecore"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Goodwill", "Dolce & Gabbana Casa", "Bordallo Pinheiro"],
+        "context": "Quirky-niche home decor hashtag with 115% 3-month growth and Pinterest signal — strong runway before mass saturation",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mini Projector 'Galaxy Ceiling' Bedroom Reveals Dominate Tech-Gadget TikTok",
+      "body": "Wireless rechargeable mini projectors (sub-$100 dropship + the higher-end Samsung Freestyle and XGIMI Halo+) are the breakout consumer gadget reveal of the week, with creators showing the 'I projected my entire ceiling into a galaxy/Studio Ghibli scene/Y2K aesthetic' transition. Best-converting structure: dark-room reveal, audio drop, room transformation, then a 'three movies I watched on it' close-out with the TikTok Shop sticker. Strong cross-pollination with bedroom 'romanticize your night' content.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "Printify",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#miniprojector", "#galaxyceiling", "#bedroomtransformation", "#tiktokshopfinds", "#cozyaesthetic"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Samsung", "XGIMI", "Anker Nebula", "Wemax"],
+        "context": "Strong visual-payoff product — creators get the 'wait, watch what happens' loop bait and the affordable-dropship version drives high conversion",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yoto Player and Tonie Box Drive the 'Anti-Screen Toddler' Parent-Creator Format",
+      "body": "Screen-free audio players (Yoto, Tonies) plus subscription toy services (Lovevery) are the dominant parent-creator product reveal this week — the format that's working is 'I replaced screen time with this' before-and-after toddler footage, plus a 'what's actually in my Lovevery box this month' unboxing. Creators in the parenting niche are stacking it with #montessori and #screenfreeparenting tags. Key creator angle: budget mom version vs. luxury mom version of the same routine.",
+      "categories": ["Baby & Kids"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#yotoplayer", "#toniebox", "#lovevery", "#screenfreeparenting", "#montessoritoddler"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Yoto", "Tonies", "Lovevery", "Piccalio"],
+        "context": "Anti-screen movement is the dominant parenting narrative on TikTok this season — products with built-in moral framing get free reach",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "CatPOV Camera Videos Hit 25M+ Views Per Post — Pet-POV Becomes the Defining Format for Pet Creators",
+      "body": "GoPro-style cat and dog POV cameras (Insta360 Go 3, Petcube Cam, AliExpress mini-POV cams) are powering pet creators' breakout May content — videos consistently hit 25M+ views per post and the dedicated CatPOV Reddit community is now ~30K members. The winning shoot is 60 seconds of unedited cat-roof-walk or dog-park-sprint footage with a single text overlay reveal at the end. Bundle with the AquaPurr fountain (386M views) and 'enrichment' puzzle-feeder content for the full pet-creator stack.",
+      "categories": ["Pets"],
+      "source": "Tribute Most Haunted",
+      "source_url": "https://tributemosthaunted.co.uk/blog/catflix-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#catpov", "#dogpov", "#petpov", "#aquapurr", "#enrichment"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Insta360", "GoPro", "Petcube", "AquaPurr", "Litter-Robot"],
+        "context": "POV from the pet's perspective is the highest-engagement pet format right now — low production cost, very high save-and-share ratio",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'How Much a Week in [Destination] Actually Costs' Receipt-Style Travel Carousels Drive 500K+ Saves",
+      "body": "Travel creators dropping photo carousels with on-screen receipts — flight, hotel-per-night, daily food, transport, total — are the highest-saving travel content this week, with destinations like Luang Prabang (Laos), Siargao (Philippines), and Ha Giang Loop (Vietnam) crowding the FYP as the new 'post-Bali' wave. Format: 8-10 image carousel with a trending audio, on-screen handwritten-style cost overlays, and a 'would I do it again?' final slide. Pair with the rise of TikTok-native tourism board partnerships (Portugal, Japan, Iceland).",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#traveltiktok", "#weekinmylife", "#travelcost", "#southeastasia", "#hagiangloop"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Hostelworld", "Skyscanner", "Agoda"],
+        "context": "Carousel format outperforms video for travel saves — receipt-style overlays solve the 'is this affordable for me?' question that drives bookmarks",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist Charm Necklaces Replace Minimalist Pendants — Stacking Becomes the Defining Jewelry Visual Language of 2026",
+      "body": "Charm necklaces — multi-charm, mixed-metal, story-told-through-charms — are the dominant viral jewelry style across TikTok this week, displacing the simple 14k pendant that defined 2022-2024. Creators are doing 'build a charm necklace with me' and 'every charm tells a story' POVs (Catbird, Mejuri Charms, Roxanne Assoulin). Strongest format: a slow-mo 'add a charm' hand-clip with audio drops on each click. Stack with bangle-stack and ring-stack content for the full maximalist look.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Artizan Joyería",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#charmjewelry", "#jewelrystack", "#mejuri", "#catbird"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Catbird", "Mejuri", "Roxanne Assoulin", "Pandora", "Missoma"],
+        "context": "Charm jewelry is the May 2026 jewelry style winning the algorithm — story/personalization angle gives creators infinite content variations",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

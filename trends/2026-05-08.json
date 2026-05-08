@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-05-08",
+  "scraped_at": "2026-05-08T10:00:00Z",
+  "expires_at": "2026-05-11T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Cloud Skin Makeup Tutorials Hit 870% Search Surge — Soft-Focus Finish Replaces Glass Skin as Dominant Beauty Look",
+      "body": "Cloud skin — a soft, diffused, semi-matte finish that mimics 'just got 9 hours of sleep' — is overtaking glass skin as TikTok's defining base-makeup look heading into summer, with searches up 870% YoY and e.l.f. Halo Glow + Maybelline Lifter Plump powering the cheap-and-cheerful tutorials. Best-converting format right now is a 30-second 'glass skin vs cloud skin' split-screen with the same model under three lighting setups (bathroom, sun, golden hour) — cloud wins every comparison and the comments turn into a product list. Tag #cloudskin and pair with a 'why I quit chasing glass skin' voiceover for the highest save-rate.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Flanelle Magazine",
+      "source_url": "https://flanellemag.com/what-is-cloud-skin-the-blurred-makeup-trend-taking-over-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#cloudskinmakeup", "#softfocusmakeup", "#noFilterChallenge", "#beautytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["e.l.f.", "Maybelline", "Charlotte Tilbury", "Rare Beauty", "Glow Recipe"],
+        "context": "Glass skin fatigue is real — creators reporting higher save-rates on cloud-skin tutorials than glass-skin tutorials for the first time. The 'softer, more flattering, works in bad lighting' angle is converting drugstore-tier products at premium-tier rates",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Bondi Sands Bronzing Drops Surge as the $20 Drunk Elephant D-Bronzi Dupe — Skincare-Infused Tanner Owns May Beauty TikTok",
+      "body": "Bondi Sands Glow Drops are the breakout bronzer dupe of this week — TikTok creators are running side-by-side 'Drunk Elephant D-Bronzi vs Bondi Sands' tests with the same drop count, then revealing the price tag ($38 vs $19) at the end. The squalane + cupuaçu butter formula gives a real skincare angle so creators can stack it into a 5-product 'no-makeup makeup' GRWM rather than treating it as a one-off product post. Ride before sister brand collabs (Mecca, Sephora AU promo cycle) saturate the dupe tag.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Beauty Crew",
+      "source_url": "https://www.beautycrew.com.au/drunk-elephant-bronzing-drops-dupe",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bondisands", "#drunkelephantdupe", "#bronzingdrops", "#skincaredupe", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Bondi Sands", "Drunk Elephant", "Isle of Paradise", "Tan-Luxe"],
+        "context": "Dupe-economy posts always outperform original-product posts on save-rate — and the skincare-infused angle lets creators frame this as 'two products in one' which doubles conversion on TikTok Shop affiliate links",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Hunza G Crinkle Bikinis Become the Defining Summer 2026 Swimwear Look — One-Size Fabric Drives 'It Actually Fits Me' Try-On Reels",
+      "body": "Hunza G's signature crinkle one-piece and bikini are the swimwear breakout heading into Memorial Day — creators are loving the 'one-size-fits-most' fabric for try-on hauls because it makes a single piece work across two-to-three body types, perfect for sister/friend-group content. Strongest format is a 4-shot try-on with the same suit in butter yellow, candy pink, and chocolate brown ending with the boomerang dive into the pool. Affiliate link to the saved version of the suit converts above swimwear category averages.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Echotik",
+      "source_url": "https://www.echotik.live/blog/trending-beachwear-tiktok-2026-top-swimsuit-brands/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#hunzag", "#bikinitryon", "#swimwear2026", "#poolsidefit", "#memorialdayweekend"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Hunza G", "Skims Swim", "J.Crew Swim", "Seafolly", "Frankies Bikinis"],
+        "context": "Memorial Day is the swimwear-content peak window — creators jumping on the Hunza G crinkle wave catch both the algorithmic boost on #bikinitryon AND the affiliate spike from holiday-weekend buyers loading carts Friday night",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Blokette Aesthetic Lockstep on Friday OOTD — Polo Shirt + Pleated Mini + Ballet Flats Becomes Defining Summer 2026 'Cool Girl' Outfit",
+      "body": "Blokette — the soft-prep mash-up of sports jerseys, polos, varsity jackets and pleated minis with ballet flats — is the dominant 'cool girl' outfit format on TikTok this week, with #blokette content jumping to feed-mainstream from niche. The hardest-converting format is a 7-second 'how I styled one polo five ways' transition reel ending with the prep-meets-feminine 'date night' look. Aritzia, Kule, Polo Ralph Lauren and any rugby shirt are the affiliate plays — viewers want the shoppable polo-and-skirt combo, not just the vibe.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#blokette", "#blokettecore", "#preppyaesthetic", "#OOTD", "#poloshirt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Aritzia", "Polo Ralph Lauren", "Kule", "J.Crew", "Sandy Liang"],
+        "context": "Blokette is the natural follow-up to the 2025 'Tomato Girl' / 'Coastal Cowgirl' microaesthetic cycle — broad enough that creators can stitch existing closet pieces in rather than buying a full outfit, which keeps the engagement-to-conversion ratio high",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Banana Bread Latte 'Dunkin Monkey Business Cloud Latte' Recreate-At-Home Reels Take Over Spring Coffee TikTok",
+      "body": "Dunkin's Monkey Business Cloud Latte (banana cold foam + pecan + espresso) is fueling a wave of 'I made the Dunkin banana drink at home for $1.20' recipe reels — creators are cooking down ripe bananas with brown sugar and cinnamon to build the syrup, then layering it cold-foam-style in clear glass for the swirl shot. Best-converting format is a 30-second POV 'bartista in my kitchen' with the dramatic syrup pour, the foam swirl, and the final overhead taste-test reaction. Pair with espresso machine and milk frother affiliate links.",
+      "categories": ["Food & Beverage"],
+      "source": "Spoon University",
+      "source_url": "https://spoonuniversity.com/news/banana-bread-lattes-are-taking-over-tiktok/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#dunkincopycat", "#monkeybusinesslatte", "#cloudlatte", "#tiktokcoffee"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dunkin'", "Nespresso", "Breville", "Califia Farms", "Oatly"],
+        "context": "QSR copycat-recipe reels consistently outperform from-scratch recipes — viewers already know the reference taste so the comparison-payoff at the end of the video drives shares. Banana flavor is uncommon in coffee chains so the novelty hook is doing real work",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Freezer Fine Dining' Aldi & Trader Joe's Frozen-Aisle Hauls Become FoodTok's Defining Friday-Night Format",
+      "body": "Friction-free creators are leaning into 'freezer fine dining' — gourmet frozen aisle hauls (Trader Joe's truffle pizza, Aldi mini quiches, Costco branzino, Wegmans tikka masala) plated like a real restaurant course on a tablecloth. Strongest hook is the 'I made a four-course dinner from the freezer for $22' overhead-camera plating reel, with the brand-name reveal coming at the end. Anti-girl-dinner energy: 'lazy can still be elegant.' Ride for the Friday-night meal-content algo bump.",
+      "categories": ["Food & Beverage", "Home & Lifestyle"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok-food-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#freezerfinedining", "#traderjoeshaul", "#aldifinds", "#freezermeal", "#friendaynight"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Trader Joe's", "Aldi", "Costco", "Wegmans", "Whole Foods 365"],
+        "context": "Frozen-aisle hauls are the new pantry-haul — they sit in the gap between recipe content and shopping content, which means they get distributed to both audiences. The 'cheap can look expensive' subtext drives saves on screenshots of specific SKU labels",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "25-Day Pilates Challenge 'Pre-Summer Body' Sculpt Society Reels Surge as Memorial Day T-2 Weeks Drives FitTok",
+      "body": "The 25-day Pilates challenge — 25 minutes a day for 25 days, ending Memorial Day weekend — is FitTok's dominant fitness format right now, with Sculpt Society / Melissa Wood Health / Carrie Underwood-style at-home circuits getting the most traction. Highest-engagement format is a Day-1-vs-Day-25 split-screen progress reel with no body shaming, just 'how my posture changed.' Pair with affiliate links to a $12 mat, ankle weights, and a sliding pad set — all three sit at the center of every reel.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://thesculptsociety.com/pages/sculpt-pilates",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#25daychallenge", "#pilateschallenge", "#sculptsociety", "#summerbody2026", "#pilatesgirl"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["The Sculpt Society", "Melissa Wood Health", "Pvolve", "Alo Yoga", "Lululemon"],
+        "context": "T-2-weeks before Memorial Day is the algorithmic sweet spot for fitness challenge content — too late for a 30-day program but exactly right for a 25-day one. Creators getting in on Day 1 this Sunday (May 10) finish on Memorial Day with a perfect content arc",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Skirted Furniture 'Grandma Decor' Slipcover-Sofa & Bed-Skirt Reveals Take Over Home TikTok as Cabbagecore Companion Trend",
+      "body": "Skirted upholstery — sofas, dining chairs, and beds with floor-puddling fabric skirts — is the home-aesthetic taking the algorithmic baton from cabbagecore this week. Creators are doing 'I added a slipcover to my IKEA sofa and it looks like a $4K vintage piece' before/afters with sub-$80 Bemz / SureFit covers. The format that converts: tight 15-second close-up of the puddle-on-floor moment with a satisfying fabric-smooth transition. Tag #grandmadecor + #skirtedfurniture for compounding distribution.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#skirtedfurniture", "#grandmadecor", "#slipcoversofa", "#hometransformation", "#interiortok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["IKEA", "Bemz", "Pottery Barn", "Anthropologie", "SureFit"],
+        "context": "Cabbagecore got creators in the door — skirted furniture is the structural follow-up that keeps the 'grandma did it better' energy going. Converts particularly well on Pinterest cross-posts because the still-frames are screenshot-bait",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Friction-Maxxing' Record-Player & Film-Camera Slow-Living Reels Go Mainstream as Anti-Optimization Home Format",
+      "body": "Friction-maxxing — intentionally adding 'inefficient' analog rituals (record players, film cameras, French presses, paper journals) to your home routine — is the breakout slow-living trend on home TikTok this week, with creators framing it as the antidote to phone-first life. Best-converting format is a slow-paced 60-second 'morning ritual without my phone' reel with no voiceover, just ambient sound of the needle drop, the kettle, the journal flip. Pairs with affiliate links to Crosley turntables, vinyl reissues, and Leuchtturm 1917s.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#frictionmaxxing", "#slowliving", "#analoglife", "#dumbphonesummer", "#vinylcollection"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Crosley", "Polaroid", "Fujifilm", "Leuchtturm 1917", "Le Labo"],
+        "context": "Counter-trend to the smart-home / AI-optimization wave — creators leaning into 'imperfect on purpose' get high comment-engagement because the videos invite viewers to share their own analog ritual",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Loop x Coachella Experience Earplugs Drive Festival-Season Tech Reels — 'I Wore Them To Three Sets and My Ears Don't Ring' Becomes Defining Format",
+      "body": "Loop's Experience earplugs (and the 2026 Coachella collab edition) are the festival-season tech product creators are pivoting to as Stagecoach, Lollapalooza, Glastonbury and Bonnaroo travel content fills feeds. Best-performing format is the 5-second 'morning after the festival' reel — creator on the hotel pillow holding the carrying case, voiceover 'my ears don't ring for the first time in 10 years.' Tag with the festival name + #looprolltop. Affiliate price points ($24.95–$59.95) sit perfectly inside the impulse-buy window.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "Rolling Stone",
+      "source_url": "https://www.rollingstone.com/product-recommendations/tech/loop-coachella-earplug-collaboration-review-buy-online-1235549145/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#loopearplugs", "#loopxcoachella", "#festivalseason", "#hearingprotection", "#concertessentials"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Loop Earplugs", "Coachella", "Eargasm", "Vibes Hi-Fidelity"],
+        "context": "Festival season May–August drives outsized search volume on hearing protection — the 'aging-millennials still want to go but hate the ringing' angle hits a wide creator demographic. The Coachella edition packaging is screenshot-bait for the unboxing reel",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Honey Bear Straw Cup Speech-Therapy Hack Reels Hit ParentTok's Mainstream — 'My SLP Recommended This $7 Bear' Becomes Toddler Affiliate Driver",
+      "body": "The Honey Bear Straw Cup — originally a speech-therapy tool for kids learning to draw liquid through a straw — is the breakout baby-product reel right now as parent-creators frame it as 'the $7 bear that fixed my toddler's bottle dependency in 4 days.' Best-converting format is a 15-second mini before/after: kid struggling with a sippy cup → cut → kid drinking confidently from the bear, with the SLP-recommendation overlay text. Pair with the broader 'expensive-baby-products vs $7-baby-products' Reels.",
+      "categories": ["Baby & Kids"],
+      "source": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#honeybearstrawcup", "#toddlerhack", "#speechtherapy", "#parentingtiktok", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Talktools", "Munchkin", "Ezpz", "Frida Baby"],
+        "context": "ParentTok is in a 'cheap thing that solved an expensive problem' content phase — SLP / OT-recommended budget products outperform luxury baby gear because they tap into parental anxiety around developmental milestones",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dog Scent-Work 'Sniffari' Enrichment Reels Surge as #DogEnrichment Tag Hits Mainstream PetTok Format",
+      "body": "Dog scent-work / 'sniffari' content (hide treats around the house, snuffle mats, scatter feeding in the backyard) is the breakout enrichment format on PetTok this week, framed as 'a 10-minute scent walk equals a 45-minute power walk.' Highest-engagement format is the 'my dog is a different animal after 5 minutes of nose work' before/after with hyper-energy clip → calm sleeping dog clip. Affiliate stack: snuffle mat ($20), licking pad ($12), Outward Hound puzzle feeder ($25). Works for both dog and small-animal niches.",
+      "categories": ["Pets"],
+      "source": "AKC",
+      "source_url": "https://www.akc.org/expert-advice/training/indoor-scent-games-for-dogs/",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#sniffari", "#dogenrichment", "#scentwork", "#nosework", "#dogtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Outward Hound", "PetSafe", "West Paw", "Kong", "Chuckit!"],
+        "context": "Enrichment content is replacing pure-cute pet content as PetTok's growth driver — creators teaching a tangible skill get higher follower-conversion than creators just posting their dog. Format works year-round but spikes in May as 'rainy weekend = stuck inside' content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Siargao & Luang Prabang 'Beyond Bali' Southeast Asia Travel Carousels Take Over TravelTok as Summer 2026 Long-Haul Booking Window Opens",
+      "body": "Travel creators are pivoting from the saturated Bali / Phuket loop into Siargao (Philippines), Luang Prabang (Laos), and Coron — the search-volume runway is wide open and per-post engagement is 3-5x higher than Bali equivalents because the destinations still feel insider. Highest-saved format is the 12-image photo carousel with a trending dreamy audio track, ending on the 'how I booked it for $X' overlay. Affiliate plays: Skyscanner / Going (formerly Scott's Cheap Flights) / SafetyWing travel insurance — booking-window content converts hard right now.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#siargao", "#luangprabang", "#beyondbali", "#travelcarousel", "#southeastasiatravel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Skyscanner", "Going", "SafetyWing", "Hostelworld", "Booking.com"],
+        "context": "Photo carousels are outperforming reels for travel content right now — the algorithm is pushing static-image swipe content to more travel-curious users. Booking-window for July-August Asia trips opens this month so the audience is mid-funnel",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Mejuri Spring Stacking Sale T-2 Mother's Day Final-Push Reels Surge — 'Layered Birthstones for Every Kid' Becomes Defining Sunday-Delivery Affiliate Format",
+      "body": "Mejuri's Spring Stacking Sale (up to 25% off sitewide, plus free Mother's Day shipping for Sunday delivery on orders placed today) is the dominant jewelry-affiliate driver heading into the T-2 day window. Creators are pushing 'birthstone necklace stack — one for each kid' formats (3-chain layered, mom's birthstone in the middle, kids' on either side). Best-converting reel is a 10-second hand-pull with the chain reveal voiceover 'I added one for each of you' — emotional payoff drives the screenshot-and-buy. Stack with Catbird and Gorjana for affiliate diversification.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Global News",
+      "source_url": "https://globalnews.ca/the-curator/11807520/mejuri-stacking-sale-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#mejuri", "#stackingsale", "#mothersdaygift", "#birthstonenecklace", "#layerednecklace"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Catbird", "Gorjana", "Kendra Scott", "Aurate"],
+        "context": "T-2 to Mother's Day is the affiliate peak window for jewelry — Sunday-delivery cutoff drives urgency-buying. Birthstone-stack format works because it's both visually stackable AND emotionally specific, which clears the engagement-to-conversion bar",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

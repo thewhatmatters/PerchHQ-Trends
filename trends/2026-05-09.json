@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-09",
+  "scraped_at": "2026-05-09T10:00:00Z",
+  "expires_at": "2026-05-12T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Relief Sun: Rice + Probiotics Sunscreen Becomes the Defining Spring SPF Reel — 'Skincare-as-Sunscreen' Layering Tutorials Surge T-2.5 Weeks From Memorial Day",
+      "body": "K-beauty's affordable SPF50+ rice-water/probiotic sunscreen is hitting peak spring TikTok as creators shoot 'final step / no white cast / glow under sunlight' demos in natural light. Creator angle: a 30-second 'morning routine ending on the SPF' reel or a side-by-side 'with vs. without filter — that's the SPF doing it' comparison shot in real sun.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/beauty-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#ricesunscreen", "#kbeauty", "#spf50", "#skincaretok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "COSRX", "Round Lab"],
+        "context": "K-beauty viral product / spring SPF tutorial format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Mother-Daughter GRWM' Side-by-Side Vanity Reels Surge as Saturday Mother's Day Eve's Defining Beauty Format — Two Generations, One Mirror, One Trending Audio",
+      "body": "Creators are shooting split-screen or shared-mirror Get Ready With Me reels with their moms, contrasting routines (mom's 5-step vs. daughter's 12-step) with affiliate-stacked product callouts. Creator angle: pin a Mother's Day Eve dual GRWM with mom holding her favorite drugstore mascara while you demo your viral PDRN serum — affiliate links in caption for both.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/mothers-day-tiktok-trend",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#mothersdaygrwm", "#momanddaughter", "#grwmwithmom", "#mothersday2026", "#getreadywithmom"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Maybelline", "Medicube", "Charlotte Tilbury", "Rare Beauty"],
+        "context": "Mother's Day Eve T-1 dual-GRWM creator format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Sicilian Summer' Mediterranean-Core Replaces Coastal Grandmother as Defining Summer 2026 Outfit Reel — High-Saturation Reds, Tile Prints & Ruffle Hems Drive Saturday Try-Ons",
+      "body": "TikTok's spring 2026 fashion pivot is loud: bold florals, lemon and tile motifs, deep pinks and tomato reds replacing the soft coastal-grandmother neutrals that owned 2024-25. Creator angle: a 'one dress, lemon prints, three Sicily-coded looks' reel with linen accessories, gold hoops, and red lip — geo-tagged at any cobblestone-looking street near you.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#siciliansummer", "#mediterraneancore", "#summer2026outfits", "#sicilystyle", "#tomatogirlsummer"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dolce & Gabbana", "Free People", "Reformation", "Zara"],
+        "context": "Summer 2026 fashion aesthetic shift / outfit reel format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Mom-Twinning' Mother-Daughter Matching Brunch Outfit Reveals Take Over Fashion TikTok the Saturday Before Mother's Day — Coordinated (Not Identical) Florals Drive #MomTwinning Saves",
+      "body": "The newer take is 'twinning, not matchy-matchy' — same color palette, complementary patterns, often in butter yellow, soft floral, or red. Creator angle: a 6-second outfit reveal walking out the door in Sunday-brunch coordinated looks ('we wore florals to brunch — guess which is mine, which is mom's') with a dressing-table getting-ready B-roll lead-in.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/mothers-day-tiktok-trend",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#momtwinning", "#motherdaughteroutfits", "#mothersdaybrunch", "#twinningwithmom", "#brunchoutfit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Hill House Home", "Anthropologie", "Free People", "DOEN"],
+        "context": "Mother's Day Eve coordinated-outfit reel format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Sheet-Pan Pancakes With Berries 'No-Flip Mother's Day Breakfast in Bed' Drag-and-Drop Reels Become T-1 FoodTok's Defining Save-and-Make Format",
+      "body": "Pour batter onto a parchment-lined sheet pan, scatter blueberries + sliced strawberries + cream cheese pearls, bake 425F for 15 minutes — one tray feeds a whole brunch. Creator angle: a hands-only ASMR drag-and-drop reel ending on the slice + serve with a pink-beet tinted whipped cream swirl, captioned 'tomorrow morning, you're welcome' and stitched with a 'how did mom react' Sunday follow-up.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://feelgoodfoodie.net/mothers-day-brunch-recipes/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#sheetpanpancakes", "#mothersdaybreakfast", "#breakfastinbed", "#easyrecipe", "#mothersdaybrunch"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["King Arthur Baking", "Driscoll's", "Kerrygold"],
+        "context": "Mother's Day Eve T-1 make-ahead breakfast format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Compound Butter Board With Edible-Flower Topping Replaces Charcuterie as Mother's Day Brunch Centerpiece on Saturday FoodTok — Rosemary-Honey + Strawberry-Lemon Smear Reels Surge",
+      "body": "Creators are smearing two or three flavored butters across a board (rosemary-honey, strawberry-lemon, garlic-herb), topping with edible pansies and viola petals, served with sourdough or croissants. Creator angle: a top-down hands-only smear-and-scatter reel ending on a knife pull — 'Mother's Day brunch hack: skip the charcuterie board, do butter instead' — pairs perfectly with affiliate-tagged sourdough boules and butter brands.",
+      "categories": ["Food & Beverage", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.loveandlemons.com/mothers-day-brunch-ideas/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#butterboard", "#mothersdaybrunch", "#compoundbutter", "#brunchideas", "#tablescape"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Kerrygold", "Vermont Creamery", "Plugra"],
+        "context": "Mother's Day brunch tablescape / hands-only food format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Wedding Guest Arms' 14-Day Pre-Wedding-Season Tank-Top Tone Routine Reels Surge as May–June Wedding Calendar Drives FitTok's Defining Memorial Day T-2.5 Format",
+      "body": "Banded shoulder press + tricep kickback + lateral raise circuits filmed against bedroom mirrors, captioned 'getting ready for wedding season starting Memorial Day weekend.' Creator angle: a vertical 30-second 'arms only' superset shot in a tank top with a finger-pointed 'this part right here' close-up — affiliate-stack cheap mini-bands, the tank top, and any creatine you take.",
+      "categories": ["Health & Fitness", "Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/summer-body-in-2-weeks",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#weddingguestarms", "#armworkout", "#weddingseason", "#tonedarms", "#summerbody"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Bala", "Lululemon", "Alo Yoga"],
+        "context": "Pre-summer / wedding-season tank-top toning format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Pattern-on-Pattern' Floral + Stripe Sofa & Headboard Reupholster Reveals Take Over Saturday Home TikTok — Solid Neutrals Officially Out as Defining 2026 Living-Room Pivot",
+      "body": "Designers and home creators are mixing florals with stripes, pinstripes with ginghams — explicitly rejecting the 'greige sofa' minimalism that dominated 2018-2024. Creator angle: a slipcover-swap before-and-after reel showing a beige sofa transformed with a Schumacher-style chinoiserie + striped throw pillows, stitched with the line 'minimalism is finally dead.'",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.buzzfeed.com/michelleno/interior-designers-2026-trend-predictions",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#patternonpattern", "#granmillennial", "#interiordesign2026", "#sofamakeover", "#homedecor"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Schumacher", "Hill House Home", "Anthropologie", "Pottery Barn"],
+        "context": "Home interior pattern-mixing slipcover/reveal format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "RingConn Gen 2 'Subscription-Free Oura Killer' Smart Ring Reviews Surge on Tech TikTok — 'Same Sleep Score, No $5.99/Month' Becomes Defining Wearable Format",
+      "body": "RingConn Gen 2 is being framed as the value alternative to Oura Ring 4 — same core sleep/HRV/recovery tracking, no monthly subscription. Creator angle: a 60-second 'I tested both for 30 days' split-screen comparing scores, captioned with the math ($5.99 x 12 = $71.88/year saved). Affiliate margin is real, and the no-subscription angle is the hook.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tomsguide.com/wellness/fitness-trackers/best-smart-rings",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ringconn", "#smartring", "#ouraalternative", "#wearabletech", "#sleeptracker"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["RingConn", "Oura", "Ultrahuman", "Samsung"],
+        "context": "Smart ring product review / comparison format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pikler Triangle 'Backyard-Set' Outdoor Climber Reveal Reels Take Over ParentTok as Spring Weather Drives 'Move the Indoor Toy Outside' Affiliate Format",
+      "body": "Parent creators are dragging Pikler triangles, ramps and rock-walls into freshly-mowed backyards for golden-hour reveal reels — repositioning what's been a January nursery affiliate as a May outdoor product. Creator angle: a single timelapse of assembly + toddler climbing as the sun sets, with a caption like 'screen-free spring break in our backyard,' stacked-affiliate to the climber, the rainbow ramp, and a kid-safe sunscreen.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/baby-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#piklertriangle", "#montessoriathome", "#toddlerlife", "#outdoorplay", "#screenfreekids"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lily & River", "Cassarokids", "Wiwiurka"],
+        "context": "Spring outdoor toddler product / backyard reveal format",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'#PupPOV' Dog Body-Cam Adventure Reels Become PetTok's Fastest-Growing Format After CatPOV Wave — Spring Hike & Park-Run First-Person Cuts Hit Mainstream",
+      "body": "Following the CatPOV explosion, dog owners are clipping GoPro-style chest cams to their dogs for first-person hike, beach, dog-park footage cut to trending audio. Creator angle: a 30-second body-cam edit with on-screen captions ('saw a squirrel,' 'found a stick,' 'kissed another dog') — affiliate-stack the harness camera mount and a $20 dog action cam.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-products-for-pets-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#puppov", "#dogcam", "#dogadventure", "#dogsoftiktok", "#petpov"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Insta360", "GoPro", "Ruffwear"],
+        "context": "First-person pet body-cam content format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Destination Dupe' Puglia, Albania & Montenegro 'Skip Sicily' Travel Carousels Take Over TravelTok as Mediterranean-Core Drives 2026 Cheaper-Beat-the-Crowds Pivot",
+      "body": "TravelTok creators are riding the Sicilian Summer aesthetic but redirecting to less-crowded, cheaper Mediterranean stand-ins — Puglia for Sicily, Albanian Riviera for Amalfi, Kotor Bay for Dubrovnik — with explicit cost-per-day breakdowns. Creator angle: a 10-image carousel pairing the famous-place photo with a near-identical dupe, captioned with the price difference (e.g., '$48 vs $312/night') and the same Mediterranean-core fit in both shots.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#destinationdupe", "#puglia", "#albanianriviera", "#hiddengems", "#travelhack"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Airbnb", "Skyscanner"],
+        "context": "Destination-dupe travel carousel format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Saturday-Hour Mother's Day 'In-Store Pickup' Personalized Birthstone Necklace & Initial-Pendant Reels Drive Final-Day Jewelry Affiliate Wave — Kay, Pandora & Macy's Same-Day Become T-1 Hero",
+      "body": "With Sunday delivery off the table, creators are pivoting to 'order-online, pick-up-in-store today' jewelry hauls — birthstone necklaces with kids' initials, engraved heart pendants, layered birth-flower charms grabbed at the mall by closing time. Creator angle: a 'reserve, drive, unwrap' reel filmed in real time on Saturday afternoon ending with the gift wrapping, stitched as 'last-minute, doesn't look it' — affiliate-stack three retailers (Kay, Pandora, Macy's) with local-store CTAs.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://www.eonline.com/news/1431742/personalized-mothers-day-jewelry-you-can-order-for-last-minute-pickup",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#mothersdayjewelry", "#lastminutemothersday", "#birthstonenecklace", "#instorepickup", "#mothersdaygift"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Kay Jewelers", "Pandora", "Macy's", "Mejuri"],
+        "context": "Mother's Day Eve T-1 last-minute jewelry pickup format",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-10",
+  "scraped_at": "2026-05-10T10:00:00Z",
+  "expires_at": "2026-05-13T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Mother's Day 'Gift Unboxing for Mom' Reels Dominate Sunday Feed — Creators Stack Affiliate Links in Real-Time Reaction Videos",
+      "body": "Today is Mother's Day and creators are flooding feeds with gift-reveal reels: handing mom a wrapped Stanley tumbler, Cozy Earth pajamas, or Beetles gel polish set and filming her genuine reaction. Creator angle: film a POV 'surprising Mom with TikTok's favorite gifts' reel — stack 3-4 affiliate products, capture the hug, and post before noon for maximum algorithm push on the holiday.",
+      "categories": ["Home & Lifestyle", "Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/mothers-day-tiktok-trend",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#mothersday2026", "#giftformom", "#mothersdayunboxing", "#momreaction", "#mothersdaygifts"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Stanley", "Cozy Earth", "Beetles", "The Bouqs Co."],
+        "context": "Mother's Day real-time gift reaction content format — peak posting window today",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Take Her Swimming' Waterproof Makeup Challenge Becomes Summer 2026's Defining Beauty Wear-Test Format — Set to PinkPantheress x Zara Larsson 'Stateside'",
+      "body": "Creators apply a full glam face on dry land then dive into a pool, beach, or shower and surface with makeup intact. The format flips the originally dismissive line into a confidence flex, turning waterproof concealers, setting sprays, and tubing mascaras into the proof point. Creator angle: shoot a split-screen dry/wet reveal using 'Stateside' audio, tag every waterproof product in caption with affiliate links.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://newengen.com/insights/may-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#takeherswimming", "#waterproofmakeup", "#stateside", "#pooltest", "#summermakeup2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Charlotte Tilbury", "Maybelline", "NYX", "MAC"],
+        "context": "Summer beauty wear-test challenge format using trending PinkPantheress audio",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'And Emily... That's All' Devil Wears Prada 2 Lip-Sync Powers Fashion & Beauty Outfit Reels — Miranda Priestly Dismissal Audio Goes Viral",
+      "body": "The Devil Wears Prada 2 hit theaters May 1 and the Miranda Priestly dismissal audio is TikTok's go-to vibe-contrast format. Creators pair up — one plays icy Miranda in head-to-toe editorial, the other plays dismissed Emily in frumpy basics — then swap. Creator angle: shoot a 'Miranda vs. Emily closet challenge' showing a luxury outfit build vs. a budget dupe version, or a GRWM where you transform from Emily energy to Miranda energy.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/en/trending/detail/the-devil-wears-prada-2-releases-may-1-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#devilwearsprada2", "#mirandapriestly", "#andemily", "#fashiontiktok", "#outfitchallenge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "Prada", "H&M", "COS"],
+        "context": "Devil Wears Prada 2 cultural moment driving fashion/beauty content formats",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'I Just Wanna Be Her' Envy Confession Format Set to Ella Langley's 'Be Her' — Creators Build Aspirational Style & Lifestyle Mood Boards",
+      "body": "Creators lip-sync Ella Langley's country-pop chorus directly to camera while overlaying text describing the hyper-specific archetype they want to embody: 'the girl who effortlessly layers gold jewelry with a white linen set' or 'the mom whose diaper bag is a Calpak.' Creator angle: pick a niche aesthetic from your category — cottagecore cook, minimalist skincare girl, capsule wardrobe queen — and build the 'her' vision board reel with shoppable product tags.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://newengen.com/insights/may-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ijustwannabeher", "#beher", "#ellalangley", "#aestheticinspo", "#styleinspo"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Mejuri", "Calpak", "Skims"],
+        "context": "Trending audio-driven aspirational content format for style and lifestyle niches",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Free Soul x PerfectTed Matcha Protein & Collagen Lattes Hit TikTok Shop — Ceremonial-Grade Matcha Meets Functional Wellness in a Single Scoop",
+      "body": "The collab launched with 18g protein and 2,500mg collagen peptide variants, both using ceremonial-grade matcha. TikTok creators are posting morning routine reels swapping coffee for a vibrant green latte with a protein or skin-glow angle. Creator angle: shoot a 'replacing my morning coffee for a week' series — film the matcha prep, taste reaction, and skin/energy check-in each day with affiliate link in bio.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.foodbev.com/news/free-soul-and-perfectted-launch-matcha-protein-and-collagen-latte-range",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#matchaprotein", "#matchalatte", "#freesoul", "#perfectted", "#collageenlatte"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free Soul", "PerfectTed", "Vital Proteins", "AG1"],
+        "context": "Functional matcha product launch riding the coffee-alternative and protein wellness wave",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bracelet Stacking Overtakes Ring Stacking as Spring 2026's Defining Jewelry Trend — Beaded, Charm, and Chain Layers Drive GRWM Finales",
+      "body": "Maximalist bracelet layering is the new ring stack: creators mix chunky gold chains, beaded friendship bracelets, and personalized charm bracelets up the wrist. The trend pairs with the broader shift from quiet luxury back to bold, expressive accessorizing. Creator angle: film a 'building my wrist stack from $5 to $500' reel showing budget beads alongside a statement piece, or a 'bracelet stack of the day' series as daily outfit content.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#braceletstacking", "#jewelrytok", "#braceletstack", "#charmbracelet", "#beadedjewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "BaubleBar", "Pandora", "Pura Vida"],
+        "context": "Maximalist jewelry trend shifting from ring stacks to wrist stacks",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#PerfumeTok Dominates TikTok Shop with 600K+ Posts — Fragrance Layering and 'Smell Like Money' Reels Drive Blind-Buy Culture",
+      "body": "Perfume is TikTok Shop's current #1 trending category with creators posting scent-description reels, blind-buy hauls, and layering tutorials. The 'smell like money' and 'compliment magnet' hooks drive massive engagement even though viewers can't actually smell anything. Creator angle: film a 'what I layer for date night vs. brunch vs. gym' reel with close-up bottle shots and descriptive text overlays — the visual ASMR of spraying is the hook.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://blog.adnabu.com/tiktok/tiktok-trending-products/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#perfumetok", "#fragrancelayering", "#smelllikemoney", "#blindbuy", "#scentoftheday"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dior", "Maison Margiela", "Sol de Janeiro", "Lattafa"],
+        "context": "Fragrance as TikTok Shop's top trending category with 600K+ tagged posts",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yoto Player Surge as Anti-Screen Parents Go Viral — 'No iPad' Parenting Content Drives Screenless Audio Player Sales",
+      "body": "The anti-screen movement is one of 2026's strongest parenting trends and the Yoto Player — a screenless audio player where kids insert physical cards for stories and music — is the product at the center of it. Creator angle: film a 'swapping the iPad for a Yoto for one week' challenge showing your toddler's reaction to the physical cards, or an unboxing of the latest card packs with your kid choosing their favorite.",
+      "categories": ["Baby & Kids", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#yotoplayer", "#screenfreeplay", "#noipad", "#toddlermom", "#antiscreen"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Yoto", "Toniebox", "Lovevery", "Piccalio"],
+        "context": "Anti-screen parenting movement driving screenless audio device sales",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet POV 'Day in My Life' Reels Hit 25M+ Views — First-Person Pet Content Format Explodes with GoPro and Collar-Cam Setups",
+      "body": "Pet creators are strapping GoPros and small action cameras to collars and harnesses to film 'a day in my life as a golden retriever' or 'my cat's secret life when I'm at work.' The POV format consistently pulls massive views because the perspective is genuinely novel. Creator angle: mount a small camera on your pet's collar for a morning routine from their eye level — add captions as inner monologue and tag the camera gear plus any pet products visible.",
+      "categories": ["Pets", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#petpov", "#dogpov", "#catpov", "#gopropet", "#dayinmylife"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["GoPro", "Insta360", "FurHaven", "BarkBox"],
+        "context": "Pet POV content format using action cameras generating 25M+ view videos",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'$50/Day in Albania' Budget Travel Comparison Reels Surge — Hidden-Gem Destination Content Outperforms Mainstream Vacation Vlogs by 50%+",
+      "body": "TikTok travel creators are leaning hard into budget-destination comparison content: '$50/day in Albania vs. $50/day in Italy' or 'Greece or Turkey for a summer trip?' The #hiddengems hashtag is up 50%+ and 69% of Gen Z say they want destinations they've never visited before. Creator angle: pick two destinations in your niche (budget vs. luxury, or two hidden gems) and shoot a split-screen comparison covering food, stay, and total cost with booking affiliate links.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#hiddengems", "#budgettravel", "#travelcomparison", "#albaniatravel", "#cheaptravel2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Hostelworld", "KAYAK", "Calpak"],
+        "context": "Budget destination comparison format with 50%+ growth in hidden-gem content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-Protein Comfort Food Reels Drive 'FitTok Meets FoodTok' Crossover — Creators Remake Viral Recipes with Protein-Packed Swaps",
+      "body": "The protein-everything trend converges with TikTok food in May 2026: creators are remaking viral comfort recipes (custard toast, baked feta pasta, upgraded ramen) with high-protein twists like cottage cheese bases, protein powder pancakes, and Greek yogurt sauces. Creator angle: take this week's most viral recipe and film a 'but make it high-protein' version with a macro breakdown overlay and product tags for the protein source.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://fountbeyond.com/blog/what-are-the-most-popular-viral-tiktok-food-recipes-in-2026-542920",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#highprotein", "#proteinrecipe", "#fittok", "#foodtok", "#mealprep2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Fairlife", "Chobani", "Orgain", "RXBAR"],
+        "context": "FitTok/FoodTok crossover with high-protein remakes of viral comfort recipes",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "LED Crystal Vase Lamp Goes Viral as the Under-$30 Bedroom Glow-Up Hero — Mood Lighting Transformation Reels Pull Millions of Views",
+      "body": "The LED Creative Vase Crystal Lamp casting a romantic, faceted glow is TikTok's latest home aesthetic obsession. Before-and-after room transformation clips — lights off, lamp on, instant aesthetic — are the format, and the sub-$30 price point drives impulse TikTok Shop purchases. Creator angle: film a 'bedroom glow-up for under $30' reel with the lights-off reveal as the hook, then show 2-3 angles of the lamp's light patterns on walls and ceiling.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#crystalamp", "#bedroomglowup", "#moodlighting", "#roomtransformation", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Generic/AliExpress", "Amazon Finds"],
+        "context": "Sub-$30 viral home decor product driving room transformation content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Sicilian Summer' Mediterranean-Core Outfit Reels Replace Coastal Grandmother — Bold Reds, Tile Prints, and Lemon Motifs Define Summer 2026 Fashion",
+      "body": "TikTok's spring-to-summer 2026 fashion pivot is away from muted coastal grandmother neutrals and toward high-saturation Mediterranean aesthetics: tomato reds, lemon prints, Sicilian tile patterns, and ruffle hems. Creator angle: film a 'one linen dress, three Sicily-coded ways to style it' reel with gold hoops, a red lip, and a straw bag — geo-tag any cobblestone-looking location for extra algorithm love.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#siciliansummer", "#mediterraneancore", "#summer2026fashion", "#outfitinspo", "#tomatogirlsummer"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Reformation", "Zara", "Mango", "Free People"],
+        "context": "Summer 2026 fashion aesthetic shift from coastal grandmother to Mediterranean maximalism",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

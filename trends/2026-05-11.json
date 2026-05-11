@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-11",
+  "scraped_at": "2026-05-11T10:00:00Z",
+  "expires_at": "2026-05-14T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Wonderskin Wonder Blading Peel-Off Lip Stain Sells One Unit Every 5 Seconds on TikTok Shop — 'Whimsical' Shade Hits 8M Searches",
+      "body": "The color-changing peel-off lip stain with 300M+ TikTok views continues its reign as the platform's top beauty product. The soft-rose 'Whimsical' shade is now the breakout color, with creators filming the satisfying purple-to-pink peel reveal. Creator angle: film a 'peel reveal' GRWM showing the full application-to-peel process, test waterproof claims with a drink/eat challenge, and compare shades side-by-side for a 'which Wonderskin shade matches your vibe' carousel.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok Shop",
+      "source_url": "https://shop.tiktok.com/us/k/viral-tiktok-lip-stain",
+      "trend_type": "product",
+      "confidence_score": 0.93,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#wonderskin", "#lipstain", "#peelofflipstain", "#tiktokmademebuyit", "#whimsical"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Wonderskin"],
+        "context": "TikTok Shop #1 bestselling lip stain with celebrity fans including Hailey Bieber and Doja Cat",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho Revival Gets a Grunge Twist on TikTok — Indie-Sleaze Bohemia Merges '70s Flow with '90s Edge for Summer 2026",
+      "body": "TikTok fashion creators are pushing a new boho that blends flowing silhouettes with raw, slightly grungy textures inspired by '90s Kate Moss anti-fashion and early-2000s Sienna Miller street style. Think crochet tops with leather belts, maxi skirts with combat boots, and layered turquoise jewelry over band tees. Creator angle: shoot a 'boho then vs. now' split-screen styling reel comparing 2010s festival boho with the 2026 indie-sleaze version, tagging thrifted and sustainable pieces.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://www.runwaylive.com/the-indie-sleaze-boho-revival-taking-over-tiktok-fashion-videos.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#bohorevival", "#indiesleaze", "#bohochic2026", "#summerfashion", "#festivallook"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Zara", "Urban Outfitters", "Anthropologie"],
+        "context": "Major 2026 fashion trend combining '70s boho with '90s grunge aesthetic — driven by sustainability focus",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Two-Ingredient Japanese Cheesecake Goes Viral — Yogurt-and-Cookie Recipe Dominates FoodTok with Zero-Skill Appeal",
+      "body": "A minimalist Japanese cheesecake using only yogurt and cookies has exploded on FoodTok, with creators filming the impossibly simple mixing-and-baking process that yields a jiggly, soufflé-like result. The trend's appeal is the low barrier: no special equipment, two pantry items, and a camera-ready jiggle shot. Creator angle: film a 'can I really make this with just 2 ingredients' reaction video, try flavor variations (matcha cookies, strawberry yogurt), and shoot the signature slow-motion jiggle reveal.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-tiktok-recipes-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#japanesecheesecake", "#2ingredientrecipe", "#foodtok", "#viralrecipe", "#jigglecheesecake"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Minimal-ingredient baking trend with high visual appeal for food creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "DJI Flip Becomes the Go-To Creator Drone at $439 — Vertical 9:16 Shooting Mode Built for TikTok and Reels",
+      "body": "The sub-250g DJI Flip with its unique folding prop-guard design and native vertical video mode has become the default drone for travel and lifestyle creators who want aerial B-roll without FAA registration. Its QuickShots and Direction Track features produce polished content with one tap. Creator angle: film a 'my first drone shot ever' reaction reel using the Flip's automated tracking, or shoot a travel destination reveal that opens with a dramatic vertical pull-away.",
+      "categories": ["Tech & Gadgets", "Travel & Hospitality"],
+      "source": "Digital Camera World",
+      "source_url": "https://www.digitalcameraworld.com/drones/dji-flip-review",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#djiflip", "#creatordrone", "#droneshot", "#verticaldrone", "#travelcreator"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["DJI"],
+        "context": "First creator-focused drone with native vertical video — ideal for TikTok/Reels aerial content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "MaryRuth's Liquid Multivitamin + Hair Growth Passes 500K Units Sold on TikTok Shop — Morning Routine Staple for Wellness Creators",
+      "body": "MaryRuth's liquid vitamin-and-hair-growth supplement has become TikTok Shop's wellness juggernaut, with creators filming morning-routine 'pour and sip' shots showing the colorful liquid dose alongside their smoothie or matcha. The visual appeal of the liquid format and the dual vitamin-plus-hair promise drives repeat content. Creator angle: shoot a '30-day hair growth check-in' series with before/after scalp close-ups, or a 'what I take every morning' wellness shelf tour with affiliate links.",
+      "categories": ["Health & Fitness", "Beauty & Skincare"],
+      "source": "TikTok Shop",
+      "source_url": "https://www.accio.com/business/top-selling-products-on-tiktok-shop",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#maryruthorganics", "#liquidvitamins", "#hairgrowth", "#morningroutine", "#wellnesstiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["MaryRuth Organics"],
+        "context": "Top-selling wellness product on TikTok Shop with 500K+ units moved",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Maximalist Charm Jewelry Stacking Takes Over TikTok — Chunky Layers, Mixed Metals, and Personalized Charms Replace Minimalism",
+      "body": "TikTok's jewelry scene has flipped from dainty minimalism to bold maximalist stacking: chunky gold chains layered with colorful bead bracelets, charm-loaded necklaces, and mixed-metal ring stacks. The trend rewards creators who can teach the 'rules of stacking' while showcasing affordable dupes alongside investment pieces. Creator angle: film a 'how to stack like a maximalist' tutorial showing 3-5 layers being built piece by piece, or a '$20 vs. $200 stack' comparison reel.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#jewelrystacking", "#maximalistjewelry", "#charmjewelry", "#mixedmetals", "#stackingtutorial"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "BaubleBar", "Missoma", "Pandora"],
+        "context": "2026 shift from minimalist to maximalist jewelry — charm-based and layered pieces dominate",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "LED Galaxy Projectors Become TikTok's Breakout Home Gadget — $15 'Bedroom Glow-Up' Videos Drive 10K+ Orders in Two Weeks",
+      "body": "Budget LED galaxy projectors are the latest aesthetic home gadget to blow up on TikTok, with creators filming dramatic before-and-after bedroom transformations under swirling nebula lights. A single viral 'bedroom glow-up' clip recently drove over 10,000 TikTok Shop orders in two weeks. Creator angle: shoot a lights-off room transformation reveal synced to trending audio, or film a 'best galaxy projector under $20' comparison testing multiple units side-by-side.",
+      "categories": ["Home & Lifestyle", "Tech & Gadgets"],
+      "source": "TikTok Shop",
+      "source_url": "https://www.darkroomagency.com/observatory/the-best-tiktok-products-to-sell-in-2026-what-actually-works-on-tiktok-shop",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#bedroomglowup", "#roomtransformation", "#aestheticroom", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Budget home aesthetic gadget with massive TikTok Shop conversion — bedroom glow-up format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "AquaPurr Cat Water Fountain Hits 386M TikTok Views — Faucet-Attached Design Solves Picky-Cat Hydration for Pet Creators",
+      "body": "The AquaPurr, a fountain that attaches directly to a kitchen faucet and activates when a cat approaches, has become pet TikTok's most-viewed product with 386M views. Creators film their cats discovering the motion-activated stream for the first time, producing reliably viral 'cat reaction' content. Creator angle: film a 'will my picky cat actually drink from this' first-reaction video, or a side-by-side comparison of the AquaPurr vs. traditional water bowls tracking which one your cat prefers over a week.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-pet-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#aquapurr", "#cattok", "#catfountain", "#pickycats", "#petproducts"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr"],
+        "context": "386M TikTok views — motion-activated faucet fountain for cats drives reliable reaction content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Needoh Sensory Toys Restock Frenzy Drives Parent-Creator Content — Nee Doh Cubes and Dumplin Buns Sell Out Repeatedly at Walmart",
+      "body": "The Needoh line of squishy sensory toys — particularly the Nee Doh Cubes and the newer Dumplin Buns — keeps triggering TikTok restock alerts as parents rush to grab them before they sell out again. Parent creators film 'I found them in stock' Walmart haul videos and kids' unboxing reactions. Creator angle: film a 'restock alert' Walmart run vlog showing the hunt for Needoh products, or a satisfying ASMR squishy comparison testing every Needoh variant side by side.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/baby-tiktok-trends",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#needoh", "#dumplinbuns", "#sensorytoys", "#walmartfinds", "#restockalert"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Needoh", "Schylling"],
+        "context": "Repeat sell-out sensory toy driving parent-creator haul and restock content at Walmart",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese Walking Surges 2,986% as TikTok's Hottest Low-Impact Fitness Trend — Meditative Step-Counting Format Goes Viral",
+      "body": "Japanese walking — a mindful, slow-paced walking technique emphasizing posture and breath — has exploded nearly 3,000% in search interest, making it 2026's fastest-growing fitness trend. Creators film serene outdoor walks with step-by-step form tutorials overlaid on aesthetic nature footage. Creator angle: film a 'I tried Japanese walking for 7 days' transformation series showing posture improvements and step counts, or a calming POV walk-with-me video set to lo-fi audio with form tips in text overlays.",
+      "categories": ["Health & Fitness"],
+      "source": "Glimpse Trends",
+      "source_url": "https://meetglimpse.com/trends/fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#japanesewalking", "#walkingworkout", "#mindfulmovement", "#lowimpactfitness", "#walktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "2,986% search surge — meditative walking technique trending as accessible fitness content format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'$30 Hotel That Looks Like a 5-Star Resort' Budget Travel Comparison Format Dominates TravelTok — Debate-Bait Destination Reels Drive Massive Engagement",
+      "body": "Travel creators are leaning into a budget-reveal comparison format: showing shockingly affordable accommodations, meals, or full-day itineraries that punch way above their price point. Videos like '$50 a day in Albania' or 'Is Greece or Turkey better for summer?' generate huge comment-section debates as viewers tag travel partners. Creator angle: pick a trending summer destination and film a 'what $X gets you in [country]' daily vlog, or shoot a head-to-head destination comparison reel designed to spark debate in comments.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#budgettravel", "#traveltok", "#hotelreview", "#destinationcomparison", "#travelhack"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Budget-reveal and destination-comparison formats driving debate engagement on TravelTok",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Ninja Cordless Blender Sees 1,800% Order Surge on TikTok — Portable Smoothie Content Becomes Summer's Kitchen Must-Have",
+      "body": "The Ninja Blast portable cordless blender has seen an 1,800% spike in TikTok Shop orders as creators film on-the-go smoothie and protein shake content everywhere from gym parking lots to beach blankets. The cordless, USB-rechargeable format makes it a natural prop for fitness and food creators. Creator angle: film a 'blending everywhere' montage — gym, car, park, beach — with a different recipe at each location, or a 'Ninja Blast vs. BlendJet' head-to-head smoothie taste test.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok Shop",
+      "source_url": "https://www.accio.com/business/top-selling-products-on-tiktok-shop",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ninjablast", "#cordlessblender", "#smoothietok", "#portableblender", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ninja", "BlendJet"],
+        "context": "1,800% order surge — portable cordless blender bridging food and fitness creator niches",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen SPF 50+ Becomes K-Beauty's TikTok Crossover Hit — Dewy Finish Drives Daily-Wear Skincare Content",
+      "body": "The Beauty of Joseon Rice + Probiotics Relief Sun has crossed over from K-beauty niche to mainstream TikTok, with creators praising its lightweight, dewy finish that doubles as a primer. The affordable price point and elegant packaging make it a go-to for 'sunscreen you'll actually want to wear' content. Creator angle: film a 'replacing my primer with this $16 sunscreen' GRWM showing the dewy base it creates under makeup, or a 'K-beauty sunscreen tier list' ranking multiple SPFs by finish and feel.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-in-2026-beauty",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#ricesunscreen", "#kbeauty", "#spf50", "#sunscreenreview"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon"],
+        "context": "K-beauty sunscreen crossing into mainstream TikTok as affordable primer alternative",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

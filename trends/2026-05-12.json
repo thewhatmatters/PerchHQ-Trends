@@ -1,0 +1,516 @@
+{
+  "batch_id": "trends-2026-05-12",
+  "scraped_at": "2026-05-12T10:00:00Z",
+  "expires_at": "2026-05-15T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask Surges on TikTok Shop as Top Overnight 'Glow While You Sleep' Product",
+      "body": "The Korean overnight collagen mask is dominating SkincareTok with creators filming a 'wake-up reveal' format — applying the lightweight, gel-like wrap before bed and showing the plumped, glassy skin in their morning skincare check-in. The pitch is replacing 'sheet mask before going out' with 'wrap mask before going to sleep,' and the product photographs well in dim bedroom lighting. Creator angle: shoot a 7-night 'wrap mask diary' time-lapse showing fine-line softening, do a Western-vs-K-beauty overnight mask shootout, or build a 'lazy girl maximum-results' nighttime routine around it.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok Shop",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#medicube",
+          "#collagenmask",
+          "#overnightmask",
+          "#kbeauty",
+          "#skincareroutine"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Medicube",
+          "Beauty of Joseon",
+          "Cocokind"
+        ],
+        "context": "Overnight 'wrap mask' format is the leading K-beauty hero product on TikTok Shop, driven by the 2026 'skin longevity' shift away from anti-aging language",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Cloud Skin' Replaces Glass Skin as TikTok's Defining Makeup Finish — Soft-Focus Look Hits FYP Critical Mass",
+      "body": "Cloud skin — a soft, blurred, slightly matte finish that mimics a digital filter IRL — has overtaken glass skin as the most-talked-about 2026 makeup technique. Creators are filming 'glass vs cloud' split-screen tutorials, demonstrating how to layer a soft-focus primer, sheer skin tint, and a single setting powder dust to nail the look without dehydrated mid-day cake. Creator angle: shoot a step-by-step 60-second cloud-skin tutorial, do a 'I tried the viral cloud skin technique using only drugstore products' challenge, or compare cloud skin on three different skin types.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cloudskin",
+          "#softfocusmakeup",
+          "#makeuptutorial",
+          "#filterirl",
+          "#cloudskinmakeup"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Charlotte Tilbury",
+          "Rare Beauty",
+          "e.l.f. Cosmetics",
+          "Hourglass"
+        ],
+        "context": "Top viral makeup technique of spring 2026 — a soft-focus filter look replacing the dewy 'glass skin' trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cargo-Belt Bags Are the Breakout Accessory of Summer 2026 — Copenhagen Runway Trend Hits FashionTok",
+      "body": "The cargo-belt bag — a wide utility belt with stitched-on pockets — first showed at Copenhagen Fashion Week S/S 2026 and has now broken through on TikTok as creators style it over slip dresses, low-rise denim, and gauzy summer sets. The look reads as a 2026-coded answer to the fanny pack: hands-free, sculptural, and visibly editorial. Creator angle: film a 'one cargo-belt bag, five outfits' styling carousel, do an 'is this 2026's it-bag?' explainer with high-low alternatives, or shoot a thrift-flip turning a wide belt and pouches into a DIY version.",
+      "categories": [
+        "Fashion & Apparel",
+        "Jewelry & Accessories"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cargobeltbag",
+          "#beltbag",
+          "#copenhagenfashionweek",
+          "#summer2026fashion",
+          "#itbag"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Ganni",
+          "Marge Sherwood",
+          "COS",
+          "Zara"
+        ],
+        "context": "Top runway-to-TikTok accessory crossover of S/S 2026 — replaces fanny pack and shoulder micro-bag as the trending hands-free shape",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Blokette Era Goes Mainstream — Sporty-Meets-Ballet Aesthetic Dominates Summer 2026 'Get Dressed With Me' Reels",
+      "body": "Blokette — the fusion of bloke-y sportswear (jerseys, varsity jackets, sneakers, baseball caps) with hyper-feminine ballet codes (pleated skirts, ribbons, ballet flats, mini bags) — is now the dominant summer 'how I'd style this' format on FashionTok. The contrast reads instantly on camera, and the format is endlessly remixable across body types and budgets. Creator angle: shoot a 'blokette outfit a day this week' series, do a 'jersey + ballet flat = a whole outfit' transition reel, or thrift-flip a men's sports jersey into a summer dress styling video.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#blokette",
+          "#bloketteaesthetic",
+          "#sportycore",
+          "#balletcore",
+          "#grwm"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Sandy Liang",
+          "Adidas",
+          "Miu Miu",
+          "Aritzia"
+        ],
+        "context": "Top mash-up aesthetic of summer 2026 — combines sporty/tomboy pieces with ballet-coded femininity",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coastal Cowgirl Has a Summer Comeback — Beachy Western Styling Dominates FashionTok 'Vacation Outfit' Reels",
+      "body": "Coastal cowgirl — denim cutoffs, white linen, woven cowboy hats, leather sandals, and turquoise jewelry on a beach backdrop — is back as the breakout vacation aesthetic of summer 2026, picking up momentum on FashionTok as creators pack for late-May getaways. The look photographs beautifully on golden hour beach content and pairs naturally with current chunky-ring and layered-necklace trends. Creator angle: shoot a 'packing for a coastal cowgirl weekend' suitcase reveal, do a 'one cowboy hat, three beach outfits' carousel, or film a Pinterest-vs-real-life recreation of the aesthetic.",
+      "categories": [
+        "Fashion & Apparel",
+        "Travel & Hospitality"
+      ],
+      "source": "TikTok",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#beachstyle",
+          "#vacationoutfit",
+          "#summerstyle",
+          "#westerncore"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Free People",
+          "Lack of Color",
+          "Reformation",
+          "Madewell"
+        ],
+        "context": "Resurging summer aesthetic blending Western codes with beach styling — peak season is May–August vacation content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Grillo's Pickle Dip Hits FoodTok Critical Mass — 4-Ingredient Recipe Drives Pickle-Aisle Sellouts",
+      "body": "The viral Grillo's Pickle Dip — chopped pickles, cream cheese, sour cream, and seasoning — has hit a new peak on FoodTok with creators filming grocery-store sellouts of the dip-ready pickle brand and recreating the recipe at home with their own twists (everything bagel seasoning, hot honey, ranch packet). The salty-tangy aesthetic photographs well on cottage-core picnic spreads. Creator angle: shoot a one-bowl recipe reel with audio of the satisfying mix, film a 'pickle dip three ways' flavor flight, or do a blind taste-test of homemade vs store-bought Grillo's dip.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#grillospickledip",
+          "#picklesoftiktok",
+          "#viralrecipe",
+          "#foodtok",
+          "#partydip"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Grillo's Pickles",
+          "Philadelphia Cream Cheese",
+          "Trader Joe's"
+        ],
+        "context": "Top viral dip recipe of spring 2026, peaking ahead of Memorial Day cookout season",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Custard Toast Resurges as the Breakfast Recipe of the Moment — High-Protein Greek Yogurt Version Goes Viral",
+      "body": "Custard toast — a slice of bread pressed into a well, filled with whipped Greek yogurt, egg, and honey, then baked — is having a 2026 revival reframed as a 'high-protein cozy breakfast' that hits this year's gut-health and protein-first themes. Creators are filming aesthetic morning routines with seasonal fruit toppings (strawberry, peach, blueberry) and the satisfying golden-brown bake reveal. Creator angle: shoot a 30-second 'protein breakfast under 5 minutes' reel, do a 'custard toast 7 ways' weekly series, or film a 'I ate custard toast every morning for a week' protein-and-skin check-in.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok-food-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#custardtoast",
+          "#proteinbreakfast",
+          "#viralbreakfast",
+          "#highprotein",
+          "#easyrecipe"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Fage",
+          "Chobani",
+          "Dave's Killer Bread"
+        ],
+        "context": "Resurging high-protein breakfast recipe aligned with 2026's 'cozy + protein' food trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Treadmill Strut Trend Hits New Peak — Allie Bennett's '0.1mph Per Song' Workout Becomes Default Cardio Format on FitTok",
+      "body": "The Treadmill Strut — curate a playlist around an artist or vibe, raise the treadmill 0.1mph every time the song changes — has become the dominant FitTok cardio content format, with creators filming themed strut sessions (Beyoncé Strut, Taylor Strut, breakup-songs strut) that double as music-discovery videos. The format is endlessly remixable and converts well because the audio is built in. Creator angle: shoot your own themed Treadmill Strut session reel with on-screen captions of pace + song, do a 'strut playlist exchange' duet, or film a 'first time trying the Treadmill Strut' reaction.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#treadmillstrut",
+          "#hotgirlwalk",
+          "#fittok",
+          "#cardioroutine",
+          "#gymtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "NordicTrack",
+          "Peloton",
+          "Lululemon",
+          "Alo Yoga"
+        ],
+        "context": "Top viral cardio format of 2026 — invented by creator Allie Bennett, music-driven incline-walk routine",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Pilates Princess Goes Mainstream — Reformer 'Day in the Life' Reels Replace Gym GRWM as Top Fitness Content",
+      "body": "The Pilates Princess aesthetic — pastel matching sets, slow controlled reformer reps, and 'soft girl' fitness energy — has overtaken HIIT and traditional gym content as the defining FitTok format of 2026. Creators are filming reformer studio 'day in the life' reels, at-home mat workout series, and posture-progress check-ins. Studio class memberships are spiking and brands like Alo, Lululemon, and Bala are leaning in. Creator angle: shoot a 'Pilates Princess day in my life' from class to smoothie, film a 5-move at-home mat routine, or do a 'reformer vs mat — what's actually different' explainer.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.91,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#pilatesprincess",
+          "#reformerpilates",
+          "#pilatesgirl",
+          "#softgirlworkout",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Alo Yoga",
+          "Lululemon",
+          "Bala",
+          "Beyond Yoga"
+        ],
+        "context": "Dominant 2026 fitness content aesthetic — 'soft, controlled, aesthetic' replacing HIIT as default workout format on TikTok",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "$15 LED Galaxy Projector Becomes TikTok Shop's Breakout 'Bedroom Glow-Up' Product",
+      "body": "The under-$15 LED galaxy / sunset projector — a small puck that throws a starfield or sunset gradient onto the ceiling — is the defining 'bedroom glow-up' product of spring 2026, with creators using it as the lighting hero for room-tour reels, 'cozy night-in' content, and aesthetic reading nook setups. A single viral clip recently drove 10,000+ TikTok Shop orders in two weeks. Creator angle: film a 'turn my bedroom into a vibe in under $20' transformation, do a side-by-side of three projectors at different price points, or shoot an aesthetic 'cozy night routine' reel using the projector as your only light source.",
+      "categories": [
+        "Home & Lifestyle",
+        "Tech & Gadgets"
+      ],
+      "source": "TikTok Shop",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#galaxyprojector",
+          "#sunsetlamp",
+          "#bedroomglowup",
+          "#tiktokshopfinds",
+          "#cozyaesthetic"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "BlissLights",
+          "Govee",
+          "Pococo"
+        ],
+        "context": "Top TikTok Shop Home & Living product of Q2 2026 — single viral clip drove 10K+ orders",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-in-1 Magnetic Charging Hub Hits Top of 'Desk Setup' Content — Satisfying Cable-Cleanup Reels Drive Sales",
+      "body": "The 3-in-1 magnetic charging stand — phone, watch, AirPods on a single foldable base — has become the hero product in 'aesthetic desk setup' and 'cable-cleanup' reels on TechTok. Creators are filming the satisfying 'snap' of MagSafe attachment and before/after cable-clutter transformations. The product works across both Gen Z dorm-setup content and millennial WFH desk content. Creator angle: shoot a 'finally fixed my cable mess' before/after transformation reel, do a $30 vs $130 charging hub shootout, or film a minimalist nightstand setup video using the hub as the centerpiece.",
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
+      "source": "TikTok",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#magsafe",
+          "#desksetup",
+          "#cablemanagement",
+          "#techtok",
+          "#3in1charger"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anker",
+          "Belkin",
+          "Apple MagSafe",
+          "Nomad"
+        ],
+        "context": "Top trending consumer tech accessory on TikTok for spring 2026 — bridges TechTok and home/desk aesthetic content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "JellyCAP Toddler Water Bottle Toppers Take Over MomTok — Spill-Proof Sippy Hack Hits Viral Status",
+      "body": "The JellyCAP — a silicone topper that converts any standard water bottle into a spill-proof toddler sippy — has hit a viral peak on MomTok, with creators filming travel-day, park-day, and stroller-walk demos. The pitch is killer for short-form video: no specialty cup needed, parents reuse their own water bottle, and the kid-tested 'tip it upside down' shake test photographs perfectly. Creator angle: shoot a 'tested 5 viral toddler products so you don't have to' series, film a real-world plane/park/car-seat spill-test, or do a hack-stack reel of three under-$15 viral toddler items.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "TikTok",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#jellycap",
+          "#momtok",
+          "#toddlermom",
+          "#momhacks",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "JellyCAP",
+          "b.box",
+          "Legendairy Milk"
+        ],
+        "context": "Breakout MomTok product of spring 2026 — toddler-feeding accessory that converts existing water bottles into spill-proof sippies",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "CatPOV Camera Reels Cross 25M Views — Collar-Cam Cat Adventures Become PetTok's Top Format",
+      "body": "Tiny clip-on collar cameras producing 'cat-POV' adventure reels — backyard prowls, midnight zoomies, neighbor-cat encounters — are now the highest-engagement PetTok format of 2026, regularly clearing 25M views per clip. The unique angle (low to the ground, jerky, alien) is the entire pitch, and the format has spilled into dog-POV content too. Creator angle: shoot a 'my cat's secret nightlife — caught on collar cam' edit, do a 'a day in the life from my cat's POV' narrative reel, or run a 'guess what my cat is doing' viewer-engagement game using mystery POV clips.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#catpov",
+          "#catcam",
+          "#pettok",
+          "#cattok",
+          "#dogpov"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Insta360",
+          "GoPro",
+          "Petcube"
+        ],
+        "context": "Top PetTok content format of 2026 — collar-mounted POV cameras driving 25M+ view clips",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Boatchella' Aftermath — Virgin Voyages Creator Cruise Drives 236M Views and a New Wave of 'Friends-Trip-on-a-Boat' Travel Content",
+      "body": "Virgin Voyages' three-night Bahamas creator cruise — dubbed 'Boatchella' by creators on board — generated 20,000+ pieces of content and 236M views across platforms, and is now driving a wider TravelTok wave of 'group cruise trip with friends' content as creators replicate the format on their own bookings. The format works because the location moves, the cast stays the same, and every meal/sunset is camera-ready. Creator angle: shoot a 'planning a friends-trip cruise' day-by-day vlog, do an 'is a cruise actually worth it?' Gen-Z perspective explainer, or film a 'what I packed for a 3-night cruise' suitcase reveal.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.virginvoyages.com/press/latest-releases/tiktok-creator-bahamas-cruise-goes-viral",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": [
+          "#boatchella",
+          "#cruisetok",
+          "#virginvoyages",
+          "#friendstrip",
+          "#traveltok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Virgin Voyages",
+          "Royal Caribbean",
+          "Norwegian Cruise Line"
+        ],
+        "context": "Top viral travel moment of spring 2026 — 1,100 TikTok creators on a single Bahamas cruise, 236M+ views generated",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Chunky Statement Rings Replace Dainty Stacks as TikTok's Jewelry Pick of the Moment — 'No-Rules Layering' Mixes Metals and Sizes",
+      "body": "Chunky statement rings — bold signets, dome rings, and chunky pinky rings — are decisively replacing the dainty stacking-band era on JewelryTok, often layered with thinner bands and mixed-metal pieces under a new 'no-rules layering' aesthetic. Indie jewelry brands selling under $40 chunky rings are seeing TikTok-driven sellouts. Creator angle: shoot a 'one chunky ring, five hand-stack combos' carousel, do an 'I retired my dainty jewelry — here's what I'm wearing now' transformation reel, or film a 'how to layer mixed-metal rings without it looking messy' tutorial.",
+      "categories": [
+        "Jewelry & Accessories",
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#chunkyrings",
+          "#statementring",
+          "#ringstack",
+          "#mixedmetals",
+          "#jewelrytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Mejuri",
+          "Missoma",
+          "Pandora",
+          "Catbird"
+        ],
+        "context": "2026 jewelry shift away from dainty minimalism toward maximalist mixed-metal layering",
+        "price_point": "various"
+      }
+    }
+  ]
+}

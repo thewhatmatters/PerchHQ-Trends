@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-15",
+  "scraped_at": "2026-05-15T10:00:00Z",
+  "expires_at": "2026-05-18T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Relief Sun SPF50+ Dominates Summer Sunscreen Season on TikTok",
+      "body": "The K-beauty rice-and-probiotics sunscreen is surging again as summer approaches, with the brand hashtag topping 1.7 billion TikTok views. Its no-white-cast, dewy finish makes it a staple in 'get ready with me' and 'sunscreen tier list' content. Creator angle: film a side-by-side sunscreen comparison on different skin tones, do a 'K-beauty sunscreen vs. Western sunscreen' blind test, or shoot a 'reapply with me' beach routine video.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.businessoffashion.com/articles/beauty/tiktoks-favourite-sunscreen-brand-pushes-further-into-the-us/",
+      "trend_type": "product",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BeautyOfJoseon", "#KoreanSunscreen", "#SPF50", "#KBeauty"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "Cosrx", "Supergoop"],
+        "context": "K-beauty sunscreen going viral during summer prep season with creator-driven reviews and comparisons",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask Fuels 'Morning Shed' Content Wave",
+      "body": "The Medicube overnight collagen mask continues its viral run with creators filming satisfying peel-off reveal videos each morning. The 'morning shed' format—showing the dramatic before-and-after of removing overnight skincare—is one of the highest-save formats in beauty right now. Creator angle: film a 'morning shed' ASMR peel-off reveal, do a week-long overnight mask challenge tracking skin changes, or compare Medicube against drugstore overnight masks.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cnn.com/cnn-underscored/beauty/medicube-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Medicube", "#MorningShed", "#CollagenMask", "#GlassSkin"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Biodance", "Laneige"],
+        "context": "Overnight collagen mask paired with 'morning shed' peel-off reveal format driving high engagement and saves",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Charm Bracelet Stacking Takes Over Spring Jewelry TikTok",
+      "body": "Maximalist bracelet stacking with customizable charm bracelets is the dominant jewelry format on TikTok this spring. Creators are building personalized stacks mixing gold and silver metals, travel-themed charms, and zodiac pieces. The trend emphasizes intentional storytelling—each charm marks a moment or milestone. Creator angle: film a 'build my stack with me' showing the meaning behind each charm, do a 'bracelet stack for every vibe' styling video, or create a charm haul ranking video.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/bracelet-stacks-trends",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BraceletStack", "#CharmBracelet", "#JewelryTrends2026", "#MixedMetals"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "James Avery", "Mejuri"],
+        "context": "Maximalist charm bracelet stacking trend emphasizing personalization and meaningful jewelry styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "TikTok GO Launches In-App Travel Booking — Creator Monetization Unlocked",
+      "body": "TikTok launched TikTok GO on May 12, letting U.S. users book hotels, tours, and experiences directly from travel videos via partners like Booking.com and Expedia. Travel creators can now link content to bookable listings for commission-based earnings. Creator angle: be early to TikTok GO by filming 'how much a week in [destination] costs' with receipt breakdowns, create bookable destination guides, or do a 'I booked my entire trip through TikTok GO' vlog.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#TikTokGO", "#TravelTikTok", "#BookableContent", "#TravelCreator"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Booking.com", "Expedia", "Viator", "GetYourGuide"],
+        "context": "TikTok GO in-app travel booking launch creates new monetization path for travel creators with commission-based earnings",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Japanese Walking Method Explodes as the Top Fitness Trend of 2026",
+      "body": "Japanese walking—alternating 3 minutes of slow and fast walking for 30 minutes—saw a 2,968% surge in search interest after Australian creator Eugene Teo's video hit 10M TikTok views. Backed by real research from Shinshu University showing 14% VO2 max improvement, it's the most accessible fitness trend going. Creator angle: film a '30-day Japanese walking challenge' with daily check-ins, create a split-screen comparing heart rate data between regular walking and Japanese walking, or shoot a scenic Japanese walking route guide.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://dailyburn.com/life/fitness/japanese-walking-the-viral-2026-fitness-trend-that-burns-more-fat-in-less-time/",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseWalking", "#WalkingWorkout", "#FitnessTrend2026", "#IntervalWalking"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Apple Watch", "Garmin", "Fitbit"],
+        "context": "Science-backed interval walking method goes viral with nearly 3000% search increase, highly accessible for all fitness levels",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Candle Warmer Lamps Become the Must-Have Home Decor Aesthetic Upgrade",
+      "body": "Candle warmer lamps—halogen-bulb fixtures that melt candles from above without a flame—have hit 100M+ views under #CandleWarmer on TikTok. Creators love the aesthetic glow, the safety angle for renters, and the fact that candles last 2-3x longer. Creator angle: film a cozy room transformation featuring the lamp as the centerpiece, do a 'candle warmer vs. burning' longevity test, or create a 'renter-friendly home upgrade' haul video featuring the lamp.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.tasteofhome.com/article/candle-warmer-lamp/",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CandleWarmer", "#HomeDecor", "#AestheticHome", "#RenterFriendly"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Yankee Candle", "Boy Smells", "Diptyque"],
+        "context": "Flameless candle warmer lamps trending as safe, aesthetic, and candle-extending home decor upgrade",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Ninja Blast Max Cordless Blender Drives Smoothie-On-The-Go Content",
+      "body": "The Ninja Blast Max portable blender saw an 1,800% order surge as fitness and food creators showcase its blend-anywhere portability. Cup-holder-compatible and rechargeable, it's the perfect prop for gym bag smoothie content and on-the-go recipe videos. Creator angle: film a 'what I blend in a day' portable smoothie series, do a gym bag essentials video featuring the blender, or create a portable blender taste test comparing Ninja Blast against competitors.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#NinjaBlastMax", "#PortableBlender", "#SmoothieLife", "#GymEssentials"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Ninja", "BlendJet", "NutriBullet"],
+        "context": "Cordless portable blender trending with fitness and food creators for on-the-go smoothie content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cat POV Collar Cameras Go Viral with 25M+ View Adventure Videos",
+      "body": "Miniature cameras clipped to cat collars are producing first-person adventure footage that regularly hits 25M+ views per video. The format combines pet content with tech unboxing appeal, and the unexpected footage cats capture creates endlessly shareable moments. Creator angle: film a 'day in the life of my cat' POV compilation, do a cat camera unboxing and first-footage reaction video, or create a 'what my cat does when I'm not home' reveal.",
+      "categories": ["Pets", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CatPOV", "#CatCamera", "#PetTech", "#CatsOfTikTok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["GoPro", "Insta360", "PetCube"],
+        "context": "Cat collar cameras producing viral first-person adventure content combining pet and tech niches",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'How Much a Week in [Destination] Actually Costs' Format Dominates Travel Saves",
+      "body": "The receipt-based travel cost breakdown is the highest-save format in travel TikTok right now. Creators show actual hotel bills, meal receipts, and transport costs for specific destinations, with budget-friendly Latin American destinations like Colombia and Ecuador performing especially well. Creator angle: pick a trending destination and film a full week's cost breakdown with real receipts, create a 'luxury vs. budget week' comparison in the same city, or do a daily spending vlog format.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TravelCosts", "#BudgetTravel", "#TravelBreakdown", "#HowMuchItCosts"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Hostelworld", "Airbnb"],
+        "context": "Receipt-based travel cost transparency content format driving highest save rates in travel niche",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Reusable Pet Hair Remover Rollers Surge on TikTok Shop",
+      "body": "Reusable lint-free pet hair removers—brush-mechanism rollers that pick up pet hair without sticky tape—are surging on TikTok Shop with satisfying before-and-after demo videos. The 'visible transformation' format drives shares as pet owners showcase dramatic furniture cleanups. Creator angle: film a satisfying couch-to-clean transformation, do a 'pet hair remover tier list' comparing reusable vs. disposable options, or create a 'pet owner essentials haul' featuring the roller.",
+      "categories": ["Pets"],
+      "source": "TikTok Shop",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#PetHairRemover", "#TikTokMadeMeBuyIt", "#PetOwnerHacks", "#CleanTok"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["ChomChom", "Fur-Zoff"],
+        "context": "Reusable pet hair removers trending via satisfying before-and-after cleaning transformation videos",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Babaloo Airless Baby Bottle Hailed as Game-Changer by Mom Creators",
+      "body": "The Baby-Led by Babaloo airless bottle—designed to mimic natural breastfeeding with zero air intake—is being called a game-changer by parenting creators on TikTok. Videos showing the bottle's unique air-free milk flow mechanism are driving strong engagement among new and expecting parents. Creator angle: film a side-by-side comparison of airless vs. traditional bottle feeding, create a 'newborn essentials I actually use' haul, or do a first-time parent reaction video testing the bottle.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#BabyEssentials", "#NewMom", "#AirlessBottle", "#BabyProducts"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Babaloo", "Dr. Brown's", "Philips Avent"],
+        "context": "Innovative airless baby bottle trending among parenting creators for its natural feeding design",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Chunky Sneakers and Platform Boots Lead TikTok's Footwear-First Fashion Moment",
+      "body": "TikTok fashion has shifted to footwear-first styling in 2026, with chunky sneakers and platform boots anchoring outfits while clothing stays subdued. The 'shoes make the outfit' philosophy is driving OOTD content where creators build entire looks around statement footwear. Creator angle: film a 'one shoe, three outfits' styling challenge, create a chunky sneaker vs. platform boot debate video, or do a 'shoes I'm wearing on repeat this spring' rotation haul.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ChunkySneakers", "#PlatformBoots", "#OOTD", "#FootwearFirst"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["New Balance", "Nike", "Dr. Martens", "Converse"],
+        "context": "Footwear-forward fashion trend with statement shoes anchoring minimalist outfits in OOTD content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#AquaPurr Cat Water Fountain Hits 386M TikTok Views",
+      "body": "The AquaPurr cat water fountain—a faucet-attached continuous-flow system for picky cats—has racked up 386M TikTok views with creators filming their cats' delighted reactions to fresh running water. The product solves a common pain point (cats refusing still water) with a visually satisfying result. Creator angle: film a 'will my picky cat drink from this?' reaction video, do a cat hydration product tier list, or create a 'smart pet gadgets worth it vs. not' review.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#AquaPurr", "#CatWaterFountain", "#PetGadgets", "#CatMom"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["AquaPurr", "Catit", "PetSafe"],
+        "context": "Faucet-attached cat water fountain viral for solving picky-cat hydration with shareable reaction content",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

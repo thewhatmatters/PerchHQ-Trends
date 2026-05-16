@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-16",
+  "scraped_at": "2026-05-16T10:00:00Z",
+  "expires_at": "2026-05-19T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask surges on TikTok Shop",
+      "body": "This overnight collagen mask locks in moisture and smooths fine lines while you sleep, generating massive engagement among skincare creators. Creators are filming before-and-after morning reveals and layering routines showing the mask's gel-to-film texture change.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-skincare-viral-2026",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#collagenmask", "#overnightskincare", "#medicube", "#tiktokmademebuyit"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Medicube"],
+        "context": "K-beauty overnight mask with collagen film technology going viral for visible morning results",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "#FullFaceNoMascara trend boosts lash serum sales 35%",
+      "body": "Creators are posting full glam looks deliberately skipping mascara to showcase bold brows and dewy skin, driving a 35% increase in lash serum sales. The format works for beauty creators doing side-by-side comparisons and product recommendation videos for natural lash growth.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-tiktok-skincare-products",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#fullfacenomascara", "#lashserum", "#naturalbeauty"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Grande Cosmetics", "RevitaLash"],
+        "context": "Anti-mascara makeup challenge driving lash care product recommendations",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Aesthetic identity wardrobes replace seasonal fashion on TikTok",
+      "body": "Gen Z shoppers are building wardrobes around micro-aesthetics like coquette, soft luxury, and retro minimalism instead of seasonal trends. Fashion creators can capitalize by creating aesthetic starter pack videos, capsule wardrobe guides, and thrift-to-aesthetic transformation content.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#aestheticwardrobe", "#coquette", "#softluxury", "#capsulewardrobe"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Zara", "Aritzia", "Reformation"],
+        "context": "Shift from seasonal fashion to identity-driven aesthetic wardrobes on TikTok",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Banana bread latte recipes dominate FoodTok",
+      "body": "Homemade banana bread latte recipes are surging on TikTok with creators filming aesthetic kitchen prep content. The trend lends itself to ASMR-style recipe videos, ingredient comparison content, and cafe-at-home morning routine formats.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/food-and-beverage-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#coffeetok", "#morningroutine"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Oatly", "Nespresso"],
+        "context": "Viral coffee recipe combining banana bread flavors with latte art for aesthetic kitchen content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Freeze-dried candy market doubles as TikTok creators drive demand",
+      "body": "Freeze-dried candy continues to explode with creators filming satisfying crunch ASMR, taste-test comparisons, and DIY freeze-drying content. The market is predicted to double in under a decade, with small-batch sellers thriving on TikTok Shop.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#freezedriedcandy", "#candytok", "#asmrfood", "#tiktokmademebuyit"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Freeze Dried Candy Co"],
+        "context": "Freeze-dried candy trend fueled by satisfying texture content and small-batch TikTok Shop sellers",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Merach Ab Twister goes viral as at-home core workout tool",
+      "body": "The Merach Ab Twister is trending among fitness creators showing core toning and balance improvement results. Creators are posting 30-day challenge videos, form tutorials, and before-and-after transformation content with this compact home fitness device.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-2026-viral-products-fitness",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#merachabtwister", "#homeworkout", "#coretok", "#fitnesstok"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Merach"],
+        "context": "Compact ab twister device trending for at-home core workout content and 30-day challenges",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Owala water bottles become viral status symbol accessory",
+      "body": "Owala water bottles are the must-have lifestyle accessory of 2026, beloved for limited-edition colorways and the sip-or-swig dual opening. Creators are filming collection hauls, color matching to outfits, and unboxing new seasonal drops.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.today.com/shop/amazon-trending-products-may-2026-rcna344561",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#owala", "#waterbottle", "#waterbottlecollection", "#tiktokmademebuyit"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Owala"],
+        "context": "Water bottle as status symbol trend with limited colorway drops driving collection content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pebble Round 2 smartwatch ships with color e-paper and 7-day battery",
+      "body": "The revived Pebble Round 2 ships in May with a color e-paper display and week-long battery life, exciting tech creators. Review content, unboxings, and Apple Watch comparison videos are the obvious creator angles for this nostalgia-meets-innovation gadget.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Gear Patrol",
+      "source_url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-may-week-3/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pebblewatch", "#smartwatch", "#techreview", "#epaper"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Pebble"],
+        "context": "Revived Pebble smartwatch with color e-paper display launching May 2026",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Ooey Gooey sensory toys go viral for kids content creators",
+      "body": "Ooey Gooey squishy toys have landed at Walmart and are blowing up on TikTok with satisfying squeeze content. Kid and parenting creators are filming unboxing videos, sensory play content, and collection showcases of these soft tactile toys.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/popular-toys-that-are-trending-right-now",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#ooeygooey", "#squishytoys", "#sensorytoys", "#kidstok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Ooey Gooey"],
+        "context": "Satisfying squishy sensory toys trending at Walmart for kids content and unboxing videos",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "CatPOV cameras rack up 25M+ views per video",
+      "body": "Cat adventure cameras strapped to pets are generating massive engagement with 25M+ views per video. Pet creators can invest in lightweight POV cameras to film their cat's daily adventures, outdoor explorations, and interactions with other animals.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#catpov", "#catcamera", "#pettok", "#catsoftiktok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Insta360"],
+        "context": "POV cameras for cats generating viral adventure content with massive view counts",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "TikTok GO launches in-app travel booking from creator videos",
+      "body": "TikTok GO now lets users book hotels and experiences directly from travel creator videos, partnering with Booking.com, Expedia, and Viator. Travel creators can earn commissions when their content leads to bookings, making destination showcase and hotel review content directly monetizable.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Skift",
+      "source_url": "https://skift.com/2026/05/12/tiktok-go-travel-booking-social-media/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#tiktokgo", "#travelcreator", "#hoteltok", "#bookingcommission"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Booking.com", "Expedia", "Viator"],
+        "context": "TikTok launches in-app travel booking allowing creators to earn commissions from video-driven bookings",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bracelet stacking takes over as spring jewelry trend",
+      "body": "Bracelet stacking is the evolution of the ring stack trend, with creators showcasing layered wrist looks mixing metals, beads, and charms. Jewelry creators can film styling tutorials, budget-vs-luxury stack comparisons, and day-to-night bracelet transformation content.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#braceletstack", "#jewelrytok", "#armcandy", "#stackingjewelry"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Pandora", "BaubleBar"],
+        "context": "Bracelet stacking trend evolving from ring stacks with mixed metals and layered styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Unfortunately I do love trend goes viral for creator confessionals",
+      "body": "The 'Unfortunately, I do love...' trend has creators sharing guilty pleasures and relatable red flags in list format. This confessional format works across all niches — beauty creators listing expensive products, food creators admitting fast food loves, pet owners confessing spoiling habits.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel", "Food & Beverage", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://napoleoncat.com/blog/tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#unfortunatelyidolove", "#relatable", "#confessiontime"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Confessional list format trend adaptable across all creator niches for engagement",
+        "price_point": "various"
+      }
+    }
+  ]
+}

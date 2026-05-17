@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-17",
+  "scraped_at": "2026-05-17T10:00:00Z",
+  "expires_at": "2026-05-20T10:00:00Z",
+  "trends": [
+    {
+      "headline": "TikTok GO launches in-app travel booking for creators",
+      "body": "TikTok GO now lets US users book hotels, tours, and experiences directly from travel videos, with creator commission on every booking. Travel creators can tag destinations and earn from Booking.com, Expedia, and Viator partnerships — a massive new monetization angle for travel content.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#TikTokGO", "#TravelTikTok", "#TravelCreator"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Booking.com", "Expedia", "Viator", "GetYourGuide"],
+        "context": "New platform feature enabling travel creators to monetize bookable content directly in-app",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Japanese walking method explodes as the fitness trend of 2026",
+      "body": "Japanese walking (alternating 3 minutes brisk / 3 minutes gentle for 30 minutes) saw a 2,986% surge in search interest. Fitness creators are posting walk-along videos, before-and-after body composition results, and explaining the science — perfect for low-barrier health content that anyone can film.",
+      "categories": ["Health & Fitness"],
+      "source": "PureGym / fitvantage",
+      "source_url": "https://fitvantage.fit/2026/02/21/japanese-walking-the-2026-fitness-trend-that-is-taking-over-social-media/",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseWalking", "#IntervalWalking", "#WalkingWorkout"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["PureGym"],
+        "context": "Viral low-impact fitness method with strong walk-along and transformation content potential",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask surges on TikTok Shop",
+      "body": "This overnight collagen mask that wraps your face in a lightweight veil is going viral for its visible smoothing results by morning. Beauty creators are filming dramatic before-and-after wake-up reveals and GRWM routines featuring the mask as the final step.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-tiktok-skincare-products",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Medicube", "#CollagenMask", "#TikTokMadeMeBuyIt", "#SkincareRoutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube"],
+        "context": "Viral overnight skincare product with strong visual transformation hook for creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "#PerfumeTok drives fragrance as the top TikTok Shop category",
+      "body": "Perfume is the number-one trending product on TikTok Shop with the #PerfumeTok hashtag amassing over 600K posts. Creators are filming blind-smell reaction videos, dupe comparisons, and layering tutorials — the scent-based content format is a fresh angle for beauty and lifestyle creators.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/top-selling-products-on-tiktok-shop",
+      "trend_type": "hashtag",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PerfumeTok", "#FragranceTikTok", "#ScentOfTheDay"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lattafa", "Dossier", "Maison Margiela"],
+        "context": "Fragrance content format with blind reactions and dupe reviews driving massive TikTok Shop sales",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Dirty soda and protein coffee drinks dominate summer beverage content",
+      "body": "Dirty sodas (soda + cream + flavored syrups) and proffee (protein powder + iced coffee) are the two hottest drink formats heading into summer. Food creators are filming colorful layered pours, custom order tutorials, and taste-test rankings — high visual payoff with minimal production effort.",
+      "categories": ["Food & Beverage"],
+      "source": "Dexerto",
+      "source_url": "https://www.dexerto.com/tiktok/what-is-protein-diet-coke-dirty-soda-goes-viral-after-momtoks-obsession-2921280/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#DirtySoda", "#Proffee", "#ProteinCoffee", "#DrinkTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Diet Coke", "Swig"],
+        "context": "Visual beverage mixing content with layered pours and customization hooks for food creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Bracelet stacking and charm jewelry overtake minimalist aesthetics",
+      "body": "Bracelet stacking has replaced ring stacking as the dominant TikTok jewelry trend, with creators filming wrist-of-the-day reveals and charm customization hauls. Bold, colorful, and personalized pieces are outperforming minimalist styles — great content for accessory hauls and OOTD layering.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "unique-accessories.com",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BraceletStack", "#CharmJewelry", "#JewelryTikTok", "#OOTD"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "BaubleBar"],
+        "context": "Shift from minimalism to bold stacking and charm customization driving jewelry creator content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Wax melting lamps replace traditional candles as the viral home aesthetic",
+      "body": "The wax melting lamp has become a TikTok sensation for home creators, replacing traditional candles with a photogenic flameless glow. Creators are filming ambient room-tour reveals, ASMR wax-melting close-ups, and cozy evening routine content featuring these lamps as centerpieces.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok / eprolo",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WaxMeltLamp", "#HomeTok", "#CozyAesthetic", "#RoomDecor"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Flameless ambiance product driving room-tour and cozy routine content on TikTok",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Nee Doh sensory toys keep restocking and selling out for kids content",
+      "body": "Nee Doh squishy cubes and sensory toys continue to sell out and restock on TikTok Shop, driven by satisfying squeeze videos and unboxing content. Parent and kid creators are filming reaction videos, fidget comparisons, and gift-guide hauls around these tactile toys.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/kids-trending-products",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#NeeDoh", "#SensoryToys", "#KidsTikTok", "#FidgetToys"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nee Doh", "Schylling"],
+        "context": "Restocking viral sensory toys driving satisfying squeeze and unboxing content for parent creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Interactive flying bird toys go viral in pet content",
+      "body": "Flying bird toys that flap and soar through the air are the latest viral pet product, with cat and dog creators filming hilarious reaction and chase videos. The visual payoff of pets leaping after these realistic-looking birds makes for highly shareable, high-retention content.",
+      "categories": ["Pets"],
+      "source": "TikTok / pbfulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PetTok", "#CatToys", "#FlyingBirdToy", "#PetReaction"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Visual pet reaction content driven by realistic flying bird toys for cats and dogs",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "LED face masks trend as the top beauty-tech crossover product",
+      "body": "LED therapy masks continue to dominate beauty-tech TikTok with creators filming iron-man-style selfies and time-lapse skin transformation series. The dramatic visual of the glowing mask plus real skin-clearing results makes this a high-performing product review and routine format.",
+      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/popular-tiktok-viral-products-2026-trend",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LEDMask", "#BeautyTech", "#SkincareTikTok", "#GlowUp"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["CurrentBody", "Dr. Dennis Gross", "Omnilux"],
+        "context": "Beauty-tech crossover product with dramatic visual content appeal for skincare and gadget creators",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Mini projectors turn bedrooms into viral home theater content",
+      "body": "Under-$100 mini projectors are fueling a wave of cozy home theater setup videos, with creators filming room transformations, outdoor movie night setups, and camping projection sessions. The before-and-after dark-room reveal format consistently drives high engagement.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "CJ Dropshipping",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#MiniProjector", "#HomeTheater", "#CozyRoom", "#RoomTransformation"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Budget tech product driving room transformation and cozy setup content for lifestyle creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee becomes the summer drink format for food creators",
+      "body": "Coconut-infused iced coffee is 2026's signature summer drink trend, with creators filming tropical-looking layered pours using coconut milk and cream. The aesthetic, photogenic quality of the drinks plus easy at-home recreation makes this a reliable daily content format for food and lifestyle creators.",
+      "categories": ["Food & Beverage"],
+      "source": "foodvlove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CoconutCoffee", "#IcedCoffee", "#CoffeeTok", "#SummerDrinks"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Photogenic tropical coffee format ideal for daily summer content creation",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Soft luxury and coquette aesthetics dominate spring fashion content",
+      "body": "The soft luxury aesthetic — neutral co-ords, textured knitwear, and quiet elegance — is driving spring fashion hauls on TikTok alongside the coquette trend with bows, lace, and feminine details. Fashion creators are building OOTD and capsule wardrobe content around these micro-aesthetics as purchasing frameworks.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SoftLuxury", "#Coquette", "#OOTD", "#CapsuleWardrobe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "Aritzia", "Mango"],
+        "context": "Micro-aesthetic-driven fashion content with wardrobe building and OOTD format hooks",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

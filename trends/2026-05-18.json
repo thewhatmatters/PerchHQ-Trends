@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-18",
+  "scraped_at": "2026-05-18T10:00:00Z",
+  "expires_at": "2026-05-21T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Behave low-sugar candy lands in 2,000 Target stores after TikTok Shop virality",
+      "body": "Behave's Super Sour Skulls sold out in three days on TikTok Shop, catching a Target buyer's attention and securing a nationwide rollout across nearly 2,000 stores. Food creators can ride this with taste-test comparisons, better-for-you candy hauls, and behind-the-scenes founder story content showing how TikTok Shop can launch a brand into major retail.",
+      "categories": ["Food & Beverage"],
+      "source": "Modern Retail",
+      "source_url": "https://www.modernretail.co/operations/candy-brand-behave-bet-everything-on-tiktok-shop-went-viral-and-secured-a-target-launch/",
+      "trend_type": "product",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BehaveCandy", "#BetterForYou", "#TikTokMadeMeBuyIt", "#SnackTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Behave", "Target"],
+        "context": "Low-sugar candy brand went from near-bankruptcy to Target shelves via TikTok Shop virality",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Owala FreeSip color drops create frenzy among lifestyle creators",
+      "body": "Owala's limited-edition Color Drop water bottles sell out in minutes, with Rose Quartz unboxing videos pulling 1.4 million likes. Lifestyle and fitness creators are filming color collection reveals, ranking videos, and hunting for exclusive drops — turning a water bottle into a fashion accessory content category.",
+      "categories": ["Health & Fitness", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/tag/owala",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Owala", "#OwalaFreeSip", "#WaterBottle", "#ColorDrop"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Owala"],
+        "context": "Limited-edition colorway drops turning water bottles into collectible fashion accessories",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Prequelskin cleansing oil and cocokind milky soft cleanser dominate skincare empties content",
+      "body": "Beauty creators are posting mid-year skincare empties and holy-grail roundups, with Prequelskin's cleansing oil, cocokind's milky soft cleanser, and Dieux Skin's Instant Angel moisturizer getting repeat mentions. Creators can film empties reviews, restock hauls, and side-by-side comparisons of these trending products.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/@sarahpalmyra/video/7612836844652334350",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SkincareEmpties", "#SkincareFavorites", "#BestSkincare", "#HolyGrail"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Prequelskin", "cocokind", "Dieux Skin", "Medik8", "BIOHEAL BOH"],
+        "context": "Mid-year skincare empties trend driving product discovery across clean beauty brands",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bracelet stacking and mixed-metal layering takes over spring jewelry content",
+      "body": "Mixing diamonds, plain gold, and different metal colors into layered stacks is the dominant spring jewelry trend on TikTok. Jewelry and accessories creators can film stacking tutorials, day-to-night styling transitions, and affordable vs luxury stack comparison content.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/@timeless_revivals/video/7604271914663578911",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BraceletStack", "#JewelryStacking", "#MixedMetals", "#SpringJewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ula Johnson", "Foundry"],
+        "context": "Bold stacking and mixed-metal layering replacing minimalist jewelry as the dominant aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee recipes surge as summer drink content kicks off",
+      "body": "Coconut milk and cream iced coffee recipes are the drink of the moment, with the tropical flavor and photogenic layered look driving massive engagement. Food and beverage creators can film aesthetic pour shots, recipe variations, and coconut coffee brand taste tests as summer content heats up.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CoconutCoffee", "#IcedCoffee", "#SummerDrinks", "#CoffeeTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Tropical-flavored iced coffee trend with strong visual appeal for summer content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "LED face masks go mainstream as beauty-tech crossover content",
+      "body": "LED light therapy masks continue gaining momentum with their futuristic look and skin treatment benefits creating highly shareable content. Beauty and tech creators are filming dramatic glow-up timelines, unboxing first impressions, and myth-busting videos explaining which wavelengths actually work.",
+      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LEDMask", "#BeautyTech", "#TikTokMadeMeBuyIt", "#SkincareTech"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["CurrentBody", "Dr. Dennis Gross", "Omnilux"],
+        "context": "LED therapy masks bridging beauty and tech content with strong visual hook",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Boho and 70s-inspired fashion aesthetics align across runways and TikTok",
+      "body": "Runways and TikTok are converging around boho aesthetics with 70s undoneness filtering into wardrobes — linen sets, embellished jeans, giant sunglasses, and ball heels are all trending. Fashion creators can film runway-to-streetwear translations, thrift-flip boho looks, and capsule wardrobe builds around the aesthetic.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BohoStyle", "#70sFashion", "#FashionTrends2026", "#OOTD"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "70s boho revival creating content opportunities across runway translations and thrift styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Ooey Gooey and Nee Doh sensory toys driving kids content and parent reviews",
+      "body": "Squishy sensory toys like Ooey Gooey products, Nee Doh Cubes, and 3D-printed fidget dragons are flying off shelves and dominating kids TikTok. Parent creators can film unboxing reactions, ASMR squish compilations, and honest reviews comparing the viral sensory toys flooding the market.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/popular-toys-that-are-trending-right-now",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SensoryToys", "#NeeDoh", "#FidgetToys", "#KidsTikTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nee Doh", "Ooey Gooey", "Schylling"],
+        "context": "Viral sensory and fidget toys creating ASMR and reaction content for parent creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Smart pet feeders and GPS collars trending as pet-tech content grows",
+      "body": "Automatic feeders, GPS tracking collars, and pet health wearables are gaining traction with pet creators showing setup tutorials, real-time tracking demos, and vacation-mode feeding routines. Pet creators can film day-in-the-life tech integrations and honest reviews comparing smart pet gadgets.",
+      "categories": ["Pets", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-pet-product-2026",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#PetTech", "#SmartPetFeeder", "#GPSCollar", "#PetTikTok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Petcube", "Fi", "SureFlap"],
+        "context": "Smart pet gadgets creating tech-review crossover content for pet creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Wax melting lamps replace candles as the viral home aesthetic upgrade",
+      "body": "Wax melting lamps that warm scented wax without a flame are redefining home aromatherapy content on TikTok, with their warm ambient glow making them perfect for aesthetic room tours. Home and lifestyle creators can film cozy setup videos, scent-of-the-day rotations, and candle vs wax lamp comparison content.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#WaxLamp", "#HomeAesthetic", "#Aromatherapy", "#CozyHome"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Flameless wax melting lamps becoming the new cozy home aesthetic staple",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Handheld gimbal stabilizers surge among mobile creator toolkits",
+      "body": "Compact gimbal stabilizers compatible with iPhones and Android devices are trending as must-have creator gear, with smooth cinematic footage demos going viral. Tech and lifestyle creators can film before-and-after stabilization comparisons, budget gimbal roundups, and mobile filmmaking tutorial content.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#GimbalStabilizer", "#MobileFilmmaking", "#CreatorGear", "#ContentCreator"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["DJI", "Zhiyun", "Insta360"],
+        "context": "Affordable gimbal stabilizers becoming essential creator tools with strong demo content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Travel duffel organizer bags become the viral packing content essential",
+      "body": "Travel duffels with dedicated shoe compartments, compression packing cubes, and suitcase handle sleeves are dominating packing content as summer travel season approaches. Travel creators can film satisfying packing videos, carry-on-only challenges, and organized vs chaotic packing comparison content.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#PackWithMe", "#TravelOrganizer", "#TravelTikTok", "#PackingHacks"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Organized travel bags driving satisfying packing content ahead of summer travel season",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#WhatsGoingOn trend mashup creates dance-duo content format",
+      "body": "The mashup of Nicki Minaj's 'Beez in the Trap' and 4 Non Blondes' 'What's Up?' has creators filming back-to-back lip-sync transitions with a friend. Fashion, beauty, and lifestyle creators can use this trending sound to showcase outfit reveals, makeup transformations, or before-and-after room makeovers in the transition moment.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/en/trending/detail/whats-going-on-trend-challenge",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WhatsGoingOn", "#DuoChallenge", "#TikTokTrend"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Trending sound mashup enabling creative transition content across fashion and beauty niches",
+        "price_point": "various"
+      }
+    }
+  ]
+}

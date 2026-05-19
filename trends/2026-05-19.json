@@ -1,0 +1,223 @@
+{
+  "batch_id": "trends-2026-05-19",
+  "scraped_at": "2026-05-19T10:00:00Z",
+  "expires_at": "2026-05-22T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Cloud skin technique dominates beauty TikTok with 870% search surge",
+      "body": "Cloud skin — a soft-focus, blurred finish that mimics a digital filter IRL — has seen searches jump 870% over the past year with 724K searches last month alone. Beauty creators can film side-by-side comparisons (glass skin vs cloud skin), 10-minute 'cloud skin with drugstore products' tutorials, and before-and-after transformations showing how the technique works on different skin types.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/cloud-skin",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CloudSkin", "#BlurredSkin", "#MakeupTrend2026", "#SoftFocusMakeup"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["e.l.f. Cosmetics", "Ultimate Face", "Charlotte Tilbury"],
+        "context": "Searches up 870% YoY; positioned as the successor to glass skin with a more universally flattering matte-luminous hybrid finish",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "PDRN salmon-sperm skincare goes mainstream on TikTok",
+      "body": "PDRN (polydeoxyribonucleotide, derived from salmon DNA) is the buzzy ingredient of 2026, anchored by products like the Medicube Collagen Night Wrapping Mask. Skincare creators can film ingredient-deep-dive explainers, 7-day PDRN challenge videos, and react content around the viral 'salmon sperm on my face' shock factor that drives clicks.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PDRN", "#SalmonSkincare", "#KBeauty", "#SkincareIngredients"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Biodance", "Beauty of Joseon"],
+        "context": "K-beauty ingredient crossover hitting western TikTok; shock-value naming drives virality while clinical backing drives trust",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Ube purple yam supply crunch as TikTok demand outpaces Filipino farms",
+      "body": "Ube has exploded with 120K TikTok posts and 750K+ Instagram posts, a 230% menu increase across US restaurants, and Starbucks expanding to Ube Matcha Latte and Ube Vanilla Macchiato for spring 2026. Filipino farmers are reporting shortages. Food creators can film ube taste-test rankings, DIY ube dessert recipes, and 'is ube the next matcha?' debate content while the supply story adds urgency.",
+      "categories": ["Food & Beverage"],
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/04/26/ube-purple-yam-viral-trend-philippines-supply-crunch.html",
+      "trend_type": "product",
+      "confidence_score": 0.94,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Ube", "#PurpleYam", "#UbeLatte", "#FoodTrend2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Starbucks", "Trader Joes"],
+        "context": "Ube menu offerings up 230% in US over 4 years; Philippine production declining 1.63% annually creating supply tension",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Japanese strawberry desserts drive 28% YoY growth as furutsu sando goes viral",
+      "body": "Japanese strawberries are 2026's breakout food ingredient with 28% year-over-year growth and 23 million+ social posts. Furutsu sando (cream-filled fruit sandwiches) and candied strawberry content are surging. Food creators can film premium strawberry unboxings, furutsu sando tutorials, and 'cheap vs luxury Japanese strawberry' taste tests.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.89,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JapaneseStrawberries", "#FurutsuSando", "#FruitSandwich", "#DessertTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "23M+ social posts; luxury pricing angle helps brands justify premiums; visual appeal drives TikTok virality",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Coordinated sets dominate TikTok Shop fashion as versatile outfit content",
+      "body": "Affordable co-ord sets — matching top-and-bottom combos women can style multiple ways — are the top-performing TikTok Shop fashion category. The setup-reveal-completed look format fits perfectly into short-form video. Fashion creators can film '5 ways to style one co-ord set,' mix-and-match capsule wardrobe content, and budget vs designer set comparisons.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Runway Live",
+      "source_url": "https://www.runwaylive.com/tiktok-shop-fashion-2026-viral-products-women-buying.html",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CoordSet", "#MatchingSet", "#OutfitInspo", "#TikTokShopFinds"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Comfort-luxury hybrids with high search volume (392-420); sales peaking at 1,700+ units in tracked periods on TikTok Shop",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Airbnb declares adult playcations the defining summer 2026 travel trend",
+      "body": "Airbnb's summer 2026 report shows activity-based 'playcations' are reshaping travel, with bookings surging near golf courses, lakefronts, and surf spots. A third of travelers are choosing shorter, closer trips. Travel creators can film destination guides built around specific activities (surfing, boating, hiking), playcation packing lists, and hidden-gem reveals in trending spots like Saugatuck and Nags Head.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Euronews",
+      "source_url": "https://www.euronews.com/travel/2026/05/17/adult-playcations-emerge-as-the-defining-us-summer-travel-trend-according-to-airbnb",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Playcation", "#SummerTravel2026", "#HiddenGems", "#AirbnbFinds"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Airbnb"],
+        "context": "Airbnb data released May 17 showing hobby-centric short trips as dominant summer pattern; one-third of travelers opting for shorter getaways",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "DREO TurboCool misting fan becomes the summer home product to review",
+      "body": "DREO's TurboCool Misting Fan 765S is the breakout home cooling product for summer 2026 — an indoor tower fan that drops room temps up to 10 degrees F via ultra-fine mist from a 6-liter tank, running up to 24 hours at 20dB. Home and lifestyle creators can film unboxing and first-impression reviews, 'does it actually cool a room?' temperature tests, and summer home essentials roundups.",
+      "categories": ["Home & Lifestyle", "Tech & Gadgets"],
+      "source": "T3",
+      "source_url": "https://www.t3.com/home-living/appliances/dreo-turbocool-misting-fan-launch",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#DREOFan", "#MistingFan", "#SummerEssentials", "#HomeTech"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["DREO", "Shark"],
+        "context": "Indoor misting technology previously only outdoor; DREO 765S at $199 with color-changing tank and 20dB whisper mode differentiates from sold-out Shark FlexBreeze",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces replace minimalist pendants as TikTok's jewelry trend",
+      "body": "Charm-loaded necklaces with 5-10+ charms per chain are taking over TikTok jewelry content as the platform shifts from quiet luxury to bold self-expression. Jewelry creators can film 'build my charm necklace with me' content, charm collection reveals, meaningful charm storytelling videos, and affordable vs designer charm dupe comparisons.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "JuJu Loves",
+      "source_url": "https://www.jujuloves.com/blogs/blog/charm-necklaces-trend-report-2026",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#MaximalistJewelry", "#JewelryTrend", "#WearableStorytelling"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Shift from quiet luxury to bold personal storytelling; charm bracelets consistently near 100 in search interest indicating strong recurring demand",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Toniebox 2 drives screen-free parenting content wave on TikTok",
+      "body": "The Toniebox 2 audio player is surging among parent creators, with themed bundles (Disney Princess, Paw Patrol) and improved speaker quality driving unboxing and review content. Baby and kids creators can film Tonie collection hauls, toddler reaction videos, screen-free routine content, and Toniebox 2 vs original comparison reviews.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/toniebox-2",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Toniebox", "#Toniebox2", "#ScreenFreePlay", "#ToddlerMom"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tonies"],
+        "context": "Screen-free parenting movement aligns with Toniebox 2 launch; themed bundles create collectible content opportunities for parent creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Dog cooling mat flop videos become summer's pet content format",
+      "body": "Pet cooling mats are going viral not just as products but as a content format — brands encourage filming dogs dramatically flopping onto the mats, creating highly shareable UGC. Pet creators can film 'first time on the cooling mat' reaction compilations, cooling product roundups for summer, and humorous flop montage edits.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#DogCoolingMat", "#PetCooling", "#DogFlop", "#SummerPets"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Petco", "PetSmart"],
+        "context": "Meme-worthy 'flop' format drives UGC; sellers with branded packaging seeing repeat orders; US pet industry at $152B",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Foldable phone breaks $800 price floor as tech reviewers scramble to cover it",
+      "body": "A new foldable phone that demolishes the category's $800 price floor is shaking up tech review content in May 2026. Tech creators can film budget foldable vs flagship comparisons, durability tests, and 'is a cheap foldable phone worth it?' verdict videos that drive high engagement in the accessible tech space.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com/2026/05/12/the-5-best-tech-gadgets-of-may-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#FoldablePhone", "#BudgetTech", "#TechReview", "#PhoneReview"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "First foldable to break under $800 makes the form factor accessible to a broader audience of tech review creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Vagus nerve stimulation devices trend as at-home wellness tech",
+      "body": "Devices like Neurosym that stimulate the vagus nerve for stress relief and nervous system regulation are gaining momentum among wellness creators. Health and fitness creators can film 'I tried vagus nerve stimulation for 30 days' challenge content, stress-response demos with before/after HRV data, and wellness tech roundup reviews.",
+      "categories": ["Health & Fitness"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/wellness-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#VagusNerve", "#NervousSystemRegulation", "#WellnessTech", "#StressRelief"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Neurosym"],
+        "context": "Part of broader shift from aesthetics-first fitness to nervous system health and mental wellness in 2026",
+        "price_point": "luxury"
+      }
+    }
+  ]
+}

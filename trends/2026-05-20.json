@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-05-20",
+  "scraped_at": "2026-05-20T10:00:00Z",
+  "expires_at": "2026-05-23T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Ube drinks surge 230% on US menus as TikTok fuels global purple yam craze",
+      "body": "Ube has exploded from Filipino staple to mainstream ingredient with 120K TikTok posts and 750K Instagram posts showcasing the vibrant purple hue. Starbucks expanded its 2026 spring lineup with Ube Matcha Latte and Ube Vanilla Macchiato, while ube now features on menus at 95 US chains. Food creators can ride this wave with ube recipe videos, taste tests comparing chain offerings, and DIY ube latte tutorials at home.",
+      "categories": ["Food & Beverage"],
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/04/26/ube-purple-yam-viral-trend-philippines-supply-crunch.html",
+      "trend_type": "product",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Ube", "#UbeLatte", "#PurpleYam", "#TikTokFood"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Starbucks", "Trader Joe's", "Jeni's Ice Cream"],
+        "context": "Ube menu offerings up 230% over four years in the US. Philippines facing supply crunch as global demand outpaces seasonal farming cycles. Positioned as the next matcha — creators who got in early on matcha content should jump on ube now.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#FullFaceNoMascara trend shifts beauty focus to bold brows and dewy skin",
+      "body": "The #fullfacenomascara hashtag has amassed over 1.6M TikTok views with creators showing full glam looks minus mascara, driving a 35% boost in lash serum sales. Met Gala 2026 stars like Lorde and FKA Twigs went mascara-free, cementing the aesthetic. Beauty creators can film side-by-side comparisons, recommend lash serums as alternatives, or do GRWM videos highlighting how skipping mascara changes a full glam routine.",
+      "categories": ["Beauty & Skincare"],
+      "source": "FASHION Magazine",
+      "source_url": "https://fashionmagazine.com/beauty-grooming/no-mascara-trend/",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#FullFaceNoMascara", "#NoMascaraTrend", "#MinimalMakeup", "#MetGala2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Grande Cosmetics", "RevitaLash", "Rare Beauty"],
+        "context": "Part of a broader shift toward minimalist beauty among Gen Z. Celebrity co-signs from Hailey Bieber and Gabbriette have amplified the trend. Lash serum brands are the biggest product winners.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cannes 2026 red carpet sparks creator content around opulent fashion recreation",
+      "body": "The Cannes Film Festival is generating massive fashion content this week with standout looks from Daisy Edgar-Jones in Balenciaga, Barbara Palvin's pregnancy reveal in Miu Miu, and Taylor Russell in custom Dior. Fashion creators can film affordable dupes of red carpet looks, break down styling choices, or react to best and worst dressed moments while the cultural conversation is hot.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "Marie Claire",
+      "source_url": "https://www.marieclaire.com/fashion/celebrity-style/best-cannes-film-festival-red-carpet-fashion-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Cannes2026", "#RedCarpetFashion", "#CannesFilmFestival", "#GetTheLook"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Balenciaga", "Miu Miu", "Dior", "Chanel", "Bottega Veneta"],
+        "context": "Cannes runs through May 24 so content has a multi-day window. Barbara Palvin's pregnancy reveal in couture is the standout moment driving conversation. Silver accessories and maximalist embellishments are the key takeaways for creators.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Hypochlorous acid spray becomes the minimalist skincare must-have on TikTok",
+      "body": "Hypochlorous acid sprays are seeing 132% YoY search growth as TikTok creators share before-and-after results for acne, eczema, and general skin calming. Dermatologists are co-signing the trend, lending it credibility. Skincare creators can review top HOCI sprays like Tower28 SOS Spray and Prequel, film ingredient breakdowns, or do 30-day challenges showing results.",
+      "categories": ["Beauty & Skincare"],
+      "source": "NBC News",
+      "source_url": "https://www.nbcnews.com/select/shopping/hypochlorous-acid-sprays-rcna205824",
+      "trend_type": "product",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#HypochlorousAcid", "#HOCl", "#SkincareRoutine", "#DermApproved"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tower28", "Prequel", "Magic Molecule", "Mario Badescu"],
+        "context": "Originally used in clinical wound care, now crossing into mainstream skincare. Part of the minimalist skincare movement away from 10-step routines. Spate's 2026 report names HOCI alongside PDRN and castor oil as top rising ingredients.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Devil Wears Prada 2 reignites office fashion content and Miranda Priestly cosplay",
+      "body": "The Devil Wears Prada sequel hit theaters May 1 and is still driving massive fashion discourse around the shift from print to digital influence. TikTok creators are filming Miranda Priestly-inspired GRWM videos, recreating iconic outfits, and debating how the film reflects real creator-vs-editor power dynamics. Fashion creators should capitalize with office style content, movie-inspired lookbooks, and hot takes on fashion media evolution.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Runway Live",
+      "source_url": "https://www.runwaylive.com/the-devil-wears-prada-2-and-fashions-2026-shift.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#DevilWearsPrada2", "#MirandaPriestly", "#OfficeFashion", "#FashionTikTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Prada", "Chanel", "Zara"],
+        "context": "The film explores how TikTok creators have disrupted traditional fashion media gatekeepers, making it meta-relevant for the creator audience. Two decades of cultural references give creators deep nostalgic material to work with.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Xiaomi Smart Band 9 goes viral as the budget fitness tracker TikTok creators recommend",
+      "body": "The Xiaomi Smart Band 9 is earning viral status on TikTok for delivering a 1.62-inch AMOLED display, 150+ sports modes, SpO2 monitoring, and 21-day battery life at a fraction of Apple Watch pricing. Fitness and tech creators are posting comparison videos pitting it against premium alternatives. Creators can film unboxing reviews, Apple Watch vs. Xiaomi challenges, or budget fitness gear roundups featuring the Band 9.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "TechRadar",
+      "source_url": "https://www.techradar.com/health-fitness/fitness-trackers/xiaomi-smart-band-9-review",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#XiaomiSmartBand9", "#BudgetFitnessTracker", "#TechReview", "#FitnessTech"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Xiaomi", "Apple", "Fitbit", "Samsung"],
+        "context": "Multiple viral TikTok comparison videos between Band 9 and Apple Watch are driving discovery. The value-for-money angle resonates strongly with budget-conscious creators and their audiences.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese strawberries become 2026's breakout luxury food trend with 23M+ social posts",
+      "body": "Japanese strawberries are trending with 28% YoY growth and over 23 million social media posts celebrating their sweetness, appearance, and exclusivity. Creators are filming unboxing and tasting videos of high-end varieties, using them in minimalist desserts, and visiting specialty fruit shops. Food creators can tap into the luxury food niche with taste tests, layered strawberry cake tutorials, or comparisons of Japanese vs. regular strawberries.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JapaneseStrawberries", "#LuxuryFood", "#FoodTikTok", "#FruitTasting"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Oishii", "Omakase Berry"],
+        "context": "23M+ social posts and 5.3M recipes featuring Japanese strawberries. The visual appeal and premium positioning make them ideal for content creation. Specialty fruit stores are becoming destinations for food creators.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Charm stacking maximalism takes over jewelry TikTok as minimalism fades",
+      "body": "Maximalist charm necklaces are replacing simple pendants as the dominant jewelry trend on TikTok in 2026, with creators showcasing overloaded charm necklaces, ring stacking in mixed metals, and bold bracelet layering. Jewelry and accessories creators can film collection tours, charm-picking hauls, or styling tutorials showing how to mix metals and layer without looking cluttered.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#JewelryStacking", "#MaximalistJewelry", "#JewelryTrends2026"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Monica Vinader", "Missoma"],
+        "context": "Shift from quiet luxury minimalism back to self-expression and maximalism in accessories. Both runway and TikTok are aligning on the overloaded charm trend. Colorful gemstones and personalized pieces are key sub-trends.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "GROWNSY SniffEase Spa 3-in-1 nasal aspirator debuts as must-have baby gadget",
+      "body": "GROWNSY showcased innovative baby care products at ABC Kids Expo 2026, with the SniffEase Spa 3-in-1 Nasal Aspirator earning a Forbes Vetted spotlight for combining spray, suction, and micro-mist in one device. Major retailers including Walmart and Target showed buying interest. Parenting creators can film honest review videos, compare it to traditional aspirators like the Frida NoseFrida, or create sick-baby routine content featuring the gadget.",
+      "categories": ["Baby & Kids"],
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com/news-releases/grownsy-debuted-an-exciting-new-line-of-innovative-baby-care-products-at-abc-kids-expo-2026-302776993.html",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#GROWNSY", "#BabyGadgets", "#ParentingHacks", "#ABCKidsExpo"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["GROWNSY", "Frida Baby", "Babylist"],
+        "context": "GROWNSY is trusted by over 3 million households globally. The product launch at ABC Kids Expo drew attention from Walmart, Target, Wirecutter, Forbes Vetted, and Consumer Reports. Early mover advantage for creators who review it before mainstream retail launch.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Flying bird interactive cat toys drive viral pet content with play reaction videos",
+      "body": "Flying bird toys that flap, spin, and soar through the air are generating highly shareable pet content on TikTok as cats leap and chase the unpredictable movements. Interactive enrichment toys are a growing category alongside puzzle feeders and auto-fetchers. Pet creators can film unboxing reactions, slow-motion chase sequences, or multi-cat competition videos featuring these kinetic toys.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CatToys", "#PetTikTok", "#InteractiveToys", "#CatReaction"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": false
+        },
+        "sentiment": "positive",
+        "related_brands": ["SmartyKat", "Catit", "PetSafe"],
+        "context": "Interactive pet toys that move, light up, or respond to behavior are the broader category trending, but flying bird toys specifically generate the most visually dynamic content. Pet reaction content remains one of TikTok's most reliably viral genres.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Budget travel comparison videos explode on TikTok with debate-driven engagement",
+      "body": "Comparison-style travel content like '$50 a day in Bali vs. $50 a day in Albania' is generating massive comment section engagement as viewers tag friends and debate destinations. Advice-driven travel content is outperforming pure aesthetic videos in 2026 as audiences demand practical value. Travel creators can film daily budget breakdowns, destination face-offs, or 'nobody tells you' tip series to ride this format.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BudgetTravel", "#TravelComparison", "#TravelTikTok", "#TravelHacks"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hostelworld", "Skyscanner", "Booking.com"],
+        "context": "TikTok algorithm in 2026 rewards videos that grab attention immediately and generate comments. Comparison format inherently drives debate and friend-tagging. Only 5% of travelers say social media trends are primary travel motivators, but practical advice content converts better.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dopamine decor trend brings bold color and print maximalism to home content",
+      "body": "Dopamine decor featuring bright, mood-boosting colors and mismatched prints is the dominant home interior aesthetic on TikTok in 2026, replacing the muted minimalism of recent years. Wax melting lamps and LED crystal vases are among the viral product tie-ins. Home and lifestyle creators can film room makeovers, haul videos of colorful decor finds, or before-and-after transformations embracing the bold aesthetic.",
+      "categories": ["Home & Lifestyle"],
+      "source": "PORTER / Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#DopamineDecor", "#HomeDecor", "#InteriorDesign", "#ColorfulHome"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Urban Outfitters Home", "Anthropologie", "Target Threshold"],
+        "context": "The aesthetic embraces layers of references, mixed prints, and bold colors as a deliberate counterpoint to quiet luxury and beige minimalism. Wax melting lamps and LED crystal vases are the top-selling product tie-ins driving creator content.",
+        "price_point": "various"
+      }
+    }
+  ]
+}

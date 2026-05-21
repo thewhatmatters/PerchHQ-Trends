@@ -1,0 +1,280 @@
+{
+  "batch_id": "trends-2026-05-21",
+  "scraped_at": "2026-05-21T10:00:00Z",
+  "expires_at": "2026-05-24T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Shaved frozen fruit snack trend takes over TikTok as the ultimate summer treat",
+      "body": "The 'shaved fruit' technique — using a microplane to shave frozen peaches, strawberries, or mangoes into fluffy, sorbet-like bowls — is dominating FYPs this week. Food creators can film the satisfying ASMR shaving process, do flavor combo taste tests, add toppings like tajín or condensed milk, or compare it to store-bought sorbets. The visual payoff is huge and the recipe requires zero cooking skill.",
+      "categories": ["Food & Beverage"],
+      "source": "The Bestestever",
+      "source_url": "https://www.thebestestever.com/food/trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ShavedFruit", "#FrozenFruitHack", "#HealthySnack", "#SummerTreats"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Microplane", "Trader Joe's", "Dole"],
+        "context": "Part of the broader healthy comfort food wave in 2026. The technique went viral because the texture transformation is visually stunning — frozen fruit becomes snow-like fluff. Perfect timing as summer kicks off.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cannes 2026 sheer and embellished looks fuel affordable dupe content for fashion creators",
+      "body": "Week two of Cannes 2026 is delivering standout fashion moments — Riley Keough's sheer blush Chanel two-piece, Cate Blanchett's satin fringe Givenchy gown, and Colman Domingo's purple diamond-encrusted Valentino shirt with a train. Fashion creators can film affordable recreations of these red carpet looks, break down the key trends (sheer fabrics, fringe, maximalist embellishments), or do best/worst dressed reaction content while the festival is still running through May 24.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "W Magazine",
+      "source_url": "https://www.wmagazine.com/fashion/cannes-film-festival-2026-red-carpet-dresses-photos",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Cannes2026", "#RedCarpetFashion", "#GetTheLook", "#CannesStyle"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Chanel", "Givenchy", "Valentino", "Miu Miu", "Jacquemus", "Celine"],
+        "context": "Festival runs through May 24, giving creators a multi-day content window. Key theme this year is attendees defying the festival's ban on naked-dressing with sheer ensembles. Fringe, 3D embellishments, and feathers are the standout details.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Basil pesto egg hack becomes the most-reposted brunch content on TikTok",
+      "body": "Replacing cooking oil with a dollop of basil pesto when frying eggs has become one of the most shared brunch hacks on TikTok in May 2026. The pesto crisps up around the edges while infusing herby flavor into the egg. Food creators can film the sizzle shot (extremely satisfying), do pesto brand taste tests, layer it into full brunch build videos, or experiment with other condiment-as-oil swaps like chili crisp or harissa.",
+      "categories": ["Food & Beverage"],
+      "source": "So Yummy",
+      "source_url": "https://soyummy.com/uncategorized/viral-tiktok-food-hacks-that-actually-work-the-so-yummy-guide-to-kitchen-magic-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PestoEggs", "#BrunchHack", "#TikTokFood", "#EggRecipe"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Rao's", "Trader Joe's", "DeLallo"],
+        "context": "The appeal is the simplicity — one ingredient swap creates a visually and flavor-rich result. The condiment-as-cooking-oil format is spawning variations (chili crisp eggs, harissa eggs, miso butter eggs) that extend the content cycle.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm-stacked maximalist necklaces replace minimalist pendants as TikTok's jewelry must-have",
+      "body": "Maximalist charm necklaces loaded with trinkets, initials, and themed charms are taking over TikTok jewelry content, with both runway brands and independent sellers driving the trend. Jewelry and accessories creators can film charm collection hauls, 'build your own charm necklace' tutorials, themed charm stack ideas (travel, zodiac, vintage), or compare luxury vs. budget charm options.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#JewelryTrends2026", "#MaximalistJewelry", "#CharmStack"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Monica Vinader", "Missoma", "Jenny Bird"],
+        "context": "Part of the broader shift from minimalism to maximalism in jewelry. TikTok users love the personal storytelling angle — each charm represents a memory or identity. Mixed metals (gold + silver together) are also trending as part of this movement.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "CatPOV cameras go viral with 25M+ views per video as pet creators strap on action cams",
+      "body": "Cat point-of-view cameras — small action cameras strapped to cat collars — are generating 25M+ views per video as viewers love seeing the world through their cat's eyes. Pet creators can film 'day in the life' POV content, compare different cat cam setups, create compilation edits of their cat's secret adventures, or do reaction videos watching their cat's footage for the first time.",
+      "categories": ["Pets", "Tech & Gadgets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CatPOV", "#CatCam", "#PetTech", "#CatLife"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["GoPro", "Insta360", "DJI Action"],
+        "context": "The pet tech market is valued at $7.63B in 2026. CatPOV content works because it combines two viral ingredients: pet content and unexpected perspective shots. The 'owner reacts to footage' format adds a second layer of engagement.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Japanese strawberries become 2026's breakout dessert ingredient with 23M+ social posts",
+      "body": "Japanese strawberries have surged 28% YoY in search growth with over 23M social media posts showcasing their oversized, perfectly shaped appearance in layered cakes, minimalist desserts, and strawberry sandwiches (ichigo sando). Food creators can film unboxing hauls of premium Japanese strawberry varieties, recreate Japanese-style strawberry desserts, do taste comparison content between Japanese and domestic varieties, or visit specialty shops that carry them.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseStrawberry", "#IchigoSando", "#FoodTikTok", "#DessertTrend"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Omakase Berry", "Oishii", "H Mart"],
+        "context": "Japanese strawberries are prized for their sweetness, appearance, and exclusivity — some varieties sell for $5-10 per berry. The visual perfection makes them inherently shareable. This follows the path of ube and matcha as Asian-origin ingredients going mainstream via social media.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Wax melting lamps replace candles as TikTok's new home ambiance essential",
+      "body": "Wax melting lamps that use a halogen bulb to melt scented wax cubes without an open flame are going viral on TikTok through satisfying slow-melt videos and bedroom aesthetic content. Home and lifestyle creators can film unboxing and setup videos, compare wax melt scents, show the lamp as part of bedroom or living room makeovers, or do 'candle vs. wax lamp' scent throw comparisons.",
+      "categories": ["Home & Lifestyle"],
+      "source": "CJ Dropshipping",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WaxMeltLamp", "#HomeAesthetic", "#RoomDecor", "#CleanTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Scentsy", "Yankee Candle", "Bath & Body Works"],
+        "context": "Positioned as a safer, cleaner alternative to traditional candles — no soot, no open flame, and the visual of wax slowly melting under warm light is inherently satisfying to film. The product sits at the intersection of #CleanTok and #RoomDecor aesthetics.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Striviks foam roller goes viral as the at-home recovery tool fitness creators swear by",
+      "body": "The Striviks foam roller is trending on TikTok as fitness creators share before-and-after mobility demonstrations and recovery routine content. Health and fitness creators can film guided foam rolling routines for specific muscle groups, compare it to other recovery tools like Theragun, or create 'desk worker stretching' content targeting the WFH audience that resonates broadly.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/trending-fitness-products",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#FoamRolling", "#Recovery", "#FitnessTikTok", "#MobilityWork"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Striviks", "TriggerPoint", "Hyperice"],
+        "context": "Wearable tech is the #1 fitness trend for 2026 per ACSM, but recovery tools are the sleeper category. Foam rolling content works because the physical transformation (before/after flexibility) is visually demonstrable in short-form video.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Bracelet stacking surges as TikTok's spring jewelry styling trend",
+      "body": "Bracelet stacking has become a major spring 2026 jewelry trend on TikTok, following the ring stacking wave. Creators are layering bangles, beaded bracelets, cuffs, and chain bracelets across both wrists for maximalist arm candy. Jewelry and fashion creators can film bracelet stack tutorials, share 'what I'm stacking this week' OOTDs, compare budget vs. luxury stacking options, or create styling guides for different aesthetics (coastal, boho, minimalist-meets-maximalist).",
+      "categories": ["Jewelry & Accessories", "Fashion & Apparel"],
+      "source": "Artizan Joyeria",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/tiktok-jewelry-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BraceletStack", "#ArmCandy", "#JewelryTikTok", "#SpringStyle"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pura Vida", "BaubleBar", "Gorjana", "Alex and Ani"],
+        "context": "The evolution from ring stacking to bracelet stacking shows TikTok jewelry trends moving to larger, more visible statement pieces. Shell jewelry and beaded styles are popular within the stacking trend, aligning with the coastal/mermaid-core aesthetic.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mini wireless projectors drive viral 'bedroom glow-up' content for home and tech creators",
+      "body": "Mini wireless rechargeable projectors are a breakout hit in 2026, with sellers partnering with creators for bedroom transformation videos that drove 10,000+ orders in two-week bursts. Home and tech creators can film dramatic room transformation before-and-afters, review budget vs. premium projector options, create 'outdoor movie night' setups for summer, or do comparison content between projectors and big-screen TVs.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "Printify",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.89,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MiniProjector", "#BedroomGlowUp", "#RoomMakeover", "#TechFinds"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Nebula", "XGIMI", "BenQ"],
+        "context": "LED galaxy projectors at $15 became a Q1 2026 breakout on TikTok Shop. The shareable moment is the dark room suddenly lit up by a movie scene or starscape. Perfect summer timing for outdoor movie night content.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Travel creators pivot to advice-driven 'budget vs. budget' comparison format for summer 2026",
+      "body": "The comparison video format — like '$50 a day in Bali vs. $50 a day in Albania' — is outperforming traditional cinematic travel content on TikTok in 2026. Travel creators can adopt this format by picking two destinations and comparing real costs, film '5 things nobody tells you about visiting [destination]' quick-fire tip videos, or create hyper-local street food guides featuring specific stalls and spots rather than generic restaurant lists.",
+      "categories": ["Travel & Hospitality", "Food & Beverage"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TravelTikTok", "#BudgetTravel", "#TravelHacks", "#SummerTravel2026"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Hostelworld", "Skyscanner"],
+        "context": "Only 21% of travelers say viral trip inspo lives up to expectations, so audiences are shifting to practical, advice-driven content. The algorithm now rewards fast-start videos with bold statements over slow cinematic intros. Summer travel season makes this format especially timely.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "DIY slime and craft kit content surges for kid-focused creators heading into summer",
+      "body": "Slime kits and DIY craft kits for kids are seeing sustained momentum on TikTok heading into summer 2026, with search volumes and sales peaking. Baby and kids creators can film satisfying slime-making ASMR content, do craft kit unboxings and reviews, create 'summer activity' roundups for parents, or film kids reacting to and playing with trending kits.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_trends_for_tweens",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#SlimeASMR", "#KidsCrafts", "#DIYKits", "#SummerActivities"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Elmer's", "Crayola", "Kiwi Crate"],
+        "context": "Search volumes for DIY activity kits for kids peaked at 618 in December 2025 with sustained sales into 2026. Summer break timing makes this category especially relevant for parent-focused and kid-focused creators looking for activity content.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "PDRN becomes the 'next niacinamide' as skincare creators break down the buzzy ingredient",
+      "body": "PDRN (polydeoxyribonucleotide) is the beauty ingredient of the moment in 2026, featured in multiple viral Korean skincare products. Beauty creators can film ingredient deep-dive explainers, review PDRN serums and masks, create 30-day challenge content tracking results, or compare PDRN products across price points to help viewers find the best value.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#KoreanSkincare", "#SkincareIngredients", "#GlassSkin"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Biodance", "Medicube", "Beauty of Joseon", "COSRX"],
+        "context": "PDRN follows the trajectory of niacinamide and snail mucin as Korean skincare ingredients breaking into the mainstream via TikTok. The ingredient is positioned within the broader 'skin longevity' movement that is replacing traditional anti-aging messaging in 2026.",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

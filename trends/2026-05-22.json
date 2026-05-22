@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-05-22",
+  "scraped_at": "2026-05-22T10:00:00Z",
+  "expires_at": "2026-05-25T10:00:00Z",
+  "trends": [
+    {
+      "headline": "PDRN salmon DNA serums become the hottest K-beauty ingredient on TikTok with 800M+ views",
+      "body": "Polydeoxyribonucleotide (PDRN) extracted from salmon sperm has exploded from Korean clinic secret to mainstream skincare obsession. Three major K-beauty brands have launched serums around it and skinfluencers are posting '7-day PDRN transformation' videos showing visible plumping and glow. Beauty creators can film ingredient deep-dives explaining the science vs. hype, do before-and-after serum tests comparing PDRN products at different price points, or react to the 'salmon sperm on your face' shock factor that stops scrollers cold.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Skinventry",
+      "source_url": "https://www.skinventry.com/blog/salmon-dna-pdrn-skincare-trend",
+      "trend_type": "product",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#SalmonDNA", "#KBeauty", "#SkincareRoutine", "#SkinTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Skinventry", "Medik8", "Beauty of Joseon", "COSRX"],
+        "context": "PDRN has crossed over from injectable clinical treatments in Korea to at-home topical serums. The ingredient activates adenosine receptors for skin repair. The 'ick factor' of salmon sperm is actually fueling virality because it stops thumbs and drives curiosity clicks.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Devil Wears Prada 2 audio trend fuels 'Miranda-approved' fashion edits across TikTok",
+      "body": "The May 1 release of Devil Wears Prada 2 turned 'And Emily... that's all' into TikTok's dominant vibe-contrast audio within days. Fashion creators are pairing two looks, two products, or two versions of themselves — polished vs. reality — and letting the Miranda Priestly quote land the punchline. Creators can film elevated outfit-of-the-day content styled as if Miranda is judging them, do affordable recreations of the film's new looks, or create workplace humor skits contrasting their office persona with their real self.",
+      "categories": ["Fashion & Apparel"],
+      "source": "SocialPilot",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.94,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#DevilWearsPrada2", "#MirandaPriestly", "#FashionTikTok", "#OOTD", "#AndEmilyThatsAll"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Prada", "Chanel", "Zara", "Mango"],
+        "context": "The film's release on May 1 reactivated two decades of Miranda Priestly cultural memory. The audio is a versatile vibe-contrast engine that works across niches — fashion brands are using it to contrast premium pieces with basics. Still in peak virality window through late May.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Ube everything: purple yam trend drives 230% menu growth and TikTok food creator content surge",
+      "body": "Ube has graduated from Filipino staple to global viral ingredient, with appearances on 95 U.S. chain menus and 120K+ TikTok posts. Starbucks expanded its spring 2026 lineup to include Ube Matcha Latte and Ube Vanilla Macchiato. Filipino farmers are reporting supply shortages as demand outpaces production. Food creators can film ube recipe challenges, taste-test ube items across chains, create 'ube vs. matcha' comparison content, or spotlight the Filipino origins and the cultural conversation around the trend.",
+      "categories": ["Food & Beverage"],
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com/2026/04/26/ube-purple-yam-viral-trend-philippines-supply-crunch.html",
+      "trend_type": "product",
+      "confidence_score": 0.95,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Ube", "#PurpleYam", "#FoodTrend", "#FilipinoFood", "#UbeLatte"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": ["Starbucks", "Trader Joe's", "Jollibee"],
+        "context": "Ube offerings have risen 230% across U.S. restaurant menus in four years. The vibrant purple color is extremely camera-friendly. Supply shortages from the Philippines add urgency and a cultural conversation angle about commodification of traditional ingredients.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Qure Q-Rejuvalight Pro LED mask goes viral on BeautyTok ahead of Memorial Day sales",
+      "body": "At-home LED light therapy masks have become a dominant beauty tech category, with the Qure Q-Rejuvalight Pro leading the pack on TikTok thanks to its app-controlled customizable treatments targeting different facial zones. The Shark CryoGlow with under-eye cooling plates is also surging. With Memorial Day deals dropping prices on these devices, beauty creators can film unboxing and first-impression content, do side-by-side comparisons of the top masks, or create '30-day LED mask challenge' series showing progressive results.",
+      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "source": "SheKnows",
+      "source_url": "https://www.sheknows.com/living/articles/1234865123/qure-light-therapy-mask-review-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LEDMask", "#BeautyTech", "#RedLightTherapy", "#SkincareTech", "#MemorialDaySale"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Qure", "Shark Beauty", "Omnilux", "Ulike"],
+        "context": "LED face masks have graduated from clinical luxury to at-home essential. Memorial Day weekend sales are creating a purchase trigger window. The futuristic look of these masks makes for highly shareable selfie and routine content.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "CatPOV collar cameras drive massive pet creator engagement with 25M+ views per video",
+      "body": "Strapping small cameras like the Insta360 GO 3S to cat collars has become one of the most engaging pet content formats on TikTok, with accounts like @mr.kitters.the.cat and @ivartheblindcat pulling tens of millions of views per clip. The appeal is the unscripted authenticity — cats exploring neighborhoods, encountering other animals, and revealing their secret lives. Pet creators can film their own CatPOV adventures, do camera setup tutorials, create compilation edits of the best moments, or do 'what my cat does when I leave' reveal content.",
+      "categories": ["Pets", "Tech & Gadgets"],
+      "source": "iHeartCats",
+      "source_url": "https://iheartcats.com/tiny-camera-reveals-what-life-looks-like-from-cats-perspective/",
+      "trend_type": "content_format",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#CatPOV", "#CatCamera", "#PetTok", "#CatLife", "#Insta360"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Insta360", "GoPro"],
+        "context": "The format works because it reveals a genuinely unknown perspective — what cats actually do when roaming. No staging required, which makes the content feel authentic. The Insta360 GO 3S is the most commonly used camera due to its tiny form factor.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Nordstrom Half-Yearly Sale sparks massive haul and try-on content window for fashion creators",
+      "body": "Nordstrom's Half-Yearly Sale running May 21 through June 1 is offering up to 50% off designer brands including Vince, Tory Burch, and Open Edit. This is Nordstrom's biggest sale outside the Anniversary Sale and items are already selling out fast. Fashion creators can film haul videos with best-finds roundups, do price-per-wear breakdowns of designer pieces at sale prices, create 'what to buy vs. skip' guides, or style full outfits entirely from sale picks.",
+      "categories": ["Fashion & Apparel", "Jewelry & Accessories"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/shopping/nordstrom-half-yearly-sale-may-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#NordstromSale", "#MemorialDayDeals", "#FashionHaul", "#DesignerSale", "#HalfYearlySale"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Nordstrom", "Vince", "Tory Burch", "Open Edit", "J.Crew"],
+        "context": "Memorial Day weekend is the biggest shopping event between spring and Prime Day. The sale is live now through June 1, giving creators an active purchase window to drive affiliate content. J.Crew is also running 40-50% off with code SUMMER.",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces replace minimalist pendants as TikTok's dominant jewelry trend",
+      "body": "The pendulum has swung hard from quiet luxury to loud, expressive jewelry in 2026. Charm-based necklaces loaded with personalized pendants, beaded bracelets, and bracelet stacking are dominating TikTok jewelry content. Minimalism is fading and statement pieces are taking over. Jewelry creators can film 'build your stack with me' styling videos, do charm collection tours, create budget vs. luxury charm comparison content, or show how to mix vintage-inspired lockets with modern pieces.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#JewelryTrends", "#BraceletStack", "#MaximalistJewelry", "#BeadedJewelry"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "BaubleBar", "Missoma"],
+        "context": "The shift from minimalism to maximalism in jewelry mirrors the broader fashion move away from quiet luxury. Charm jewelry is inherently personal and customizable, which drives engagement because viewers want to show off their unique combinations. Beaded and vintage-inspired pieces are also surging.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Southeast Asia's hidden gems replace overexposed destinations as TikTok travel creators' top picks",
+      "body": "Travel creators are finding massive engagement by showcasing lesser-known Southeast Asian destinations — Siargao, Coron, and Siquijor in the Philippines are replacing overexposed Palawan content, while Vietnam's Dalat and Ha Giang Loop are trending with motorbike adventure content. Laos and Cambodia's rural provinces are also pulling huge views. Travel creators can film '$50 a day' budget comparison videos between destinations, slow-travel vlogs spending weeks in one place, or hyper-local food guides focused on single stalls or neighborhoods.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#HiddenGems", "#SoutheastAsia", "#SlowTravel", "#Siargao", "#HaGiangLoop"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Osprey", "Airbnb", "Hostelworld"],
+        "context": "TikTok algorithm heavily favors photo carousels from these destinations. The 'slow travel' format — spending weeks in one place — is outperforming traditional highlight-reel content. Solo female travel logistics content is a particularly high-engagement sub-niche.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Ooey Gooey sensory toys fly off Walmart shelves as the viral kids' toy of spring 2026",
+      "body": "Ooey Gooey squishy sensory toys have become a TikTok sensation driving major Walmart sell-outs. The soft, satisfying texture makes them perfect for unboxing ASMR content, and they're joining the broader fidget/sensory toy wave alongside Needoh and 3D-printed articulated animals. Kid and family creators can film ASMR unboxing and squish compilations, do toy haul reviews comparing the hottest sensory toys, or create 'which one is most satisfying' ranking videos that drive comment engagement.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/popular-toys-that-are-trending-right-now",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#OoeyGooey", "#SensoryToys", "#ToyReview", "#KidsTok", "#SquishyToys"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Walmart", "Needoh", "OMG Pop Fidgety"],
+        "context": "Sensory toys continue to dominate the kids' toy market on TikTok. The tactile, squishy nature of Ooey Gooey toys makes them ideal for ASMR content which performs well on the platform. 3D-printed articulated animals are another rising sub-trend in the same space.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Merach Ab Twister and Striviks foam roller surge as TikTok's top home fitness gear picks",
+      "body": "The Merach Ab Twister for core toning and the Striviks foam roller for recovery are the breakout fitness gadgets of spring 2026 on TikTok, with creators showcasing them in quick workout routines and recovery content. MaryRuth's Liquid Multivitamin has also hit $29M+ in GMV on TikTok Shop. Health and fitness creators can film 30-day challenge videos with these products, do honest review and results content, create morning routine videos featuring supplements alongside workout gear, or compare budget vs. premium fitness equipment.",
+      "categories": ["Health & Fitness"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_health_trend",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#FitTok", "#HomeWorkout", "#AbTwister", "#FoamRoller", "#FitnessGadgets"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Merach", "Striviks", "MaryRuth Organics"],
+        "context": "Fitness creators thrive by showing products as part of daily habits — morning routines, post-workout recovery, etc. The #HighProtein and #Wellness hashtags have billions of views. Supplements and compact home workout gear are the two fastest-growing TikTok Shop fitness sub-categories.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "LED galaxy projectors remain the king of #CleanTok bedroom glow-up content",
+      "body": "Sub-$30 LED galaxy projectors continue to go viral on TikTok, with a $15 model driving over 10,000 orders in two weeks after a single creator's bedroom transformation video blew up in Q1 2026. The Homeika Cordless Vacuum ($25M+ GMV on TikTok) is another home creator staple. Home and lifestyle creators can film room transformation before-and-afters, create 'Amazon finds under $30' roundups featuring LED lighting, or do aesthetic room tour content that naturally showcases affordable home tech.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Printify",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CleanTok", "#RoomGlowUp", "#LEDLights", "#AmazonFinds", "#BedroomMakeover"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Homeika", "Amazon Basics"],
+        "context": "The visual wow-factor of a dark room lit up with galaxy projections is extremely shareable content. Budget home products consistently outperform expensive ones on TikTok because the value proposition drives impulse purchases. #CleanTok remains one of the platform's most engaged communities.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cannes 2026 sheer looks and fringe details drive get-the-look dupe content into week two",
+      "body": "Week two of Cannes 2026 continues to fuel fashion creator content with standout looks like Cate Blanchett's satin fringe Givenchy gown and Riley Keough's sheer blush Chanel two-piece. The key trends — sheer fabrics, 3D embellishments, and dramatic fringe — are perfect for affordable recreation content. Fashion and beauty creators can break down the week's best red carpet beauty looks, film budget dupe hauls recreating celebrity outfits, or create makeup tutorials matching specific Cannes beauty moments.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "W Magazine",
+      "source_url": "https://www.wmagazine.com/fashion/cannes-film-festival-2026-red-carpet-dresses-photos",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#Cannes2026", "#RedCarpetFashion", "#GetTheLook", "#FashionDupes", "#CannesStyle"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Chanel", "Givenchy", "Valentino", "Miu Miu"],
+        "context": "Cannes runs through May 24, creating a multi-day content window that is still active. The festival's unofficial theme this year is defying the ban on naked dressing with sheer ensembles. Fringe and 3D embellishments are the standout details translating from runway to TikTok.",
+        "price_point": "luxury"
+      }
+    }
+  ]
+}

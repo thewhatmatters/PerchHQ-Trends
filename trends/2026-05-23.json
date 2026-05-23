@@ -1,0 +1,280 @@
+{
+  "batch_id": "trends-2026-05-23",
+  "scraped_at": "2026-05-23T10:00:00Z",
+  "expires_at": "2026-05-26T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Climate-adaptive skincare goes mainstream as brands launch environment-sensing formulas",
+      "body": "Smart skincare formulas that react to humidity, temperature, and UV exposure are moving from niche K-beauty labs to mass-market shelves. Brands are marketing 'biome-responsive' moisturizers and serums that shift texture based on your environment. Beauty creators can film side-by-side tests wearing the same product in different climates (AC vs. outdoors), do ingredient breakdowns explaining the adaptive tech, or create 'one product, five cities' travel skincare content.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#ClimateAdaptiveBeauty", "#SmartSkincare", "#SkinTok", "#SkincareRoutine"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Tatcha", "Laneige", "Drunk Elephant", "Amorepacific"],
+        "context": "The shift from anti-aging to skin longevity has opened the door for science-forward products that promise to adapt in real time. Creators are testing these claims on camera, and the visual contrast between environments makes for compelling content.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Miranda Priestly audio from Devil Wears Prada 2 dominates fashion and beauty edits heading into late May",
+      "body": "Three weeks after the film's May 1 release, the 'And Emily... that's all' audio remains TikTok's top vibe-contrast sound. Fashion and beauty creators are pairing polished looks against chaotic reality, using the audio as a punchline for outfit transformations, GRWM fails, and product reveals. Creators can film 'Miranda-approved vs. Monday morning' outfit contrasts, do affordable dupes of the film's updated looks, or create beauty tutorials styled as if they're prepping for Runway magazine.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "SocialPilot",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DevilWearsPrada2", "#MirandaPriestly", "#FashionTikTok", "#GRWM", "#OOTDInspo"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Prada", "Zara", "Mango", "H&M"],
+        "context": "The audio works as a universal vibe-contrast engine across beauty, fashion, and lifestyle niches. Still in peak virality window through end of May as the film continues its theatrical run and word-of-mouth spreads.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee becomes the signature summer drink on TikTok replacing cold brew",
+      "body": "Cold brew is out, coconut-infused iced coffee is in. Creators are blending coconut milk, coconut cream, and even toasted coconut flakes into iced coffee for a tropical twist that photographs beautifully. The creamy white-on-brown layered pour is inherently visual and driving massive engagement. Food creators can film aesthetic pour videos with the layering technique, do coconut coffee recipe roundups comparing homemade vs. cafe versions, or create 'summer coffee menu' content ranking tropical coffee combos.",
+      "categories": ["Food & Beverage"],
+      "source": "Food V Love",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CoconutCoffee", "#IcedCoffee", "#SummerDrinks", "#CoffeeTikTok", "#CoffeeRecipe"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Starbucks", "Dunkin", "Califia Farms", "Nutpods"],
+        "context": "The shift from cold brew to coconut coffee mirrors the broader tropical aesthetic trend in food content for summer 2026. The layered pour is a visual hook that drives saves and shares.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Bala Bangles and stylish ankle weights surge again as summer fitness accessorizing takes off",
+      "body": "Aesthetic ankle weights are back in a big way, driven by fitfluencers who style them as fashion accessories during Pilates, walks, and hot-girl-walk content. Bala Bangles in new seasonal colorways are leading the trend, with creators showing how to incorporate them into everyday outfits. Fitness creators can film 'weighted walk' routines comparing results with and without weights, do Pilates follow-along content featuring the weights, or create 'fitness accessory haul' videos reviewing stylish workout gear.",
+      "categories": ["Health & Fitness"],
+      "source": "BuzzFeed",
+      "source_url": "https://www.buzzfeed.com/emmalord9/tiktok-fitness-products",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BalaBangles", "#AnkleWeights", "#Pilates", "#HotGirlWalk", "#FitTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Bala", "P.volve", "Amazon Basics"],
+        "context": "The intersection of fitness and fashion continues to drive product virality. Bala's seasonal color drops create urgency and the weights double as outfit accessories in content, making them more shareable than generic fitness equipment.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "TikTok Go launches in-app travel booking — creators can now earn commissions on destination content",
+      "body": "TikTok officially rolled out TikTok Go on May 12, letting U.S. users book hotels and experiences directly through travel videos. Creators with 1,000+ followers can tag bookable stays and earn commissions through Booking.com, Expedia, and Viator integrations. Travel creators can film destination budget breakdowns with direct booking links, create 'book what you see' content showing the full funnel from video to reservation, or do head-to-head destination comparisons with embedded booking options.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#TikTokGo", "#TravelTikTok", "#BookableTikTok", "#TravelCreator", "#SummerTravel"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Booking.com", "Expedia", "Viator", "GetYourGuide"],
+        "context": "This is a paradigm shift for travel creators — content now directly generates booking revenue rather than relying solely on brand deals or affiliate links. The low 1,000-follower threshold makes it accessible to micro-creators. Launched May 12, still in early adoption phase.",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "LED mood lights under $30 continue dominating bedroom glow-up content on TikTok",
+      "body": "Affordable LED mood lights remain one of the most consistently viral home products on TikTok, with creators filming dramatic before-and-after bedroom transformations using sub-$30 lighting setups. Sunset lamps, crystal vase lamps, and color-changing strip lights are the top sellers. Home creators can film room transformation timelapses showing the lighting impact, do '$50 room glow-up' challenge videos, or create cozy ambiance content comparing different lighting products side by side.",
+      "categories": ["Home & Lifestyle"],
+      "source": "CJ Dropshipping",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#RoomGlowUp", "#MoodLighting", "#LEDLights", "#BedroomMakeover", "#HomeTikTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Govee", "LIFX", "Hue"],
+        "context": "Mood lighting is an evergreen TikTok product category because the on-camera transformation is dramatic and the price point is accessible. The crystal vase lamp variant is the newest iteration generating fresh content.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "DJI Flip becomes the go-to creator drone with sub-250g weight and 4K cinematic shots",
+      "body": "The DJI Flip's unique folding design and sub-250g weight (no registration required in most countries) has made it the breakout tech product for travel and lifestyle creators in spring 2026. Its 48MP camera and 4K/60fps recording are fueling a wave of aerial content from everyday creators who previously couldn't justify a full-size drone. Tech creators can film unboxing and first-flight reactions, compare footage quality against smartphone stabilizers, or create 'cinematic B-roll for beginners' tutorials showing what the Flip captures.",
+      "categories": ["Tech & Gadgets"],
+      "source": "gagadget",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DJIFlip", "#DroneContent", "#AerialVideo", "#TechTikTok", "#ContentCreator"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["DJI"],
+        "context": "The sub-250g weight class removes the registration barrier that kept casual creators from drone content. The folding form factor is inherently unboxing-friendly. Travel and real estate creators are the primary adopters driving viral content.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yoto Player leads the screen-free kids tech movement as parents seek anti-screen alternatives",
+      "body": "The Yoto Player — a screen-free audio device for kids using physical cards for stories, music, and podcasts — is surging on parenting TikTok as the anti-screen movement intensifies. Parents are posting 'screen-free morning routine' and 'Yoto card collection' content that resonates with wellness-minded families. Parenting creators can film day-in-the-life content showing screen-free routines, do Yoto card hauls and reviews, or create comparison content between Yoto and other kids' audio devices.",
+      "categories": ["Baby & Kids"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#YotoPlayer", "#ScreenFreeKids", "#MomTok", "#ParentingTips", "#ToddlerLife"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Yoto", "Toniebox", "Storypod"],
+        "context": "The screen-free kids tech category is growing rapidly as parents push back against tablet dependency. Yoto's collectible card model creates ongoing content opportunities (hauls, wishlists, swaps) similar to how toy unboxings work.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Smart pet water fountains with filtration trending as pet parents upgrade summer hydration",
+      "body": "Automatic water fountains with built-in filtration and app-connected timers are the breakout pet product of late May, driven by 'summer pet care essentials' content. Creators are filming unboxing and setup videos showing cats and dogs reacting to the flowing water for the first time. Pet creators can film reaction videos of pets discovering the fountain, create 'summer pet essentials' haul content, or do comparison reviews of fountains at different price points from $28 to $45.",
+      "categories": ["Pets"],
+      "source": "Dropified",
+      "source_url": "https://www.dropified.com/blog/pet-products-dropshipping-in-2026-best-selling-items-suppliers-profit-margins/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#PetTikTok", "#CatFountain", "#DogMom", "#PetEssentials", "#SummerPetCare"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Catit", "PetSafe", "Veken"],
+        "context": "Pet reaction content to new products consistently performs well on TikTok. The summer heat angle gives this product seasonal urgency. The filtration and smart features appeal to the 'pet parent' demographic that treats pets like family members.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm necklace maximalism replaces minimalist pendants as the dominant jewelry trend on TikTok",
+      "body": "Maximalist charm necklaces loaded with personal, eclectic charms are replacing the clean minimalist pendant look that dominated the past two years. Ring stacking and mixed-metal layering are accelerating the shift toward bold, personalized jewelry. Jewelry creators can film 'build your charm necklace' tutorials, do charm haul and collection videos, or create 'minimalist vs. maximalist' comparison content showing the style evolution.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#JewelryTrend", "#MaximalistJewelry", "#RingStack", "#JewelryTikTok"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Missoma", "Monica Vinader", "Mejuri"],
+        "context": "The shift from minimalism to maximalism in jewelry mirrors broader fashion trends toward self-expression and bold styling. Charm necklaces have high content potential because each charm tells a personal story, inviting audience engagement and repeat purchase content.",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Budget travel breakdown videos dominate saves as '$50 a day in...' format goes viral",
+      "body": "Practical budget breakdown content showing exactly how much a day costs in various destinations is outperforming pure aesthetic travel content on TikTok. The '$50 a day in Bali vs. $50 a day in Albania' comparison format generates massive comment section debate and saves. Travel creators can film daily spending vlogs with real receipts, create destination comparison content at matched budgets, or do 'is it worth the hype at this price' reviews of trending destinations.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BudgetTravel", "#TravelCost", "#50ADayChallenge", "#TravelTikTok", "#BackpackerLife"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Hostelworld", "Booking.com", "Skyscanner"],
+        "context": "Advice-driven content is outperforming pure aesthetic travel videos in 2026. Viewers want practical value and the comparison format generates massive engagement because it invites debate. The format pairs naturally with TikTok Go booking links for monetization.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-protein comfort food recipes surge on FoodTok as fitness-meets-flavor content peaks",
+      "body": "The intersection of fitness goals and comfort food cravings is driving a wave of high-protein recipe content. Chicken burrito bowls, protein ice cream hacks, and macro-friendly versions of fast food favorites are dominating FoodTok. Creators are posting 'same taste, double the protein' comparisons that resonate with gym-goers who refuse to sacrifice flavor. Food creators can film macro-breakdown recipe videos, do protein-swap ingredient challenges, or create 'gym bro eats' comedy content reviewing high-protein versions of comfort classics.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "The Peach Kitchen",
+      "source_url": "https://www.thepeachkitchen.com/2026/03/10-viral-food-trends-you-need-to-try-in-2026-with-recipes/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#HighProtein", "#FoodTok", "#ProteinRecipe", "#MacroFriendly", "#GymFood"],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Fairlife", "Quest", "Kodiak Cakes"],
+        "context": "The fitness-meets-food crossover content niche continues to grow because it appeals to two massive audiences simultaneously. The 'same taste, more protein' hook is a reliable scroll-stopper.",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#WaterproofBeautyTest trend launches as creators dunk makeup looks in pools for summer",
+      "body": "With summer pool season arriving, beauty creators are filming 'waterproof beauty test' content where they apply a full face and then jump into a pool to see what survives. The before-and-after format drives high engagement and genuine product recommendations. Beauty creators can film pool-test challenges ranking waterproof mascaras, sunscreens, and foundations, create 'beach-proof GRWM' tutorials, or do brand vs. brand waterproof showdowns.",
+      "categories": ["Beauty & Skincare"],
+      "source": "New Engen",
+      "source_url": "https://newengen.com/insights/may-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WaterproofBeauty", "#PoolTest", "#SummerMakeup", "#BeautyTest", "#SummerBeauty"],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": ["Maybelline", "MAC", "NYX", "Rare Beauty"],
+        "context": "Seasonal content format that peaks between Memorial Day and July 4th. The pool dunk provides a dramatic visual payoff and drives genuine purchase decisions. Brands are seeding waterproof product lines to creators for this exact format.",
+        "price_point": "various"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-24",
+  "scraped_at": "2026-05-24T10:00:00Z",
+  "expires_at": "2026-05-27T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Cloud Skin technique dominates beauty TikTok as the anti-glass-skin movement",
+      "body": "Cloud skin delivers a soft-focus, blurred complexion that mimics healthy bare skin rather than a dewy glass finish. Creators are posting tutorials using setting powders and skin tints to achieve the velvety look, with #cloudskin hitting 35M views. Perfect for 'get ready with me' and technique comparison content.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-products-for-2026-skincare",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#blurredmakeup", "#skintok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["e.l.f. Cosmetics", "Charlotte Tilbury", "Rare Beauty"],
+        "context": "Viral makeup technique offering soft matte alternative to glass skin",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "SACHEU Lip Liner Stay-N goes viral with Memorial Day sale push",
+      "body": "SACHEU's transfer-proof lip liner surged after celebrity usage by Billie Eilish and a Memorial Day discount on TikTok Shop. Creators are filming all-day wear tests and kiss-proof challenges. Ideal for lip product review and 'does it actually last' content formats.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok Shop",
+      "source_url": "https://www.eonline.com/news/1432241/internet-famous-beauty-products-quietly-marked-down-for-memorial-day-sale",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#sacheu", "#lipliner", "#transferproof", "#memorialdaysale"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["SACHEU"],
+        "context": "Viral lip product boosted by celebrity endorsement and holiday sale",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Devil Wears Prada 2 spawns 'Miranda-approved' outfit reveal trend",
+      "body": "The May 1 sequel release has flooded fashion TikTok with 'Miranda-approved' content — creators walk through revolving doors or elevators changing outfits to Meryl Streep's deadpan audio. The 'And Emily... that's all' sound is the dominant vibe-contrast engine for fashion and brand creators through May.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#devilwearsprada2", "#mirandaapproved", "#outfitreveal", "#fashiontiktok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Prada", "Chanel", "Zara"],
+        "context": "Movie sequel driving editorial fashion content and vibe-contrast audio trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Old Navy viral 'Glove Flat' mesh ballet flat sells out during Memorial Day",
+      "body": "The mesh ballet flat dubbed the 'Glove Flat' from Old Navy is selling out at 50% off, part of the broader 'naked shoe' trend for summer 2026. Budget fashion creators are posting haul and styling videos comparing them to luxury ballet flat dupes.",
+      "categories": ["Fashion & Apparel"],
+      "source": "E! Online",
+      "source_url": "https://www.eonline.com/news/1432153/old-navy-memorial-day-shoe-deals-viral-glove-flat-tiktok-loved-sandals",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#gloveflat", "#nakedshoe", "#balletflat", "#oldnavy"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Old Navy"],
+        "context": "Budget viral shoe trend as part of naked shoe summer movement",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Fibermaxxing becomes the nutrition trend food creators can't ignore",
+      "body": "TikTok's #fibermaxxing trend has millions of videos with creators showing high-fiber meal preps, 'what I eat in a day' content, and fiber-rich recipe swaps. PepsiCo's CEO called fiber 'the next protein' — food creators are filming grocery hauls and taste tests of high-fiber snacks and products.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "NPR",
+      "source_url": "https://www.npr.org/2026/05/18/nx-s1-5821598/fibermaxxing-healthy-fiber-foods-diet-benefits",
+      "trend_type": "hashtag",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#fibermaxxing", "#poopmaxxing", "#guthealth", "#highfiber"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Metamucil", "OLIPOP", "Daily Harvest"],
+        "context": "Viral nutrition trend with massive search volume and brand investment",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "TikTok Go launches — travel creators can now earn booking commissions",
+      "body": "TikTok Go launched in the US on May 12, letting travel creators link videos directly to hotel and experience bookings via Booking.com, Expedia, and Viator. Creators with 1,000+ followers can monetize. The format to watch: '$X a day in [destination]' comparison videos that now convert to bookable stays.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "trend_type": "content_format",
+      "confidence_score": 0.95,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#tiktokgo", "#travelcreator", "#booknow", "#traveltiktok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Booking.com", "Expedia", "Viator", "GetYourGuide"],
+        "context": "New monetization platform for travel creators with direct booking integration",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces and bracelet stacking take over jewelry TikTok",
+      "body": "Minimalism is out — overloaded charm necklaces, colorful beaded bracelets, and layered stacking are dominating jewelry content. Creators are filming 'arm candy' styling videos and charm collection tours. Gen Z is driving the trend with DIY beaded pieces alongside gold layering.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#braceletstacking", "#armcandy", "#jewelrytiktok"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "BaubleBar", "Missoma"],
+        "context": "Maximalist jewelry trend replacing minimalist aesthetic with bold layering",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "LED Crystal Vase Lamp becomes the viral home aesthetic purchase",
+      "body": "The rechargeable LED crystal vase lamp is trending as the must-have room aesthetic upgrade on TikTok. Creators film room transformation videos and 'aesthetic haul' content featuring the lamp's romantic ambient glow. Perfect for home decor unboxing and room tour content.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-home-decor-for-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#roomdecor", "#aestheticroom", "#crystallamp", "#homedecor"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Amazon Finds"],
+        "context": "Viral ambient lighting product for room transformation content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mi Smart Band 9 goes viral as budget fitness tracker alternative",
+      "body": "The Xiaomi Mi Smart Band 9 is generating viral comparison videos against Apple Watch and Fitbit — 150+ sport modes and 21-day battery life at a fraction of the price. Fitness and tech creators are filming side-by-side accuracy tests and 'is it worth it' reviews.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#mismartband9", "#budgetfitness", "#fitnesstracker", "#techtok"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Xiaomi"],
+        "context": "Budget fitness wearable going viral through comparison content format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Flying bird cat toys surge as viral pet enrichment product",
+      "body": "Automated flying bird toys that flap and spin through the air are the latest viral pet gadget on TikTok. Pet creators are filming their cats' reactions in slow-mo and side-by-side enrichment comparisons. The unboxing-to-reaction format is driving massive engagement.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cattoys", "#pettok", "#catreaction", "#petenrichment"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Amazon Finds"],
+        "context": "Interactive pet toy generating reaction content and enrichment reviews",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Toniebox 2 drives 'screen-free' parenting content for kid creators",
+      "body": "The Toniebox 2 audio player for kids aged 1-9 is trending among parenting creators as the go-to screen-free entertainment gift. Content includes unboxing videos, Tonie collection tours, and 'a day without screens' vlogs showcasing kids engaging with the device.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/baby-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#toniebox", "#screenfree", "#toddlermom", "#kidsgifts"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Tonies"],
+        "context": "Screen-free kids audio player trending in parenting creator content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho maximalism and cluttercore dominate home styling content",
+      "body": "Cluttercore — curated chaos with art-stacked walls, book piles, and curiosity displays — is trending as the anti-minimalist home aesthetic. Home creators are filming shelf-styling tutorials, thrift haul room makeovers, and 'dopamine decor' reveals with bold colors and prints.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cluttercore", "#dopaminedecor", "#bohodecor", "#shelfie"],
+        "engagement": {"mentions": "medium", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Anthropologie", "Urban Outfitters Home"],
+        "context": "Anti-minimalist home aesthetic driving styling and thrift content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen surges as the K-beauty summer staple",
+      "body": "The Beauty of Joseon Rice Sunscreen SPF 50+ is having a massive moment as summer kicks off — creators love its dewy finish and hydrating formula. Content includes SPF comparison tests, under-makeup wear tests, and K-beauty routine videos featuring the product.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/beauty/fashion-editor-buzzy-beauty-product-picks-2026",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#ricesunscreen", "#kbeauty", "#spf50"],
+        "engagement": {"mentions": "high", "editor_approved": true},
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon"],
+        "context": "K-beauty sunscreen gaining viral traction as summer skincare essential",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

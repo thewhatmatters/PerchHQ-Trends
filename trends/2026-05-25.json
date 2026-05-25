@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-05-25",
+  "scraped_at": "2026-05-25T10:00:00Z",
+  "expires_at": "2026-05-28T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask surges on TikTok Shop",
+      "body": "The Medicube Collagen Night Wrapping Mask is going viral as a sleep-and-glow staple, with creators filming morning reveals showing plumper, dewier skin. Beauty creators can film side-by-side before/after overnight mask content or rank it against other K-beauty sleeping masks.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-in-2026-products-beauty",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#TikTokMadeMeBuyIt", "#KBeauty", "#SleepingMask", "#SkincareRoutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube"],
+        "context": "K-beauty overnight mask trending via TikTok Shop creator reviews",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Ordinary Peptide Lash & Brow Serum sparks creator comparison content",
+      "body": "The Ordinary's new peptide-powered lash and brow serum is driving a wave of 30-day growth journey videos. Creators are documenting daily lash progress and comparing results against prestige alternatives at a fraction of the price.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TheOrdinary", "#LashSerum", "#BrowGrowth", "#SkincareOnABudget"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["The Ordinary", "DECIEM"],
+        "context": "Affordable lash serum driving 30-day transformation content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Multi-layered tops trend brings back 2000s styling for summer",
+      "body": "TikTok fashion creators are embracing multi-layered tops reminiscent of early-2000s styling, with the look going viral through outfit-of-the-day and thrift-flip content. Creators can film layering tutorials, thrift haul styling challenges, or nostalgic Y2K vs. 2026 comparison videos.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LayeredOutfit", "#Y2KFashion", "#OOTD", "#FashionTrends2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Nostalgic multi-layer styling trend driving OOTD and thrift content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Japanese strawberries become the breakout food creator ingredient of 2026",
+      "body": "Japanese strawberries are the year's breakout food trend with 23M+ social posts, showing up in layered cakes, minimalist desserts, and unboxing content. Food creators can film taste-test comparisons, premium strawberry dessert tutorials, or imported vs. local strawberry reviews.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseStrawberries", "#FoodTrend", "#DessertTok", "#FoodTikTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Premium Japanese strawberries driving dessert and unboxing content globally",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Sleepy Girl Mocktail trend fuels nighttime routine content",
+      "body": "The Sleepy Girl Mocktail — tart cherry juice mixed with magnesium powder — continues to trend as creators film relaxing nighttime routine videos around the drink. Wellness and food creators can pair it with wind-down routines, sleep tracker results, or mocktail recipe variations.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok-food-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#SleepyGirlMocktail", "#MocktailRecipe", "#NightRoutine", "#WellnessTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Functional mocktail trend bridging food and wellness creator niches",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Migraine Ice Head Wrap goes viral as summer wellness must-have",
+      "body": "The wearable migraine ice head wrap is surging on TikTok as a summer wellness essential, with creators demonstrating relief from headaches, sinus pressure, and post-workout recovery. Health and lifestyle creators can film product demos, pain-relief routine content, or Amazon finds roundups.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-2026-products",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#TikTokMadeMeBuyIt", "#MigraineRelief", "#WellnessFinds", "#AmazonFinds"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Wearable cooling therapy cap trending as summer wellness product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cabbagecore takes over home decor TikTok with lettuce-ware ceramics",
+      "body": "The cabbagecore aesthetic — cabbage and lettuce motifs on ceramics, tableware, and decor — is the surprise home trend of the season, inspired by legendary ceramicist Dodie Thayer. Home and lifestyle creators can film shelf-styling tours, thrift hauls for vintage lettuce-ware, or DIY ceramic painting videos.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://nationaltoday.com/us/fl/palm-beach/news/2026/03/04/the-4-biggest-tiktok-interior-design-trends-of-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Cabbagecore", "#HomeDecor", "#InteriorDesign", "#DecorTrends2026"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dodie Thayer"],
+        "context": "Lettuce-ware ceramic aesthetic trending in home decor content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mini projectors drive summer backyard movie night content",
+      "body": "Wireless rechargeable mini projectors remain a top viral gadget as creators share clips of backyard and bedroom movie setups. Tech and home creators can film unboxing reviews, outdoor movie night setup tutorials, or projector comparison content.",
+      "categories": ["Tech & Gadgets", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#MiniProjector", "#MovieNight", "#TechFinds", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Portable projectors trending for summer outdoor entertainment content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet grooming vacuum becomes shedding season must-have on TikTok",
+      "body": "A 5-in-1 pet grooming vacuum that combs, shaves, and suctions loose fur in one pass is going viral during spring shedding season. Pet creators can film satisfying before/after grooming transformations, product demos, or pet reaction videos.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-pet-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PetGrooming", "#SheddingSeason", "#DogTok", "#PetProducts"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "All-in-one pet grooming vacuum trending for spring shedding content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bracelet stacking trend takes over jewelry TikTok for spring",
+      "body": "Bracelet stacking has become spring 2026's breakout jewelry trend, with creators showing layered beaded, charm, and chain combinations. Jewelry and fashion creators can film stack-building tutorials, budget vs. luxury bracelet hauls, or day-to-night jewelry styling videos.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BraceletStack", "#JewelryTrends", "#Accessories", "#JewelryTikTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Bracelet layering trend driving styling and haul content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "TikTok Go launches in-app travel booking from creator content",
+      "body": "TikTok Go now lets users tap destination videos to compare rates and book hotels, tours, and experiences through Booking.com, Expedia, and Viator. Travel creators can film destination cost breakdowns, hotel room tours, and experience reviews knowing viewers can now book directly from their content.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 10,
+      "metadata": {
+        "hashtags": ["#TikTokGo", "#TravelTikTok", "#TravelBooking", "#SummerTravel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["TikTok", "Booking.com", "Expedia", "Viator", "GetYourGuide"],
+        "context": "TikTok launches native travel booking, transforming creator monetization for travel niche",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "REDRED dance challenge dominates cross-niche creator content",
+      "body": "The CORTIS REDRED global challenge has become May's biggest participatory trend, with K-pop groups, brand teams, and lifestyle creators all posting one-take team dance versions. Any creator with a team — restaurant staff, gym crew, retail workers — can film a team challenge video with zero editing for strong algorithmic lift.",
+      "categories": ["Fashion & Apparel", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#REDRED", "#REDREDChallenge", "#CORTIS", "#DanceChallenge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["CORTIS"],
+        "context": "Cross-genre team dance challenge with strong algorithmic lift through late May",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Everything Hallelujah gratitude format goes viral for lifestyle creators",
+      "body": "Set to Justin Bieber's acoustic track 'Everything Hallelujah,' creators are pairing calming visuals with short captions highlighting small joys — a morning coffee, a sunset walk, a freshly styled room. Lifestyle, home, and food creators can adapt this low-effort format to showcase products, routines, or aesthetic moments.",
+      "categories": ["Home & Lifestyle", "Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://turrboo.com/blog/latest-tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#EverythingHallelujah", "#GratitudeTrend", "#LifestyleTikTok", "#AestheticTikTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Acoustic gratitude format adaptable across lifestyle and product niches",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "b.box toddler feeding essentials trend among parenting creators",
+      "body": "b.box's OT-designed toddler feeding products are trending among parenting TikTokers for their functional design and photogenic pastel colorways. Baby and kids creators can film mealtime routine content, product comparison reviews, or weaning journey updates featuring the gear.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bbox", "#ToddlerFeeding", "#MomTok", "#BabyProducts"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["b.box"],
+        "context": "OT-designed toddler feeding gear trending in parenting creator content",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

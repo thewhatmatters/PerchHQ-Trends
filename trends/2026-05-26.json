@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-26",
+  "scraped_at": "2026-05-26T10:00:00Z",
+  "expires_at": "2026-05-29T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Made By Mitchell Curve Case palette goes viral as ultimate summer multitasker",
+      "body": "The Made By Mitchell Curve Case face palette is dominating beauty TikTok with its eight cream formulas — four contour shades and four blushes — packed into one compact. Beauty creators can film full-face-one-palette challenges, swatching and wear-test content comparing it against multi-product routines, or travel makeup bag minimalism videos.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.ramd.am/blog/trends-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#MadeByMitchell", "#CurveCase", "#CreamContour", "#OnePaletteChallenge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Made By Mitchell"],
+        "context": "Multitasking cream palette trending as summer travel essential and one-product challenge content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Poolside Skin becomes the summer 2026 skincare aesthetic",
+      "body": "The 'poolside skin' look — dewy, hydrated, fresh-from-the-water complexion — is the defining summer skincare trend. Creators can film SPF-layering routines, before-and-after hydration tutorials, or product-stacking videos that achieve the wet-glow finish using mists, serums, and SPF sticks.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Tecnoskin",
+      "source_url": "https://www.tecnoskin-derma.com/en/blog/tips/ta-4-skincare-trends-pou-tha-vlepete-pantou-to-kalokairi-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PoolsideSkin", "#DewySkin", "#SummerSkincare", "#SPFRoutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Vacation", "Supergoop", "BeautyStat"],
+        "context": "Dewy summer complexion aesthetic driving layered skincare routine content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Devil Wears Prada 2 sparks office-glam fashion recreation content",
+      "body": "The Devil Wears Prada 2 release is fueling a massive wave of fashion recreation and office-glam styling content. Fashion creators can film outfit breakdowns of movie looks, 'Miranda Priestly-inspired workwear' hauls, thrift-to-runway transformation videos, or 'That's all' audio lip-sync outfit reveals.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/en/trending/detail/the-devil-wears-prada-2-releases-may-1-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DevilWearsPrada2", "#OfficeFashion", "#AndEmilyThatsAll", "#RunwayStyle"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Diet Coke", "LOreal Paris", "Starbucks"],
+        "context": "Film release driving fashion recreation, brand collab unboxing, and office-glam styling content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Blokette style merges sporty and feminine for summer wardrobes",
+      "body": "Blokette — blending sporty tomboy pieces with traditionally feminine items like pleated skirts, ballet flats, and mini bags — is one of the biggest TikTok fashion aesthetics of 2026. Creators can film capsule wardrobe builds, 'Blokette vs. Tomboy' comparison styling videos, or outfit-of-the-day content pairing collegiate jackets with ribbons and sneakers.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "hashtag",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Blokette", "#SportyFeminine", "#OOTD", "#FashionTrends2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sporty-feminine hybrid aesthetic gaining momentum as a signature summer 2026 style",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Cottage cheese ice cream trend takes over FoodTok for summer",
+      "body": "Cottage cheese-based ice cream recipes are surging as the high-protein, gut-friendly frozen dessert of summer 2026. Food creators can film taste-test reactions, macro comparison videos against traditional ice cream, or creative flavor mashup content with fruits and mix-ins.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://fountbeyond.com/blog/what-are-the-most-popular-viral-tiktok-food-recipes-in-2026-542920",
+      "trend_type": "content_format",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CottageCheseIceCream", "#HighProtein", "#FoodTok", "#HealthyDessert"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Protein-packed cottage cheese dessert driving recipe and macro comparison content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese walking emerges as the breakout low-impact fitness trend",
+      "body": "Japanese walking — a structured walking technique emphasizing posture and arm movement — has seen a 2,986% surge in search interest, making it the fastest-growing fitness trend of 2026. Health and fitness creators can film form tutorials, step-count comparison videos, or 30-day challenge transformation content.",
+      "categories": ["Health & Fitness"],
+      "source": "PureWow",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseWalking", "#WalkingWorkout", "#LowImpactFitness", "#FitnessTrends2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Structured walking technique going viral with massive search interest spike",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Wax Melting Lamps become the viral home decor must-have",
+      "body": "The Wax Melting Lamp has gone viral on TikTok as both a functional candle warmer and aesthetic home decor piece, combining warm glow visuals with scent diffusion. Home and lifestyle creators can film cozy room makeover content, ASMR wax-melting videos, or scent collection hauls ranking their favorite wax melts.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#WaxMeltingLamp", "#HomeDecor", "#CozyHome", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Aesthetic candle warmer lamp trending for cozy home decor and ASMR content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "DJI Flip drone redefines creator aerial content with sub-250g design",
+      "body": "The DJI Flip drone with its foldable design, 48MP camera, and 4K/60fps recording is trending among tech and travel creators as the ultimate portable content creation tool. Creators can film unboxing and first-flight reviews, compare it against heavier drones, or showcase cinematic travel footage shot entirely on the Flip.",
+      "categories": ["Tech & Gadgets", "Travel & Hospitality"],
+      "source": "gagadget.com",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#DJIFlip", "#DroneContent", "#AerialFootage", "#TechReview"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["DJI"],
+        "context": "Ultra-portable foldable drone driving unboxing and travel content creation",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yoto Player drives screen-free kids content among parent creators",
+      "body": "The Yoto Player — a screen-free audio player using swappable story and music cards — is surging among parent creators as the must-have alternative to tablets. Creators can film unboxing and card collection hauls, toddler reaction videos, or comparison content pitting Yoto vs. Tonie Box for engagement and durability.",
+      "categories": ["Baby & Kids"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#YotoPlayer", "#ScreenFree", "#ParentingHacks", "#ToddlerApproved"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Yoto", "Tonie Box"],
+        "context": "Screen-free audio player trending among parent creators as tablet alternative",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet grooming vacuums surge as summer shedding season content",
+      "body": "Pet grooming vacuums with one-touch hair removal are going viral as shedding season ramps up, with creators filming dramatic before-and-after grooming videos and fur collection reveals. Pet creators can film grooming ASMR, scared-vs-calm pet reaction content, or product comparison videos ranking different grooming vacuum models.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-products-for-pets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#PetGrooming", "#SheddingSeason", "#DogGrooming", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Summer shedding season driving dramatic grooming transformation content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Seoul becomes the breakout TikTok travel destination of summer 2026",
+      "body": "Seoul is surging as the must-visit destination thanks to K-pop cultural moments, K-drama tourism, and TikTok-viral beauty treatment experiences. Travel creators can film K-beauty clinic visit vlogs, street food crawl content, or hyper-local neighborhood guide videos showcasing hidden gems beyond the tourist spots.",
+      "categories": ["Travel & Hospitality", "Beauty & Skincare"],
+      "source": "Google Travel",
+      "source_url": "https://blog.google/products-and-platforms/products/travel/2026-travel-trends/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#SeoulTravel", "#KBeautyTrip", "#TravelTok", "#KoreaTourism"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "K-culture and beauty tourism driving Seoul as top creator travel destination",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Charm necklace maximalism replaces minimalist pendants on JewelryTok",
+      "body": "Maximalist charm necklaces loaded with personal tokens and mixed metals are replacing simple pendant chains as the dominant TikTok jewelry aesthetic of 2026. Jewelry creators can film charm collection hauls, 'build your story necklace' tutorials, or styling content showing how to layer charms with other statement pieces.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#JewelryTok", "#MaximalistJewelry", "#JewelryTrends2026"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist charm jewelry replacing minimalism as dominant TikTok jewelry aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bob Ross 'Talent' audio fuels before-and-after creator skill showcases",
+      "body": "A viral Bob Ross audio clip about talent being a pursued interest is powering before-and-after transformation content across niches — from makeup glow-ups to fitness journeys to cooking skill progression. Creators in any category can use this sound to showcase their creative growth with side-by-side comparisons.",
+      "categories": ["Beauty & Skincare", "Health & Fitness", "Food & Beverage"],
+      "source": "Ramdam",
+      "source_url": "https://www.ramd.am/blog/trends-tiktok",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#BobRoss", "#TalentIsPractice", "#BeforeAndAfter", "#GlowUp"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Motivational audio driving skill-progression content across beauty, fitness, and food niches",
+        "price_point": "various"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-27",
+  "scraped_at": "2026-05-27T10:00:00Z",
+  "expires_at": "2026-05-30T10:00:00Z",
+  "trends": [
+    {
+      "headline": "PDRN salmon-sperm serums surge as TikTok's new hero skincare ingredient",
+      "body": "PDRN (polydeoxyribonucleotide) derived from salmon DNA is the breakout skincare ingredient of spring 2026, with 'salmon sperm serum' videos pulling massive views. Beauty creators can film ingredient-deep-dive explainers, before-and-after texture comparisons over 30 days, or 'weirdest ingredient I've tried' reaction content pairing PDRN with other biotech actives.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-skincare-viral-2026",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#SalmonSkincare", "#SkinTok", "#KBeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Biodance", "Meditime", "Torriden"],
+        "context": "Biotech skincare ingredient going mainstream via TikTok education content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Met Gala 2026 'Costume Art' looks flood beauty and fashion TikTok",
+      "body": "The May 4 Met Gala theme 'Costume Art' is still generating waves of creator content three weeks later — Rihanna's Swarovski pin curls and not-yet-released Fenty bronzer, plus dramatic theatrical makeup looks from the red carpet, are fueling recreation tutorials. Beauty and fashion creators can film 'recreating celebrity Met Gala looks on a budget,' product-ID breakdowns, or rank-and-rate commentary videos.",
+      "categories": ["Beauty & Skincare", "Fashion & Apparel"],
+      "source": "FASHION Magazine",
+      "source_url": "https://fashionmagazine.com/beauty-grooming/met-gala-2026-beauty/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#MetGala2026", "#CostumeArt", "#MetGalaBeauty", "#RedCarpetRecreation"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Fenty Beauty", "Charlotte Tilbury", "Chanel Beauty"],
+        "context": "Met Gala red carpet looks driving recreation tutorials and product identification content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "CORTIS 'REDRED' wiggle-ears dance crosses over into brand team content",
+      "body": "The K-pop group CORTIS's deliberately simple wiggle-ears choreography from their 'REDRED' MV (10M+ views in 12 days) has broken out of fandom into mainstream TikTok, with BTS members, fourth-gen groups, and non-K-pop creators all posting versions. Fashion and lifestyle brand teams are filming crew versions to signal authenticity — creators can jump in with their own team dances, styling the red-themed outfit to their niche.",
+      "categories": ["Fashion & Apparel"],
+      "source": "SocialPilot",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CORTIS", "#REDRED", "#WiggleEars", "#KPopChallenge"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["CORTIS", "BigHit"],
+        "context": "K-pop dance challenge crossing into mainstream brand and creator content with team-dance format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Banana bread latte goes from TikTok recipe to coffeeshop staple",
+      "body": "The viral banana bread latte — homemade banana-cinnamon syrup blended with espresso and milk — has jumped from creator kitchens to menus at Dunkin', Dutch Bros, and indie cafes. Food creators can film side-by-side homemade vs. chain taste tests, syrup recipe tutorials with cozy ASMR editing, or 'ordering the TikTok drink' reaction videos at different coffee shops.",
+      "categories": ["Food & Beverage"],
+      "source": "Chowhound",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#BananaBreadLatte", "#CoffeeTikTok", "#HomemadeSyrup", "#CozyDrink"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dunkin'", "Dutch Bros", "Starbucks"],
+        "context": "Viral homemade coffee recipe crossing into commercial menus — ripe for taste-test and recipe content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese strawberries become 2026's most aesthetic food ingredient",
+      "body": "Japanese strawberries are TikTok's breakout food trend with 23 million social posts and 5.3 million recipes — prized for their visual perfection, sweetness, and exclusivity. Food creators can film unboxing and first-taste reactions of high-end varieties, minimalist dessert assembly videos, or 'are they worth the price?' comparative taste tests with regular strawberries.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JapaneseStrawberry", "#FoodTok", "#LuxuryFruit", "#DesertTok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Premium Japanese fruit trend driving unboxing, taste-test, and aesthetic dessert content",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Japanese walking explodes as the accessible fitness trend of 2026",
+      "body": "Japanese walking — alternating 3-minute slow and fast walking intervals for 30 minutes — saw a 2,986% surge in search interest and went viral after Australian fitness creator Eugene Teo's video hit 10M+ TikTok views. Health and fitness creators can film 30-day challenge result videos, walking vlog formats with interval timers on screen, or beginner-friendly explainers contrasting it with HIIT.",
+      "categories": ["Health & Fitness"],
+      "source": "PureWow",
+      "source_url": "https://www.purewow.com/wellness/fitness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#JapaneseWalking", "#WalkingWorkout", "#FitTok", "#IntervalWalking"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["PureGym"],
+        "context": "Accessible interval walking method viral on fitness TikTok with massive search growth",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Snack-sized workouts trend as return-to-office reshapes fitness content",
+      "body": "Short 5-to-15-minute 'snack-sized workouts' are the new fitness content format as more people return to offices and squeeze exercise into breaks. Health creators can film desk-friendly micro-workout routines, 'lunch break sweat session' vlogs, or comparison content showing cumulative calorie burn from workout snacking vs. a single gym session.",
+      "categories": ["Health & Fitness"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/wellness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#SnackSizedWorkout", "#DeskWorkout", "#FitTok", "#MicroWorkout"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Return-to-office lifestyle shift driving short-format fitness content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cluttercore maximalism takes over home decor TikTok",
+      "body": "Cluttercore — curated maximalism with art-stacked walls, teetering book piles, and curiosity-filled shelves — is the dominant home aesthetic on TikTok, directly countering the minimalism wave. Home and lifestyle creators can film room tour reveals, 'minimalist to maximalist' transformation time-lapses, or thrift haul videos showing how to build a cluttercore shelf for under $50.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Net-A-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Cluttercore", "#MaximalistHome", "#HomeTok", "#DopamineDecor"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist home aesthetic trending as counterpoint to minimalism on home decor TikTok",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "LED face masks dominate beauty-tech as summer skincare ritual",
+      "body": "LED face masks continue to reign as TikTok's top beauty tech product in 2026, with red-light (collagen) and blue-light (acne) modes driving visual before-and-after content. Tech and beauty creators can film 30-day LED mask challenge results, side-by-side comparisons of budget vs. luxury devices, or 'sci-fi skincare routine' GRWM videos featuring the masks.",
+      "categories": ["Beauty & Skincare", "Tech & Gadgets"],
+      "source": "Printify",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#LEDMask", "#BeautyTech", "#SkincareTech", "#RedLightTherapy"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["CurrentBody", "Omnilux", "Solawave"],
+        "context": "At-home LED therapy devices trending for visual before-and-after skincare content",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Siargao and Laos replace Bali as TikTok's new travel creator hotspots",
+      "body": "Southeast Asia's under-the-radar destinations — Siargao and Coron in the Philippines, plus Luang Prabang in Laos — are pulling massive engagement as creators showcase untouched beaches and cultural experiences. Travel creators can film 'why I skipped Bali' comparison vlogs, hyper-local food guides, or budget travel breakdowns showing full-day itineraries under $30.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#Siargao", "#LuangPrabang", "#SoutheastAsiaTravel", "#HiddenGem"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Under-the-radar Southeast Asian destinations replacing oversaturated spots for travel content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm-stacked maximalist necklaces take over jewelry TikTok",
+      "body": "Overloaded charm necklaces — layering multiple pendants, trinkets, and personalized charms on a single chain — are replacing minimalist jewelry on TikTok. Jewelry and accessories creators can film 'build my charm necklace with me' videos, charm-by-charm storytelling content explaining what each piece means, or before-and-after styling transformations.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#CharmNecklace", "#JewelryTok", "#MaximalistJewelry", "#LayeredNecklace"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist charm jewelry replacing minimalist trend — driving build-your-own styling content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Interactive laser cat toys go viral as pet content goldmine",
+      "body": "Electric cat toys with infrared laser lights are surging on TikTok Shop, combining the practical appeal of keeping cats entertained with the comedic content potential of filming cats chasing erratic laser patterns. Pet creators can film reaction compilations, product review showdowns between different laser toys, or 'my cat vs. the laser' slow-motion edits.",
+      "categories": ["Pets"],
+      "source": "eprolo",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#CatToy", "#PetTok", "#LaserCat", "#TikTokMadeMeBuyIt"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Interactive pet gadget trending for entertaining and comedic pet content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'And Emily... That's All' audio becomes universal vibe-contrast format",
+      "body": "Meryl Streep's deadpan dismissal from Devil Wears Prada 2 has become TikTok's dominant audio for pairing two contrasting things — products, outfits, before-and-afters, expectations vs. reality. Creators across every niche can use this audio: beauty creators comparing drugstore vs. luxury, food creators comparing homemade vs. takeout, or fashion creators doing closet clean-out reveals.",
+      "categories": ["Fashion & Apparel", "Beauty & Skincare"],
+      "source": "SocialPilot",
+      "source_url": "https://www.socialpilot.co/blog/tiktok-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.89,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#AndEmilyThatsAll", "#DevilWearsPrada2", "#VibeContrast", "#TikTokAudio"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral movie audio becoming universal content format for comparison and contrast videos across niches",
+        "price_point": "various"
+      }
+    }
+  ]
+}

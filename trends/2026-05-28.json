@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-28",
+  "scraped_at": "2026-05-28T10:00:00Z",
+  "expires_at": "2026-05-31T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Cloud Skin technique dominates beauty TikTok with 35M views",
+      "body": "The #cloudskin hashtag has hit 35 million TikTok views as creators chase the blurred, soft-matte finish that sits between dewy glass skin and flat matte. Searches spiked 870% year-over-year. Beauty creators can film GRWM tutorials showing the damp-sponge layering method, compare cloud skin vs. glass skin side-by-side, or do a drugstore-only cloud skin challenge using e.l.f. and NYX products.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/cloud-skin",
+      "trend_type": "content_format",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#blurredskin", "#softmatte", "#grwm"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["e.l.f. Cosmetics", "NYX", "Charlotte Tilbury", "Rare Beauty"],
+        "context": "Viral makeup technique offering blurred ethereal finish, replacing glass skin as the dominant base trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#FullFaceNoMascara trend boosts lash serum sales 35%",
+      "body": "Creators are posting full glam looks that skip mascara entirely, shifting focus to bold brows, dewy skin, and natural lashes. The trend has driven a 35% spike in lash serum sales. Content angle: film a full-face-no-mascara GRWM, then do a side-by-side reveal comparing the look with and without mascara to show viewers the difference is smaller than they think.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#fullfacenomascara", "#lashserum", "#naturallashes", "#boldbrows"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Grande Cosmetics", "RevitaLash", "Maybelline"],
+        "context": "Anti-mascara movement emphasizing natural lash health and skin-first beauty",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Devil Wears Prada 2 sparks boss-bitch fashion content wave",
+      "body": "The May 1 release of The Devil Wears Prada 2 has reignited Miranda Priestly cosplay, cerulean-inspired styling, and 'that's all' audio edits across fashion TikTok. Creators are posting office-to-runway transformation reels, recreating iconic outfits from both films, and using the 'And Emily... that's all' audio as a contrast format. Fashion creators should jump on outfit breakdowns and thrift-the-look challenges while momentum is hot.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/en/trending/detail/the-devil-wears-prada-2-releases-may-1-2026",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.93,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#devilwearsprada2", "#mirandapriestly", "#officefashion", "#fashiontiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Prada", "Chanel", "Zara"],
+        "context": "Sequel release driving fashion nostalgia content and boss-aesthetic styling videos",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sequin mini dresses surge as TikTok's summer party essential",
+      "body": "Sequin mini dresses are one of the biggest fashion items on TikTok right now, with influencers showcasing them in party outfit videos, night-out transformation reels, and styling challenges. Creators can film 'one dress, three ways' content, do high-low styling comparisons (Zara vs. designer), or post going-out GRWM content featuring the sparkly trend.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://fashionpy.com/blogs/news/top-10-viral-tiktok-fashion-products-in-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#sequindress", "#nightoutfit", "#partydress", "#stylingreel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "ASOS", "Revolve", "House of CB"],
+        "context": "Maximalist party fashion trending as summer event season kicks off",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Grillo's Pickle Dip recipe goes mega-viral on food TikTok",
+      "body": "A creamy dill pickle dip made with Grillo's pickles, sharp cheddar, crispy bacon, and jalapeno has taken over food TikTok, with dozens of creators posting their versions. The recipe takes minutes to make and disappears at parties. Food creators can film a quick recipe reel, do a taste-test reaction video, or create a 'viral dip tier list' ranking this against other TikTok-famous dips.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://4sonrus.com/grillos-pickle-dip-viral-tiktok-recipe/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.88,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pickledip", "#grillospickles", "#viralrecipe", "#gamedaydip"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Grillo's Pickles"],
+        "context": "Easy party dip recipe going viral for summer entertaining season",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Two-ingredient Japanese cheesecake becomes TikTok's easiest bake",
+      "body": "A Japanese cheesecake made with just yogurt and cookies is being called one of the simplest viral bakes of 2026. The minimal-ingredient angle makes it perfect for beginner baking content. Food creators can film the satisfying jiggle reveal, try flavor variations (matcha, strawberry), or do a 'can I make it in under 5 minutes' challenge.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://fountbeyond.com/blog/what-are-the-most-popular-viral-tiktok-food-recipes-in-2026-542920",
+      "trend_type": "product",
+      "confidence_score": 0.80,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#japanesecheesecake", "#2ingredientrecipe", "#easybaking", "#viralrecipe"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Minimal-ingredient baking trend perfect for beginner-friendly food content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "High-protein snack hauls dominate Health & Fitness TikTok",
+      "body": "High-protein grab-and-go snacks — RTD shakes, protein yogurts, and jerky — are driving massive haul and review content as the macro-tracking community keeps growing. Fitness creators can film grocery haul videos ranking protein snacks by taste and macros, do blind taste tests, or create 'full day of eating 150g protein' vlogs featuring trending products.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/health-wellness-trends/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#highprotein", "#proteinsnacks", "#macros", "#gymtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Fairlife", "OIKOS Pro", "Built Bar", "Chomps"],
+        "context": "Protein-focused snacking trend fueled by macro-tracking and fitness culture",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Seal plushies hit 25M+ sales as comfort decor goes viral",
+      "body": "Oversized seal plushies have crossed 25 million units sold and keep trending as both a comfort item and a home decor accent. They're being featured in room tours, cozy setup videos, and 'things that make my apartment feel like a hug' content. Home and lifestyle creators can do unboxing reactions, cozy room makeover reels, or rank viral comfort items in a tier list.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#sealplushie", "#roomdecor", "#cozyhome", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Emotionally resonant comfort product crossing from novelty into mainstream home decor",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-in-1 wireless charger stands become TikTok's top desk accessory",
+      "body": "Folding 3-in-1 wireless chargers that juice up phone, earbuds, and smartwatch simultaneously are dominating tech review content on TikTok. Their sleek design and perceived high value at a low price point make them perfect for 'desk setup' and 'tech haul' videos. Tech creators can film unboxing and speed-test content, compare budget vs. premium models, or feature them in aesthetic desk setup tours.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#wirelesscharger", "#desksetup", "#techhaul", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anker", "Belkin", "INIU"],
+        "context": "Affordable multi-device charger trending in desk setup and tech haul content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Set-jetting travel content surges as creators visit film locations",
+      "body": "Set-jetting — traveling to destinations featured in movies and TV — is projected to be an $8B industry in 2026. Yorkshire searches jumped 60% after the Wuthering Heights adaptation, and creators are visiting filming locations for content. Travel creators can film 'movie vs. reality' comparison reels at film locations, create itinerary guides for set-jetting trips, or do 'I traveled to [show] filming location' vlogs.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Expedia",
+      "source_url": "https://www.expedia.com/newsroom/screen-inspired-set-jetting-travel-drives-summer-vacation-planning-according-to-expedia-data/",
+      "trend_type": "content_format",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#setjetting", "#filmlocations", "#traveltrend", "#movielocation"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Expedia", "Airbnb", "Tripadvisor"],
+        "context": "Screen-inspired travel trend driven by Gen Z and Millennial travelers planning trips around TV and movie locations",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart self-refilling cat water bowls trend among pet creators",
+      "body": "Automated cat water bowls with timers and self-cleaning features are trending on pet TikTok, appealing to convenience-minded pet owners. Pet creators can film their cat's reaction to the new gadget, do a 'worth the hype?' honest review, or create a 'smart pet products I actually use' roundup video.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cattok", "#smartpet", "#petgadget", "#catwater"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Petlibro", "Catit"],
+        "context": "Smart pet hydration gadget gaining traction in pet care and tech review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Chunky charm necklaces replace minimalist pendants on jewelry TikTok",
+      "body": "Maximalist charm necklaces loaded with personalized charms are the top jewelry trend on TikTok in 2026, marking a shift away from quiet luxury toward bold self-expression. Jewelry and accessories creators can film 'build my charm necklace with me' content, show how to mix vintage and modern charms, or create styling videos showing one necklace across multiple outfits.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#jewelrytiktok", "#maximalistjewelry", "#charms"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "BaubleBar", "Missoma"],
+        "context": "Shift from minimalist to maximalist jewelry driven by self-expression trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Toniebox 2 unboxing videos surge on parent and kid TikTok",
+      "body": "The Toniebox 2 — an audio player for kids ages 1-9 with themed bundles like Disney Princess and Paw Patrol — is generating major unboxing and reaction content from parent creators. Baby and kids creators can film toddler reaction videos, do a 'is it worth it?' honest review comparing to tablets, or create 'screen-free entertainment' roundups featuring the device.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#toniebox", "#toddlermom", "#screenfree", "#kidstoys"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tonies"],
+        "context": "Screen-free audio entertainment device for kids driving parent creator content",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

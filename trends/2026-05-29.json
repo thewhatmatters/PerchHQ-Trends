@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-05-29",
+  "scraped_at": "2026-05-29T10:00:00Z",
+  "expires_at": "2026-06-01T10:00:00Z",
+  "trends": [
+    {
+      "headline": "PDRN skincare ingredient explodes on TikTok with salmon-DNA serums and masks",
+      "body": "PDRN (polydeoxyribonucleotide) is 2026's breakout skincare ingredient, with creators showcasing salmon-DNA infused serums, masks, and creams for collagen-boosting and skin repair. The Medicube Collagen Night Wrapping Mask and Dr. Reju PDRN Rejuvenating Cream are leading sellers on TikTok Shop. Beauty creators can film ingredient-breakdown explainers, 30-day PDRN challenge before-and-afters, or 'is salmon DNA worth the hype?' myth-busting videos.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.90,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#PDRN", "#salmondna", "#skincaretiktok", "#collagenboost"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Dr. Reju", "Biodance", "BIOHEAL BOH"],
+        "context": "K-beauty ingredient trend crossing over to mainstream TikTok skincare with strong creator education angle",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Met Gala 2026 'Fashion Is Art' looks spark DIY recreation wave on TikTok",
+      "body": "The May 4 Met Gala 'Costume Art' theme generated a flood of fashion content with art-history-inspired looks from Beyonce, Kendall Jenner, and Emma Chamberlain going viral. Fashion creators are filming thrift-the-look challenges recreating red carpet outfits on a budget, art-reference breakdowns of each look, and 'what painting would you be?' outfit-building videos.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://wwd.com/fashion-news/fashion-scoops/gallery/met-gala-2026-art-references-1238942188/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.92,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#metgala2026", "#fashionisart", "#metgalalooks", "#thriftthelook"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Zac Posen", "Gap", "Colleen Allen", "Prada"],
+        "context": "Met Gala red carpet content extending into DIY and thrift recreation content for fashion creators",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Kool-Aid pineapple spears become the viral summer snack of 2026",
+      "body": "The three-ingredient Kool-Aid pineapple jar recipe has taken TikTok by storm — jarred pineapple spears soaked in Kool-Aid and sugar for an overnight candy-like summer snack. The Sam's Club Member's Mark 42oz pineapple spears jar is selling out in stores. Food creators can film taste-test reactions, flavor-ranking videos comparing Fruit Punch vs Grape vs Blue Raspberry, or party-prep batch content for Memorial Day and summer gatherings.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://imhungryforthat.com/kool-aid-pineapple-spears/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.91,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#koolaidpineapple", "#summerfood", "#viralrecipe", "#3ingredientrecipe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Kool-Aid", "Sam's Club Member's Mark"],
+        "context": "Three-ingredient viral summer snack recipe with strong visual appeal and easy recreation for food creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Walking pads hit 5.1M TikTok views as remote workers chase 10K steps before 10 AM",
+      "body": "The #walkingpad hashtag has surpassed 5.1 million views as creators post their under-desk treadmill morning routines, step-count timelapses, and WFH productivity setups. The Lichico walking pad with incline and 2-in-1 walking pad/vibration plate combos are this season's top sellers. Health and fitness creators can film morning routine vlogs, 30-day walking pad challenges with weigh-in results, or home office setup tours featuring their walking pad integration.",
+      "categories": ["Health & Fitness", "Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.thequalityedit.com/articles/walkingpad-walking-treadmill-review",
+      "trend_type": "product",
+      "confidence_score": 0.88,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#walkingpad", "#walkingtreadmill", "#wfhlife", "#10ksteps"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["WalkingPad", "Lichico", "Goplus"],
+        "context": "Under-desk treadmill trend fueled by remote work culture and step-count content format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "JBL Go 5 AirTouch tap-to-pair speaker goes viral as the summer carry-everywhere gadget",
+      "body": "The JBL Go 5 launched at $54 with its signature AirTouch feature — tap two speakers together for instant stereo pairing — and is being called the best small speaker of 2026 by multiple reviewers. The 10-color lineup and IP68 waterproof rating make it perfect for summer content. Tech creators can film unboxing and AirTouch demo videos, pool/beach speaker tests, or JBL Go 5 vs Go 4 comparison reviews.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/audio/bluetooth-speakers/jbl-go-5-review",
+      "trend_type": "product",
+      "confidence_score": 0.87,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#JBLGo5", "#AirTouch", "#bluetoothspeaker", "#summertech"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["JBL", "Harman"],
+        "context": "New portable speaker with tap-to-pair gimmick generating unboxing and review content for tech creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Toniebox 2 dominates parent TikTok as the screen-free toy of the summer",
+      "body": "The Toniebox 2 hit number one in Amazon's storytelling toys category with new features including screen-free games, a sunrise alarm, USB-C charging, and Bluetooth. Parent creators on TikTok are posting unboxing reactions, toddler interaction videos, and comparison content between the original and new version. Baby and kids creators can film day-in-the-life content showing independent play, Toniebox 2 vs original comparison reviews, or 'best Tonies for your toddler' recommendation roundups.",
+      "categories": ["Baby & Kids"],
+      "source": "Today",
+      "source_url": "https://www.today.com/shop/toniebox-2-rcna227265",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#toniebox2", "#screenfreeplay", "#toddlertoys", "#momtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Tonies", "Disney", "Paw Patrol"],
+        "context": "Screen-free audio player upgrade generating parent review and toddler reaction content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Self-cooling pet mats and gel beds surge as summer pet content heats up",
+      "body": "Cooling pet mats that activate when dogs lie on them are going viral as pet creators post videos of their dogs dramatically flopping onto the mats in the heat. The mats keep pets 4-9 degrees cooler and the flop videos have become a meme-worthy content format. Pet creators can film before-and-after temperature tests, funny dog reaction compilations, or product roundups comparing gel mats vs water-filled vs elevated cooling beds.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coolingmat", "#dogcoolingpad", "#summerdog", "#petproducts"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["PetFusion", "The Green Pet Shop", "Arf Pets"],
+        "context": "Seasonal summer pet product with strong visual appeal from dog flop reaction videos",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces and bracelet stacking replace minimalist jewelry on TikTok",
+      "body": "Minimalist jewelry is fading as TikTok's 2026 jewelry trend swings hard into maximalism — chunky charm necklaces, mixed-metal layering, and bracelet stacking are dominating #jewelry content. Custom birthstone settings and astrology-themed layering sets are especially popular. Jewelry creators can film stack-building tutorials, 'what your jewelry stack says about you' personality content, or charm necklace collection tours.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#braceletstacking", "#charmnecklace", "#maximalistjewelry", "#jewelrytiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Missoma", "BaubleBar", "Pandora"],
+        "context": "Shift from minimalist to maximalist jewelry styling driving stack-building tutorial content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Japanese strawberries become 2026's luxury food content obsession with 23M+ social posts",
+      "body": "Japanese strawberries have seen 28% year-over-year growth with over 23 million social media posts, becoming the luxury ingredient of the moment. Creators are filming strawberry unboxing and first-taste reactions, layered strawberry dessert tutorials, and 'is a $20 strawberry worth it?' taste-test comparisons against grocery-store berries. The premium price point gives food creators a natural hook for aspirational content.",
+      "categories": ["Food & Beverage"],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#japanesestrawberry", "#luxuryfood", "#foodtiktok", "#strawberryseason"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Omakase Berry", "Oishii"],
+        "context": "Luxury fruit trend with strong unboxing and taste-test content format for food creators",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Nomad Tracking Card Air wallet tracker goes viral as the 'AirTag you can't lose'",
+      "body": "The $29 Nomad Tracking Card Air — a credit-card-thin Bluetooth tracker for Apple Find My and now Google Find Hub — is trending as creators post wallet EDC tours and lost-item recovery stories. The 1.7mm thickness and IP67 waterproofing make it the sleekest tracker on the market. Tech creators can film EDC (everyday carry) wallet setup videos, Nomad Card vs AirTag thickness comparisons, or real-world lost-wallet recovery test content.",
+      "categories": ["Tech & Gadgets"],
+      "source": "The Gadgeteer",
+      "source_url": "https://the-gadgeteer.com/2025/12/17/nomad-tracking-card-air-review-a-29-find-my-wallet-tracker-that-actually-fits/",
+      "trend_type": "product",
+      "confidence_score": 0.84,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#nomadtrackingcard", "#wallettracker", "#EDC", "#findmy"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nomad", "Apple", "Google"],
+        "context": "Ultra-thin wallet tracker generating EDC and comparison review content for tech creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Greece vs Turkey' destination debate format drives massive travel TikTok engagement",
+      "body": "Comparison videos pitting similar travel destinations against each other — Greece vs Turkey, Bali vs Thailand, Portugal vs Spain — are generating huge engagement as viewers tag friends and debate in the comments. The format is inherently shareable and the comment section becomes part of the content. Travel creators can film split-screen comparison reels, create 'I went to both so you don't have to' budget breakdowns, or run polls letting followers pick the next destination matchup.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#traveltiktok", "#greecevsturkey", "#traveldebate", "#summervacation"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Booking.com", "Airbnb", "Skyscanner"],
+        "context": "Destination comparison format driving engagement through debate and friend-tagging in comments",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Banana bread latte trend crosses from Dunkin' menu to home barista TikTok",
+      "body": "Dunkin's spring 2026 banana bread latte has sparked a wave of home-barista recreation content on TikTok, with creators posting their own banana-syrup espresso recipes and taste-test comparisons. The trend is part of a broader 'dessert coffee' movement including corn lattes and lavender cold brews. Food and beverage creators can film Dunkin' dupe recipes, blind taste-test challenges, or ranked reviews of every unusual latte flavor they can find.",
+      "categories": ["Food & Beverage"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#dunkindupe", "#homebarista", "#coffeetiktok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Dunkin'", "Monin", "Torani"],
+        "context": "Fast-food menu item inspiring home recreation and dupe recipe content for food creators",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Shape-shifting silicone phone stands go viral as the must-have WFH desk accessory",
+      "body": "A versatile silicone stand that morphs into multiple positions for phones, tablets, and laptops without scratching or slipping has become a TikTok sensation in the #tiktokmademebuyit space. Creators are filming satisfying transformation videos showing all the different positions the stand can hold. Home and lifestyle creators can film desk setup tours, oddly satisfying shape-shifting compilation reels, or 'one product that replaced five' minimalist desk content.",
+      "categories": ["Home & Lifestyle", "Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#tiktokmademebuyit", "#desksetup", "#wfhessentials", "#siliconstand"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Multipurpose desk accessory trending for satisfying shape-shifting demo videos",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

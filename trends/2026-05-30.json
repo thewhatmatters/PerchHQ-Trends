@@ -1,0 +1,351 @@
+{
+  "batch_id": "trends-2026-05-30",
+  "scraped_at": "2026-05-30T10:00:00Z",
+  "expires_at": "2026-06-02T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Relief Sun rice sunscreen becomes summer 2026's no-white-cast SPF obsession",
+      "body": "The $16 Korean SPF50+ with 30% rice extract and grain probiotics is dominating SkincareTok as the summer staple that leaves zero white cast on every skin tone. Beauty creators can film 'no white cast across skin tones' swatch tests, layering-under-makeup demos, and '$16 holy grail vs luxury SPF' comparison videos as sun-protection season peaks.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/beauty/skin/beauty-of-joseon-spf",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#beautyofjoseon",
+          "#koreansunscreen",
+          "#nowhitecast",
+          "#spf50"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Beauty of Joseon"
+        ],
+        "context": "Summer SPF season driving a budget K-beauty sunscreen back to peak virality with strong demo and comparison angles",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Coastal Cowgirl 2.0 evolves into summer 2026's mix-and-match wardrobe aesthetic",
+      "body": "The coastal cowgirl look is mutating for summer 2026: instead of matchy sets, creators are layering oversized western shirts over swimsuits, pairing denim with sheer linen, and adding edgy hardware jewelry. Fashion creators can film 'styling one western shirt 5 ways,' thrift-haul transitions, and beach-to-bar outfit-builder videos riding the aesthetic.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#summeroutfits2026",
+          "#stylingvideo",
+          "#outfitideas"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Seasonal summer aesthetic shifting toward mix-and-match styling, ideal for outfit-builder content formats",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cottage cheese taco bowl becomes FoodTok's high-protein lunch of summer 2026",
+      "body": "The viral cottage cheese taco bowl, layering roasted sweet potato, seasoned ground beef, cottage cheese, avocado and a hot honey drizzle, is racking up saves as a meal-prep-friendly high-protein lunch. Food creators can film 'high-protein lunch in 15 minutes,' meal-prep-five-bowls, and 'cottage cheese is back' macro-breakdown videos.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.primaverakitchen.com/cottage-cheese-taco-bowl/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cottagecheese",
+          "#highprotein",
+          "#mealprep",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Good Culture"
+        ],
+        "context": "Ongoing high-protein cottage cheese craze taking a savory meal-prep form with strong recipe-save potential",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu with Biscoff cookies takes over dessert TikTok",
+      "body": "A no-bake yogurt tiramisu made from Greek yogurt, Lotus Biscoff cookies and coffee is going viral as a lighter, high-protein spin on the classic dessert. Food creators can film satisfying layering ASMR builds, 'healthier tiramisu under 5 ingredients,' and Biscoff-vs-ladyfinger taste-test videos.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yogurttiramisu",
+          "#biscoff",
+          "#nobakedessert",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lotus Biscoff"
+        ],
+        "context": "Lighter no-bake dessert remix with ASMR layering appeal driving recipe replication",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Shy girl workout' format goes viral as low-pressure gym content for beginners",
+      "body": "The 'shy girl workout' trend, finding a quiet corner with headphones and a pair of dumbbells, is resonating on GymTok with women who feel intimidated by the weight floor. Fitness creators can film follow-along shy-girl dumbbell routines, 'gym anxiety hacks,' and quiet-corner full-body workout videos that convert nervous beginners.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#shygirlworkout",
+          "#gymtok",
+          "#gymanxiety",
+          "#beginnerworkout"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Beginner-friendly gym format addressing gym anxiety with high follow-along content potential",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Sauna and contrast therapy crowned the #1 wellness trend of 2026 on TikTok",
+      "body": "Sauna sessions, paired with cold plunges for contrast therapy, are being named TikTok's top health trend of 2026, with creators highlighting sleep, recovery and 'brain health' benefits. Health creators can film sauna-and-plunge routines, 'budget at-home sauna setups,' and contrast-therapy myth-vs-science explainers.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tik-tok-health-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sauna",
+          "#contrasttherapy",
+          "#coldplunge",
+          "#wellnesstrend"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Recovery-and-wellness ritual content trending into summer with at-home setup angles",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sunset lamp projectors return as the viral mood-lighting must-have",
+      "body": "Sunset lamps, the ambient projectors that cast a warm circular 'sunset glow' on walls and ceilings, are surging again as creators chase dopamine-decor and golden-hour aesthetics indoors. Home creators can film cozy room-glow-up reveals, 'aesthetic lighting under $20,' and sunset-lamp photo-backdrop hack videos.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "TikTok",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sunsetlamp",
+          "#dopaminedecor",
+          "#roomglowup",
+          "#aestheticlighting"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Budget mood-lighting product riding the dopamine-decor wave with strong before/after reveal appeal",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Migraine ice head wrap goes viral as TikTok's must-have wellness gadget",
+      "body": "A 360-degree cooling-gel migraine head wrap is blowing up on 'TikTok made me buy it' as relief for headaches, sinus pressure and puffy eyes. Tech and gadget creators can film honest 'does it actually work' reviews, hot-summer recovery hauls, and 'gadgets worth the hype vs not' roundups featuring it.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.alibaba.com/product-insights/tiktok-made-me-buy-it-reviewing-viral-tech-gadgets-that-actually-deliver.html",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#tiktokmademebuyit",
+          "#migrainerelief",
+          "#wellnessgadget",
+          "#gadgetreview"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Affordable wellness gadget with built-in review-content hook around whether it lives up to the hype",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "2-in-1 stroller wagons surge as the viral parent purchase of summer 2026",
+      "body": "Convertible stroller wagons like the Baby Trend Navigator Pro, which push like a stroller or pull like a wagon, are gaining major traction with parent creators heading into summer outings. Baby and kids creators can film park-day setups, 'is the stroller wagon worth it,' and stroller-vs-wagon comparison demos.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#strollerwagon",
+          "#momtok",
+          "#babyproducts",
+          "#toddlermom"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Baby Trend"
+        ],
+        "context": "Summer-outing parent gear trending with demo-and-review content potential",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "3-in-1 dog water bottles trend as the clever summer walk gadget for pet creators",
+      "body": "A 3-in-1 portable dog water bottle, combining a water dispenser, built-in treat compartment and poop-scraper, is going viral as the all-in-one tool for summer walks. Pet creators can film 'gadgets that make dog walks easier,' hot-weather hydration tips, and honest day-in-the-life walk reviews.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/trending-pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dogsoftiktok",
+          "#petgadgets",
+          "#dogwalk",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Practical summer dog-walk gadget with day-in-the-life and product-demo angles",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Quebec City emerges as TikTok's underrated summer 2026 travel darling",
+      "body": "Quebec City is climbing 2026 bucket lists as creators spotlight its old-world cobblestone charm as a budget-friendly, passport-light alternative to Europe for North American travelers. Travel creators can film 'feels like Europe without the flight,' 48-hour itinerary guides, and 'underrated summer destinations' comparison videos.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.topteny.com/underrated-summer-travel-spots/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#quebeccity",
+          "#underratedtravel",
+          "#summer2026",
+          "#traveltiktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Rising underrated-destination content as travelers seek European-feel trips closer to home",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Shell jewelry makes a beach-babe comeback on summer JewelryTok",
+      "body": "Shell necklaces, bracelets and anklets are having a major summer revival on JewelryTok, bringing relaxed coastal-girl energy that pairs with the season's beach aesthetics. Jewelry creators can film DIY shell-jewelry tutorials, 'styling shell pieces for the beach,' and layering-with-gold-chains lookbook videos.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "TikTok",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#shelljewelry",
+          "#beachjewelry",
+          "#coastalstyle",
+          "#jewelrytrends2026"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Seasonal beach-aesthetic jewelry revival with DIY-tutorial and styling content potential",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

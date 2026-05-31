@@ -1,0 +1,347 @@
+{
+  "batch_id": "trends-2026-05-31",
+  "scraped_at": "2026-05-31T10:00:00Z",
+  "expires_at": "2026-06-03T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask becomes the overnight 'glass skin' step creators wake up to",
+      "body": "The peel-off overnight collagen mask is racking up SkincareTok views as users film their morning de-mask reveal showing plumped, glassy skin. Beauty creators can shoot satisfying peel-off ASMR, before/after morning reveals, and a 'one week of sleeping in collagen' diary series.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#medicube",
+          "#collagenmask",
+          "#glassskin",
+          "#overnightmask"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Medicube"
+        ],
+        "context": "Overnight peel-off collagen mask driving satisfying morning-reveal and skin-diary content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Spicule 'tingling' serums trend as creators test the micro-channel smoothing sensation on camera",
+      "body": "Serums packed with spicules (tiny silica spikes from marine sponges) are going viral for the visible tingle-and-smooth reaction users film in real time. Beauty creators can shoot a live 'feel-it-work' reaction, a 7-day texture-smoothing diary, and a 'is the tingle worth it?' honest-review format.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://furylist.com/18-viral-beauty-products-of-2026-that-tiktok-cant-stop-talking-about/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#spiculeserum",
+          "#skintexture",
+          "#skincaretok",
+          "#serum"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Novel-sensation active serum fueling reaction and honest-review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho gypsy summer aesthetic takes over FashionTok with effortless layered styling",
+      "body": "The 'bohemian gypsy' look \u2014 messy-but-stylish layers, fringe, sheer fabrics and mixed textures \u2014 is the dominant summer 2026 fashion mood. Fashion creators can film 'style one maxi skirt 5 ways,' thrift-to-boho transformation transitions, and texture-mixing lookbooks.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#bohostyle",
+          "#summeraesthetic2026",
+          "#outfitideas",
+          "#stylingvideo"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Seasonal boho aesthetic powering styling and transformation content formats",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Frozen yogurt fruit clusters are the no-bake summer snack blowing up FoodTok",
+      "body": "Frozen clusters of yogurt-coated berries (often with a chocolate drizzle) are racking up saves as a high-protein, three-ingredient summer treat. Food creators can film a satisfying drizzle-and-freeze ASMR, a 'healthy dessert under 5 ingredients' format, and macro-friendly flavor variations.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.86,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#frozenyogurtclusters",
+          "#fruitclusters",
+          "#healthysnack",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "No-bake high-protein summer snack ideal for ASMR and easy-recipe formats",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Crispy crab rangoon rolls become FoodTok's viral fusion street-food recipe",
+      "body": "Hand-rolled crab rangoon in crispy egg-roll wrappers is taking off as a poppable, dip-ready fusion snack. Food creators can shoot a crunchy bite-and-pull ASMR, a 'pop-up menu test' format, and a dipping-sauce ranking video.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#crabrangoon",
+          "#fusionfood",
+          "#crispy",
+          "#recipe2026"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Fusion street-food recipe driving crunch-ASMR and recipe-test content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Pilates Princess' is the graceful at-home workout format taking over FitnessTok",
+      "body": "The Pilates Princess trend \u2014 fluid, controlled core flows filmed in matching sets with soft aesthetic lighting \u2014 is converting viewers into at-home mat and mini-reformer routines. Fitness creators can film follow-along 10-minute mat flows, 'Pilates Princess get-ready-with-me,' and posture-fix before/after content.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.84,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#pilatesprincess",
+          "#pilates",
+          "#athomeworkout",
+          "#fitnesstok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Aesthetic at-home Pilates format powering follow-along and GRWM workout content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Dopamine decor' radioactive brights replace neutral rooms in summer glow-up videos",
+      "body": "After seasons of beige, creators are flooding rooms with saturated brights, bold prints and color-clash styling under the 'dopamine decor' banner. Home creators can film a neutral-to-bright room reveal, a 'one bold color, three rooms' format, and budget bright-decor hauls.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Net-A-Porter",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dopaminedecor",
+          "#homeglowup",
+          "#interiortok",
+          "#colorfulhome"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist color trend driving room-reveal and decor-haul content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Foldable 3-in-1 MagSafe charger is the summer-travel gadget creators can't stop demoing",
+      "body": "A wallet-sized folding charger that powers iPhone, Apple Watch and AirPods at once is the top viral travel-tech pickup heading into summer trips. Tech creators can film a 'one gadget, three devices' desk-setup demo, a travel-packing-essentials clip, and a 'does it actually fast-charge?' test.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.gdwecent.com/which-tiktok-viral-travel-gadget-should-buyers-source-from-china-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#magsafecharger",
+          "#travelgadgets",
+          "#techtok",
+          "#3in1charger"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Apple"
+        ],
+        "context": "Compact travel charging gadget driving demo and travel-essentials content as summer-trip season opens",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pikler triangle climbing frames dominate gentle-parenting playroom content",
+      "body": "The wooden Pikler triangle is the playroom centerpiece parents are filming for open-ended, screen-free play. Baby & kids creators can shoot a playroom-setup reveal, a 'Montessori climber worth it?' review, and toddler milestone clips of first climbs.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "TikTok",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#piklertriangle",
+          "#montessori",
+          "#playroom",
+          "#gentleparenting"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Montessori climbing toy fueling playroom-setup and product-review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cooling pet beds and ice pads surge as summer heat hits PetTok",
+      "body": "Self-cooling gel pet beds and ice mats are spiking as owners prep pets for summer heat, with creators filming dogs and cats flopping onto them in relief. Pet creators can shoot a 'does my dog actually like it?' reaction test, a hot-weather pet-prep haul, and a summer-safety tips clip.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coolingpetbed",
+          "#dogsoftiktok",
+          "#summerpets",
+          "#petproducts"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Seasonal cooling pet gear driving reaction-test and summer-prep content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Albanian Riviera is summer 2026's 'hidden gem of Europe' for travel creators",
+      "body": "Beaches around the Albanian Riviera and the hilltop town of Berat are pulling huge 'underrated Europe' views as travelers dodge over-touristed hotspots. Travel creators can film an 'Amalfi vs Albania for a fraction of the price' comparison, a hidden-beach drone reel, and a budget-itinerary breakdown.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#albanianriviera",
+          "#hiddengem",
+          "#budgettravel",
+          "#traveltok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Underrated-destination trend powering comparison and budget-itinerary travel content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "DIY charm necklaces drive maximalist, make-it-yourself jewelry content",
+      "body": "Maximalist charm necklaces \u2014 and the DIY trend of building your own \u2014 are replacing minimalist pendants as the storytelling jewelry of summer 2026. Jewelry creators can film a 'build a charm necklace with me,' a charm-meaning storytime, and a thrifted-charm sourcing haul.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#diyjewelry",
+          "#charmjewelry",
+          "#jewelrytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist charm-jewelry trend driving DIY build-with-me and storytime content",
+        "price_point": "various"
+      }
+    }
+  ]
+}

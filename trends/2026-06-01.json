@@ -1,0 +1,350 @@
+{
+  "batch_id": "trends-2026-06-01",
+  "scraped_at": "2026-06-01T10:00:00Z",
+  "expires_at": "2026-06-04T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Paula's Choice 2% BHA Liquid Exfoliant is the cult 'sells-out-again' pore step creators keep restocking",
+      "body": "The BHA liquid is back in heavy rotation on SkincareTok as users credit it with smaller-looking pores, smoother texture and fewer breakouts in under two weeks. Beauty creators can film an 'empties + repurchase' loyalty story, a two-week pore-and-texture diary, and a 'how to layer a BHA without over-exfoliating' explainer.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#paulaschoice",
+          "#bhaexfoliant",
+          "#poretok",
+          "#skincaretok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Paula's Choice"
+        ],
+        "context": "Cult chemical exfoliant fueling restock-loyalty and texture-diary skincare content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Laneige Lip Sleeping Mask 'Cotton Candy' limited edition reignites the overnight lip-care haul",
+      "body": "The limited Cotton Candy flavor of Laneige's lip sleeping mask is driving fresh haul and swatch content as fans race to grab it before it sells out. Beauty creators can film a 'limited drop haul,' a flavor-ranking taste-and-texture review, and a 'lip prep before bed' nighttime routine.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.cultbeauty.com/c/top-10/tiktok/",
+      "trend_type": "product",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#laneige",
+          "#lipsleepingmask",
+          "#cottoncandy",
+          "#lipcare"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Laneige"
+        ],
+        "context": "Limited-edition lip-care flavor driving haul and ranking content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Blokette' is summer 2026's no-rules aesthetic blending sporty jerseys with girly skirts",
+      "body": "Blokette — a breezy mash-up of athletic jersey tops, flirty skirts and comfy flats that refuses to pick sporty OR girly — is the dominant 'style yourself, not a trend' mood on FashionTok. Fashion creators can film a 'one jersey, five Blokette outfits' styling reel, a thrift-to-Blokette transition, and a 'sporty-meets-girly' get-ready-with-me.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#blokette",
+          "#blokettecore",
+          "#summeroutfits2026",
+          "#styling"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Hybrid sporty-girly aesthetic powering styling and transition content formats",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Savoury-maxxing' pickle-and-chip snack plates take over FoodTok's anti-sweet summer",
+      "body": "Briny, salty snack boards — parmesan-crusted pickle chips, Flaming Hot Cheeto pickles and goat-cheese-topped chips — are racking up saves as creators lean into 2026's anti-dessert 'savoury-maxxing' wave. Food creators can film a crunchy pickle-chip ASMR, a 'build a savoury snack plate with me,' and a viral-pickle-snack taste-test ranking.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#savourymaxxing",
+          "#pickletok",
+          "#savorysnacks",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Anti-sweet briny snacking wave driving ASMR and snack-plate content formats",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 75 Hard challenge surges again as FitnessTok's summer discipline format",
+      "body": "The 75 Hard challenge — 75 days of two workouts, a strict diet, a gallon of water and a daily progress photo — is spiking as creators document discipline and transformation heading into summer. Fitness creators can film a 'Day 1 vs Day 75' transformation, a daily check-in vlog series, and a 'realistic 75 Hard meal + workout' breakdown.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/fitness-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#75hard",
+          "#75hardchallenge",
+          "#discipline",
+          "#fitnesstok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Discipline-challenge format powering daily check-in and transformation content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Pantry perfectionist' color-coded condiment organizing is HomeTok's satisfying summer reset",
+      "body": "Color-coded condiments, labelled jars and zoned shelves are racking up views as creators film deeply satisfying pantry-restock transformations. Home creators can shoot a before-and-after pantry reveal, a 'restock with me' ASMR, and a 'jar + label haul on a budget' format.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#pantryorganization",
+          "#restockwithme",
+          "#hometok",
+          "#organizing"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Satisfying pantry-organizing trend driving reveal and restock-ASMR content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Misting handheld fans (Shark ChillPill, Dreo TurboCool) are the viral heatwave gadget creators demo on camera",
+      "body": "Ultrasonic misting handheld fans are spiking as the must-have summer-cooling pickup, with creators filming dramatic temperature-drop and mist-on-face demos. Tech creators can shoot a 'holding it to a thermometer' proof clip, a misting-fan-vs-regular-fan comparison, and a festival/commute summer-essentials roundup.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Tom's Guide",
+      "source_url": "https://www.tomsguide.com/home/i-tried-this-viral-handheld-fan-thats-blowing-up-on-tiktok-and-its-usd21-off-at-amazon-right-now",
+      "trend_type": "product",
+      "confidence_score": 0.83,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#mistingfan",
+          "#handheldfan",
+          "#summergadgets",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Shark",
+          "Dreo"
+        ],
+        "context": "Seasonal cooling gadget driving temperature-drop demo and summer-essentials content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dumpling squishy toys become parent TikTok's must-grab sensory fidget of the summer",
+      "body": "Squishy dumpling-shaped fidget toys are blowing up in playroom and 'kid-approved finds' content for their satisfying squeeze and cute design. Baby & kids creators can film a sensory-toy haul, a 'does it survive a toddler?' durability test, and an ASMR squish reveal.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "TikTok",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#squishytoys",
+          "#sensorytoys",
+          "#kidsfinds",
+          "#momsoftiktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sensory fidget toy driving haul and durability-test parent content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Double-sided deshedding brushes drive oddly-satisfying fur-removal PetTok",
+      "body": "Double-sided deshedding brushes claiming to cut shedding by up to 90% are racking up views thanks to genuinely satisfying piles-of-fur reveals. Pet creators can film a 'how much fur in one brush?' satisfying clip, a before-and-after coat comparison, and a 'shedding-season survival' summer-grooming routine.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#deshedding",
+          "#dogsoftiktok",
+          "#petgrooming",
+          "#satisfying"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Shedding-season grooming tool driving satisfying fur-removal and before/after content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Jordan's Wadi Rum and Petra surge as summer 2026's cinematic 'bucket-list desert' for travel creators",
+      "body": "Dramatic Wadi Rum desert camps and the rock-carved city of Petra are pulling huge engagement as travelers chase awe-factor, off-the-beaten-path trips over crowded European hotspots. Travel creators can film a Wadi Rum stargazing-camp reel, a 'Petra in one day' itinerary, and a 'what it actually costs' budget breakdown.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#wadirum",
+          "#petra",
+          "#jordantravel",
+          "#traveltok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Cinematic desert destination powering itinerary and budget-breakdown travel content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beaded jewelry roars back as summer 2026's playful, make-it-yourself accessory",
+      "body": "Chunky beaded necklaces and bracelets are bigger than ever as maximalism replaces minimalism on JewelryTok, with DIY beading driving heavy save-and-share. Jewelry creators can film a 'bead a summer necklace with me,' a color-story design tutorial, and a 'styling beads with a monochrome outfit' lookbook.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#beadedjewelry",
+          "#diyjewelry",
+          "#beadednecklace",
+          "#jewelrytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist beaded-jewelry revival driving DIY tutorial and styling content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#Grandmillennial home design takes off as creators blend heirloom antiques into modern rooms",
+      "body": "Grandmillennial style — pairing antiques, vintage florals and heirloom furniture with contemporary spaces — is surging as searches for historical restoration jump going into summer. Home creators can film a 'thrifted antique room makeover,' a 'grandma-chic on a budget' haul, and a heirloom-styling before-and-after.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "House Digest",
+      "source_url": "https://www.housedigest.com/2170914/yelp-summer-trend-report-2026-predictions-tiktok-diy/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.76,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#grandmillennial",
+          "#vintagehome",
+          "#antiques",
+          "#hometok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Vintage-meets-modern decor hashtag driving makeover and thrift-haul content",
+        "price_point": "various"
+      }
+    }
+  ]
+}

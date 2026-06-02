@@ -1,0 +1,377 @@
+{
+  "batch_id": "trends-2026-06-02",
+  "scraped_at": "2026-06-02T10:00:00Z",
+  "expires_at": "2026-06-05T10:00:00Z",
+  "trends": [
+    {
+      "headline": "LED light-therapy face masks become summer 2026's at-home 'beauty tech' glow ritual creators film nightly",
+      "body": "Wearable red/blue LED face masks are surging on SkincareTok as creators show off the sci-fi glow and credit them with calmer breakouts and brighter skin. Beauty creators can film a 'silent nighttime LED routine,' a 30-day before-and-after diary, and a 'is beauty tech worth it?' honest-review explainer.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#ledmask",
+          "#beautytech",
+          "#skincareroutine",
+          "#skincaretok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Omnilux",
+          "CurrentBody",
+          "Shark Beauty"
+        ],
+        "context": "At-home beauty-tech device fueling nightly-routine and before-after skincare content",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Long-line Bermuda shorts replace short shorts as summer 2026's go-to 'modest-but-cool' bottom on FashionTok",
+      "body": "Knee-grazing tailored Bermuda shorts are taking over outfit content as creators style them with heels, ballet flats and oversized button-downs for an elevated summer look. Fashion creators can film a 'one pair of Bermudas, five ways' styling reel, a 'short shorts are out' POV, and a thrift-to-trend Bermuda haul.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#bermudashorts",
+          "#summeroutfit",
+          "#stylingreel",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Zara",
+          "Mango",
+          "Abercrombie"
+        ],
+        "context": "Summer styling aesthetic driving outfit-of-the-day and 'styled five ways' content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Oversized statement sunglasses are summer 2026's instant-glam accessory blowing up outfit reels",
+      "body": "Big bold frames are back as the single accessory creators say 'pulls the whole look together,' driving try-on and face-shape-matching content. Fashion and accessory creators can film a 'sunglasses for your face shape' guide, a budget-vs-luxury frame dupe test, and a 'one accessory glow-up' reel.",
+      "categories": [
+        "Fashion & Apparel",
+        "Jewelry & Accessories"
+      ],
+      "source": "TikTok",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sunglasses",
+          "#summeraccessories",
+          "#tryonhaul",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Quay",
+          "Gentle Monster",
+          "Prada"
+        ],
+        "context": "Statement accessory fueling face-shape-matching and dupe-test try-on content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Creamy Brazilian lemonade is FoodTok's viral summer sip with the condensed-milk pour-shot creators love",
+      "body": "The blended lemon-and-sweetened-condensed-milk lemonade is racing across drink TikTok thanks to its frothy texture and satisfying pour reveal. Food creators can film a slow-motion condensed-milk pour, a 'three-ingredient summer drink' recipe, and a taste-test reaction to the limeade-meets-cream flavor.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#braziliannlemonade",
+          "#summerdrinks",
+          "#easyrecipe",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "La Lechera",
+          "Eagle Brand"
+        ],
+        "context": "Viral three-ingredient summer beverage driving pour-shot and recipe content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Watermelon chamoy 'pizza' is FoodTok's sweet-spicy summer snack creators slice on camera",
+      "body": "A watermelon round dressed with chamoy, Tajin and citrus 'toppings' is going viral as the no-cook summer snack with maximum visual payoff. Food creators can film an ASMR slice-and-drizzle, a 'sweet or too spicy?' taste test, and a 'snacks that look like other foods' format.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#watermelonpizza",
+          "#chamoy",
+          "#tajin",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Tajin",
+          "Mega Chamoy"
+        ],
+        "context": "No-cook viral summer snack fueling ASMR-slice and taste-test content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Cycle syncing' workouts take over FitnessTok as creators match training to their menstrual phase",
+      "body": "Aligning workout intensity to each phase of the menstrual cycle is the wellness format trending now, framed as working with your body instead of against it. Fitness creators can film a 'what I train in each phase' breakdown, a follicular-vs-luteal energy diary, and a 'why I stopped forcing leg day' explainer.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cyclesyncing",
+          "#womenshealth",
+          "#fitnesstok",
+          "#wellnesstrend"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Phase-based training format driving educational women's-fitness content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Palm-size galaxy mini projectors are summer 2026's viral 'instant home cinema' room-glow gadget",
+      "body": "Pocket projectors that throw a 100-inch movie or galaxy light onto any wall are exploding on HomeTok for the instant before-and-after room transformation. Home creators can film a 'lights off, ceiling on' reveal, a movie-night room makeover, and a 'is the cheap one any good?' projector test.",
+      "categories": [
+        "Home & Lifestyle",
+        "Tech & Gadgets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#miniprojector",
+          "#galaxyprojector",
+          "#roomtransformation",
+          "#hometok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Nebula",
+          "AuKing",
+          "XGIMI"
+        ],
+        "context": "Viral room-glow gadget driving transformation-reveal and product-test content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Rechargeable electric arc lighters trend as TikTok's flame-free 'why didn't I buy this sooner' gadget",
+      "body": "USB-rechargeable windproof arc lighters are going viral as the no-butane, no-flame upgrade with a satisfying electric 'zap' on camera. Tech creators can film a satisfying arc close-up, a 'gadgets under $20 worth buying' roundup, and a windproof candle-and-grill stress test.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#arclighter",
+          "#gadgets",
+          "#tiktokmademebuyit",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The USB Lighter Company"
+        ],
+        "context": "Affordable everyday gadget fueling satisfying-close-up and cheap-finds content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Air Toobz become parent TikTok's must-grab summer toy for pool, beach and sandbox play",
+      "body": "The colorful connectable ball-and-tube toy is being called the most-played-with item in the playroom, with parents showing siblings building and racing balls through it outdoors. Parenting creators can film a 'summer boredom-buster' demo, a beach-and-pool durability test, and a 'toys actually worth the money' roundup.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "TikTok",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#airtoobz",
+          "#toddlertoys",
+          "#momtok",
+          "#summerwithkids"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Air Toobz"
+        ],
+        "context": "Viral outdoor summer toy driving boredom-buster and toy-review parenting content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Self-cleaning filtered pet water fountains surge on PetTok as the 'set it and forget it' hydration upgrade",
+      "body": "Wireless, auto-circulating pet fountains are trending as owners show fussy cats and dogs finally drinking more, with the satisfying flowing-water shot doing the work. Pet creators can film a 'will my cat actually use it?' test, a setup-and-clean walkthrough, and a 'pet gadgets worth it' roundup.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#petfountain",
+          "#cattok",
+          "#dogtok",
+          "#pettiktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "PetLibro",
+          "Catit"
+        ],
+        "context": "Viral pet-hydration gadget driving 'will my pet use it' test content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'How much a week here actually costs' receipt-breakdown videos are TravelTok's most-saved summer format",
+      "body": "Itemized cost-breakdown travel videos showing real receipts for a week in a destination are out-performing pure aesthetic clips and dominating saves and shares. Travel creators can film a 'real budget for 7 days in [destination]' breakdown, a 'cheap vs splurge day' comparison, and a 'hidden costs nobody warns you about' explainer.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#travelbudget",
+          "#costbreakdown",
+          "#traveltok",
+          "#traveltips"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "High-save travel content format built on transparent budgets and real receipts",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The tennis necklace claims summer 2026 'it-girl' status as JewelryTok's everyday-luxe staple",
+      "body": "Once a red-carpet-only piece, the diamond-line tennis necklace is now styled with casual daytime looks, driving layering and dupe-vs-fine-jewelry content. Jewelry creators can film a 'how to layer a tennis necklace,' a budget-dupe vs fine-jewelry comparison, and a 'one necklace, day to night' styling reel.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "TikTok",
+      "source_url": "https://artizanjoyeria.com/blogs/trends/jewelry-trends",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#tennisnecklace",
+          "#everydayjewelry",
+          "#jewelrytok",
+          "#layering"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Mejuri",
+          "Pandora"
+        ],
+        "context": "Everyday-luxe jewelry staple driving layering and dupe-comparison content",
+        "price_point": "various"
+      }
+    }
+  ]
+}

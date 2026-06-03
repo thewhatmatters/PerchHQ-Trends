@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-06-03",
+  "scraped_at": "2026-06-03T10:00:00Z",
+  "expires_at": "2026-06-06T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Relief Sun rice sunscreen is the SPF creators are repurchasing as summer-skin season peaks",
+      "body": "The rice-and-probiotic SPF 50+ is back at the top of SkincareTok as creators credit its dewy, no-white-cast finish for everyday summer wear. Beauty creators can film a 'no-white-cast SPF swatch test on different skin tones,' a 'reapplying SPF over makeup' hack, and a 'sunscreens that actually feel good in a heatwave' ranking.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#sunscreen", "#spf", "#beautyofjoseon", "#skincaretok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon"],
+        "context": "Summer SPF product fueling swatch-test and reapplication-hack skincare content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "COSRX Snail Mucin Power Essence rides another viral wave as the 'it just works' barrier step",
+      "body": "The snail-secretion essence is resurging on SkincareTok with creators showing its cooling slip and crediting it for calmer, plumper summer skin. Beauty creators can film a 'snail mucin texture ASMR,' a 30-day hydration before-and-after, and a 'budget K-beauty that beats luxury serums' comparison.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.thehandbook.com/tiktok-beauty-products/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#snailmucin", "#cosrx", "#kbeauty", "#skincaretok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["COSRX"],
+        "context": "Cult K-beauty essence driving texture-ASMR and budget-vs-luxury content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Coastal cowgirl' takes over summer FashionTok as creators mix denim, linen and western hats with beach tones",
+      "body": "The western-meets-seaside look is dominating outfit content with oversized denim, linen tops, wide-brim hats and sandy-blue palettes styled for the beach. Fashion creators can film a 'coastal cowgirl beach-day GRWM,' a 'one denim shirt, five coastal looks' reel, and a thrift-haul styling the aesthetic on a budget.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coastalcowgirl", "#summeroutfit", "#grwm", "#fashiontok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Wrangler"],
+        "context": "Summer aesthetic powering GRWM and styling-reel outfit content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Whipped lemonade is summer 2026's most-made FoodTok drink with the fluffy blender pour-shot",
+      "body": "The frothy blended lemonade is everywhere on FoodTok as creators show the airy whip and the slow pour over ice that the algorithm loves. Food creators can film a 'whipped lemonade ASMR pour,' a 'three-ingredient summer drink' tutorial, and a 'viral drink taste test: is it actually good?' reaction.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#whippedlemonade", "#summerdrinks", "#foodtok", "#easyrecipe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ninja", "Chamberlain Coffee"],
+        "context": "Viral summer drink recipe driving ASMR-pour and taste-test content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Ice cream nachos become FoodTok's shareable summer dessert with the build-on-camera reveal",
+      "body": "Crispy cinnamon-sugar 'chips' loaded with ice cream, sauces and toppings are blowing up as a fun, shareable dessert creators assemble on camera. Food creators can film a 'build-your-own ice cream nachos bar,' a 'kids vs. adults topping challenge,' and a 'no-bake summer dessert in 5 minutes' tutorial.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#icecreamnachos", "#dessert", "#foodtok", "#summertreats"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral no-bake dessert powering build-on-camera and topping-challenge content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 'shy girl workout' is the low-key gym format taking over FitnessTok this summer",
+      "body": "Creators are championing the 'shy girl workout' — claiming a quiet corner and a couple of dumbbells for simple, no-eyes-on-you routines that beat gym anxiety. Fitness creators can film a 'shy girl full-body dumbbell routine,' a 'beat gym anxiety as a beginner' POV, and a 'no machines, one corner' follow-along.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#shygirlworkout", "#gymanxiety", "#dumbbellworkout", "#fitnesstok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Beginner-friendly workout format driving follow-along and gym-anxiety content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#Whimsy is summer 2026's defining home mood as creators romanticize playful, character-filled spaces",
+      "body": "With #whimsy past 320K posts, HomeTok is leaning into analogue revival, playful escapism and 'character over perfection' styling for feel-good rooms. Home creators can film a 'whimsy-fy a boring shelf' transformation, a 'thrifted whimsical finds haul,' and a 'romanticize your home' soft-day-in-the-life.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://www.goodmorningamerica.com/shop/story/whimsy-summer-tiktok-trend-2026-132199612",
+      "trend_type": "hashtag",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#whimsy", "#whimsical", "#homedecor", "#hometok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Trending home-mood hashtag powering shelf-styling and romanticize-your-home content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Handheld vacuum sealers are the satisfying summer kitchen gadget creators can't stop demoing",
+      "body": "Compact rechargeable vacuum sealers are going viral for the oddly-satisfying shrink as air vanishes from the bag, pitched as a fridge-and-freezer waste-saver. Tech and food creators can film a 'meal-prep with a vacuum sealer,' a 'how long does sealed food really last?' test, and a 'satisfying seal ASMR' loop.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#vacuumsealer", "#kitchengadgets", "#mealprep", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anova", "FoodSaver"],
+        "context": "Viral kitchen gadget driving meal-prep and satisfying-ASMR content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Gummy blocks are the new viral sensory toy parents are grabbing for summer",
+      "body": "Squishy, stackable gummy blocks are blowing up as a satisfying sensory toy for kids and adults alike, perfect as a low-cost summer boredom-buster. Parent creators can film a 'sensory toy haul for road trips,' a 'kids react to gummy blocks' clip, and a 'fidget toys that actually keep them busy' roundup.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/content/viral-kids-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#gummyblocks", "#sensorytoys", "#fidgettoys", "#momtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral sensory toy powering toy-haul and kids-react parent content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-in-1 travel dog water bottles surge on PetTok as the must-have summer-walk gadget",
+      "body": "The all-in-one bottle with a built-in drinking bowl, treat compartment and waste scoop is trending as creators show easy hydration on hot summer walks. Pet creators can film a 'summer dog-walk essentials,' a 'keeping your dog hydrated in a heatwave' explainer, and a 'gadgets that make walks easier' review.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#dogwaterbottle", "#dogsoftiktok", "#petgadgets", "#pettok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral pet gadget driving dog-walk-essentials and hydration content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Iceland is summer 2026's 'cool-escape' destination as creators chase waterfalls and midnight-sun light",
+      "body": "Iceland is climbing TravelTok's bucket lists as a heatwave-proof summer trip, with creators filming waterfalls, black-sand beaches and near-endless midnight-sun golden hour. Travel creators can film a '5-day Iceland ring-road itinerary,' a 'what to pack for a cold summer trip,' and a 'midnight sun vs. golden hour' visual edit.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#iceland", "#midnightsun", "#traveltok", "#bucketlist"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Trending summer destination powering itinerary and packing-list travel content",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Hyper-local 'the one stall locals actually line up for' is TravelTok's most-saved video format",
+      "body": "The algorithm is rewarding ultra-specific recommendations — one dumpling stall, one hidden viewpoint — over broad city overviews, making them save-and-share magnets. Travel creators can film a 'the one spot locals line up for' reveal, a 'skip the tourist trap, go here instead' POV, and a 'hidden gems only a local knows' series.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://www.thetraveler.org/how-tiktok-is-rewriting-the-travel-playbook-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#hiddengems", "#localfinds", "#traveltok", "#foodie"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Save-worthy travel content format favoring ultra-specific local recommendations",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Jewelry stacking and bangle maximalism dominate summer JewelryTok's 'more is more' moment",
+      "body": "Layered necklace sets, ring stacks and clinking bangle arm-parties are taking over as minimalism fades and storytelling, self-expression pieces win. Jewelry creators can film a 'how to stack without it looking messy' tutorial, an 'arm party from one jewelry box' reel, and a 'mixing gold and silver — yes you can' explainer.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#jewelrystacking", "#armparty", "#bangles", "#jewelrytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mejuri", "Pandora"],
+        "context": "Maximalist jewelry trend driving stacking-tutorial and arm-party styling content",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

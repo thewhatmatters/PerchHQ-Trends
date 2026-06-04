@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-06-04",
+  "scraped_at": "2026-06-04T10:00:00Z",
+  "expires_at": "2026-06-07T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Rhode's peptide glazing serum powers the 'glazed skin' look BeautyTok is chasing this summer",
+      "body": "Hailey Bieber's lightweight peptide serum is making waves for its lit-from-within, glazed-donut finish that reads perfectly on camera. Beauty creators can film a 'glazed skin in 4 products' GRWM, a Rhode vs. budget-dupe comparison, and a 'does it glaze over SPF?' summer layering test.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://furylist.com/18-viral-beauty-products-of-2026-that-tiktok-cant-stop-talking-about/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#glazedskin", "#rhodeskin", "#peptideserum", "#beautytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rhode"],
+        "context": "Celebrity-brand serum anchoring the glazed-skin summer aesthetic",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cooling 'climate-adaptive' skincare spikes as heatwave-proof routines take over BeautyTok",
+      "body": "Products that react to skin temperature — cooling facial mists, anti-redness creams, fridge-chilled tools — are surging, with cooling-skincare searches topping 6,000 a month. Beauty creators can film a 'heatwave skincare routine,' a 'skincare fridge restock' ASMR, and a cooling-mist blind test ranking.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coolingskincare", "#heatwaveskincare", "#skincarefridge", "#summerskin"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Heat-driven product category fueling routine and restock content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#PerfumeTok keeps perfume at No.1 on TikTok Shop as fragrance-layering content booms",
+      "body": "Perfume is currently TikTok's top-selling product category with #PerfumeTok past 600K posts, and layering tutorials are the format converting hardest. Beauty creators can film a 'scent layering for summer' tutorial, a 'guess the dupe' blind smell test, and a 'signature scent by vibe' recommendation series.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "hashtag",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#perfumetok", "#fragrancetok", "#scentlayering", "#perfume"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Sol de Janeiro", "Dossier"],
+        "context": "Top-GMV category on TikTok Shop; layering and dupe formats lead",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist layering is the FashionTok formula of the moment: tees over collared shirts, sheers under structure",
+      "body": "Creators are stacking graphic tees over button-downs, sheer blouses under jackets, and tanks over longer shirts in a 'more is more' styling wave credited to 90s sitcom nostalgia. Fashion creators can film a 'one shirt, five layered looks' reel, a thrift haul styled maximalist, and a 'layering in summer without melting' guide.",
+      "categories": ["Fashion & Apparel"],
+      "source": "TikTok",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#maximalism", "#layering", "#fashiontok", "#outfitideas"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Styling format dominating outfit content; low-cost, thrift-friendly",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is FoodTok's high-protein dessert of the moment",
+      "body": "The three-ingredient riff — thick yogurt, Biscoff cookies and coffee — has become this season's breakout 'healthier dessert' recipe alongside the wider yogurt-dessert wave. Food creators can film a '3-ingredient yogurt tiramisu' tutorial, a protein-swap taste test against the classic, and a macro-friendly dessert week series.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#yogurttiramisu", "#highprotein", "#healthydessert", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lotus Biscoff"],
+        "context": "Viral recipe; simple ingredients, photogenic results, protein angle",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cloud matcha is the drink to film right now: coconut base topped with whipped matcha foam",
+      "body": "The latest matcha riff tops coconut water or milk with a whipped matcha-cream 'cloud,' joining coconut iced coffee in 2026's tropical-drinks wave. Beverage creators can film a 'cloud matcha at home' tutorial, a coconut iced coffee vs. cloud matcha taste-off, and a 'rating viral matcha drinks' series.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cloudmatcha", "#matchalatte", "#coconuticedcoffee", "#drinktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Summer drink trend; matcha demand so high it's straining supply",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 12-3-30 treadmill walk resurges as summer's low-barrier 'walking era' workout",
+      "body": "The 12% incline, 3 mph, 30-minute treadmill format is back on FitTok as creators package it into summer 'walking era' challenges and results diaries. Fitness creators can film a '30 days of 12-3-30' transformation, a 'walking era starter pack' explainer, and a heart-rate comparison vs. running.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#12330workout", "#walkingera", "#treadmillworkout", "#fittok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Beginner-friendly cardio format ideal for challenge and results content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Wax melting lamps are HomeTok's new cozy-tech obsession",
+      "body": "The flame-free wax warmer lamp is redefining at-home aromatherapy content, pairing soft lighting with scent-driven 'reset my space' videos. Home creators can film a 'wax lamp unboxing and first melt,' a 'candle vs. wax lamp' comparison, and an evening-reset routine featuring the warm glow.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://blog.adnabu.com/tiktok/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#waxlamp", "#waxmelts", "#hometok", "#cozyhome"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral TikTok Shop home gadget driving cozy-aesthetic content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 'bubble bath wand' is TikTok Shop's everyday-luxury bathroom hit, with buyers grabbing two at a time",
+      "body": "The pink handheld wand that whips any tub into a five-star bubble bath in seconds is the latest 'TikTok made me buy it' bathroom upgrade. Home and lifestyle creators can film a 'hotel bath at home' transformation, a self-care Sunday reset featuring the wand, and a 'viral bath gadgets: worth it?' test.",
+      "categories": ["Home & Lifestyle"],
+      "source": "TikTok",
+      "source_url": "https://shop.tiktok.com/us/k/products-tiktok-made-me-buy",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bubblebath", "#tiktokmademebuyit", "#selfcaresunday", "#bathtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Affordable-luxury bath gadget riding the self-care reset format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mini walking treadmills stay TechTok's most reviewable WFH gadget as summer step-count content rises",
+      "body": "Under-desk walking pads keep pulling massive review and 'steps at home' content, sitting at the tech-meets-wellness sweet spot. Tech creators can film a '30 days of walking-pad WFH' results video, a budget vs. premium pad comparison, and a desk-setup integration tour.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.gadgetreview.com/viral-tiktok-gadgets-that-are-way-smarter-than-they-look",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#walkingpad", "#desktreadmill", "#wfhsetup", "#10ksteps"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["WalkingPad", "UREVO"],
+        "context": "Evergreen viral gadget with fresh summer step-challenge angle",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Nuby's Rapid Cool milk cooler rides ParentTok testimonials as the summer must-pack baby gadget",
+      "body": "Real-parent testimonial videos are pushing the bottle-cooling gadget — alongside the Honey Bear straw cup — into viral registry-list content. Parenting creators can film a 'what's actually in my diaper bag this summer' rundown, a Rapid Cool real-time demo on an outing, and a 'viral baby products: worth it?' test.",
+      "categories": ["Baby & Kids"],
+      "source": "TikTok",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#babymusthaves", "#parenttok", "#diaperbag", "#babyproducts"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nuby", "Legendairy Milk", "Owlet"],
+        "context": "Testimonial-driven baby gear wave; strong worth-it review format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cat POV cameras hit 25M+ views as PetTok's most bingeable new format",
+      "body": "Collar-mounted POV cameras following cats on their daily adventures are pulling 25M+ views per video, led by accounts like @ivartheblindcat. Pet creators can film a 'day in my cat's life POV,' a 'what my dog does when I leave' reveal, and a POV-camera setup-and-review for pet parents.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#catpov", "#petcam", "#pettok", "#catsoftiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "POV pet-camera format with built-in gadget review tie-in",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Hidden-gem island content shifts TravelTok to Siargao, Coron and the Ha Giang Loop",
+      "body": "Creators posting lesser-known Southeast Asia spots — Philippine islands, Laos, Vietnam's Ha Giang Loop — are out-engaging overexposed destination content this summer. Travel creators can film a 'why I skipped Bali for Siargao' explainer, a cost-per-day budget breakdown, and a hook-first 'this beach has no crowds' reveal.",
+      "categories": ["Travel & Hospitality"],
+      "source": "TikTok",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#hiddengems", "#siargao", "#hagiangloop", "#traveltok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Under-the-radar destination wave rewarding hook-first edits",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mermaidcore washes over JewelryTok as shells, pearls and sea-glass tones set the summer palette",
+      "body": "The coastal 'mermaidcore' aesthetic — shell pendants, baroque pearls, sea-glass blues and wavy metalwork — is the styling story dominating summer jewelry content. Jewelry creators can film a 'mermaidcore jewelry edit' styling reel, a 'beach finds to jewelry' DIY, and a high-low version of the look from market stalls to fine pieces.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "TikTok",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#mermaidcore", "#shelljewelry", "#pearljewelry", "#jewelrytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Seasonal aesthetic driving styling edits and beachy DIY content",
+        "price_point": "various"
+      }
+    }
+  ]
+}

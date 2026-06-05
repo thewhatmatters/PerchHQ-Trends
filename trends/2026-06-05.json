@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-06-05",
+  "scraped_at": "2026-06-05T10:00:00Z",
+  "expires_at": "2026-06-08T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask is BeautyTok's overnight-glow obsession",
+      "body": "The peel-off overnight collagen mask is surging on TikTok Shop as creators film morning-after reveals of 'wrapped' skin. Easy before/after format: apply on camera at night, peel and show the glow at sunrise.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#medicube", "#collagenmask", "#skintok", "#nightroutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube"],
+        "context": "K-beauty overnight mask riding the skin-longevity wave",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Cloud skin' is the makeup finish BeautyTok is chasing right now",
+      "body": "A soft-focus, blurred matte-dewy hybrid finish that mimics a digital filter in real life. Creators are filming side-by-side tutorials vs. glass skin and product-stack breakdowns of how to get the diffused look.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#makeuptutorial", "#softfocus"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "makeup technique tutorial trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Wonderskin lip stain keeps selling a unit every 5 seconds on TikTok Shop",
+      "body": "The peel-off lip stain remains one of TikTok Shop's highest-velocity beauty SKUs, driven by satisfying apply-peel-reveal demos. Creators can ride it with wear-tests, dupes comparisons, and shade-matching videos.",
+      "categories": ["Beauty & Skincare"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/top-selling-products-on-tiktok-shop",
+      "trend_type": "product",
+      "confidence_score": 0.9,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#wonderskin", "#lipstain", "#tiktokshopfinds"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Wonderskin"],
+        "context": "high-velocity TikTok Shop bestseller",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Boho '70s 'undone' styling defines FashionTok's early-summer look",
+      "body": "Satin lace skirts, crochet layers and '70s undoneness are dominating outfit content, alongside Bermuda shorts and ballet flats as the season's staples. Strong fit-check and thrift-styling video opportunity.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bohostyle", "#70sfashion", "#summeroutfits", "#fitcheck"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "seasonal aesthetic shift for outfit content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Savory-maxxing takes over FoodTok: pickled everything and anti-sweet treats",
+      "body": "Salty snack plates, pickle-and-goat-cheese chip toppers and 'anti-sweet' desserts are the dominant FoodTok flavor story. Creators can film savory snack-plate builds, pickle taste-tests, or savory remixes of sweet classics.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#savorymaxxing", "#pickletok", "#snackplate", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "flavor-direction shift across recipe content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Crunchy rice squares with spicy tuna are FoodTok's make-at-home sushi moment",
+      "body": "Crispy rice squares topped with spicy tuna or avocado are everywhere in recipe feeds. High-ASMR format: the fry sizzle, the knife cut, the topping swirl — perfect for short satisfying cook-along videos.",
+      "categories": ["Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#crispyrice", "#spicytuna", "#homemadesushi", "#asmrfood"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral recipe with strong ASMR format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 'Baby Boo' core workout challenge is FitTok's partner trend of the week",
+      "body": "A partner core challenge set to a viral audio where friends sync planks and crunches. Low equipment, high duet potential — creators can film attempts, fails and progress check-ins with a friend.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/most-popular-tiktok-fitness-trends-right-now",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#babybooworkout", "#corechallenge", "#fittok", "#workoutbuddy"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "partner workout challenge with duet potential",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cycle-syncing workouts keep climbing as FitTok's women's-training story",
+      "body": "Creators are mapping training phases to the menstrual cycle — heavy lifts one week, pilates and walks the next. Strong explainer and weekly-vlog format for fitness creators with a female audience.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cyclesyncing", "#cyclesyncingworkout", "#womenshealth"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "women's fitness programming trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Pantry micro-organizing is HomeTok's new flex: color-coded condiments and food zones",
+      "body": "Labeled Kilner jars, color-coded condiments and 'food zones' are pulling huge numbers as the pantry becomes the new walk-in wardrobe. Restock and reorganize videos with satisfying decanting shots are the move.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pantryorganization", "#restock", "#pantrygoals", "#hometok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Kilner", "The Home Edit"],
+        "context": "organization content with satisfying-restock format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cabbagecore sprouts on HomeTok: lettuce-ware and cabbage motifs everywhere",
+      "body": "Cabbage and lettuce motifs — plates, candles, ceramics in the Dodie Thayer lineage — are the quirky decor accent of the moment. Thrift-hunt hauls, tablescape styling and DIY lettuce-ware content all fit.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cabbagecore", "#lettuceware", "#grandmadecor", "#tablescape"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "quirky decor motif trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Ninja's cordless blender rides an 1,800% order surge as summer smoothie content peaks",
+      "body": "The portable cordless blender is spiking on TikTok Shop just as smoothie, protein-shake and frozen-drink content hits its seasonal high. Review, recipe-series and 'blend anywhere' test videos all work.",
+      "categories": ["Tech & Gadgets", "Food & Beverage"],
+      "source": "TikTok",
+      "source_url": "https://www.accio.com/business/tiktok-shop-best-sellers-2026",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#ninjablender", "#cordlessblender", "#smoothietok", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ninja"],
+        "context": "seasonal kitchen-gadget surge on TikTok Shop",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'90s butter mom' parenting aesthetic surges on ParentTok — VHS tapes, overalls and analog childhoods",
+      "body": "Parents are leaning into an analog '90s childhood: VHS movie nights, home-cooked comfort food and screen-light routines, styled as the ''90s butter mom'. Day-in-the-life vlogs, thrifted-tech hauls and 'raising my kids like it's 1996' POVs are landing.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://slate.com/life/2026/06/90s-parents-kids-tiktok-butter-moms.html",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#90skidsraising90skids", "#buttermom", "#analogparenting", "#parenttok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "nostalgia-driven parenting aesthetic",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Clap for your dog' reaction challenge is PetTok's easiest trend to film today",
+      "body": "Owners clap at their dogs and capture the head-tilts, zoomies or total indifference, often cut to a trending sound. Zero-prop, one-take format any pet creator can shoot today; cat versions are spreading too.",
+      "categories": ["Pets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/pet-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#clapforyourdog", "#dogsoftiktok", "#petreaction", "#pettok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "low-effort pet reaction challenge",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'$30 room that looks 5-star' budget-reveal hooks are winning TravelTok",
+      "body": "Travel creators are opening videos with bold value reveals — budget stays that look luxury — plus hyper-local food spots over generic guides. Strong format for hotel-tour, hidden-gem and cost-breakdown content.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#budgettravel", "#hiddengem", "#hotelreview", "#traveltok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "value-reveal hook format for travel videos",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces replace dainty pendants as JewelryTok goes loud",
+      "body": "Charm-stacked necklaces, layered beads and bold bracelet stacks are the look — minimalism is officially out. Creators can film charm-collection tours, DIY charm-bar builds and stack-with-me styling videos.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://artizanjoyeria.com/blogs/news/tiktok-jewelry-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#jewelrystack", "#braceletstack", "#jewelrytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "maximalist styling shift in accessories",
+        "price_point": "various"
+      }
+    }
+  ]
+}

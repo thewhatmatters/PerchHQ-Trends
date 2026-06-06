@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-06-06",
+  "scraped_at": "2026-06-06T10:00:00Z",
+  "expires_at": "2026-06-09T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube PDRN serum brings the 'salmon DNA' glow at a TikTok Shop price",
+      "body": "The polynucleotide (PDRN) serum is the affordable entry into the salmon-DNA skincare craze creators keep dupe-testing against luxury versions. Easy angle: a 7-day 'plumping' diary with morning close-ups, or a 'luxury vs. K-beauty' side-by-side.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pdrn", "#salmondna", "#medicube", "#skintok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube"],
+        "context": "Affordable version of the viral polynucleotide skincare ingredient",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen is the summer SPF everyone's restocking",
+      "body": "The SPF 50+ rice sunscreen is surging as creators move into summer routines, praised for a dewy, no-white-cast finish under makeup. Perfect for 'beach bag essentials' hauls and no-white-cast swatch tests on different skin tones.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#sunscreen", "#spf", "#summerskincare"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon"],
+        "context": "K-beauty SPF riding the summer sun-care surge",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'More-is-more' layered tops are FashionTok's maximalist summer flex",
+      "body": "Creators are stacking multiple tops — tanks over tees, sheer over solid — as the maximalism wave (nodded to '90s Rachel Green) takes over styling reels. Shootable as a 'one base, five layered looks' transition video.",
+      "categories": ["Fashion & Apparel"],
+      "source": "WhoWhatWear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#layering", "#maximalism", "#outfitideas", "#styling"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist layering replacing minimalist styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#80sLuxury revival surges 225% — shoulder pads and luxe textures are back",
+      "body": "An '80s-luxury aesthetic (shoulder pads, flashy prints, opulent textures) is spiking in searches and powering night-out and thrift-styling content. Great for 'styling one thrifted blazer' and decade-themed get-ready-with-me videos.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "hashtag",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#80sLuxury", "#80srevival", "#shoulderpads", "#vintagefashion"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Decade-revival aesthetic gaining search momentum",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coconut-infused iced coffee is the tropical drink takeover of summer",
+      "body": "Coconut cream poured over iced coffee gives the layered, marbled look creators love — visually perfect for slow-pour ASMR. Shoot it as a satisfying pour-and-swirl close-up or a 'café drink at home for $2' recipe.",
+      "categories": ["Food & Beverage"],
+      "source": "FoodVLove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coconutcoffee", "#icedcoffee", "#coffeetok", "#summerdrinks"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Visual layered-drink recipe trend for summer",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Swicy' (sweet + spicy) is the flavor profile of 2026",
+      "body": "Sweet-meets-spicy is dominating recipe content — jalapeño simple syrup in drinks, hot-honey on everything, chili-mango snacks. Easy taste-test reaction format: 'I added jalapeño to ___, here's what happened.'",
+      "categories": ["Food & Beverage"],
+      "source": "Jigger & Joy",
+      "source_url": "https://jiggerandjoy.com/blog/2026-cocktail-trends",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#swicy", "#sweetandspicy", "#hothoney", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Dominant flavor trend spanning drinks and snacks",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 120-second plank challenge is FitTok's new endurance flex",
+      "body": "Holding a two-minute plank has become a sharable benchmark challenge, easy to film as a timer-on-screen attempt or a 7-day build-up progress series. Strong duet/stitch potential for 'can you beat me?' callouts.",
+      "categories": ["Health & Fitness"],
+      "source": "FitBudd",
+      "source_url": "https://www.fitbudd.com/post/inside-the-latest-tiktok-fitness-trend-120-second-planks",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#plankchallenge", "#coreworkout", "#fittok", "#120secondplank"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Benchmark fitness challenge with duet potential",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Grandmacore' collected interiors are killing the cookie-cutter home",
+      "body": "HomeTok is rejecting generic minimalism for soulful, layered rooms — plate walls, mixed woods and metals, tapestries, storied vintage finds. Shoot as a 'styling a thrifted shelf' or 'how I added soul to a builder-grade room' makeover.",
+      "categories": ["Home & Lifestyle"],
+      "source": "PORTER / Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#grandmacore", "#collectedhome", "#interiordesign", "#platewall"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist, personality-driven interior aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Wabi-sabi mushroom table lamps are HomeTok's statement glow",
+      "body": "Organic, mushroom-shaped wabi-sabi lamps are racking up views for adding sculptural, rustic warmth to a room. Perfect for 'one lamp transformed my corner' before/after and cozy-night ambiance clips.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Homio Decor",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#wabisabi", "#mushroomlamp", "#homedecor", "#cozyhome"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sculptural lighting trend for cozy interiors",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Portable countertop ice makers are the surprise summer must-have",
+      "body": "Compact ice makers that pump out a batch in minutes are surging as heatwave and iced-drink content peaks. Review-friendly: time-to-first-ice tests, 'is it worth it?' verdicts, and pairing with the viral iced-coffee recipes.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/shop-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#icemaker", "#tiktokmademebuyit", "#summergadgets", "#kitchengadgets"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Seasonal countertop appliance trending with summer drink content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The double-sided deshedding brush is PetTok's '90% less fur' obsession",
+      "body": "A double-sided deshedding brush claiming to cut shedding by 90% is a top-selling pet product, made for instant payoff content. Film the satisfying first-pass fur reveal and a before/after of the floor (or the dog).",
+      "categories": ["Pets"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#deshedding", "#petgrooming", "#dogsoftiktok", "#catsoftiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "High-payoff grooming product with satisfying reveal format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Baby Trend Navigator Pro stroller wagon is ParentTok's do-it-all pick",
+      "body": "The 2-in-1 stroller wagon that pushes or pulls is gaining traction in parent product reviews for growing with multiple kids. Strong 'one item, every outing' demo: park, market, and travel use in a single day-in-the-life.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/parent_tiktok_trend",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#strollerwagon", "#momtok", "#parenttok", "#babygear"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Baby Trend"],
+        "context": "Convertible baby-gear product trending in parent reviews",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Skip Bali, go Laos' — creators are chasing SE Asia's quiet alternatives",
+      "body": "TravelTok is shifting from saturated Bali/Thailand to lesser-known neighbors like Luang Prabang (morning alms, Kuang Si falls) and the Philippines' Siargao and Coron. Hook-first format: open on the most surprising visual, then 'go here instead.'",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#luangprabang", "#laos", "#hiddengems", "#traveltok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Off-the-beaten-path destination shift for travel creators",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces are the storytelling jewelry of summer",
+      "body": "Overloaded charm necklaces — trinkets that signal identity and memories — are replacing simple pendants on JewelryTok. Film a 'building my charm necklace, each one means something' POV or a styling stack-up reel.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#charmjewelry", "#jewelrytok", "#maximalistjewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Personalized maximalist jewelry trend",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

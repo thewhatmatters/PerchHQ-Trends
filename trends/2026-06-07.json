@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-06-07",
+  "scraped_at": "2026-06-07T10:00:00Z",
+  "expires_at": "2026-06-10T10:00:00Z",
+  "trends": [
+    {
+      "headline": "'Cloud skin' is replacing glass skin as SkinTok's softest filter-free finish",
+      "body": "Creators are swapping high-shine glass skin for 'cloud skin' — a soft-focus, blurred matte-glow makeup look that mimics a digital filter in real life. Shoot it as a step-by-step 'glass skin vs. cloud skin' split-screen or a 'no-filter, this is just product' close-up reveal.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#softglow", "#makeuptutorial", "#skintok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Soft-focus makeup finish replacing the high-shine glass skin look",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Spicule 'micro-needle' serums are SkinTok's most-discussed texture fix",
+      "body": "Serums packed with marine-sponge spicules create tiny micro-channels in the skin (cue the signature tingle) and creators are filming first-time reaction tests for pores and texture. Easy angle: a 'why my face is tingling' POV plus a 7-day texture diary with macro close-ups.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#spiculeserum", "#skincaretok", "#texturedskin", "#skinrenewal"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "Innovative exfoliating serum driving first-reaction content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Coastal cowgirl' goes harder for summer — denim over swimsuits, hats on the beach",
+      "body": "The coastal cowgirl mashup (denim, leather, wide-brim hats, linen in sandy beige and ocean blue) is evolving with creators layering oversized western shirts over swimsuits. Perfect for a 'one hat, three beach-to-bar looks' transition reel.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coastalcowgirl", "#summeroutfits", "#outfitideas", "#fashiontok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Evolving summer aesthetic blending western and beach styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#Blokette mixes sporty and girly — pleated skirts with baseball caps and sneakers",
+      "body": "Blokette (blokecore + coquette) pairs sportswear, collegiate jackets and baseball caps with pleated skirts, ballet flats and mini bags. Great for a 'styling one pleated skirt five ways' or a 'tomboy meets coquette' get-ready-with-me.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Fash Verge",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "hashtag",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#blokette", "#blokecore", "#coquette", "#styling"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Hybrid sporty-feminine aesthetic gaining momentum",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is FoodTok's high-protein dessert of the moment",
+      "body": "A lighter tiramisu built from yogurt, Lotus Biscoff cookies and coffee is going viral as the 'healthy-ish' dessert creators can't stop layering. Shoot the satisfying layer-by-layer build in a clear glass, or a 'high-protein tiramisu, no mascarpone' recipe reveal.",
+      "categories": ["Food & Beverage"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#yogurttiramisu", "#highprotein", "#biscoff", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lotus Biscoff"],
+        "context": "Lighter twist on a classic dessert trending for protein content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Savory-maxxing' is taking over the FYP — pickles and salty plates beat sweet treats",
+      "body": "FoodTok is anti-sweet right now: pickled-everything, salty snack plates, goat cheese and pickle-topped chips are the new craving content. Easy reaction format: 'I replaced my dessert with a savory plate for a week' or a 'pickle taste-test ranking.'",
+      "categories": ["Food & Beverage"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#savorymaxxing", "#pickletok", "#snackplate", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Anti-sweet flavor shift dominating food content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 'treadmill strut' is FitTok's playlist-powered cardio challenge",
+      "body": "The treadmill strut has runners curating a playlist and bumping speed by 0.1mph with every song change — a built-in, filmable progression. Shoot it as a 'one playlist, one workout' POV with the speed counter on screen, or a duet 'can you finish the playlist?' callout.",
+      "categories": ["Health & Fitness"],
+      "source": "Stylist",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#treadmillstrut", "#cardiochallenge", "#fittok", "#runtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Music-driven cardio challenge with duet potential",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Dopamine decor' brings radioactive brights back to HomeTok",
+      "body": "Mood-boosting, eye-popping color is the antidote to beige minimalism — saturated walls, bold accessories and playful clashing palettes. Film a 'beige room to dopamine room' before/after or a 'shopping my house for color' styling reel.",
+      "categories": ["Home & Lifestyle"],
+      "source": "PORTER / Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminedecor", "#colorfulhome", "#interiordesign", "#hometok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Bright, mood-boosting interior aesthetic replacing minimalism",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The foldable 3-in-1 magnetic charger is the summer travel gadget creators keep demoing",
+      "body": "A wallet-sized folding charger juices an iPhone, Apple Watch and AirPods at once over Qi2/MagSafe — perfect 'no more three bricks on the nightstand' content. Review-friendly: a hotel-nightstand demo, a 'what's in my travel tech kit,' or a charge-speed test.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Wecent",
+      "source_url": "https://www.gdwecent.com/which-tiktok-viral-travel-gadget-should-buyers-source-from-china-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#magsafe", "#travelgadgets", "#tiktokmademebuyit", "#techtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Compact travel charger trending in tech-review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The OXO Tot grape cutter is ParentTok's choking-hazard hack of the week",
+      "body": "A one-press cutter that quarters grapes, hot dogs and other choking hazards is a viral parent must-have for the satisfying, safety-first payoff. Film a fast 'snack-prep in 30 seconds' demo or a 'baby-safe lunchbox' speed-run.",
+      "categories": ["Baby & Kids"],
+      "source": "Tinybeans",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#momtok", "#babyfood", "#parentinghacks", "#babygear"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["OXO Tot"],
+        "context": "Safety-focused feeding gadget with quick-demo format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'CatPOV' cameras are PetTok's most-viewed new format",
+      "body": "Tiny collar-mounted cameras that capture a cat's-eye-view of the day are racking up tens of millions of views per clip. Easy angle: a 'a day in the life of my cat (filmed by my cat)' edit or a 'what does she do all day?' reveal.",
+      "categories": ["Pets"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#catpov", "#catsoftiktok", "#petcam", "#catcontent"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "First-person pet-camera format driving big view counts",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 3-in-1 dog water bottle is PetTok's clever on-the-go buy",
+      "body": "A travel dog bottle combining a water dispenser, treat compartment and poop-bag scraper is gaining traction for walks and road trips. Film a 'testing the all-in-one walk gadget' review or a 'what's clipped to my dog leash' rundown.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#dogsoftiktok", "#dogwalk", "#petgadgets", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Multi-function pet product for on-the-go owners",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Greece or Turkey?' comparison videos are TravelTok's comment-bait format",
+      "body": "Head-to-head 'is X or Y better for summer?' destination debates are racking up shares as viewers argue it out in the comments. Shoot a fast split-screen comparing beaches, food and price, ending with 'which would you pick?' to fuel replies.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#traveltok", "#greecevsturkey", "#summertravel", "#traveldebate"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Comparison-debate format engineered for comments and shares",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bracelet stacking is JewelryTok's summer 'arm candy' obsession",
+      "body": "Ring stacks have graduated to the wrist — layered beaded bracelets, metal bangles and mixed metals piled into curated-chaos 'arm candy.' Film a 'building my summer stack, each piece has a story' POV or a coastal/mermaid-core beaded stack styling reel.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#braceletstacking", "#armcandy", "#beadedjewelry", "#jewelrytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Layered, mixed-metal bracelet stacking trend for summer",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-06-08",
+  "scraped_at": "2026-06-08T10:00:00Z",
+  "expires_at": "2026-06-11T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Butter yellow is the new neutral — and the cat-eye mani is its cool-girl shape",
+      "body": "Butter yellow nails are exploding (search demand up ~1,043%) and creators are pairing the soft pastel with the cat-eye 'velvet' manicure shape that's up 50% year-on-year. Shoot a 'painting butter yellow for the first time' POV or a 'one color, five nail shapes' swatch reel.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#butteryellownails", "#cateyenails", "#nailtok", "#summernails"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Pastel nail color and cat-eye manicure shape dominating summer NailTok",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Medicube's PDRN pink peptide serum is the affordable 'salmon DNA' glow everyone's testing",
+      "body": "PDRN (polynucleotide, the 'salmon DNA' ingredient) is BeautyTok's ingredient of the moment, and Medicube's pink peptide serum is the under-$40 way creators are trying it. Film a '14-day PDRN glow diary' or a 'expensive salmon facial vs. the $30 serum' side-by-side.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pdrn", "#medicube", "#skintok", "#pinkpeptide"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube"],
+        "context": "Affordable PDRN serum riding the salmon-DNA skincare wave",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'90s multi-layered tops are FashionTok's maximalist summer styling hack",
+      "body": "The Rachel Green move of stacking multiple tops — tank over tee, cropped layer over a longline — is officially back as more-is-more maximalism takes over. Shoot a 'how many tops can I layer and still look good' challenge or a 'one tank, three layered looks' transition.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#layering", "#90sfashion", "#outfitideas", "#styling"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "'90s-inspired top-layering as maximalist summer styling content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Boho is back with an indie-chic grunge twist for summer",
+      "body": "FashionTok's next aesthetic swing is bohemia reworked — beaded necklaces, lace, and floaty layers with a grungier, indie-cool edge instead of the clean coastal look. Make a 'styling boho without looking like 2014' guide or a 'thrift-flip to indie boho' haul.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#boho", "#indiechic", "#grunge", "#thriftflip"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Bohemian revival with an indie-grunge edge replacing clean-girl styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Crispy chicken shawarma is FoodTok's most-saved at-home recipe right now",
+      "body": "Creators are recreating the crackly, street-cart crispy chicken shawarma at home and the satisfying shave-and-stack shots are racking up saves. Shoot the full marinate-to-wrap build with an ASMR shawarma 'shave' or a 'cart vs. my kitchen' taste test.",
+      "categories": ["Food & Beverage"],
+      "source": "Blogzioverse",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#shawarma", "#foodtok", "#recipe", "#crispychicken"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Viral homemade crispy chicken shawarma recipe with ASMR appeal",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Frozen yogurt fruit clusters are the no-bake high-protein summer snack",
+      "body": "Frozen 'clusters' — yogurt-coated berries frozen into bite-size clumps — are FoodTok's easiest healthy-dessert content, hitting the protein and anti-sweet angles at once. Film a 3-ingredient build with the satisfying frozen 'crack' bite, or a 'TikTok froyo clusters: worth it?' verdict.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#frozenyogurt", "#yogurtclusters", "#highprotein", "#snackideas"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "No-bake frozen yogurt fruit clusters as a healthy snack format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 120-second plank is FitTok's accessible 'can you hold it' challenge",
+      "body": "The 120-second plank challenge is taking over FitTok as a simple, equipment-free benchmark anyone can attempt on camera. Shoot a live-timer 'can I hold a 2-minute plank' attempt, a 30-day plank progression, or a duet-bait 'beat my time' callout.",
+      "categories": ["Health & Fitness"],
+      "source": "FitBudd",
+      "source_url": "https://www.fitbudd.com/post/inside-the-latest-tiktok-fitness-trend-120-second-planks",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#plankchallenge", "#fittok", "#coreworkout", "#120secondplank"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Time-based plank challenge as accessible, duet-friendly fitness content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Grandma-core' collected interiors are beating beige on HomeTok",
+      "body": "The cookie-cutter beige home is out — creators are layering plate walls, mixed metals and woods, tapestries and inherited pieces into warm, 'collected' rooms with soul. Shoot a 'beige rental to grandma-core' makeover or a 'thrifting for plate-wall pieces' haul-and-hang.",
+      "categories": ["Home & Lifestyle"],
+      "source": "PORTER / Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#grandmacore", "#collectedhome", "#platewall", "#homedecor"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist 'collected' interiors replacing minimalist beige homes",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The Theragun Mini 2 is the wellness gadget creators keep restocking",
+      "body": "The pocket-size Theragun Mini 2 is one of the rare 'TikTok made me buy it' gadgets reviewers say lives up to the hype, especially for fitness and wellness creators. Film a 'gym-bag essentials' demo, a post-workout recovery routine, or a 'does the mini actually hit deep enough' test.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "Gadget Review",
+      "source_url": "https://www.gadgetreview.com/viral-tiktok-gadgets-that-are-way-smarter-than-they-look",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theragun", "#recovery", "#tiktokmademebuyit", "#wellnessgadget"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Theragun"],
+        "context": "Compact percussion massager popular with fitness and wellness creators",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Yoto Player is ParentTok's screen-free audio buy of the moment",
+      "body": "Riding the anti-screen-time wave, the Yoto Player lets kids load $5–$25 story and music cards for screen-free listening — and parents are demoing it everywhere. Shoot a 'screen-free morning routine' with the card swap, or a 'Yoto vs. Toniebox: which we kept' comparison.",
+      "categories": ["Baby & Kids"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#yotoplayer", "#screenfree", "#parenttok", "#toddlermom"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Yoto", "Toniebox"],
+        "context": "Screen-free audio player trending in the anti-screen-time parenting movement",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 90%-less-shedding deshedding brush is PetTok's grooming bestseller",
+      "body": "A double-sided deshedding brush that creators say cuts shedding by ~90% is the runaway pet-grooming buy, and the fur-pile reveal shots do the selling. Film a 'how much fur came off one golden retriever' brush-out or a satisfying before/after coat reveal.",
+      "categories": ["Pets"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#deshedding", "#pettok", "#doggrooming", "#petproducts"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Double-sided deshedding brush with satisfying fur-pile reveal content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Hyper-local 'one stall the locals line up for' is TravelTok's winning format",
+      "body": "Broad city guides are out — TravelTok now rewards hyper-specific street-food finds like 'the one dumpling stall locals queue for' over generic top-10s. Shoot a single-vendor deep dive with the order, the price, and the walk-up directions baked into the caption.",
+      "categories": ["Travel & Hospitality", "Food & Beverage"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#streetfood", "#hiddengem", "#traveltok", "#localfood"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Hyper-local single-vendor street-food content outperforming broad city guides",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces are replacing the simple pendant on JewelryTok",
+      "body": "Charm-based jewelry is one of the biggest JewelryTok trends — piling mismatched charms onto a necklace as 'storytelling' styling that buries the minimalist pendant. Shoot a 'build your charm necklace with me' or a 'each charm means something' personal-story reel.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#charmjewelry", "#jewelrytok", "#stacking"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist charm necklaces as storytelling jewelry replacing minimal pendants",
+        "price_point": "various"
+      }
+    }
+  ]
+}

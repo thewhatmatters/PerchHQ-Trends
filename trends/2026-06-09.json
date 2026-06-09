@@ -1,0 +1,259 @@
+{
+  "batch_id": "trends-2026-06-09",
+  "scraped_at": "2026-06-09T10:00:00Z",
+  "expires_at": "2026-06-12T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Biodance Bio-Collagen Real Deep Mask is the 'glass skin in one use' overnight hack",
+      "body": "The jelly-textured Biodance mask is blowing up again as creators prove the 'peel it off in the morning for glass skin' payoff in a single wear. Shoot an 8-hour 'I slept in it' time-lapse or a 'one mask, real-time glow' before/after with the satisfying peel reveal.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#biodance", "#glassskin", "#skintok", "#overnightmask"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Biodance"],
+        "context": "Overnight bio-collagen mask delivering one-use glass-skin results",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Skin longevity' is replacing 'anti-aging' as SkinTok's new framing",
+      "body": "Creators are dropping the word 'anti-aging' for 'skin longevity' — the idea that you're building stronger, better-functioning skin over years instead of erasing wrinkles. Make a 'why I stopped saying anti-aging' explainer or a 'longevity routine vs. quick-fix routine' compare.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#skinlongevity", "#skintok", "#skinhealth", "#skincare"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Reframing of skincare goals from anti-aging to long-term skin health",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Super-long Bermuda shorts are FashionTok's go-to summer silhouette",
+      "body": "Knee-grazing 'super-long' Bermuda shorts are the leg-baring-but-modest staple creators keep styling for summer 2026. Film a 'one pair of long Bermudas, five outfits' styling reel or a 'how to make Bermudas not look frumpy' do's-and-don'ts.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bermudashorts", "#summerfashion", "#outfitideas", "#styling"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Long Bermuda shorts as the defining modest-summer bottom",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sheer skirts are the layering piece FashionTok keeps reaching for",
+      "body": "Translucent sheer skirts layered over shorts, bike shorts, or swimwear are everywhere in summer 2026 styling content. Shoot a 'how to wear a sheer skirt without flashing' guide or a 'day-to-night with one sheer skirt' transition.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#sheerskirt", "#layering", "#summerstyle", "#outfitinspo"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sheer skirts as a transparent summer layering trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The pistachio-tahini chocolate bar is FoodTok's most-copied sweet right now",
+      "body": "The pistachio-and-tahini-cream filled chocolate bar (the evolution of the Dubai chocolate craze) is racking up 100M+ views, with even Billie Eilish posting a vegan twist. Make a 'copycat at home for under $10' build or a 'store-bought vs. homemade' taste test with the gooey cross-section snap.",
+      "categories": ["Food & Beverage"],
+      "source": "Blogzioverse",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "viral_moment",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pistachiochocolate", "#dubaichocolate", "#foodtok", "#dessert"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Pistachio-tahini chocolate bar as the viral dessert of the moment",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The CORE 300 challenge is FitTok's no-rest ab marathon of the week",
+      "body": "FitTok's CORE 300 challenge stacks 300 reps across 8 ab moves — 50 crunches, 50 Russian twists, 40 leg raises, 40 flutter kicks and more — with no breaks. Film a 'can I finish CORE 300 unedited' attempt or a 'beginner-modified version anyone can do' follow-along.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/fitness-challenge",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#core300", "#abchallenge", "#fittok", "#coreworkout"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "300-rep no-rest core challenge as a follow-along fitness format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 'shy girl workout' is FitTok's beginner-friendly gym format",
+      "body": "The 'shy girl workout' — find a quiet corner, headphones in, dumbbells only, simple moves — is winning over gym-anxious beginners on FitTok. Make a 'full shy girl dumbbell routine you can do in one corner' or a 'gym anxiety hacks' POV that hooks first-timers.",
+      "categories": ["Health & Fitness"],
+      "source": "Stylist",
+      "source_url": "https://www.stylist.co.uk/fitness-health/workouts/tiktok-fitness-trends-workouts/759402",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#shygirlworkout", "#gymanxiety", "#fittok", "#beginnerworkout"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Low-pressure corner-of-the-gym dumbbell routine for beginners",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Cloud Sofa is HomeTok's most-demoed comfort splurge",
+      "body": "The deep, squishy 'Cloud Sofa' keeps racking up millions of views as creators flop into it on camera to prove the comfort. Shoot a 'worth the hype?' honest review, a 'flop test' satisfying clip, or a 'dupe vs. the real thing' comparison.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Homio Decor",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cloudsofa", "#hometok", "#homedecor", "#interiordesign"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Oversized cloud-style sofa as a viral comfort-review product",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Plate walls are HomeTok's grandma-core display flex",
+      "body": "Hanging a curated wall of mismatched vintage plates is the standout move in the grandma-core/collected-home trend. Film a 'thrift haul to plate wall' build, a 'how to hang plates without drilling' hack, or a 'styling one plate wall three ways' reel.",
+      "categories": ["Home & Lifestyle"],
+      "source": "PORTER (Net-a-Porter)",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#platewall", "#grandmacore", "#hometok", "#thriftedhome"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Vintage plate-wall displays as a collected-home decor format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The shape-shifting silicone stand is the desk gadget creators keep demoing",
+      "body": "A squishy 'shape-shifting' silicone stand that grips a phone for calls and props up a heavy laptop without scratching it is a sleeper TikTok-made-me-buy-it hit. Demo the 'one stand, ten positions' flex or a 'work-from-anywhere desk setup' that features it.",
+      "categories": ["Tech & Gadgets"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-tech-gadgets",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#tiktokmademebuyit", "#desksetup", "#gadgets", "#techtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Flexible silicone phone-and-laptop stand as a viral desk gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Honey Bear straw cup is ParentTok's speech-and-sip favorite",
+      "body": "The Honey Bear straw cup keeps going viral with parents who say squeezing the bear teaches toddlers to drink from a straw and supports oral-motor development. Film a 'why SLPs love this cup' explainer or a 'first-try straw lesson' POV with your toddler.",
+      "categories": ["Baby & Kids"],
+      "source": "BuzzFeed",
+      "source_url": "https://www.buzzfeed.com/maitlandquitmeyer/parenting-products-from-tiktok-that-are-totally-worth-it",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#honeybearcup", "#parenttok", "#toddlermom", "#momhack"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Honey Bear"],
+        "context": "Honey Bear straw cup as a toddler straw-training must-have",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cooling pet mats are PetTok's summer must-buy as temps climb",
+      "body": "Self-cooling gel ice mats for dogs and cats are surging on PetTok as owners try to keep pets comfortable in the heat. Shoot a 'does my dog actually use it?' honest test, a 'summer heat essentials for pets' roundup, or a satisfying 'cat claims the cooling mat' clip.",
+      "categories": ["Pets"],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coolingmat", "#pettok", "#dogsofttiktok", "#summerpets"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Self-cooling gel pet mats as a summer-heat product for pets",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Exact cost breakdown with receipts' is TravelTok's most-trusted format",
+      "body": "Travel creators are winning saves with line-by-line trip cost breakdowns — flights, stay, food, activities — shown with real receipts instead of vague 'it was affordable.' Make a 'what 4 days in [city] really cost me, receipts included' or a 'budget vs. luxury, same trip' split.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#traveltok", "#travelbudget", "#costbreakdown", "#traveltips"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Receipt-backed trip cost breakdowns as a high-trust travel format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sculptural chokers and metal cuffs are JewelryTok's bold summer shift",
+      "body": "Chokers are back, but sleeker and more sculptural — paired with structured metal cuffs as minimalism gives way to bold, architectural pieces. Film a 'sculptural jewelry haul' try-on or a 'how to style a statement cuff for day vs. night' styling reel.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/jewelry/summer-jewelry-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#choker", "#metalcuff", "#jewelrytok", "#statementjewelry"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sculptural chokers and structured cuffs as bold summer jewelry",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

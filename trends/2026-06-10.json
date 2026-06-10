@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-06-10",
+  "scraped_at": "2026-06-10T10:00:00Z",
+  "expires_at": "2026-06-13T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen is SkinTok's no-white-cast summer staple",
+      "body": "The SPF 50+ rice-and-prebiotic sunscreen is surging again as creators prove its dewy, no-white-cast finish doubles as a makeup primer for hot-weather wear. Film a 'one swipe, zero cast' arm-test on deep skin tones, or a 'sunscreen as primer' GRWM showing makeup going on over it with no pilling.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#ricesunscreen", "#spf", "#skintok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon"],
+        "context": "K-beauty SPF going viral as a dewy, primer-friendly summer sunscreen",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Cloud skin' is the soft-focus makeup finish replacing high-glow on BeautyTok",
+      "body": "Creators are chasing 'cloud skin' — a blurred, diffused matte-meets-dewy finish that mimics a digital filter in real life — as a softer alternative to mirror-glass glow. Shoot a 'cloud skin in 4 steps' tutorial or a side-by-side 'glass skin vs cloud skin' showing the soft-focus difference on camera.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#softfocus", "#makeuptutorial", "#beautytok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Soft-focus 'filter in real life' makeup finish trending as the next glass-skin",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coastal cowgirl is FashionTok's defining summer styling formula",
+      "body": "The denim-meets-linen, wide-brim-hat coastal cowgirl aesthetic is dominating summer outfit content, with creators layering oversized western shirts over swimsuits in sandy-beige and ocean-blue palettes. Make a 'styling one western shirt 3 beach ways' transition reel or a 'coastal cowgirl on a budget' thrift haul.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Fash Verge",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coastalcowgirl", "#summeroutfits", "#fashiontok", "#outfitinspo"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Western-meets-beach styling aesthetic trending for summer outfit content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Wedge espadrilles are summer 2026's breakout FashionTok shoe",
+      "body": "Wedge espadrilles are being named a defining summer footwear trend, with creators styling them from sundresses to barrel-leg denim. Film a 'one espadrille, 5 outfits' lookbook or a 'are wedge espadrilles actually comfy?' all-day wear test.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#espadrilles", "#summershoes", "#shoetok", "#fashionfinds"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Wedge espadrilles surfacing as the season's defining footwear trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee is FoodTok's tropical drink of the summer",
+      "body": "Coconut milk and cream are taking over iced coffee content this year, prized for both the tropical flavor and the photogenic layered look creators love. Shoot a slow-pour 'coconut cold brew at home' ASMR or a 'cafe dupe: $2 coconut iced latte' cost-breakdown.",
+      "categories": ["Food & Beverage"],
+      "source": "FoodvLove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coconutcoffee", "#icedcoffee", "#coffeetok", "#summerdrinks"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Coconut-infused iced coffee trending as the season's signature drink",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Savoury-maxxing' girl-dinner snack plates are FoodTok's anti-sweet wave",
+      "body": "FoodTok is leaning hard into savoury — pickled-everything, salty snack plates and goat-cheese-on-a-chip 'girl dinner' boards are racking up views as the anti-dessert mood. Film a 'build a savoury girl-dinner board with me' or a 'pickle plate tier list' taste test.",
+      "categories": ["Food & Beverage"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#girldinner", "#savourymaxxing", "#snackplate", "#foodtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Savoury snack-plate 'girl dinner' format trending against sweet treats",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The '6-Week Tone & Transform' follow-along is FitTok's June group challenge",
+      "body": "A 30-minute deep-core follow-along challenge that kicked off June 1 is pulling FitTok into group-accountability content as creators post weekly check-ins. Start a 'Day 1 vs Day 7 of the 6-week challenge' progress series or a 'doing the follow-along with you in real time' POV.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/viral-fitness-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#fitchallenge", "#followalong", "#corestrength", "#fittok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "30-minute deep-core follow-along challenge driving June group fitness content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Pantry as the new walk-in wardrobe' is HomeTok's organization flex",
+      "body": "Color-coded condiments, labelled Kilner jars and zoned shelves have turned the kitchen pantry into HomeTok's most-demoed organization project. Film a 'restock and zone my pantry with me' ASMR or a 'budget pantry glow-up under $40' using decanted jars.",
+      "categories": ["Home & Lifestyle"],
+      "source": "PORTER / Net-a-Porter",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#pantryorganization", "#restock", "#hometok", "#organizedhome"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Pantry restocking and zoning trending as HomeTok's signature organization content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Theragun Mini 2 is TechTok's quiet ASMR recovery gadget",
+      "body": "The Theragun Mini 2's notably quieter motor has made it a TechTok favorite in ASMR-style recovery and 'desk-worker stretch' content. Shoot a quiet 'end-of-day recovery routine' ASMR or a 'does the mini actually help tech neck?' honest review.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "gagadget",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#theragun", "#recovery", "#techtok", "#gadgetreview"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Theragun"],
+        "context": "Quieter mini massage gun trending in ASMR recovery and review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Yoto Player is ParentTok's screen-free audio favorite",
+      "body": "The card-based Yoto Player is riding the anti-screen parenting wave as a screen-free way to play music and stories, with creators showcasing independent-play routines. Film a 'screen-free morning routine with the Yoto' or a 'honest 6-month Yoto review: worth it?' for toddler parents.",
+      "categories": ["Baby & Kids"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#yotoplayer", "#screenfree", "#parenttok", "#toddlerlife"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Yoto"],
+        "context": "Card-based screen-free audio player trending in anti-screen parenting content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Double-sided deshedding brushes are PetTok's summer grooming must-buy",
+      "body": "A double-sided deshedding brush claiming up to 90% less shedding is going viral as summer coat-blow season hits, with creators posting jaw-dropping fur-pile reveals. Shoot a satisfying 'how much fur came off my husky' before/after or a 'deshedding brush vs the vacuum' ASMR groom.",
+      "categories": ["Pets"],
+      "source": "Dropified",
+      "source_url": "https://www.dropified.com/blog/pet-products-dropshipping-in-2026-best-selling-items-suppliers-profit-margins/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#deshedding", "#dogrooming", "#pettok", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Double-sided deshedding brush trending for summer shed season",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Hyper-local 'destination dupe' videos are TravelTok's most-saved format",
+      "body": "TravelTok has shifted from broad city guides to hyper-specific hits — 'the one dumpling stall locals line up for' and '$50 a day here vs there' dupe comparisons that viewers tag friends in. Make a 'skip the tourist trap, go here instead' single-spot reel or a side-by-side 'expensive city vs its dupe' cost breakdown.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#destinationdupe", "#traveltok", "#hiddengem", "#budgettravel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Hyper-local 'one spot' and dupe-comparison travel content driving saves",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "DIY charm necklaces are JewelryTok's maximalist summer craft",
+      "body": "Maximalist charm necklaces are replacing simple pendants as JewelryTok leans into storytelling and self-expression, and DIY charm-bar builds are the summer craft of choice. Film a 'build a charm necklace that tells your story' or a 'thrifted charms into one necklace' ASMR assembly.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#diyjewelry", "#jewelrytok", "#charmbar"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist DIY charm necklaces trending as a personalized summer jewelry craft",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

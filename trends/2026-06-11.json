@@ -1,0 +1,223 @@
+{
+  "batch_id": "trends-2026-06-11",
+  "scraped_at": "2026-06-11T10:00:00Z",
+  "expires_at": "2026-06-14T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Rhode's peptide glazing serum is SkinTok's 'glazed donut' summer glow buy",
+      "body": "Hailey Bieber's Rhode peptide serum is surging again as creators chase the lit-from-within 'glazed' finish that reads as skin, not makeup, in summer heat. Film a 'glazed skin in 3 layers' GRWM building down to a no-foundation glow, or an honest '$30 dupe vs Rhode' side-by-side on bare skin.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#rhode", "#glazedskin", "#peptideserum", "#skintok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rhode"],
+        "context": "Celebrity peptide serum trending for a dewy 'glazed' no-makeup summer glow",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Weatherproof' climate-adaptive makeup is BeautyTok's heat-season test format",
+      "body": "Climate-adaptive beauty has gone mainstream, and creators are stress-testing sweat-proof, humidity-resistant routines in real summer conditions. Shoot an '8 hours in 90-degree heat, did my makeup survive?' wear test, or a 'weatherproof base routine for humid days' tutorial layering primer, setting spray and powder.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#weatherproofmakeup", "#summermakeup", "#meltproof", "#beautytok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Heat-and-humidity makeup wear-tests trending as climate-adaptive beauty goes mainstream",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Turquoise is FashionTok's defining 'it-color' for summer 2026",
+      "body": "Turquoise has become the season's cool-girl color, anchoring outfit content alongside shell details and statement buttons in a fresh shift away from butter yellow. Make a 'one turquoise piece, 4 outfits' styling reel or a 'how to wear turquoise without looking costumey' lookbook mixing it with denim and white linen.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#turquoise", "#summercolors", "#fashiontok", "#outfitinspo"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Turquoise emerging as summer's signature color for styling content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The banana bread latte is FoodTok's cozy-meets-summer coffee of the moment",
+      "body": "Creators are cooking bananas down with sweeteners and spices, straining the result into a syrup, and building a banana bread latte that's blowing up for its homemade-syrup payoff. Shoot a slow 'making banana bread syrup from scratch' ASMR or a 'banana bread latte: cafe order vs home dupe' cost-and-taste comparison.",
+      "categories": ["Food & Beverage"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bananabreadlatte", "#coffeetok", "#homemadesyrup", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "DIY banana bread syrup latte trending as a homemade coffee-shop dupe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Secret menu swirl' fast-food drinks are FoodTok's order-and-react format",
+      "body": "Creators are filming themselves ordering chain secret-menu drinks, aggressively swirling the cup to mix the layers, then reacting to the first sip. Make a 'ranking 5 secret-menu drinks so you don't have to' taste test or a 'recreating the viral swirl drink at home for $2' dupe.",
+      "categories": ["Food & Beverage"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#secretmenu", "#swirldrink", "#drinktok", "#foodtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Secret-menu drink ordering and cup-swirl reactions trending as a repeatable format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#75Soft is FitTok's sustainable, do-able alternative to 75 Hard",
+      "body": "The gentler #75Soft challenge has racked up tens of millions of views as a realistic summer reset, swapping rigid rules for one daily workout, mostly-clean eating and a daily water goal. Start a 'Day 1 of 75 Soft, here are my 4 rules' kickoff or a weekly 'what 75 Soft actually looks like for a busy person' check-in series.",
+      "categories": ["Health & Fitness"],
+      "source": "TikTok",
+      "source_url": "https://www.tiktok.com/discover/Fitness-Challenge",
+      "trend_type": "hashtag",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#75soft", "#75softchallenge", "#summerreset", "#fittok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Gentler 75 Soft challenge trending as a sustainable summer fitness reset",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Thrift-flip furniture rescues are HomeTok's fastest-growing DIY format",
+      "body": "Furniture rescues and thrift flips are among HomeTok's fastest-growing sub-niches as the 'character over perfection' mood rewards saving a curbside find over buying new. Film a 'rescuing a $15 dresser' start-to-finish transformation or a 'thrift flip on a $30 budget' reveal with a satisfying before/after.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-diy-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#thriftflip", "#furnituremakeover", "#diyhome", "#hometok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Thrift-flip and furniture-rescue transformations trending as HomeTok's top DIY content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Soundcore Boom 2 is TechTok's waterproof summer-party speaker pick",
+      "body": "The rugged, IPX7-waterproof Soundcore Boom 2 has become a viral TechTok favorite for poolside and beach content heading into summer. Shoot a 'will it survive the pool?' waterproof torture test or a 'best budget Bluetooth speaker for summer 2026' honest review with a bass-on-the-water demo.",
+      "categories": ["Tech & Gadgets"],
+      "source": "gagadget",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#soundcore", "#bluetoothspeaker", "#techtok", "#gadgetreview"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Soundcore", "Anker"],
+        "context": "Waterproof party speaker trending in summer poolside and review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 2-in-1 stroller wagon is ParentTok's summer-outings must-buy",
+      "body": "Convertible stroller wagons that seat two kids with all-terrain wheels and dual canopies are trending with parents gearing up for festivals, zoos and beach days. Film a 'is the stroller wagon worth it?' honest first-summer review or a 'what fits in the wagon for a day out' pack-with-me for toddler parents.",
+      "categories": ["Baby & Kids"],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#strollerwagon", "#momtok", "#parenttok", "#toddlermom"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Baby Trend"],
+        "context": "Convertible 2-in-1 stroller wagon trending for summer family outings",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Lick mats are PetTok's go-to summer boredom-buster and calm-down tool",
+      "body": "Lick mats and lick-bowls are surging as creators use them to slow down eating, calm anxious pets and make frozen summer treats. Shoot a 'frozen lick-mat recipe to keep your dog cool' how-to or a 'does a lick mat actually calm my anxious cat?' before/after test.",
+      "categories": ["Pets"],
+      "source": "Dropified",
+      "source_url": "https://www.dropified.com/blog/pet-products-dropshipping-in-2026-best-selling-items-suppliers-profit-margins/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#lickmat", "#dogenrichment", "#pettok", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Lick mats trending as a summer enrichment and calming tool for dogs and cats",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Things I wish I knew before visiting' is TravelTok's highest-watch advice format",
+      "body": "Advice-driven travel content is outperforming pure aesthetic footage, and quick-fire 'things I wish I knew before visiting ___' videos are leading on watch-through and comments. Make a 'things I wish I knew before [your city] this summer' rapid-tips reel or a 'rookie mistakes tourists make here' list locals will defend in the comments.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#thingsiwishiknew", "#traveltok", "#traveltips", "#summertravel"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Quick-fire 'things I wish I knew' advice videos trending as TravelTok's top format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Beaded shell jewelry is JewelryTok's mermaidcore summer staple",
+      "body": "Chunky beaded jewelry and shell details are back and bigger than ever as the coastal mermaidcore aesthetic takes over summer JewelryTok. Film a 'DIY beaded shell necklace' ASMR build or a 'styling one beaded set from beach to dinner' lookbook leaning into the curated-chaos stack.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#beadedjewelry", "#mermaidcore", "#shelljewelry", "#jewelrytok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Beaded and shell jewelry trending with the coastal mermaidcore summer aesthetic",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

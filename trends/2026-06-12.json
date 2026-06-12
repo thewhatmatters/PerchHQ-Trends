@@ -1,0 +1,351 @@
+{
+  "batch_id": "trends-2026-06-12",
+  "scraped_at": "2026-06-12T10:00:00Z",
+  "expires_at": "2026-06-15T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Glycolic acid body sticks are SkinTok's 'strawberry skin' summer smoother",
+      "body": "With shorts-and-swimsuit season here, creators are swiping glycolic acid body sticks on arms and thighs to fade 'strawberry skin' and keratosis pilaris bumps before sun's out. Film a 2-week 'smooth skin before vacation' before/after on bumpy upper arms, or a 'how I prep my legs for shorts' body-care routine.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#strawberryskin",
+          "#glycolicacid",
+          "#bodycare",
+          "#skintok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The INKEY List",
+          "First Aid Beauty"
+        ],
+        "context": "Glycolic acid body exfoliant trending for smooth, bump-free skin ahead of summer",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Blokette' dressing is FashionTok's sporty-meets-girly summer formula",
+      "body": "Blokette — a jersey or sporty top paired with a flippy skirt and comfy flats — is the styling formula creators love because it refuses to pick a lane between athletic and feminine. Shoot a 'one jersey, three blokette outfits' styling reel, or a 'getting ready in blokette for a summer day out' GRWM.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#blokette",
+          "#bloketteaesthetic",
+          "#summerstyle",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sporty-feminine styling formula creators use for mix-and-match summer outfit content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is FoodTok's high-protein no-bake dessert of the moment",
+      "body": "A lightened-up tiramisu made from thick yogurt, Lotus Biscoff cookies and coffee is racking up saves as the protein-friendly summer dessert you don't have to turn the oven on for. Film a 'high-protein tiramisu in 4 layers' assembly ASMR, or a '300-calorie dessert that tastes illegal' macro-breakdown video.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yogurttiramisu",
+          "#highprotein",
+          "#nobakedessert",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lotus Biscoff"
+        ],
+        "context": "No-bake high-protein dessert recipe trending as a summer treat",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Sleepy Girl Mocktail is FoodTok's wind-down drink creators keep remixing",
+      "body": "Tart cherry juice, magnesium powder and a splash of soda — the 'Sleepy Girl Mocktail' is surging again as a nightly wind-down ritual, with creators testing whether it actually helps them sleep. Film a 'I drank the Sleepy Girl Mocktail for a week — honest results' diary, or a 'building my 9pm wind-down drink' cozy ASMR.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "FoodVLove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sleepygirlmocktail",
+          "#mocktail",
+          "#sleephack",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Tart-cherry-and-magnesium wind-down drink trending as a nightly ritual",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "#30Realistic is FitTok's gentler answer to all-or-nothing challenges",
+      "body": "The #30Realistic challenge — hard workouts at least two days a week plus 7,500 steps on the other days for 30 days — is gaining traction as the doable, guilt-free alternative to extreme month-long programs. Post a 'Day 1 of #30Realistic' kickoff, or a weekly check-in showing your two workouts and your step screenshots.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Yahoo Lifestyle",
+      "source_url": "https://www.yahoo.com/lifestyle/articles/viral-tiktok-challenge-legit-hack-144300305.html",
+      "trend_type": "hashtag",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#30Realistic",
+          "#realisticfitness",
+          "#fittok",
+          "#sustainablefitness"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sustainable 30-day fitness challenge trending as a softer alternative to extreme programs",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Dopamine decor' is HomeTok's bright, maximalist pushback on beige",
+      "body": "Saturated color, bold prints and joy-first styling — 'dopamine decor' is the mood-boosting trend creators are using to swing away from the quiet beige and grandma-core looks of recent months. Film a 'beige room to dopamine decor' transformation, or a 'shop my color: styling one bold hue around a room' haul.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Net-a-Porter PORTER",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dopaminedecor",
+          "#colorfulhome",
+          "#maximalist",
+          "#hometok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Bright, maximalist interior styling trending as a reaction to neutral decor",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Misting handheld fans are TechTok's must-demo heat-wave gadget",
+      "body": "Handheld fans with a built-in water-mist feature are flooding 'summer survival' feeds, with creators holding them to a thermometer to show the temp drop or filming slow-mo mist on a sweaty walk. Make a 'gadgets that got me through a heat wave' roundup, or a 'misting fan vs regular fan' on-camera temperature test.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "ViralProduct",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#mistingfan",
+          "#summerhacks",
+          "#tiktokmademebuyit",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Water-misting handheld fan trending as a demo-friendly summer cooling gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The foldable 3-in-1 magnetic charger is TravelTok's summer-trip tech pick",
+      "body": "A wallet-sized folding charger that powers a phone, watch and earbuds at once on MagSafe/Qi2 is the travel gadget creators keep unfolding on camera as summer trip season ramps up. Film a 'one charger for my whole carry-on' packing reel, or a 'tech I never travel without' fast-cut roundup.",
+      "categories": [
+        "Tech & Gadgets",
+        "Travel & Hospitality"
+      ],
+      "source": "Wecent",
+      "source_url": "https://www.gdwecent.com/which-tiktok-viral-travel-gadget-should-buyers-source-from-china-in-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#traveltech",
+          "#3in1charger",
+          "#packingessentials",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Foldable multi-device magnetic charger trending as a summer-travel essential",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The pop-up portable playpen is ParentTok's summer-outdoors must-buy",
+      "body": "Instant pop-up playpens that fold flat into a bag are surging on ParentTok as families take play to the backyard, park and beach this summer. Film a 'setting up our pop-up playpen in 10 seconds' demo, or a 'how we contain a crawler at the beach' day-out vlog.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Tinybeans",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#popnplay",
+          "#parenttok",
+          "#summerwithkids",
+          "#babymusthaves"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Portable pop-up playpen trending for outdoor summer play",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 3-in-1 dog water bottle is PetTok's summer-walk hydration buy",
+      "body": "A travel dog bottle that combines a one-press water dispenser, a treat compartment and a poop-scraper is trending as the all-in-one tool for hot-weather walks. Film a 'everything I carry on a summer dog walk' POV, or a 'keeping my dog hydrated on the trail' demo of the press-and-drink bottle.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "PB Fulfill",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dogwaterbottle",
+          "#pettok",
+          "#dogsofttiktok",
+          "#summerwalks"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "All-in-one travel dog water bottle trending for hot-weather walks",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Snackpacking' is TravelTok's convenience-store-haul travel format",
+      "body": "'Snackpacking' — building part of a trip around a destination's everyday food culture via convenience-store hauls and supermarket crawls — is the travel format racking up views this summer. Film a 'I tried every snack at a 7-Eleven abroad' taste-test, or a 'gas-station snack haul, ranked' roadtrip carousel.",
+      "categories": [
+        "Travel & Hospitality",
+        "Food & Beverage"
+      ],
+      "source": "Food Drink Life",
+      "source_url": "https://fooddrinklife.com/snackpacking-food-travel-trend/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#snackpacking",
+          "#travelfood",
+          "#snackhaul",
+          "#traveltok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Food-focused travel format built around convenience-store and supermarket hauls",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Jewelry stacking is JewelryTok's defining 'more is more' summer look",
+      "body": "Layered necklace sets, ring stacks and bracelet piles are the look creators keep flexing as minimalism fades and storytelling-through-stacking takes over. Film a 'how to stack rings without it looking messy' styling guide, or a 'build a bracelet stack with me' mixed-metals demo.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#jewelrystacking",
+          "#ringstack",
+          "#layerednecklaces",
+          "#jewelrytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Layered, stacked jewelry styling trending as a maximalist summer look",
+        "price_point": "various"
+      }
+    }
+  ]
+}

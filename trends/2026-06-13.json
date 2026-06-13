@@ -1,0 +1,348 @@
+{
+  "batch_id": "trends-2026-06-13",
+  "scraped_at": "2026-06-13T10:00:00Z",
+  "expires_at": "2026-06-16T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Biodance Bio-Collagen Real Deep Mask is SkinTok's overnight 'glass skin' fix",
+      "body": "Creators keep going back to the Biodance Bio-Collagen mask for a clingy, melts-into-skin overnight hydration sheet that delivers a plump, glassy finish by morning. Film a 'wearing it for 2 hours so you don't have to' time-lapse showing the gel turning clear, or a 'doing the viral mask before a big event' before/after.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Cosmetify",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#biodance",
+          "#biocollagenmask",
+          "#glassskin",
+          "#skintok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Biodance"
+        ],
+        "context": "Overnight bio-collagen hydration mask trending for a plump, glassy morning-after finish",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Cloud skin' is the soft-focus makeup finish replacing high-glow dewy looks",
+      "body": "Cloud skin blends matte and dewy into a blurred, filter-like complexion that reads airbrushed in real life — perfect for summer when full dewy can slide off. Shoot a 'dewy vs. cloud skin, same face' split-screen, or a 'how I get cloud skin without baking' step-by-step using a soft-focus setting product.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cloudskin",
+          "#softfocus",
+          "#makeuptutorial",
+          "#beautytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Blurred matte-meets-dewy complexion technique trending as a summer-friendly alternative to high glow",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Coastal cowgirl' is summer's denim-meets-beach styling formula on FashionTok",
+      "body": "Coastal cowgirl mixes Western pieces — denim, leather sandals, a wide-brim hat — with seaside linens and sandy-beige and ocean-blue tones, giving creators an easy summer narrative to style around. Film a 'styling one pair of cowboy boots for the beach' reel or a 'coastal cowgirl haul' try-on with thrifted denim.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Malco Modes",
+      "source_url": "https://malcomodes.biz/blogs/news/spring-summer-2026-fashion-trends-what-s-buzzing-on-tiktok-beyond",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#summerstyle",
+          "#denim",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Western-meets-beach summer aesthetic giving creators a clear styling theme for haul and outfit content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Pistachio-tahini chocolate bars are FoodTok's Dubai-chocolate successor",
+      "body": "A creamy pistachio-and-tahini filled chocolate bar has become the platform's biggest candy moment, racking up huge view counts as creators slice into the gooey green center on camera. Film a 'making the viral pistachio bar at home for under $10' copycat, or an ASMR 'cutting into it' reveal with the crackle of the chocolate shell.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Medium (Islifearecipe)",
+      "source_url": "https://medium.com/@islifearecipe/the-top-ten-viral-tiktok-recipes-you-have-to-try-and-probably-will-scroll-away-from-93087d81af45",
+      "trend_type": "product",
+      "confidence_score": 0.79,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#pistachiochocolate",
+          "#dubaichocolate",
+          "#foodtok",
+          "#asmrfood"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Pistachio-tahini filled chocolate bar trending as the next viral candy with cut-and-reveal ASMR content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 30/30/30 method is summer 2026's most-talked-about fitness routine",
+      "body": "The 30/30/30 method — 30g of protein within 30 minutes of waking, then 30 minutes of low-intensity movement — is exploding as a simple, repeatable morning routine creators can document. Film a 'I tried 30/30/30 for a week' diary, or a 'what 30g of protein actually looks like at breakfast' plate-up.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Runway Live",
+      "source_url": "https://www.runwaylive.com/30-30-30-method-summer-2026-biggest-diet-trend.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#303030method",
+          "#morningroutine",
+          "#proteinbreakfast",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Protein-plus-movement morning routine trending as an easy-to-document fitness challenge",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Spa shower heads and aromatherapy are fueling the 'bathroom glow-up' trend",
+      "body": "Creators are turning rentals and small bathrooms into spa-like spaces with filtered/high-pressure shower heads and aromatherapy diffusers, framing affordable swaps as instant upgrades. Film a 'transforming my builder-grade bathroom into a spa for $80' or a 'shower routine in my new spa bathroom' GRWM.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-home-decor",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#bathroomglowup",
+          "#spabathroom",
+          "#showerhead",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Affordable spa-bathroom upgrades trending as renter-friendly transformation content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "At-home ice cream makers are summer's viral kitchen gadget",
+      "body": "Countertop ice cream makers are trending as creators churn out custom protein, fruit, and 'dupe' flavors at home, leaning into the summer heat and 'what I eat' content. Film a 'making a viral candy bar flavor in my ice cream maker' or a week of 'high-protein ice cream every night' experiments.",
+      "categories": [
+        "Tech & Gadgets",
+        "Food & Beverage"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/viral-product-2026",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#icecreammaker",
+          "#proteinicecream",
+          "#kitchengadgets",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Countertop ice cream makers trending for summer DIY flavor and high-protein dessert content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yoto Player leads the 'screen-free summer' push for kids on ParentTok",
+      "body": "With school out, parents are showcasing screen-free audio players like the Yoto as a way to keep kids entertained on road trips and quiet time without a tablet. Film a 'screen-free summer car kit' pack-with-me, or a 'realistic day with a screen-free toddler' that features the player in the routine.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#screenfree",
+          "#yotoplayer",
+          "#momtok",
+          "#toddleractivities"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Yoto"
+        ],
+        "context": "Screen-free audio players trending as a summer-break solution in parenting content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cooling pet beds go viral as heat-wave gear for dogs and cats",
+      "body": "Self-cooling gel pet beds and ice mats are surging into summer as owners show their pets sprawling out to beat the heat — easy, high-engagement content. Film a 'does my dog actually use the viral cooling bed?' test, or a 'summer must-haves for my heat-sensitive pup' roundup.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/trending-pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coolingbed",
+          "#dogsoftiktok",
+          "#petsummer",
+          "#petproducts"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Self-cooling gel beds and ice mats trending as summer heat-wave pet gear",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Double-sided deshedding brushes are PetTok's grooming obsession",
+      "body": "A double-sided deshedding brush claiming to cut shedding dramatically is one of the year's top pet grooming items, and the satisfying fur-pull clips are made for the algorithm. Film a 'how much fur comes off my husky in one session' ASMR groom, or a 'deshedding my cat for the first time' reaction.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/trending-pet-product-2026",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#deshedding",
+          "#petgrooming",
+          "#satisfying",
+          "#dogsoftiktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Double-sided deshedding brush trending on satisfying grooming and fur-pull content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Show your receipts' travel content is beating pretty aesthetic edits",
+      "body": "Advice-driven travel videos that show real hotel prices, meal costs, and transport fees are outperforming purely aesthetic footage because viewers save them for planning. Film a 'what 3 days in this city actually cost me' breakdown, or a 'cheap vs. splurge: same trip, two budgets' comparison.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#traveltips",
+          "#traveltok",
+          "#budgettravel",
+          "#traveldeals"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Practical, receipt-driven travel content trending over aesthetic-only footage as viewers seek planning value",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Charm necklaces are JewelryTok's storytelling trend this summer",
+      "body": "Maximalist charm necklaces — where each charm represents a memory or part of someone's identity — are replacing simple pendants, with creators building and explaining their pieces on camera. Film a 'building my charm necklace and what each one means' story, or a 'choosing charms with me' jewelry-shop vlog.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#charmjewelry",
+          "#jewelrytok",
+          "#stackit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Personalized maximalist charm necklaces trending on identity-and-memory storytelling content",
+        "price_point": "various"
+      }
+    }
+  ]
+}

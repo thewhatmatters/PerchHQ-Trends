@@ -1,0 +1,406 @@
+{
+  "batch_id": "trends-2026-06-14",
+  "scraped_at": "2026-06-14T10:00:00Z",
+  "expires_at": "2026-06-17T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Rhode pocket blush leads the cream-then-powder dual-blush technique on BeautyTok",
+      "body": "Creators are layering a cream blush for a natural flush and setting it with a coordinating powder for all-day longevity, with Rhode's pocket blush the most-tagged version of the format. Film a 'cream vs. powder vs. both' three-way cheek test, or a 'blush that survives a humid summer day' wear test from morning to night.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#blush",
+          "#rhode",
+          "#creamblush",
+          "#beautytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Rhode"
+        ],
+        "context": "Pocket cream blush trending on a layered cream-then-powder application technique for long-wear flush",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cool-tone makeup is back: frosted blue shadow and silver highlighter take over",
+      "body": "After seasons of warm clean-girl neutrals, creators are pivoting to frosted blue eyeshadows, silver highlighters, and glossy pearly balms for a cooler summer look. Film a 'recreating the cool-tone trend on warm undertones' tutorial, or a 'one cool-toned product, five ways' challenge.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cooltonemakeup",
+          "#blueeyeshadow",
+          "#silverhighlighter",
+          "#makeuptutorial"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Cool-tone makeup palette trending as a shift away from warm clean-girl neutrals",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Blokette' is FashionTok's sporty-meets-girly summer formula",
+      "body": "Blokette refuses to pick a lane — pairing breezy jersey or sporty tops with skirts, bows, and comfortable flats so you can be athletic and feminine at once. Film a 'styling one tennis skirt sporty AND girly' split, or a 'blokette outfit for every summer plan' lookbook from errands to brunch.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#blokette",
+          "#blokettecore",
+          "#summerstyle",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sporty-meets-girly aesthetic giving creators a clear mix-and-match styling theme for summer outfit content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Layered tees revive the indie-grunge look for summer",
+      "body": "Stacking a contrasting tee under another — long-sleeve under short, graphic under plain — is bringing back a modern indie-grunge layering moment that works even in warm weather. Film a 'thrift-flip layered tee haul' or a 'how to layer tees without overheating in summer' styling hack.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Fash Verge",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#layeredtees",
+          "#indiegrunge",
+          "#outfitideas",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Layered-tee styling trending as a modern indie-grunge revival adaptable to summer",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is FoodTok's high-protein dessert of the summer",
+      "body": "A lighter tiramisu built from thick yogurt, Lotus Biscoff cookies, and coffee is racking up views as a no-bake, protein-friendly dessert creators can assemble on camera. Film a 'viral yogurt tiramisu, no mascarpone' build, or a 'high-protein dessert that tastes like cheating' macro breakdown.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#yogurttiramisu",
+          "#biscoff",
+          "#highprotein",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lotus Biscoff"
+        ],
+        "context": "No-bake yogurt-and-Biscoff tiramisu trending as a high-protein, easy-to-film summer dessert",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Coconut lime cooler mocktail is summer's breakout zero-proof drink",
+      "body": "The coconut lime cooler — bright, tropical, and easy to layer for the camera — is one of the fastest-growing mocktails of the season as the no/low-alcohol wave continues. Film a 'making the viral coconut lime cooler at home' recipe, or a 'mocktail vs. cocktail, same glass' side-by-side.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Tastewise",
+      "source_url": "https://tastewise.io/blog/summer-drink-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coconutlimecooler",
+          "#mocktail",
+          "#zeroproof",
+          "#drinktok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Coconut lime cooler mocktail trending as a tropical, DIY-friendly zero-proof summer drink",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 120-second plank challenge is FitTok's beginner-to-pro test",
+      "body": "Holding a two-minute plank has become a viral benchmark that's hard enough to feel like an achievement but accessible enough for anyone to attempt and film. Shoot a 'can I hold a 2-minute plank on day 1 vs. day 30' progress edit, or a 'plank with me — real-time' follow-along.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "FitBudd",
+      "source_url": "https://www.fitbudd.com/post/inside-the-latest-tiktok-fitness-trend-120-second-planks",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#plankchallenge",
+          "#120secondplank",
+          "#corestrength",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Two-minute plank trending as a simple, filmable fitness benchmark and progress-diary format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The '30 Realistic' challenge is the sustainable fitness trend creators are sticking to",
+      "body": "Pitched as a softer alternative to extreme wellness challenges, '30 Realistic' asks for two real workouts a week plus 7,500 steps on other days — easy to document and easy to keep. Film a '30 Realistic, week 1 check-in' diary, or a 'why I quit 75 Hard for 30 Realistic' explainer.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Yahoo Lifestyle",
+      "source_url": "https://www.yahoo.com/lifestyle/articles/viral-tiktok-challenge-legit-hack-144300305.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#30realistic",
+          "#fitnesschallenge",
+          "#sustainablefitness",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Low-pressure fitness challenge trending as a sustainable, document-friendly alternative to extreme programs",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Portable mini ACs and ice makers are HomeTok's summer heat must-haves",
+      "body": "Compact countertop ice makers and portable mini air conditioners are surging as creators show fast, affordable ways to beat a heat wave in small spaces and rentals. Film a 'does the viral $90 mini AC actually cool my room?' test, or a 'summer heat survival kit for renters' roundup.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/new-viral-products-for-summer-2026",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#miniac",
+          "#portableicemaker",
+          "#summermusthaves",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Portable cooling gadgets trending as affordable heat-wave fixes for small spaces and rentals",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "MagSafe 3-in-1 charging stations are TechTok's desk-glow-up pick",
+      "body": "Multifunctional stations that charge phone, watch, and earbuds at once — with MagSafe magnets for perfect alignment — are trending as a clean, cable-free desk upgrade creators love to demo. Film a 'desk setup glow-up under $50' or a 'testing the viral 3-in-1 charger — does the magnet actually hold?' review.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "ViralProduct",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#magsafe",
+          "#chargingstation",
+          "#desksetup",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "3-in-1 MagSafe charging stations trending as a cable-free desk-setup upgrade for review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Honey Bear straw cup is ParentTok's go-to feeding-milestone product",
+      "body": "The Honey Bear straw cup keeps trending with parents as the tool that teaches toddlers to drink from a straw, making for satisfying 'first time it clicks' clips. Film a 'teaching my toddler to use a straw with the viral honey bear cup' before/after, or a 'baby products worth the hype vs. not' honest review.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "The Quality Edit",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#honeybearcup",
+          "#toddlerfeeding",
+          "#momtok",
+          "#babyproducts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Honey Bear"
+        ],
+        "context": "Honey Bear straw cup trending as a feeding-milestone product for before/after parenting content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Designer cat furniture is PetTok's home-decor crossover obsession",
+      "body": "Cat parents are showing off upholstered cat sofas and decor-friendly furniture that blends into the living room instead of clashing with it — high-engagement reveal content. Film a 'unboxing my cat's $200 sofa — will she actually use it?' test, or a 'pet furniture that doesn't ruin my aesthetic' roundup.",
+      "categories": [
+        "Pets",
+        "Home & Lifestyle"
+      ],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#catfurniture",
+          "#catsoftiktok",
+          "#petdecor",
+          "#petproducts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Decor-friendly cat furniture trending as a pet-meets-home-decor reveal format",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'Hidden gem' and small-town escapes are beating big-name destinations on TravelTok",
+      "body": "Travelers are deliberately swapping over-photographed hotspots for under-the-radar small towns, with #hiddengems up sharply as viewers seek lower prices, fewer crowds, and authenticity. Film a 'skip [famous city], go here instead' dupe-destination video, or a 'cheap small-town summer trip you've never heard of' itinerary.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Barchart (KAYAK x TikTok)",
+      "source_url": "https://www.barchart.com/story/news/37061618/kayak-predicts-well-th-trips-next-gen-destinations-and-small-town-escapes-to-define-travel-this-year",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#hiddengems",
+          "#smalltownescape",
+          "#traveltok",
+          "#traveldupes"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Under-the-radar 'dupe destination' and small-town travel content trending over big-name hotspots",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Beaded jewelry is back and bolder on JewelryTok",
+      "body": "Beaded bracelets and necklaces are surging again as the 'quiet luxury' minimalism fades and colorful, stackable, statement pieces take over. Film a 'making a summer beaded stack with me' DIY, or a 'styling chunky beaded jewelry with basics' lookbook.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#beadedjewelry",
+          "#beadedbracelets",
+          "#jewelrytok",
+          "#diyjewelry"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Colorful beaded jewelry trending as bold statement styling replaces quiet-luxury minimalism",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

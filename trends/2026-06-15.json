@@ -1,0 +1,406 @@
+{
+  "batch_id": "trends-2026-06-15",
+  "scraped_at": "2026-06-15T10:00:00Z",
+  "expires_at": "2026-06-18T10:00:00Z",
+  "trends": [
+    {
+      "headline": "'Cloud skin' is 2026's breakout complexion look on BeautyTok",
+      "body": "Searches for the soft-focus, semi-matte 'cloud skin' finish jumped ~870% as creators ditch greasy glass-skin for a blurred, well-rested glow that survives humid summer days. Film a 'glass skin vs. cloud skin in a heatwave' wear test, or a 'getting cloud skin with 3 products' tutorial.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/cloud-skin",
+      "trend_type": "content_format",
+      "confidence_score": 0.81,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#cloudskin",
+          "#softmatte",
+          "#makeuptutorial",
+          "#beautytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "MAC",
+          "e.l.f."
+        ],
+        "context": "Soft-focus 'cloud skin' makeup technique surging as a humidity-proof alternative to glass skin",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Spicule serums are SkincareTok's tingly texture-fixer of the season",
+      "body": "Serums dosed with marine-sponge spicules create micro-channels in the skin for a satisfying tingle and visibly smoother texture, making them one of 2026's most-demoed skincare innovations. Film a 'I tried the tingly spicule serum for 7 days' before/after, or a 'what spicules actually do to your skin' explainer.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Furylist",
+      "source_url": "https://furylist.com/18-viral-beauty-products-of-2026-that-tiktok-cant-stop-talking-about/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#spiculeserum",
+          "#skincaretok",
+          "#skintexture",
+          "#skincareroutine"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Spicule serums trending as a sensorial, results-driven texture treatment for review content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Terrycloth rompers are FashionTok's effortless summer one-piece",
+      "body": "Soft terrycloth rompers are surging as the throw-on-and-go summer staple creators style straight from the pool to the boardwalk. Film a 'one terrycloth romper, five ways pool to dinner' lookbook, or a 'viral terrycloth romper try-on haul' across sizes.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/2026-outfit-trend-news",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#terrycloth",
+          "#romper",
+          "#summeroutfits",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Terrycloth rompers trending as an easy, filmable warm-weather one-piece for try-on and styling content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Maximalist layered tops — the 'Rachel Green' revival — take over summer styling",
+      "body": "Multi-layered tops are back thanks to a Rachel-Green-from-Friends nostalgia wave, pushing FashionTok firmly into colorful maximalism after seasons of minimal neutrals. Film a 'recreating Rachel Green's layered '90s looks for 2026' styling video, or a 'how to layer tops without overheating' summer hack.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Runway Live",
+      "source_url": "https://www.runwaylive.com/tiktok-shop-fashion-2026-viral-products-women-buying.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#layeredtops",
+          "#maximalism",
+          "#rachelgreen",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Layered maximalist tops trending on a '90s Rachel Green nostalgia angle as minimalism fades",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Savory-maxxing' and the viral 'chickle' rule FoodTok this summer",
+      "body": "Anti-sweet, briny snacks are everywhere as 'savory-maxxing' takes over — led by the 'chickle,' a toasted cheese-and-pickle bite creators can assemble on camera in seconds. Film a 'making the viral chickle — worth the hype?' taste test, or a 'savory snack plate instead of dessert' build.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#savorymaxxing",
+          "#chickle",
+          "#pickle",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Savory, pickle-forward snacks trending as an anti-sweet wave with the 'chickle' as the hero filmable bite",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Coconut-infused iced coffee is DrinkTok's tropical summer pour",
+      "body": "Iced coffee blended with coconut milk or cream is the breakout warm-weather drink, giving creators a creamy, layered, camera-ready pour to recreate at home. Film a 'making the viral coconut iced coffee — better than the coffee shop?' recipe, or a 'coconut cold brew, three ways' series.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Foodvlove",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coconutcoffee",
+          "#icedcoffee",
+          "#coffeetok",
+          "#summerdrinks"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Coconut-infused iced coffee trending as a tropical, DIY-friendly summer coffee format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The '10-Minute Morning' workout is FitTok's accessible summer challenge",
+      "body": "A 10-minute daily morning routine is going viral as a low-barrier challenge anyone can start and film, riding the broader 'homifying' workouts wave. Shoot a '10-minute morning workout, 30-day progress' diary, or a 'follow along — real-time 10-minute burn' you can do before work.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/trending-tiktok-challenges-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#10minuteworkout",
+          "#morningroutine",
+          "#homeworkout",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Short morning workout trending as an accessible, document-friendly home fitness challenge",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Sunset projection lamps are HomeTok's cheap room-glow-up of the summer",
+      "body": "Inexpensive lamps that cast a warm circular 'sunset glow' onto walls and ceilings keep going viral as a high-impact, low-cost way to transform a plain room on camera. Film a 'transforming my rental bedroom with a $20 sunset lamp' reveal, or a 'aesthetic lamps tested — which actually look good on video?' roundup.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "ViralProduct",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sunsetlamp",
+          "#roomdecor",
+          "#aestheticroom",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Sunset projection lamps trending as an affordable, camera-friendly room-aesthetic upgrade",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Handheld misting fans are summer's must-have portable cooler on HomeTok",
+      "body": "Handheld fans with an ultrasonic atomizer that sprays a fine cooling mist are surging as a portable heat-wave fix creators demo on the go. Film a 'does the viral misting fan actually keep you cool at a festival?' field test, or a 'summer-in-my-bag essentials' roundup.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "TikTok Discover",
+      "source_url": "https://www.tiktok.com/discover/new-viral-products-for-summer-2026",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#mistingfan",
+          "#summermusthaves",
+          "#portablefan",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Handheld misting fans trending as an on-the-go cooling gadget for summer field-test content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Palm-sized projectors are TechTok's 'didn't-know-I-needed-it' gadget",
+      "body": "Pocket projectors that cast movies onto any wall are trending as a fun, demo-friendly upgrade for movie nights and aesthetic bedrooms. Film a 'testing a $80 mini projector — is the picture actually watchable?' review, or a 'cozy backyard movie night setup under $100' build.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok-hot-selling-2026",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#miniprojector",
+          "#movienight",
+          "#techtok",
+          "#gadgets"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Palm-sized projectors trending as an affordable, fun-to-demo gadget for review and setup content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The OXO Tot grape cutter is ParentTok's baby-led-weaning hero",
+      "body": "A cheap grape-and-hot-dog cutter that halves choking hazards in one press keeps trending with parents doing baby-led weaning, perfect for quick 'genius parent hack' clips. Film a 'baby-led weaning tools that actually save time' roundup, or a 'testing viral $12 feeding gadgets — worth it?' review.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Tinybeans",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#babyledweaning",
+          "#momhacks",
+          "#toddlerfeeding",
+          "#momtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "OXO Tot"
+        ],
+        "context": "Grape/choking-hazard cutter trending as a baby-led-weaning gadget for 'parent hack' content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cooling pet beds and ice pads are PetTok's summer-comfort buy",
+      "body": "Cooling water-bed cushions and ice pads for dogs and cats are surging as creators show pets flopping onto them to beat the heat — easy, wholesome reveal content. Film a 'does my dog actually like the viral cooling mat?' reaction, or a 'summer heat survival kit for pets' roundup.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Glimpse",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coolingmat",
+          "#petsoftiktok",
+          "#dogsummer",
+          "#petproducts"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Cooling pet beds and ice pads trending as summer heat-relief products for pet reaction content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Not-yet-Tok'd' off-feed destinations are TravelTok's anti-viral flex",
+      "body": "Gen Z and Millennials are deliberately seeking destinations they haven't seen on their feeds, with KAYAK naming emerging spots like Cork, Zakynthos, and Harbin over crowded hotspots. Film a 'skip the viral hotspot, go here instead' dupe-destination video, or a 'planning a trip somewhere TikTok hasn't ruined yet' itinerary.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Barchart (KAYAK x TikTok)",
+      "source_url": "https://www.barchart.com/story/news/37061618/kayak-predicts-well-th-trips-next-gen-destinations-and-small-town-escapes-to-define-travel-this-year",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#hiddengems",
+          "#traveldupes",
+          "#emergingdestinations",
+          "#traveltok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "KAYAK"
+        ],
+        "context": "Off-feed 'next generation' destinations trending as an anti-viral alternative to crowded hotspots",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces overtake minimal pendants on JewelryTok",
+      "body": "Overloaded charm necklaces stacked with trinkets are replacing dainty single pendants as JewelryTok leans fully into storytelling and self-expression. Film a 'building my charm necklace — each charm has a story' DIY, or a 'styling a maxed-out charm necklace with summer basics' lookbook.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#charmjewelry",
+          "#jewelrytok",
+          "#diyjewelry"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist charm necklaces trending as expressive, customizable statement jewelry replacing minimalism",
+        "price_point": "various"
+      }
+    }
+  ]
+}

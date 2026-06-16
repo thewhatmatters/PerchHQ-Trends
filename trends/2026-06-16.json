@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-06-16",
+  "scraped_at": "2026-06-16T10:00:00Z",
+  "expires_at": "2026-06-19T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Nivea Sun 'summer in a bottle' perfume is FragranceTok's nostalgia hit",
+      "body": "The Nivea Sun Eau de Toilette smells exactly like classic sunscreen before drying down to powdery sea-salt notes, racking up tens of millions of posts from creators calling it 'summer in a bottle.' Film a blind 'guess this scent' reaction, a 'cheap perfumes that smell like a vacation' haul, or a 'does it actually last in the heat?' wear test.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Grazia",
+      "source_url": "https://graziadaily.co.uk/beauty-hair/fragrance/nivea-perfume/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#perfumetok", "#summerfragrance", "#niveasun", "#summerinabottle"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nivea"],
+        "context": "Budget nostalgia fragrance going viral as an affordable 'smells like summer' scent",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Rhode's peptide glazing serum keeps fueling the 'glazed skin' look",
+      "body": "Hailey Bieber's lightweight peptide serum is still trending for the luminous, 'glazed donut' finish it leaves under makeup without pilling, making it a go-to for summer skin-prep videos. Film a 'glazed skin in 60 seconds' routine, a 'does it pill under SPF?' layering test, or a 'no-makeup glow' GRWM.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Furylist",
+      "source_url": "https://furylist.com/18-viral-beauty-products-of-2026-that-tiktok-cant-stop-talking-about/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#glazedskin", "#rhode", "#skincaretok", "#glassskin"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rhode"],
+        "context": "Peptide 'glazing' serum sustaining the dewy glazed-skin makeup-prep trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 'boho gypsy' revival is FashionTok's effortless summer formula",
+      "body": "A looser, slightly mismatched bohemian aesthetic — tiered skirts, sheer layers, stacked jewelry and scarf details — is overtaking polished 'clean girl' styling for summer 2026, with creators leaning into deliberately uncoordinated outfits. Film a 'styling one boho skirt 5 ways', a thrift-flip 'boho on a budget' haul, or a 'clean girl vs. boho gypsy' transition.",
+      "categories": ["Fashion & Apparel"],
+      "source": "It Is Mandy Style",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bohostyle", "#boho", "#summeroutfits", "#fashiontok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People"],
+        "context": "Effortless, mismatched bohemian styling replacing minimalist 'clean girl' looks",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Frozen yogurt fruit clusters are FoodTok's no-bake summer snack",
+      "body": "Creators are freezing spoonfuls of thick yogurt loaded with berries and a chocolate drizzle into bite-size 'clusters' as a high-protein, anti-melt summer dessert that photographs beautifully. Film a 'frozen yogurt clusters 3 ways', a 'high-protein snack that tastes like dessert' demo, or a 'TikTok snack vs. my version' test.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#frozenyogurt", "#yogurtclusters", "#highprotein", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Chobani"],
+        "context": "No-bake frozen yogurt-and-fruit clusters trending as a high-protein summer treat",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Copycat Dubai chocolate matcha is DrinkTok's at-home cafe pour",
+      "body": "After Starbucks turned a viral fan creation into an iced Dubai-chocolate matcha, creators are recreating the pistachio-chocolate-meets-matcha layered drink at home for a fraction of the price. Film a 'I made the $8 Starbucks matcha for $2', a 'layered iced matcha ASMR pour', or a 'Dubai chocolate matcha — worth the hype?' taste test.",
+      "categories": ["Food & Beverage"],
+      "source": "Axios",
+      "source_url": "https://www.axios.com/2026/01/05/starbucks-menu-2026-dubai-chocolate-protein",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dubaichocolate", "#matcha", "#matchatok", "#copycatrecipe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Starbucks"],
+        "context": "At-home copycat of the viral Dubai-chocolate matcha drink trending on DrinkTok",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Theragun Mini massage gun is WellnessTok's recovery staple",
+      "body": "The pocket-size Theragun Mini keeps going viral for quiet, genuinely effective deep-tissue recovery, popping up in post-workout routines and ASMR-style relaxation clips alike. Film a 'recovery routine after leg day', a 'massage gun ASMR before bed', or a 'do budget massage guns actually compare?' showdown.",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "gagadget",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theragun", "#recovery", "#fittok", "#massagegun"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Therabody"],
+        "context": "Compact percussive massage gun trending in workout-recovery and relaxation content",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "'Dopamine decor' brings maximalist color back to HomeTok",
+      "body": "Bright color-blocking, bold prints and playful objects are surging as creators reject sterile beige minimalism for mood-boosting 'dopamine decor' rooms. Film a 'beige room to dopamine decor glow-up', a 'thrifted colorful finds haul', or a 'styling one bold color through a whole room' tour.",
+      "categories": ["Home & Lifestyle"],
+      "source": "AOL / Real Simple",
+      "source_url": "https://www.aol.com/viral-tiktok-design-trends-designers-193300204.html",
+      "trend_type": "content_format",
+      "confidence_score": 0.71,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminedecor", "#maximalism", "#hometok", "#colorfulhome"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Colorful, maximalist 'dopamine decor' interiors trending against beige minimalism",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart rings are TechTok's discreet health-tracker of the summer",
+      "body": "Sleep, recovery and step-tracking smart rings are trending as a screen-free alternative to smartwatches, with creators comparing the data and showing off the minimal look. Film a 'smart ring vs. my Apple Watch — 7 day test', a 'what my sleep score taught me' explainer, or a 'is a smart ring worth it?' honest review.",
+      "categories": ["Tech & Gadgets", "Health & Fitness"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_wellness_trends",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#smartring", "#ouraring", "#wearabletech", "#techtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Oura", "Samsung"],
+        "context": "Health-tracking smart rings trending as a minimalist alternative to smartwatches",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "DIY craft and slime kits are ParentTok's screen-free summer fix",
+      "body": "With school out, parents are reaching for DIY craft and slime kits to beat boredom without screens, and the satisfying make-along clips are racking up views. Film a 'screen-free summer boredom busters' roundup, a 'we tried the viral slime kit' parent-and-kid reaction, or a 'rainy day craft kit haul under $20'.",
+      "categories": ["Baby & Kids"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_trends_for_tweens",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#screenfreesummer", "#kidscrafts", "#slime", "#parenttok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "DIY craft and slime kits trending as screen-free summer boredom busters",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cat water fountains go viral as PetTok's heat-wave hydration fix",
+      "body": "Circulating cat water fountains are surging as a fix for picky drinkers and summer dehydration, with fountain clips pulling hundreds of millions of views. Film a 'will my fussy cat finally drink?' before/after, a 'fountain cleaning satisfying reset', or a 'best cat fountains ranked' review.",
+      "categories": ["Pets"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cattok", "#catfountain", "#pethydration", "#petsoftiktok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Circulating cat water fountains trending as a summer hydration solution for picky cats",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Snuffle mats and puzzle feeders are PetTok's enrichment obsession",
+      "body": "Puzzle feeders, snuffle mats and treat-dispensing toys are trending as owners focus on dogs' mental stimulation and slower eating, with satisfying 'figure-it-out' clips driving shares. Film a 'snuffle mat first-try reaction', a 'DIY enrichment on a budget', or a 'puzzle feeders ranked by difficulty' review.",
+      "categories": ["Pets"],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#dogtok", "#snufflemat", "#dogenrichment", "#puzzlefeeder"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Dog enrichment toys and snuffle mats trending around mental-stimulation content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Off-feed Greek islands like Zakynthos are TravelTok's summer escape",
+      "body": "Travelers are swapping over-photographed hotspots for quieter emerging spots like Zakynthos, with its turquoise coves and Shipwreck Beach drawing 'underrated island' edits. Film a 'skip Santorini, go here instead', a 'what a week in Zakynthos actually costs' breakdown, or a 'hidden coves only locals know' guide.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Barchart / KAYAK",
+      "source_url": "https://www.barchart.com/story/news/37061618/kayak-predicts-well-th-trips-next-gen-destinations-and-small-town-escapes-to-define-travel-this-year",
+      "trend_type": "content_format",
+      "confidence_score": 0.69,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#zakynthos", "#greece", "#hiddengem", "#traveltok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Emerging, less-crowded Greek island destinations trending as anti-mainstream travel picks",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The permanent anklet is JewelryTok's summer commitment piece",
+      "body": "After the permanent-bracelet craze, creators are getting welded permanent anklets called the must-have summer accessory, sharing the welding moment and styling them with sandals. Film a 'getting my first permanent anklet' POV, a 'permanent jewelry — does it last?' check-in, or a 'styling a permanent anklet all summer' lookbook.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#permanentjewelry", "#permanentanklet", "#jewelrytok", "#summerjewelry"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Welded permanent anklets trending as summer's commitment-jewelry follow-up to permanent bracelets",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

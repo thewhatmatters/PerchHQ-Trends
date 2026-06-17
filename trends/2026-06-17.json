@@ -1,0 +1,388 @@
+{
+  "batch_id": "trends-2026-06-17",
+  "scraped_at": "2026-06-17T10:00:00Z",
+  "expires_at": "2026-06-20T10:00:00Z",
+  "trends": [
+    {
+      "headline": "'Sunburn blush' / heat-stroke makeup is summer's flushed-face look on BeautyTok",
+      "body": "Creators are sweeping rosy-orange blush high across the nose bridge and upper cheeks to fake a sun-warmed, 'just-been-outside' flush, replacing heavy contour with statement color. Film a 'sunburn blush in 60 seconds' tutorial, a 'one blush, three placements' demo, or a 'does it survive a heatwave?' wear test.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Who What Wear",
+      "source_url": "https://www.whowhatwear.com/beauty/makeup/summer-2026-makeup-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.83,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#sunburnblush",
+          "#heatstrokemakeup",
+          "#blushtrend",
+          "#summermakeup"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Rare Beauty",
+          "Rhode",
+          "Saie"
+        ],
+        "context": "Statement-blush makeup technique faking a sun-kissed flush",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Snail mucin is surging again as SkincareTok's barrier-repair hero",
+      "body": "Snail-mucin essences are back on the FYP as ingredient-literate creators tout the proteins and hyaluronic acid for hydration and a healthy skin barrier, fitting 2026's 'skin longevity' over 'anti-aging' shift. Film a 'snail mucin before/after texture' check, a 'how I layer it under SPF' routine, or a 'is the hype real?' two-week diary.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Qogita",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#snailmucin",
+          "#skinbarrier",
+          "#skincaretok",
+          "#skinlongevity"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "COSRX",
+          "Beauty of Joseon"
+        ],
+        "context": "K-beauty barrier-repair ingredient resurging on skincare feeds",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Raffia bags are FashionTok's must-have 'Eurosummer' accessory",
+      "body": "Woven raffia totes and clutches are flooding summer hauls as the natural-material, vacation-coded bag of 2026, edging out micro and fur bags. Film a 'how to style one raffia bag five ways' reel, a 'what fits inside' pack-with-me, or a 'high-street vs. designer raffia' dupe comparison.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Marie Claire UK",
+      "source_url": "https://www.marieclaire.co.uk/fashion/spring-summer-2026-accessories-trend-report",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#raffiabag",
+          "#eurosummer",
+          "#summerbags",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Loewe",
+          "Zara",
+          "Mango"
+        ],
+        "context": "Natural-fiber summer handbag trend dominating styling content",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bow-trimmed ballet flats are summer's soft-girl shoe on FashionTok",
+      "body": "Ballerina flats finished with bow accents \u2014 Coach's pair among the most-hauled \u2014 are the season's go-to flat, styled with jorts, capris and sheer skirts. Film a 'ballet flats outfit week' series, a 'are they actually comfortable for walking?' test, or a 'bow flats: high-end vs. budget' dupe hunt.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Marie Claire UK",
+      "source_url": "https://www.marieclaire.co.uk/fashion/spring-summer-2026-accessories-trend-report",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#balletflats",
+          "#bowflats",
+          "#shoetok",
+          "#summershoes"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Coach",
+          "Mary Janes"
+        ],
+        "context": "Bow-detail ballet flat trend in summer outfit content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The banana bread latte is DrinkTok's at-home coffee pour of the summer",
+      "body": "Creators are cooking bananas down with sweeteners and spices, straining out a homemade banana syrup, and pulling it into iced lattes that taste like banana bread. Film a 'banana bread syrup from scratch' recipe, a 'is it worth the straining?' honest review, or a 'cafe copycat for $1 a cup' cost breakdown.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Canadian Grocer",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#bananabreadlatte",
+          "#coffeetok",
+          "#homecafe",
+          "#drinktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Homemade flavored-syrup latte recipe trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Fibermaxxing' has FoodTok piling fiber onto every plate",
+      "body": "The fibermaxxing trend has millions of videos as creators load up on beans, broccoli, chia and lentils to hit big daily fiber goals for gut health and fullness. Film a 'what I eat in a day, fibermaxxing edition,' a '40g of fiber for under $5' grocery haul, or a 'high-fiber swaps for your favorite meals' carousel.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_wellness_trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#fibermaxxing",
+          "#guthealth",
+          "#whatieatinaday",
+          "#highfiber"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "High-fiber eating challenge spanning food and wellness feeds",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Cozy cardio' is FitTok's low-pressure summer movement trend",
+      "body": "Cozy cardio \u2014 gentle, enjoyable movement like a sunrise treadmill walk with a fun drink and a feel-good playlist \u2014 is trending as the accessible antidote to hardcore gym content. Film a 'cozy cardio morning routine,' a 'romanticize your walk' aesthetic reel, or a 'cozy cardio for people who hate the gym' starter guide.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "The Balanced CEO",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cozycardio",
+          "#fittok",
+          "#walkingworkout",
+          "#movementtrend"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Gentle, mood-first workout format trending against intense gym content",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Wax-melting candle-warmer lamps are HomeTok's flameless aroma upgrade",
+      "body": "Wax melting lamps that warm scented wax with a bulb \u2014 no flame, no smoke \u2014 are going viral as a safer, aesthetic aromatherapy swap that photographs beautifully in room backgrounds. Film a 'flame vs. lamp' scent-throw test, a 'cozy corner setup with a wax warmer' styling reel, or a 'best wax melt scents for summer' roundup.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Eprolo",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#waxmeltinglamp",
+          "#candlewarmer",
+          "#hometok",
+          "#cozyhome"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Flameless wax-warmer lamp trending as aesthetic home-fragrance buy",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Smart vanity mirrors with built-in lighting are TechTok's GRWM upgrade",
+      "body": "LED smart mirrors with adjustable lighting and Bluetooth speakers are trending as the functional-yet-aesthetic centerpiece for morning routines and getting-ready content. Film a 'desk/vanity glow-up with a smart mirror' setup, a 'is the Bluetooth actually good?' review, or a 'how the lighting changes my makeup' before/after.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Listful",
+      "source_url": "https://www.listful.com/guides/trends/what's-hot/viral-tiktok-products",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#smartmirror",
+          "#vanitymirror",
+          "#techtok",
+          "#getreadywithme"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Lit smart mirror trending as GRWM and desk-setup gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Yoto Player is ParentTok's screen-free summer audio hero",
+      "body": "The card-based Yoto Player is trending as parents look for screen-free entertainment, letting kids pop in story and music cards like a modern cassette collection. Film a 'screen-free morning thanks to Yoto,' a 'best Yoto cards for toddlers' roundup, or a 'road-trip survival with no iPad' demo.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok-trending-products-for-kids",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yotoplayer",
+          "#screenfree",
+          "#parenttok",
+          "#toddleractivities"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Yoto"
+        ],
+        "context": "Screen-free kids' audio player trending in parenting content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pet POV cameras are PetTok's most-watched gadget right now",
+      "body": "Collar-mounted 'CatPOV' / 'DogPOV' cameras are racking up tens of millions of views as owners share a pet's-eye view of the day's adventures. Film a 'a day in my cat's POV' edit, a 'what my dog does while I'm at work' reveal, or a 'is this pet cam worth it?' honest setup review.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Accio",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#catpov",
+          "#dogpov",
+          "#pettok",
+          "#petcam"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Pet-mounted POV camera fueling viral pet content",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Skip to the good part' travel transitions are TravelTok's summer edit format",
+      "body": "The 'skip to the good part' transition \u2014 cutting from the dull travel-day grind to the jaw-dropping arrival on a beat drop \u2014 is the go-to format for summer vacation reels. Film your own door-to-destination transition, a 'long-haul reality vs. the view' edit, or a 'rate my transition' build using your trip footage.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Viryze",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#skiptothegoodpart",
+          "#travoltok",
+          "#traveltransition",
+          "#summertravel"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Vacation transition-edit format trending for travel reels",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Colorful stacked rings are JewelryTok's maximalist summer statement",
+      "body": "Bold, colorful gemstone and enamel rings worn mixed and stacked across every finger are the defining summer accessory as minimalism fades on JewelryTok. Film a 'ring stack of the day' series, a 'how to mix colors without clashing' styling guide, or a 'building a colorful ring stack on a budget' haul.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Unique Accessories",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#ringstack",
+          "#colorfuljewelry",
+          "#jewelrytok",
+          "#maximalist"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "Maximalist colorful ring-stacking trend in jewelry styling content",
+        "price_point": "various"
+      }
+    }
+  ]
+}

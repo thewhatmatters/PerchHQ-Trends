@@ -1,0 +1,405 @@
+{
+  "batch_id": "trends-2026-06-18",
+  "scraped_at": "2026-06-18T10:00:00Z",
+  "expires_at": "2026-06-21T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube's PDRN pink peptide serum is SkincareTok's affordable 'salmon DNA' glow",
+      "body": "Creators are racking up before/after videos with Medicube's PDRN pink peptide serum, framing it as a budget way to get the buzzy salmon-DNA repair ingredient without a luxury price tag. Easy angle: a 7-day texture-and-glow diary or a 'is the viral PDRN serum worth it' honest review.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#pdrn",
+          "#kbeauty",
+          "#skincare",
+          "#medicube"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Medicube"
+        ],
+        "context": "viral K-beauty serum",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen is SkincareTok's no-white-cast summer SPF",
+      "body": "As summer heat sets in, the Beauty of Joseon Rice Sunscreen SPF50+ is resurging as the recommended everyday face SPF for its dewy, no-white-cast finish. Creator angle: a 'sunscreen that actually disappears on camera' GRWM test or a swatch comparison across skin tones.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.thehandbook.com/tiktok-beauty-products/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sunscreen",
+          "#spf",
+          "#beautyofjoseon",
+          "#kbeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Beauty of Joseon"
+        ],
+        "context": "summer SPF",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Culottes are FashionTok's go-to summer bottom right now",
+      "body": "Culottes have leveled up from niche piece to summer wardrobe staple, styled with heeled boots for a polished look or loafers for casual. Creator angle: a 'one pair of culottes, five outfits' styling reel or a 'how to wear culottes if you're petite' guide.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#culottes",
+          "#summeroutfits",
+          "#styling"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "summer wardrobe staple",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Coastal Cowgirl' styling is FashionTok's eclectic summer look",
+      "body": "The Coastal Cowgirl aesthetic \u2014 denim, leather, wide-brimmed hats and linen mixed with western touches \u2014 is back for summer with a more eclectic 2026 mix. Creator angle: a 'styling Coastal Cowgirl on a budget' thrift haul or a transition video from beach to barn-party fit.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#summerstyle",
+          "#outfitinspo"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "summer aesthetic styling",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Savory-maxxing' has FoodTok ditching sweets for salty snack plates",
+      "body": "FoodTok is leaning anti-sweet: pickled-everything, salty snack boards and savory toppings (goat cheese, hot honey, pickles on chips) are racking up views over dessert content. Creator angle: a 'build a savory snack plate with me' ASMR assembly or a 'pickle girl summer' fridge-stock haul.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#savorymaxxing",
+          "#snackplate",
+          "#pickles",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral snack format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Japanese strawberries are FoodTok's breakout fruit of 2026",
+      "body": "Premium Japanese strawberries are this year's breakout produce, posting big year-over-year growth and millions of recipe posts as creators show them in desserts and tasting videos. Creator angle: a 'are $10 Japanese strawberries worth it' taste test or a strawberry-shortcake recipe using them.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://tastewise.io/blog/viral-food-trends",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#japanesestrawberries",
+          "#fruit",
+          "#foodtok",
+          "#tastetest"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "breakout produce trend",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "#SleepyGirlMocktail is back as FoodTok's summer wind-down drink",
+      "body": "The Sleepy Girl Mocktail \u2014 tart cherry juice plus magnesium and a splash of soda \u2014 is resurging as a nightly wind-down drink creators film as part of evening routines. Creator angle: a 'making the viral Sleepy Girl Mocktail every night for a week' sleep diary or a flavor-variations video.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_wellness_trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#sleepygirlmocktail",
+          "#tartcherryjuice",
+          "#magnesium",
+          "#nightroutine"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "functional drink trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Pilates Princess' mini-reformer routines are FitTok's summer movement",
+      "body": "The Pilates Princess trend keeps climbing, with creators posting fluid mat flows and at-home mini-reformer routines framed as low-impact, aesthetic and approachable. Creator angle: a '10-minute mini-reformer flow you can do at home' or a 'Pilates Princess GRWM + workout' combo.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.79,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#pilatesprincess",
+          "#pilates",
+          "#reformer",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "low-impact workout format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Color-coded pantry organization is HomeTok's satisfying summer reset",
+      "body": "Color-coded condiments, labeled jars and food 'zones' are driving a wave of satisfying pantry-reset videos as creators tidy small kitchens for summer. Creator angle: a 'restock and reorganize my pantry with me' time-lapse or a 'pantry zones on a budget' Dollar-store version.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#pantryorganization",
+          "#restock",
+          "#organizedhome",
+          "#hometok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "organization reset",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Loop Experience 2 earplugs are TechTok's $35 everyday-carry gadget",
+      "body": "Loop's Experience 2 earplugs keep going viral on TechTok for dampening sound without muffling it \u2014 pitched for concerts, focus and sensory overwhelm. Creator angle: a 'gadgets in my everyday-carry' reel or a 'testing viral Loop earplugs at a loud restaurant' review.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.gadgetreview.com/viral-tiktok-gadgets-that-are-way-smarter-than-they-look",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#loopearplugs",
+          "#techtok",
+          "#edc",
+          "#gadgets"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Loop"
+        ],
+        "context": "everyday-carry gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Honey Bear Straw Cup is ParentTok's viral toddler must-have",
+      "body": "The Honey Bear Straw Cup keeps trending on ParentTok as a teaching tool for toddlers learning to use a straw, with parents posting genuine 'it actually worked' clips. Creator angle: a 'viral baby products I tested \u2014 worth it or skip' roundup or a straw-training how-to.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#honeybearcup",
+          "#toddlermom",
+          "#parenttok",
+          "#babyproducts"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Honey Bear"
+        ],
+        "context": "viral toddler product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Reusable pet-hair remover rollers are PetTok's most satisfying summer buy",
+      "body": "Reusable pet-hair rollers and double-sided deshedding brushes are going viral on PetTok thanks to dramatic before/after piles of fur \u2014 peak shedding season makes them instant satisfying content. Creator angle: a 'deshedding my husky for the first time' reveal or a 'pet-hair gadgets ranked' test.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#deshedding",
+          "#petsoftiktok",
+          "#dogtok",
+          "#cattok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "shedding-season gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'5 things nobody tells you' tip videos are TravelTok's summer format",
+      "body": "Advice-driven travel videos ('5 things nobody tells you about visiting X') are outperforming pure aesthetic montages, pairing quick utility with high watch-through. Creator angle: shoot a fast-cut tips list for your last trip, or a '$50 a day in [city] vs [city]' comparison to spark comment debate.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#traveltips",
+          "#traveltok",
+          "#thingsnobodytellsyou"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "advice-driven travel format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces are JewelryTok's storytelling summer trend",
+      "body": "Charm-based jewelry \u2014 loaded charm necklaces and DIY charm builds \u2014 is replacing minimalist pendants as JewelryTok leans into personalization and storytelling. Creator angle: a 'build a charm necklace that tells my story' DIY or a 'where to source cheap charms' haul.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#charmjewelry",
+          "#diyjewelry",
+          "#jewelrytok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "personalized jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "batch_id": "trends-2026-06-20",
+  "scraped_at": "2026-06-20T10:00:00Z",
+  "expires_at": "2026-06-23T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Azelaic acid serums are SkincareTok's gentle retinol alternative this summer",
+      "body": "Azelaic acid is surging (~50% YoY demand) as the calm-skin acid that fights acne, rosacea redness and texture without retinol's irritation — perfect for summer-sensitive skin. Creator angle: a '2-week redness diary' before/after, or a 'retinol made my skin worse, here's what I switched to' explainer.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/skincare_trending_on_tik_tok",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#azelaicacid",
+          "#skincare",
+          "#rosacea",
+          "#skintok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The Ordinary",
+          "Paula's Choice",
+          "Naturium"
+        ],
+        "context": "viral skincare ingredient",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Matcha-infused skincare is BeautyTok's antioxidant glow obsession",
+      "body": "Matcha is jumping from the cup to the vanity — creators are hyping matcha cleansers, masks and serums for antioxidant, anti-inflammatory 'calm glow' payoff, riding the broader matcha-everything wave. Easy angle: a 'matcha latte AND matcha skincare' morning routine, or a 'do antioxidants actually do anything?' explainer.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/beauty-trends-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#matchaskincare",
+          "#matcha",
+          "#skincare",
+          "#beautytok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Saturday Skin",
+          "Krave Beauty"
+        ],
+        "context": "viral skincare ingredient",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Super-long Bermuda shorts are FashionTok's summer bottom of the moment",
+      "body": "Knee-grazing 'super long' Bermuda shorts are taking over summer styling as the tailored-but-comfy alternative to mini shorts, styled with loafers or sneakers. Creator angle: a 'how to style long Bermudas 5 ways' lookbook, or a 'are Bermuda shorts flattering on everyone?' try-on.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#bermudashorts",
+          "#summerstyle",
+          "#fashiontok",
+          "#ootd"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Zara",
+          "Abercrombie",
+          "H&M"
+        ],
+        "context": "viral styling trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Cool girl summer' — turquoise, shell details and statement buttons — is FashionTok's palette",
+      "body": "FashionTok's summer formula is leaning into turquoise tones, shell and seashell detailing, mini denim and oversized statement buttons for an easy coastal-cool look. Creator angle: a 'cool girl summer haul' or a 'styling one turquoise piece 3 ways' transition video.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/summer-2026-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#coolgirlsummer",
+          "#turquoise",
+          "#summerfashion",
+          "#fashiontok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Mango",
+          "Free People"
+        ],
+        "context": "viral color/styling trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Pickle-everything' snack plates are FoodTok's salty-summer obsession",
+      "body": "The savory wave is crystallizing into a full-blown pickle moment — creators are building pickled-everything snack plates (pickles, pickled onions, goat cheese, chips) and pickle-topped bites for crunchy, salty payoff. Creator angle: a 'pickle girl snack board' ASMR build or a 'ranking grocery-store pickles' taste test.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#picklesoftiktok",
+          "#savorymaxxing",
+          "#snackplate",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Grillo's Pickles",
+          "Trader Joe's"
+        ],
+        "context": "viral snacking trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 12-3-30 treadmill workout is FitTok's beginner-friendly summer cardio",
+      "body": "The 12-3-30 walk (12% incline, 3 mph, 30 minutes) is surging again as the low-impact, sweat-without-running format that fits any fitness level. Creator angle: a '30-day 12-3-30 results' diary, or a 'what to listen to during 12-3-30' playlist/POV video.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.77,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#12330",
+          "#treadmillworkout",
+          "#fittok",
+          "#walkingworkout"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral workout format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Cycle syncing' workouts are WellnessTok's body-aware training trend",
+      "body": "Creators are syncing workout intensity to their menstrual cycle — HIIT and dance in high-energy phases, yoga and gentle strength in low-energy ones — reframing rest as strategy, not slacking. Creator angle: a 'how I plan my week around my cycle' explainer or a 'phase-by-phase workout' carousel.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#cyclesyncing",
+          "#womenshealth",
+          "#fittok",
+          "#wellnesstok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral wellness format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Grandma-core' eclectic styling is HomeTok's cozy-maximalist summer look",
+      "body": "Grandma-core — mixed woods and metals, plate walls, layered art, tapestries and colorful kitchens — is HomeTok's antidote to cold minimalism, all warmth and lived-in personality. Creator angle: a 'grandmacore room makeover' before/after or a 'thrift haul: styling grandma-core for cheap' video.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#grandmacore",
+          "#eclecticdecor",
+          "#hometok",
+          "#maximalism"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "HomeGoods",
+          "Anthropologie"
+        ],
+        "context": "viral decor aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Govee music-sync LED strip lights are TechTok's sub-$20 room-glow upgrade",
+      "body": "Govee LED strips — 16M colors, app control and music-sync that pulses to your audio, often under $20 — are TechTok's go-to cheap room transformation and background for any video. Creator angle: a 'gaming/desk setup glow-up under $20' or a 'syncing my lights to a beat drop' satisfying reveal.",
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#govee",
+          "#ledlights",
+          "#techtok",
+          "#roomtransformation"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Govee"
+        ],
+        "context": "viral tech gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-in-1 pet steaming grooming brushes are PetTok's most satisfying summer buy",
+      "body": "Multi-function pet brushes that steam, massage and de-shed in one tool are blowing up for satisfying shed-season grooming clips — huge fur payoff on camera. Creator angle: an ASMR 'watch how much fur this pulls' demo or a 'shedding season survival kit' roundup.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#petgrooming",
+          "#pettok",
+          "#dogsoftiktok",
+          "#sheddingseason"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral pet product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Ooey Gooey' and Need-oh squishy sensory toys are ParentTok's screen-free obsession",
+      "body": "Soft, squishy, weirdly-satisfying sensory toys — Ooey Gooey and Need-oh styles — are ParentTok's calming, screen-free pick for fidgety kids this summer. Creator angle: a 'sensory toys that actually calm my toddler' roundup or an ASMR satisfying-squish demo.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/popular-toys-that-are-trending-right-now",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#sensorytoys",
+          "#parenttok",
+          "#needoh",
+          "#screenfree"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Schylling",
+          "Nee-Doh"
+        ],
+        "context": "viral kids product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Cost breakdown with receipts' is TravelTok's most-saved summer format",
+      "body": "Exact-cost travel videos — showing every receipt and a running total for a trip or a day — are TravelTok's highest-save format, beating dreamy montages because viewers bookmark them to plan. Creator angle: a '$50 a day in [city]' breakdown or a 'what a 3-day trip actually cost me' receipt walkthrough.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#travelcostbreakdown",
+          "#budgettravel",
+          "#traveltok",
+          "#traveltips"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral travel format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm bracelets are JewelryTok's storytelling wrist trend",
+      "body": "The charm wave is moving from necklaces to wrists — build-your-own charm bracelets let creators tell a personal story piece by piece, riding the maximalist self-expression mood. Creator angle: a 'building my charm bracelet, each charm means something' reveal or a 'where to find cheap charms' haul.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmbracelet",
+          "#jewelrytok",
+          "#charms",
+          "#diyjewelry"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Pandora",
+          "Mejuri"
+        ],
+        "context": "viral jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

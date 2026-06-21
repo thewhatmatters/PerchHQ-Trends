@@ -1,0 +1,441 @@
+{
+  "batch_id": "trends-2026-06-21",
+  "scraped_at": "2026-06-21T10:00:00Z",
+  "expires_at": "2026-06-24T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Glycolic acid body sticks are SkincareTok's 'strawberry legs' summer fix",
+      "body": "Swipe-on 7% glycolic (+salicylic) body sticks are surging as the shorts-season cure for keratosis pilaris bumps, ingrown hairs and 'strawberry legs', with creators showing visible smoothing in 7-14 days. Creator angle: a '2-week strawberry legs diary' before/after, or a 'how to actually use a body acid stick (and why you NEED SPF after)' explainer.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.refinery29.com/en-gb/strawberry-legs-treatment-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#strawberrylegs",
+          "#keratosispilaris",
+          "#glycolicacid",
+          "#bodycare"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The INKEY List",
+          "The Ordinary",
+          "Nip+Fab"
+        ],
+        "context": "viral body skincare product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Skin longevity' is BeautyTok's replacement for the word 'anti-aging'",
+      "body": "Creators are reframing routines around long-term skin function and barrier health ('skin longevity') instead of fighting wrinkles, a positioning shift driving demand for gentle daily actives over harsh anti-agers. Creator angle: a 'why I stopped saying anti-aging' explainer, or a 'skin longevity vs anti-aging - what actually changed in my routine' breakdown.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#skinlongevity",
+          "#skinbarrier",
+          "#skintok",
+          "#skincare2026"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "CeraVe",
+          "La Roche-Posay",
+          "Medik8"
+        ],
+        "context": "skincare positioning trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Wedge espadrilles are FashionTok's defining summer shoe of 2026",
+      "body": "The wedge espadrille is back as summer 2026's 'dress-and-sandal' shoe - creators are styling the rope-soled wedge with linen sets, denim and flowy dresses for an instant elevated-vacation look. Creator angle: a 'one espadrille, 5 outfits' styling reel, or a 'comfortable heel that actually survives cobblestones' travel-shoe review.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#espadrilles",
+          "#summershoes",
+          "#fashiontok",
+          "#shoehaul"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Castaner",
+          "Soludos",
+          "Steve Madden"
+        ],
+        "context": "summer footwear trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'More-is-more' top layering is FashionTok's maximalist summer formula",
+      "body": "Maximalism is winning over minimalism: creators are stacking multiple tops and mixing textures (denim + sheer, embellishment + fringe) for a Rachel-Green-coded layered look that reads expensive on camera. Creator angle: a 'how many tops can I layer before it looks crazy' challenge, or a 'thrift-haul to maximalist outfit' transition reel.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#maximalism",
+          "#outfitlayering",
+          "#moreismore",
+          "#styling"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Free People",
+          "Urban Outfitters"
+        ],
+        "context": "styling/aesthetic trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "4-ingredient Strawberry Cheesecake Dip is FoodTok's 'unofficial dip of summer'",
+      "body": "A no-bake, 4-ingredient strawberry cheesecake dip (under 10 minutes) is the breakout poolside snack of summer 2026 - creamy, pink and made for fruit, graham crackers and cookies. Creator angle: a 10-second 'fold, dip, devour' ASMR reel, or a 'cookout dip everyone will ask about' recipe with a strawberry-season hook.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cheesecakedip",
+          "#nobake",
+          "#summersnacks",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Philadelphia",
+          "Cool Whip"
+        ],
+        "context": "viral no-bake recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Banana Bread Latte is DrinkTok's cozy-summer coffee pour",
+      "body": "Creators are caramelizing bananas with spices into a homemade syrup for a 'banana bread latte' - a warm-spiced iced coffee that turns overripe bananas into a viral cafe-at-home drink. Creator angle: a 'don't throw out brown bananas - make this' POV, or a 'banana bread latte vs the coffee-shop version' taste test.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://www.chowhound.com/2142824/tiktok-food-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.66,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#bananabreadlatte",
+          "#coffeetok",
+          "#icedcoffee",
+          "#drinktok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Torani",
+          "Chamberlain Coffee"
+        ],
+        "context": "viral homemade drink",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Homifying' your workout is FitTok's answer to summer gym anxiety",
+      "body": "Rising 'gym anxiety' is pushing creators to rebuild full routines at home - weights, cardio and even sauna moments - under the 'homifying fitness' banner, no awkward gym crowd required. Creator angle: a 'my $200 at-home gym setup' tour, or a 'no-gym full-body summer routine you can do in a studio apartment' follow-along.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://mirrorsdelivered.com/blogs/industry-news-trends/fitness-trends-whats-hot-and-whats-not",
+      "trend_type": "content_format",
+      "confidence_score": 0.68,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#homegym",
+          "#athomeworkout",
+          "#gymanxiety",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Bala",
+          "REP Fitness"
+        ],
+        "context": "at-home fitness trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mirror walls are HomeTok's space-doubling decor flex of 2026",
+      "body": "Creators are filling walls with one oversized mirror or a salon-style cluster of antique mirrors to instantly expand small rooms, bounce light and add 'collected' character. Creator angle: a 'renter-friendly mirror wall on a budget' DIY, or a thrift-flip 'I turned $40 of estate-sale mirrors into a gallery wall' reveal.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#mirrorwall",
+          "#hometok",
+          "#smallspacedecor",
+          "#thriftflip"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "IKEA",
+          "HomeGoods",
+          "Anthropologie"
+        ],
+        "context": "viral home decor trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "#DopamineDecor is HomeTok's mood-boosting color maximalism",
+      "body": "Dopamine decor - acid-yellow accents, bubblegum-pink seating and psychedelic prints - is trending as the antidote to beige minimalism, with creators framing bold color as a daily mood lift. Creator angle: a 'beige room to dopamine room' makeover transition, or a 'cheap ways to add color without painting (renter edition)' list reel.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "hashtag",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#dopaminedecor",
+          "#colorfulhome",
+          "#maximalist",
+          "#hometok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "HomeGoods",
+          "Ruggable"
+        ],
+        "context": "home aesthetic hashtag",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Smart vanity mirrors with lighting + Bluetooth are TechTok's routine upgrade",
+      "body": "LED smart mirrors with built-in lighting and Bluetooth speakers are trending as the 'glow-up your morning' gadget - creators film get-ready-with-me routines lit by the mirror with music playing from it. Creator angle: a 'this mirror replaced my ring light AND my speaker' review, or a 'GRWM at my new vanity' setup reveal.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/popular-tiktok-viral-products-2026-trend",
+      "trend_type": "product",
+      "confidence_score": 0.66,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#smartmirror",
+          "#vanitymirror",
+          "#techtok",
+          "#grwm"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "HiMirror",
+          "Fenair"
+        ],
+        "context": "viral consumer gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Elastic bubble fog wands are ParentTok's most satisfying summer toy",
+      "body": "The stretchy 'bubble fog' wand - which blows stacked, smoke-filled bubbles - is blowing up as the season's most satisfying, screen-free outdoor kid toy and ASMR-friendly content. Creator angle: a slow-mo 'most satisfying bubble toy ever' reel, or a 'cheap backyard boredom-buster that actually entertained my kids' honest review.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/content/trending-products-2026-kids",
+      "trend_type": "product",
+      "confidence_score": 0.64,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#bubblewand",
+          "#kidstoys",
+          "#parenttok",
+          "#screenfree"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Amazon"
+        ],
+        "context": "viral kids toy",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 3-in-1 dog water bottle is PetTok's summer walk essential",
+      "body": "An all-in-one dog walking bottle - water dispenser + built-in treat compartment + poo scraper - is the season's viral 'why didn't this exist sooner' buy for hot-weather walks. Creator angle: a 'POV: the only thing I grab for summer walks now' demo, or a heat-safety 'how I keep my dog hydrated on walks' tips reel.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.66,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#dogwalk",
+          "#pettok",
+          "#dogsoftiktok",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Amazon"
+        ],
+        "context": "viral pet gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'$X a day in [A] vs [B]' comparison videos are TravelTok's debate-bait format",
+      "body": "Side-by-side budget comparisons ('$50 a day in Bali vs $50 a day in Albania') are outperforming pretty B-roll because the format sparks comment-section debate and friend-tagging that TikTok reads as engagement. Creator angle: pick two destinations and break down what the same daily budget buys in each, ending with a 'which would you pick?' CTA.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#budgettravel",
+          "#traveltok",
+          "#traveltips",
+          "#destinationdupe"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Skyscanner"
+        ],
+        "context": "travel content format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Permanent anklets are JewelryTok's must-have summer accessory",
+      "body": "The welded, clasp-free 'permanent anklet' is trending as summer 2026's commitment accessory - creators film the zap-weld moment and pair it with the coastal/mermaid-core aesthetic. Creator angle: a 'getting my first permanent anklet' POV with the welding ASMR, or a 'permanent jewelry - is it worth it?' honest review.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#permanentjewelry",
+          "#anklet",
+          "#jewelrytok",
+          "#mermaidcore"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Catbird"
+        ],
+        "context": "summer jewelry trend",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

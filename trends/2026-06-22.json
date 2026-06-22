@@ -1,0 +1,424 @@
+{
+  "batch_id": "trends-2026-06-22",
+  "scraped_at": "2026-06-22T10:00:00Z",
+  "expires_at": "2026-06-25T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Biodance Bio-Collagen Real Deep Mask is SkincareTok's overnight 'glass skin' hero",
+      "body": "The peel-off hydrogel mask that turns clear after 3+ hours is surging again as creators do 'I wore it overnight' glass-skin reveals, showing the tacky residue absorbing into plumped, dewy skin. Creator angle: a 'one mask, real-time glow' time-lapse from application to morning peel, or a 'K-beauty mask tier list' ranking it against snail mucin and night wrapping masks.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://furylist.com/18-viral-beauty-products-of-2026-that-tiktok-cant-stop-talking-about/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#biodance",
+          "#glassskin",
+          "#kbeauty",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Biodance",
+          "Medicube",
+          "COSRX"
+        ],
+        "context": "viral overnight collagen mask",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "SPF reapplication hacks with Beauty of Joseon Rice Sunscreen are BeautyTok's summer staple",
+      "body": "As heat waves hit, creators are demoing how to reapply SPF over makeup using the cult Beauty of Joseon Relief Sun rice sunscreen, plus powder and stick formats, to kill the 'I can't top up sunscreen all day' excuse. Creator angle: a 'how I reapply SPF without ruining my makeup' tutorial, or a 'budget K-beauty sunscreen taste test' comparing finish, white cast and pilling.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#spf",
+          "#beautyofjoseon",
+          "#sunscreen",
+          "#reapplyspf"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Beauty of Joseon",
+          "Supergoop!",
+          "La Roche-Posay"
+        ],
+        "context": "summer sun protection tutorial",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Coastal cowgirl' is evolving into FashionTok's denim-meets-linen summer mashup",
+      "body": "The 2026 version layers oversized western shirts over swimsuits and pairs raw denim with sheer linen, wide-brim hats and sandy-beige-and-ocean-blue palettes for a beachy-western look. Creator angle: a 'styling one western shirt 5 ways for summer' reel, or a 'coastal cowgirl on a budget' thrift-haul try-on.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#summeroutfits",
+          "#denim",
+          "#ootd"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Free People",
+          "Wrangler",
+          "Reformation"
+        ],
+        "context": "summer fashion aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Air-fried crispy sushi rice is FoodTok's no-deep-fry summer snack",
+      "body": "Crunchy rice squares topped with spicy tuna, salmon or avocado are everywhere, with creators air-frying the pressed rice for restaurant crispiness without a vat of oil. Creator angle: a 'crispy rice at home for $X vs the $18 restaurant version' cost breakdown, or a 'spicy tuna crispy rice — ASMR crunch' build video.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#crispyrice",
+          "#spicytuna",
+          "#airfryer",
+          "#tiktokfood"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Cosori",
+          "Ninja",
+          "Kikkoman"
+        ],
+        "context": "viral savory recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Frozen yogurt fruit clusters are FoodTok's healthy-girl summer freezer snack",
+      "body": "Spoonfuls of yogurt loaded with berries, granola and chocolate drizzle, frozen into bite-size 'clusters', are racking up saves as the guilt-free hot-weather treat. Creator angle: a 'freezer snack you'll make on repeat all summer' recipe, or a 'high-protein vs classic' clusters comparison for the fitness crowd.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#frozenyogurt",
+          "#fruitclusters",
+          "#healthysnack",
+          "#freezersnack"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Chobani",
+          "Oikos",
+          "Fage"
+        ],
+        "context": "viral healthy snack recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Cozy cardio' is FitTok's low-pressure summer movement trend",
+      "body": "Soft-lighting, loungewear, an iced coffee and gentle indoor walking or living-room dancing — 'cozy cardio' frames exercise as a feel-good ritual instead of a grind, drawing in people with gym anxiety. Creator angle: a 'my 6am cozy cardio setup' get-moving-with-me, or a 'cozy cardio vs the treadmill — which actually kept me consistent' diary.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cozycardio",
+          "#walkingworkout",
+          "#fittok",
+          "#movement"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lululemon",
+          "Stanley",
+          "Walking Pad"
+        ],
+        "context": "viral feel-good workout format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Pilates Princess' is FitTok's graceful, low-impact summer workout aesthetic",
+      "body": "Flowy, controlled mat-Pilates routines styled with matching sets and soft music are pulling huge views as an approachable alternative to high-intensity training. Creator angle: a '10-minute Pilates Princess core flow' follow-along, or a 'what I eat + my Pilates Princess routine' day-in-the-life.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://www.capcut.com/explore/tiktok-fitness-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#pilatesprincess",
+          "#pilates",
+          "#matpilates",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Alo Yoga",
+          "Bala",
+          "Lululemon"
+        ],
+        "context": "viral low-impact workout aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Cluttercore' is HomeTok's maximalist anti-minimalism summer aesthetic",
+      "body": "Curated-chaos rooms — art-stacked walls, teetering book piles and trinkets under glass cloches — are surging as the cozy backlash to clean-girl minimalism. Creator angle: a 'styling my shelves the cluttercore way (without it looking messy)' how-to, or a 'thrift-haul to cluttercore corner' transformation.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#cluttercore",
+          "#maximalism",
+          "#homedecor",
+          "#shelfie"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "HomeGoods",
+          "Anthropologie",
+          "IKEA"
+        ],
+        "context": "viral home decor aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The Soundcore Boom 2 floating speaker is TechTok's pool-and-beach summer gadget",
+      "body": "The waterproof, actually-floats Bluetooth speaker is going viral in pool-party and beach-day clips, with creators tossing it in the water mid-song to prove the IPX7 rating. Creator angle: a 'will it float? waterproof speaker pool test' demo, or a 'summer gadgets under $100 I actually use' roundup.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#soundcore",
+          "#bluetoothspeaker",
+          "#poolparty",
+          "#summergadgets"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Soundcore",
+          "Anker",
+          "JBL"
+        ],
+        "context": "viral summer audio gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Yoto Player is ParentTok's screen-free audio pick for summer road trips",
+      "body": "Parents are showing the card-based audio box — kids tap a $5-$25 card to play stories and music with no screen — as the antidote to summer screen-time guilt and a car-ride lifesaver. Creator angle: a 'screen-free road trip with a 4-year-old — does it actually work?' diary, or a 'Yoto vs Toniebox' honest parent comparison.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yotoplayer",
+          "#screenfree",
+          "#momtok",
+          "#toddleractivities"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Yoto",
+          "Tonies",
+          "Lovevery"
+        ],
+        "context": "viral screen-free kids product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'CatPOV' adventure-cam clips are PetTok's 25M-view summer format",
+      "body": "Tiny cameras strapped to cats (and dogs) capture first-person 'cat POV' garden patrols and backyard adventures that are pulling tens of millions of views per clip. Creator angle: a 'I put a camera on my cat for a week' montage, or a 'GoPro vs cheap pet cam — which actually works on a wriggly cat' review.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#catpov",
+          "#cattok",
+          "#petcam",
+          "#catsoftiktok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Insta360",
+          "GoPro",
+          "PetCube"
+        ],
+        "context": "viral pet content format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Set-jetting' to film and period-drama locations is TravelTok's summer trip format",
+      "body": "Creators are planning whole trips around shooting locations from hit shows and movies, doing 'I visited where they filmed it' walk-throughs that double as travel guides. Creator angle: a 'filming-location vs the real spot' side-by-side, or a 'budget set-jetting day trip to [location]' itinerary.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#setjetting",
+          "#traveltok",
+          "#filminglocation",
+          "#travelinspo"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Airbnb",
+          "Expedia",
+          "Booking.com"
+        ],
+        "context": "viral travel content format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Mermaidcore shell jewelry is JewelryTok's coastal summer accessory",
+      "body": "Shell pendants, pearl-and-bead layers and watery iridescent pieces are surging under the 'mermaidcore' tag as the beachy answer to summer layering. Creator angle: a 'DIY shell necklace from a $5 craft kit' tutorial, or a 'styling mermaidcore jewelry with a coastal cowgirl fit' get-ready reel.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#mermaidcore",
+          "#shelljewelry",
+          "#jewelrytok",
+          "#summerjewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Etsy",
+          "Mejuri",
+          "Brandy Melville"
+        ],
+        "context": "viral summer jewelry aesthetic",
+        "price_point": "various"
+      }
+    }
+  ]
+}

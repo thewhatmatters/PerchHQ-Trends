@@ -1,0 +1,391 @@
+{
+  "batch_id": "trends-2026-06-23",
+  "scraped_at": "2026-06-23T10:00:00Z",
+  "expires_at": "2026-06-26T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Laneige Lip Sleeping Mask in Cotton Candy is BeautyTok's limited-edition summer lip drop",
+      "body": "The cult overnight lip mask is surging again on the back of its limited-edition Cotton Candy scent, with creators doing 'lips before and after one night' reveals and ranking it against the original Berry. Creator angle: a 'I wore the new Cotton Candy lip mask for a week — soft lips test' diary, or a 'viral lip masks tier list' pitting it against Summer Fridays and Rhode.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.thehandbook.com/tiktok-beauty-products/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#laneige",
+          "#lipmask",
+          "#cottoncandy",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Laneige",
+          "Summer Fridays",
+          "Rhode"
+        ],
+        "context": "limited-edition viral lip product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Boho revival is FashionTok's flea-market-romantic summer aesthetic",
+      "body": "The bohemian 'gypsy vibe' is back for summer 2026 — vintage jackets, flowy layers, fringe and earthy prints styled like a lucky thrift find rather than a planned outfit. Creator angle: a 'boho summer thrift haul try-on' reel, or a 'styling one vintage waistcoat 4 boho ways' lookbook.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#boho",
+          "#bohosummer",
+          "#thrifthaul",
+          "#ootd"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Free People",
+          "Spell",
+          "Etsy"
+        ],
+        "context": "summer fashion aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Crochet tops are FashionTok's texture-forward summer layering piece",
+      "body": "Crochet tops, textured knits and lightweight woven fabrics are all over the feed, adding instant visual interest over swimwear or a simple tank. Creator angle: a 'how to style a crochet top 3 ways (beach to dinner)' reel, or a 'cheap vs splurge crochet top' try-on comparison.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://shopdressup.com/blogs/blog/fashion-trends-taking-over-tiktok-right-now",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#crochettop",
+          "#crochet",
+          "#summeroutfits",
+          "#styling"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Free People",
+          "Zara",
+          "Etsy"
+        ],
+        "context": "summer fashion texture trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Kool-Aid Pineapples are FoodTok's sweet-and-icy summer snack of the moment",
+      "body": "The hollowed-pineapple-soaked-in-Kool-Aid snack launched mid-May and is spreading fast as a bright, frozen, kid-friendly summer treat creators slice open on camera. Creator angle: a 'Kool-Aid pineapple — does it actually taste good?' taste test, or a 'frozen summer fruit snacks ranked' build video.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://en.wikipedia.org/wiki/TikTok_food_trends",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#koolaidpineapple",
+          "#summersnack",
+          "#tiktokfood",
+          "#fyp"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [
+          "Kool-Aid",
+          "Dole"
+        ],
+        "context": "viral summer snack",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Fibermaxxing' is FoodTok's gut-health recipe trend creators are cooking around",
+      "body": "The push to max out daily fiber with beans, chia, broccoli and oats is everywhere, with creators building high-fiber bowls, overnight chia jars and 'fiber-maxxed' lunches. Creator angle: a 'what I eat in a day to hit 40g of fiber' recipe run, or a 'high-fiber girl dinner' board — keep it about food, not medical claims.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://www.fastcompany.com/91544349/fibermaxxing-fiber-viral-trend-shares-tiktok-tips-for-higher-fiber-diet",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#fibermaxxing",
+          "#highfiber",
+          "#guthealth",
+          "#whatieatinaday"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Chia",
+          "Quaker",
+          "Trader Joe's"
+        ],
+        "context": "viral healthy-eating recipe format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dance-cardio workouts to the summer's hit sounds are FitTok's fun-first format",
+      "body": "Creators are turning the season's viral audios — the 'Like a Prayer' remix and Ariana Grande's 'hate that i made u love me' choreo — into follow-along dance-cardio routines that frame exercise as a party, not a chore. Creator angle: a '15-minute dance cardio to the songs you can't stop hearing' follow-along, or a 'I did dance workouts for a week instead of the gym' diary.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://newengen.com/insights/june-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#danceworkout",
+          "#dancecardio",
+          "#fittok",
+          "#cardio"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lululemon",
+          "Nike",
+          "Alo Yoga"
+        ],
+        "context": "viral feel-good workout format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "'Whimsy summer' is HomeTok's playful, romanticize-everything decor mood",
+      "body": "With #whimsy past 321K posts, creators are leaning into analogue revival and playful escapism — fairy lights, mismatched florals, ribbon, candles and 'romanticize your space' corners. Creator angle: a 'turn one shelf into a whimsy summer corner for under $30' styling how-to, or a 'whimsy summer room refresh' transformation.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.goodmorningamerica.com/shop/story/whimsy-summer-tiktok-trend-2026-132199612",
+      "trend_type": "hashtag",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#whimsy",
+          "#whimsysummer",
+          "#whimsical",
+          "#homedecor"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anthropologie",
+          "Etsy",
+          "HomeGoods"
+        ],
+        "context": "viral home decor aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Handheld misting fans are TechTok's sub-$30 heat-wave gadget",
+      "body": "The rechargeable handheld fan with an ultrasonic atomizer that sprays a cooling mist (without soaking you) is going viral in heat-wave clips and 'summer bag essentials' hauls. Creator angle: a 'does the misting fan actually keep you cool?' field test outside, or a 'summer gadgets under $30 I actually carry' roundup.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#mistingfan",
+          "#summergadgets",
+          "#tiktokmademebuyit",
+          "#heatwave"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anker",
+          "JISULIFE",
+          "Geek Aire"
+        ],
+        "context": "viral summer cooling gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "JellyCAP water bottle toppers are ParentTok's on-the-go toddler hydration buy",
+      "body": "The silicone caps ($14.99 for a set of three) snap onto a regular bottle to turn it into a spill-resistant toddler sipper, and moms are showing them off as a cheap summer-outing hack. Creator angle: a 'toddler summer bag essentials' haul, or a 'JellyCAP vs a regular sippy cup — the mess test' demo.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#jellycap",
+          "#momtok",
+          "#toddlermom",
+          "#momhack"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "JellyCAP",
+          "b.box",
+          "Owala"
+        ],
+        "context": "viral toddler hydration product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The AquaPurr water fountain is PetTok's 386M-view fix for picky-drinking cats",
+      "body": "The cat water fountain has racked up 386M TikTok views as owners post 'my cat finally drinks water' clips, framing it as a summer-hydration must for fussy felines. Creator angle: a 'will my picky cat actually use it? 7-day test', or a 'cat water fountains ranked for noise, cleaning and flow' review.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#aquapurr",
+          "#catfountain",
+          "#cattok",
+          "#cathydration"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "AquaPurr",
+          "PetKit",
+          "Catit"
+        ],
+        "context": "viral pet hydration product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Grocery store tourism' is TravelTok's quirky, low-cost trip format",
+      "body": "With ~15% of travelers saying they explore local supermarkets on trips, creators are filming 'I went grocery shopping in [country]' walk-throughs of foreign snacks, packaging and prices. Creator angle: a 'foreign grocery haul — what $20 buys here vs home' breakdown, or a 'weirdest snacks in a [country] supermarket' taste test.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#grocerytourism",
+          "#traveltok",
+          "#groceryhaul",
+          "#travelinspo"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Trader Joe's",
+          "Don Quijote",
+          "Carrefour"
+        ],
+        "context": "viral travel content format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Maximalist colorful ring stacks are JewelryTok's summer 'arm candy' flex",
+      "body": "Minimalism is fading and bold, mix-and-match colorful rings — stacked across every finger — are the defining summer accessory, often paired with bead and bangle stacks. Creator angle: a 'how to stack colorful rings without it looking cluttered' styling tip, or a 'building a $X colorful ring stack from Etsy' haul.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#ringstack",
+          "#colorfuljewelry",
+          "#jewelrytok",
+          "#armcandy"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Etsy",
+          "Mejuri",
+          "Astrid & Miyu"
+        ],
+        "context": "viral summer jewelry aesthetic",
+        "price_point": "various"
+      }
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "batch_id": "trends-2026-06-24",
+  "scraped_at": "2026-06-24T10:00:00Z",
+  "expires_at": "2026-06-27T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask is SkincareTok's overnight 'glow-wrap' hero",
+      "body": "Creators are filming 'apply at night, peel-and-reveal in the morning' diaries with this lightweight collagen sleeping wrap that claims to lock in moisture and smooth fine lines while you sleep. Creator angle: a 7-night 'collagen wrapping mask glow test' with morning-after close-ups, or a 'sleeping mask tier list' pitting it against Laneige and Biodance.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#medicube",
+          "#collagenmask",
+          "#sleepingmask",
+          "#glassskin"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Medicube",
+          "Laneige",
+          "Biodance"
+        ],
+        "context": "viral overnight skincare product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Cloud skin' is BeautyTok's soft-focus, anti-matte makeup finish",
+      "body": "Cloud skin — a diffused, blurred, slightly-dewy base that mimics a real-life filter — is the makeup look creators are chasing this summer, replacing both full matte and high glass-skin shine. Creator angle: a 'how I get cloud skin in 5 steps' tutorial, or a 'cloud skin vs glass skin' side-by-side on each half of the face.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#cloudskin",
+          "#softfocus",
+          "#makeuptutorial",
+          "#filterskin"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Rare Beauty",
+          "Charlotte Tilbury"
+        ],
+        "context": "viral makeup technique",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The Ordinary's peptide lash & brow serum is BeautyTok's budget growth-serum test",
+      "body": "Creators are running multi-week 'lash and brow before/after' progress clips with The Ordinary's affordable peptide serum, framing it as the cheap alternative to pricier growth serums. Creator angle: a timestamped 'I used it for 6 weeks' lash diary, or a 'cheap vs luxury brow serum' split test.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://furylist.com/18-viral-beauty-products-of-2026-that-tiktok-cant-stop-talking-about/",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#theordinary",
+          "#lashserum",
+          "#browserum",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The Ordinary"
+        ],
+        "context": "budget beauty growth product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Jelly shoes are FashionTok's nostalgic, color-pop summer footwear",
+      "body": "Translucent jelly flats, mary-janes and sandals are flooding the feed as the playful, slightly-Y2K shoe of summer 2026, styled with everything from slip dresses to denim. Creator angle: a 'styling jelly shoes 4 ways (beach to dinner)' reel, or a 'cheap vs designer jelly shoes' try-on haul.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#jellyshoes",
+          "#summershoes",
+          "#ootd",
+          "#y2kfashion"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Melissa",
+          "JuJu",
+          "Mango"
+        ],
+        "context": "summer footwear trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Multi-layered tops are FashionTok's 'Rachel Green' summer layering revival",
+      "body": "Stacked tank-over-tee and sheer-over-cami layering — a '90s Rachel Green nod — is back as the easy way to add texture and personality to a basic summer outfit. Creator angle: a 'layering one white tank 5 ways' lookbook, or a 'recreating 90s sitcom outfits with what's in my closet' transition reel.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://fashverge.com/tiktok-fashion-trends-2026-outfit-ideas",
+      "trend_type": "content_format",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#layering",
+          "#90sfashion",
+          "#ootd",
+          "#styling"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Brandy Melville",
+          "Zara"
+        ],
+        "context": "summer styling trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee is FoodTok's tropical summer cafe-copycat drink",
+      "body": "Iced coffee blended or topped with coconut milk and cream is the summer 'make it at home' cafe drink creators are recreating, framed as a lighter, tropical upgrade on the usual iced latte. Creator angle: a 'I made the viral coconut iced coffee — cafe vs homemade' taste test, or a satisfying ASMR build-and-pour reel.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coconutcoffee",
+          "#icedcoffee",
+          "#coffeetok",
+          "#summerdrinks"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Chamberlain Coffee",
+          "Califia Farms"
+        ],
+        "context": "viral summer drink recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is FoodTok's high-protein, no-bake summer dessert",
+      "body": "A lighter tiramisu made with Greek yogurt, Lotus Biscoff and coffee is going viral as the 'healthy-ish' no-bake dessert of the moment — easy to layer in a clear cup for a satisfying reveal. Creator angle: a 'viral yogurt tiramisu — is it actually good?' first-bite reel, or a 'high-protein dessert you can prep for the week' tutorial.",
+      "categories": [
+        "Food & Beverage",
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#yogurttiramisu",
+          "#highprotein",
+          "#nobakedessert",
+          "#foodtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Fage",
+          "Lotus Biscoff",
+          "Chobani"
+        ],
+        "context": "viral healthy dessert recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Shy girl workouts' are FitTok's low-pressure, gym-anxiety-friendly format",
+      "body": "Shy girl workouts — quiet-corner or at-home routines designed to dodge gym anxiety while still being effective — are resonating with beginners who feel intimidated by the main floor. Creator angle: a 'shy girl full-body workout you can do in one corner' demo, or a 'how I beat gym anxiety' confidence-building story.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://thebalancedceo.com/tiktok-fitness-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#shygirlworkout",
+          "#gymanxiety",
+          "#beginnerworkout",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Alo",
+          "Gymshark"
+        ],
+        "context": "viral beginner-friendly workout format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Wabi-sabi mushroom table lamps are HomeTok's organic-glow accent buy",
+      "body": "Large textured 'wabi-sabi' table lamps with an organic mushroom silhouette and warm, diffused glow are the under-$100 statement piece creators are using to make a corner feel instantly cozy. Creator angle: a 'this $60 lamp changed my whole living room' before/after, or a 'viral mushroom lamp dupe vs designer' comparison.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.71,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#wabisabi",
+          "#mushroomlamp",
+          "#homedecor",
+          "#cozyhome"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Amazon",
+          "Homio Decor"
+        ],
+        "context": "viral home decor product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Theragun Mini 2 is TechTok's pocket-sized recovery gadget",
+      "body": "The compact Theragun Mini 2 is trending with fitness and wellness creators as the 'throw-it-in-your-gym-bag' percussive massager that actually delivers, often demoed right after a workout. Creator angle: a 'gym bag essentials' clip featuring it, or a 'does the mini massage gun actually help DOMS?' honest review.",
+      "categories": [
+        "Tech & Gadgets",
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#theragun",
+          "#massagegun",
+          "#recovery",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Therabody"
+        ],
+        "context": "viral wellness gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Prime Day 'viral cart' hauls are creators' cross-category content moment (June 23–26)",
+      "body": "With Amazon Prime Day live through June 26, creators are racing to post 'what I grabbed on sale' hauls across beauty, home and tech — deal-hunting reels that lean on urgency and 'add-to-cart before it's gone' energy. Creator angle: a 'Prime Day viral finds under $50' speed-haul, or a 'is this TikTok-famous product worth it on sale?' review round-up.",
+      "categories": [
+        "Tech & Gadgets",
+        "Home & Lifestyle",
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.eonline.com/news/1433110/amazon-prime-day-2026-starts-tomorrow-how-to-get-the-best-deals",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#primeday",
+          "#primeday2026",
+          "#amazonfinds",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Amazon"
+        ],
+        "context": "live shopping event creator format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The Doodle Bot drawing robot is ParentTok's screen-free summer entertainer",
+      "body": "A small robot that holds a pen and draws or teaches kids to draw is going viral with parents as a screen-free way to keep children busy for hours during summer break. Creator angle: a 'screen-free summer activity that actually buys me an hour' demo, or a 'kids react to the Doodle Bot' reaction reel.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#doodlebot",
+          "#screenfree",
+          "#kidsactivities",
+          "#parenttok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Doodle Bot"
+        ],
+        "context": "viral screen-free kids product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cooling pet mats are PetTok's heat-wave must-have for dogs and cats",
+      "body": "Pressure-activated cooling gel mats and ice pads for pets are surging as a summer-timed buy, with creators filming dogs and cats flopping onto them in relief during the heat. Creator angle: a 'does my dog actually like the cooling mat?' first-reaction clip, or a 'summer heat must-haves for pets' round-up.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coolingmat",
+          "#dogsofttiktok",
+          "#petsummer",
+          "#pettok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Chewy",
+          "Amazon"
+        ],
+        "context": "seasonal viral pet product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Budget 'X dollars a day' comparison videos are TravelTok's most shareable format",
+      "body": "Side-by-side cost-of-trip comparisons (like '$50 a day in Albania' or 'Greece vs Turkey for a summer week') are racking up comment-section engagement because viewers tag friends to plan trips together. Creator angle: a '$50/day vs $150/day in the same city' split-screen, or a 'cheapest vs priciest version of this trip' breakdown.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#budgettravel",
+          "#traveltok",
+          "#traveltips",
+          "#summer2026"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Skyscanner",
+          "Hostelworld"
+        ],
+        "context": "viral travel content format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Charm necklaces are JewelryTok's identity-stacking summer statement",
+      "body": "Maximalist charm-loaded necklaces — each charm representing a memory, pet or inside joke — are replacing minimalist pendants as creators show off 'build your charm necklace with me' clips. Creator angle: a 'building a charm necklace that tells my story' assembly reel, or a 'where to find affordable charms' shopping guide.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#charmjewelry",
+          "#jewelrytok",
+          "#summerjewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Pandora",
+          "Etsy"
+        ],
+        "context": "viral personalized jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

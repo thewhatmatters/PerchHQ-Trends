@@ -1,0 +1,471 @@
+{
+  "batch_id": "trends-2026-06-25",
+  "scraped_at": "2026-06-25T10:00:00Z",
+  "expires_at": "2026-06-28T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen is SkinTok's no-white-cast summer SPF hero",
+      "body": "This SPF 50+ rice-water-and-prebiotic sunscreen is dominating beauty feeds for its dewy finish with no greasy feel or white cast across deeper skin tones, making it the go-to summer reapply pick. Creator angle: a 'finding the perfect under-makeup SPF' test, or a 'no-white-cast sunscreen on deeper skin tones' demo with side-by-side swatches.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#beautyofjoseon",
+          "#ricesunscreen",
+          "#spf50",
+          "#kbeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Beauty of Joseon",
+          "Ultra Violette"
+        ],
+        "context": "viral summer SPF skincare product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cushiony tinted lip oils are the handbag-essential glow-up creators keep showing off",
+      "body": "Lightweight lip oils that add hydration plus a hint of color and high-shine — without stickiness — are racking up views through close-up 'glossy finish' application clips and 'lip glow-up' reveals. Creator angle: a 'lip oil shade haul + swatch on every undertone' video, or a 'one week of glossy lips' before/after.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.buzzfeed.com/gabrielamanjarrez/newer-tiktok-viral-actually-work",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#lipoil",
+          "#glossylips",
+          "#lipglowup",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Laneige"
+        ],
+        "context": "viral lip product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Layered-tops maximalism is BeautyTok-meets-FashionTok's 'more is more' summer styling",
+      "body": "Creators are stacking sheer-over-denim, fringe-over-embellishment and mixed-texture tops as the Rachel-Green-inspired layering trend pushes into full maximalism this summer. Creator angle: a 'styling one tank 5 maximalist ways' reel, or a 'thrifted layering challenge' building a look from texture-clash pieces.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#layering",
+          "#maximalism",
+          "#outfitinspo",
+          "#styling"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral fashion styling format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coastal-cowgirl 2.0 is the genre-bending summer aesthetic creators are restyling",
+      "body": "The coastal-cowgirl look is evolving beyond denim-and-hats into unexpected mash-ups — oversized western shirts over swimsuits, sheer linen with denim, turquoise and shell accents — giving creators a fresh styling sandbox. Creator angle: a 'coastal cowgirl on a budget' thrift haul, or a 'beach-to-rodeo' transition outfit reel.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#summerstyle",
+          "#westerncore",
+          "#ootd"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral fashion aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is FoodTok's anti-sweet, high-protein dessert of the summer",
+      "body": "A lighter spin on tiramisu built from yogurt, Lotus Biscoff and coffee is going viral as creators lean into the 'protein-ified, less-sweet dessert' wave. Creator angle: a 'viral yogurt tiramisu — does it actually taste like the real thing?' taste test, or a 'high-protein dessert swap' series.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yogurttiramisu",
+          "#highprotein",
+          "#foodtok",
+          "#biscoff"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lotus Biscoff"
+        ],
+        "context": "viral recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee is 2026's tropical answer to last year's cold brew",
+      "body": "Coconut milk and cream poured over iced coffee is the summer drink creators are recreating for its tropical flavor and the photogenic layered pour. Creator angle: a 'coconut iced coffee — barista vs at-home dupe' or a 'making the viral coconut coffee every morning for a week' diary.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#coconutcoffee",
+          "#icedcoffee",
+          "#coffeetok",
+          "#summerdrinks"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral drink recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Sleepy Girl Mocktail keeps trending as FitTok's wind-down wellness ritual",
+      "body": "Tart cherry juice plus magnesium powder topped with soda — the 'Sleepy Girl Mocktail' — continues to spread as creators frame it as a nightly sleep-and-recovery ritual. Creator angle: a '7 nights of the Sleepy Girl Mocktail — did I actually sleep better?' tracker, or a 'wellness drink tier list' pitting it against magnesium and adaptogen blends.",
+      "categories": [
+        "Health & Fitness",
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#sleepygirlmocktail",
+          "#magnesium",
+          "#wellnesstok",
+          "#sleephacks"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral wellness drink",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Smart rings are the wearable FitTok creators are reviewing against their watches",
+      "body": "AI-integrated smart rings and recovery-tracking wearables are surging as creators demand more discreet, personalized health monitoring than wrist trackers. Creator angle: a 'smart ring vs smartwatch — which tracked my sleep better?' head-to-head, or a '30-day recovery score experiment' vlog.",
+      "categories": [
+        "Health & Fitness",
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_wellness_trends",
+      "trend_type": "product",
+      "confidence_score": 0.66,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#smartring",
+          "#wearabletech",
+          "#sleeptracking",
+          "#fittok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": []
+        ,
+        "context": "viral wellness wearable",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Sunset lamps are HomeTok's cheapest way to transform a room's backdrop",
+      "body": "Sunset projection lamps that cast a warm circular glow on walls and ceilings are surging as creators use them to upgrade their filming backgrounds and 'set a mood' on a budget. Creator angle: a 'transforming my blank wall for under $20' room reveal, or a 'sunset lamp placement hacks for the perfect glow' tutorial.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sunsetlamp",
+          "#roomdecor",
+          "#hometok",
+          "#aestheticroom"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral home decor product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Portable mini ACs are the summer home gadget creators are stress-testing",
+      "body": "Compact plug-in air conditioners marketed for bedrooms, desks, dorms and camping are heating up HomeTok as the season's must-have cooling buy. Creator angle: a 'does the viral $40 mini AC actually cool a room?' honest test, or a 'small-space summer cooling setup' tour.",
+      "categories": [
+        "Home & Lifestyle",
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.tasteofhome.com/collection/tiktok-made-me-buy-it/",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#miniac",
+          "#portableac",
+          "#summergadgets",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "mixed",
+        "related_brands": [],
+        "context": "viral home cooling gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Divoom Ditoo pixel speaker is the nostalgia gadget filling creators' desk setups",
+      "body": "The Divoom Ditoo — a retro pixel-display Bluetooth speaker — is going viral as creators share custom pixel-art animations and aesthetic desk-setup reveals. Creator angle: a 'designing custom pixel art for my Ditoo' time-lapse, or a 'cozy desk setup with the viral pixel speaker' tour.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#divoomditoo",
+          "#pixelart",
+          "#desksetup",
+          "#gadgets"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Divoom"
+        ],
+        "context": "viral consumer gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Screen-free audio players (Yoto & Toniebox) are the parenting buy creators keep endorsing",
+      "body": "Yoto Player and Toniebox are surging with parent creators as the screen-free way to give kids music and stories, framed as a guilt-free alternative to tablets. Creator angle: a 'screen-free summer with a Yoto — honest parent review,' or a 'Yoto vs Toniebox — which my toddler actually uses' comparison.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yotoplayer",
+          "#toniebox",
+          "#screenfree",
+          "#momsoftiktok"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Yoto",
+          "Toniebox"
+        ],
+        "context": "viral kids product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Cooling pet beds are PetTok's viral summer must-have for dogs and cats",
+      "body": "Self-cooling ice-pad pet cushions are going viral as owners share clips of pets sprawling out to beat the summer heat. Creator angle: a 'does my dog actually like the viral cooling mat?' reaction video, or a 'summer heat essentials for pets' haul.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coolingbed",
+          "#dogsoftiktok",
+          "#petsummer",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral pet product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cat-POV camera clips are PetTok's runaway content format",
+      "body": "Lightweight collar-cams turning everyday cat wandering into first-person 'cat adventure' footage are pulling tens of millions of views per clip. Creator angle: a 'I put a camera on my cat for a day' edit, or a 'cat-POV vs reality' split-screen.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.5wpr.com/new/tiktok-instagram-youtube-pet-focus-for-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#catpov",
+          "#catsoftiktok",
+          "#petcam",
+          "#catadventures"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral pet content format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Underrated Southeast Asia is TravelTok's most-shared summer escape",
+      "body": "Lesser-known spots like Laos (Luang Prabang's alms ceremony, Kuang Si waterfalls) and the Philippines beyond the usual hubs (Siargao, Coron, Siquijor) are pulling millions of views as creators chase 'off the beaten path' destinations. Creator angle: a 'skip Bali, go here instead' itinerary, or a 'hidden Southeast Asia on a budget' day-in-the-life.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#hiddengems",
+          "#southeastasia",
+          "#traveltok",
+          "#offthebeatenpath"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral travel destination format",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces are JewelryTok's storytelling statement piece",
+      "body": "Charm-loaded necklaces and stacked, colorful, beaded pieces are taking over jewelry feeds as 'quiet luxury' gives way to loud, personal styling. Creator angle: a 'building my charm necklace — each charm tells a story' reveal, or a 'how to layer charm necklaces without tangling' styling tutorial.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#jewelrytok",
+          "#layering",
+          "#maximalistjewelry"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral jewelry styling trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

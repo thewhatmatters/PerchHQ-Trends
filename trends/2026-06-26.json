@@ -1,0 +1,441 @@
+{
+  "batch_id": "trends-2026-06-26",
+  "scraped_at": "2026-06-26T10:00:00Z",
+  "expires_at": "2026-06-29T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask is SkinTok's overnight 'glass skin' fix",
+      "body": "This collagen-rich overnight wrapping mask is surging on beauty feeds for its 'wake up with bouncy, plumped skin' payoff, with creators filming before-bed application and next-morning reveals. Creator angle: a 'I wore this every night for a week' glow-up diary, or a 'overnight mask vs. morning skin' split-screen reveal.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://poosh.com/poosh-approved-k-beauty/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#medicube",
+          "#collagenmask",
+          "#glassskin",
+          "#kbeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Medicube",
+          "COSRX"
+        ],
+        "context": "viral overnight K-beauty skincare product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Multi-layered tops maximalism is summer's 'style one tank 5 ways' format",
+      "body": "Stacking tanks, sheer layers, and texture-clash tops — a 'more is more' maximalism revival credited to the Rachel Green look — is driving styling content as creators layer pieces they already own. Creator angle: a 'one tank, five layered looks' transition reel, or a 'thrifted layering haul' styling video.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#layering",
+          "#maximalism",
+          "#outfitideas",
+          "#stylehack"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer styling content format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Coastal cowgirl 2.0 — western shirts over swimsuits — is the beach-to-rodeo transition",
+      "body": "Summer's evolved coastal-cowgirl look mixes denim with sheer linen and oversized western shirts thrown over swimsuits, with turquoise and shell accents, fueling outfit-transition and thrift-haul content. Creator angle: a 'beach to rodeo' outfit-change transition, or a 'styling one western shirt 3 ways for summer' reel.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#coastalcowgirl",
+          "#westernstyle",
+          "#summeroutfit",
+          "#thrifthaul"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer fashion aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu is the anti-sweet, high-protein dessert creators keep taste-testing",
+      "body": "A lighter tiramisu built from yogurt, Lotus Biscoff cookies and coffee is going viral on the 'anti-sweet treat' wave, with creators filming the no-bake layering and first-bite reactions. Creator angle: a 'high-protein tiramisu, does it taste real?' taste test, or a 'no-bake summer dessert in 5 minutes' recipe reel.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#yogurttiramisu",
+          "#highprotein",
+          "#nobakedessert",
+          "#tiktokfood"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lotus Biscoff"
+        ],
+        "context": "viral no-bake dessert recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Theragun Mini 2 is the recovery gadget fitness creators say actually delivers",
+      "body": "The pocket-sized percussion massager is one of the rare hyped wellness gadgets getting genuine 'worth it' verdicts from fitness creators, shown in post-workout recovery and desk-tension demos. Creator angle: a 'recovery tools ranked' review, or a '30 days of daily Theragun on sore legs' experiment.",
+      "categories": [
+        "Health & Fitness"
+      ],
+      "source": "Web",
+      "source_url": "https://www.techbuzz.ai/articles/tiktok-s-most-hyped-gadgets-which-ones-actually-deliver",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#theragun",
+          "#recovery",
+          "#fitnesstok",
+          "#musclerecovery"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Theragun"
+        ],
+        "context": "viral fitness recovery gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Handheld misting fans are summer's go-to heat-hack product on Home feeds",
+      "body": "Portable misting fans that spray a fine cooling water mist are a seasonal hit, starring in 'surviving the heatwave' POVs, summer-essentials lists and travel-bag clips. Creator angle: a 'summer heat hacks tested' video, or a 'what's in my bag for a heatwave' essentials reel.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/home-products-trends-2026",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#mistingfan",
+          "#summerhacks",
+          "#heatwave",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer cooling product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mini projectors power the 'cozy galaxy ceiling' room-setup content",
+      "body": "Compact projectors keep trending for aesthetic room transformations — galaxy visuals on the ceiling, movie nights on a blank wall — with strong satisfying-setup appeal. Creator angle: a 'turn your bedroom into a cinema for under $X' setup, or a 'cozy projector night routine' ambiance reel.",
+      "categories": [
+        "Home & Lifestyle",
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#miniprojector",
+          "#roommakeover",
+          "#cozysetup",
+          "#techtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral home entertainment gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Mi Smart Band 9 is TechTok's '21-day battery' budget wearable underdog",
+      "body": "The low-cost fitness band is going viral on its 21-day battery life, spawning side-by-side videos pitting it against pricier smartwatches. Creator angle: a 'cheap band vs. expensive smartwatch, which do I actually wear?' head-to-head, or a 'budget wearable, 2-week battery test' review.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#smartband",
+          "#wearables",
+          "#techtok",
+          "#budgettech"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Xiaomi"
+        ],
+        "context": "viral budget wearable gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Honey Bear straw cup is the parent-creator feeding win for transitioning toddlers",
+      "body": "The Legendairy Milk Honey Bear straw cup keeps getting parent endorsements for teaching straw-drinking and lasting through the toddler years, shown in 'first sip' and feeding-essentials clips. Creator angle: a 'baby products worth the hype vs. skip' review, or a 'how we taught straw drinking' demo.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.thequalityedit.com/articles/tikotk-baby-products-best-and-worst",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#momtok",
+          "#babyproducts",
+          "#toddlerlife",
+          "#honeybearcup"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Legendairy Milk"
+        ],
+        "context": "viral baby feeding product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "DIY craft and slime kits are the 'screen-free summer' staple for kid creators",
+      "body": "DIY activity and slime kits are sustaining strong momentum as parents look for screen-free summer entertainment, perfect for satisfying make-along and 'keep kids busy' content. Creator angle: a 'screen-free summer activities that actually work' roundup, or a satisfying 'slime kit ASMR make-along.'",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_trends_for_tweens",
+      "trend_type": "product",
+      "confidence_score": 0.66,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#screenfreesummer",
+          "#slimekit",
+          "#kidsactivities",
+          "#momtok"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral kids activity product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cooling pet mats hit peak-summer virality with 'dog collapse' reaction clips",
+      "body": "Self-cooling pet ice mats are meme-worthy again this summer, with brands encouraging owners to post dogs flopping gratefully onto the cool surface — a flood of UGC reaction videos. Creator angle: a 'heat-relief products for pets tested' review, or a 'my dog's reaction to the cooling mat' reaction reel.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#coolingmat",
+          "#dogsoftiktok",
+          "#petsummer",
+          "#tiktokmademebuyit"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer pet cooling product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "AquaPurr fountain is the picky-cat hydration fix with hundreds of millions of views",
+      "body": "The AquaPurr water fountain went viral solving the picky-cat hydration problem, racking up 386M+ views via 'will my cat finally drink?' before/after clips. Creator angle: a 'fixing my cat's hydration' transformation, or a 'cat fountain worth it?' honest review.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#catsoftiktok",
+          "#catfountain",
+          "#pethydration",
+          "#aquapurr"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "AquaPurr"
+        ],
+        "context": "viral pet hydration product",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'How much a week in [destination] actually costs' is travel's save-magnet format",
+      "body": "Receipt-level cost-breakdown videos — real hotel, meal and transport prices for a week somewhere — are dominating travel saves and shares, with specificity the whole appeal. Creator angle: a 'what a week in [your city/trip] really cost, receipts included' breakdown, or a 'budget vs. splurge same destination' comparison.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#traveltok",
+          "#travelbudget",
+          "#traveltips",
+          "#costbreakdown"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral travel content format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Charm necklaces and bracelet stacking lead summer's maximalist jewelry wave",
+      "body": "Minimalism is fading as maximalist charm necklaces and stacked beaded bracelets take over jewelry feeds, all about 'more color, more layers, more personality.' Creator angle: a 'build a charm necklace with me' styling video, or a 'bracelet stack haul + how to layer' reel.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#charmnecklace",
+          "#braceletstack",
+          "#jewelrytrends",
+          "#layering"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral maximalist jewelry trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Permanent anklets are summer's viral 'welded-on' accessory moment",
+      "body": "Permanent welded anklets in gold-fill or sterling silver are trending as a coastal/mermaid-core summer accessory, with the welding moment itself making satisfying short-form content. Creator angle: a 'getting a permanent anklet' POV experience, or a 'permanent jewelry, is it worth it?' explainer.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.66,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": [
+          "#permanentjewelry",
+          "#anklet",
+          "#mermaidcore",
+          "#summerjewelry"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer jewelry trend",
+        "price_point": "mid-range"
+      }
+    }
+  ]
+}

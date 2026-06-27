@@ -1,0 +1,362 @@
+{
+  "batch_id": "trends-2026-06-27",
+  "scraped_at": "2026-06-27T10:00:00Z",
+  "expires_at": "2026-06-30T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Biodance Bio-Collagen Real Deep Mask Pack is SkinTok's one-night 'glass skin' overnight test",
+      "body": "This ultra-concentrated collagen + probiotic hydrogel mask is surging again on beauty feeds for its 'peel it off after 1 hour and your skin is glass' payoff. Creator angle: a real-time 'wore it for 90 minutes, here's the before/after' reveal, or a 'K-beauty masks ranked by morning glow' wear-test.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#biodance",
+          "#biocollagenmask",
+          "#glassskin",
+          "#kbeauty"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Biodance",
+          "Medicube",
+          "Beauty of Joseon"
+        ],
+        "context": "viral concentrated K-beauty hydrogel mask",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Glycolic acid body sticks are BodyTok's budget 'KP and back-acne' summer fix",
+      "body": "Swipe-on glycolic/exfoliating body sticks are blowing up as creators chase smooth shoulders and bump-free arms for tank-top season. Creator angle: a '14-day keratosis pilaris glow-up' texture diary, or a 'body skincare I wish I started sooner' budget-haul.",
+      "categories": [
+        "Beauty & Skincare"
+      ],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#bodyskincare",
+          "#glycolicacid",
+          "#kpbumps",
+          "#bodycare"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "The Inkey List",
+          "The Ordinary"
+        ],
+        "context": "viral budget body exfoliation product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Strawberry Cheesecake Dip is being called the 'unofficial dip of summer 2026'",
+      "body": "A 4-ingredient, under-10-minute no-bake dip (cream cheese, fresh strawberries, a sweet base, graham dippers) is dominating FoodTok as the easy cookout crowd-pleaser. Creator angle: a satisfying fold-and-swirl ASMR build, or a 'I brought this to a BBQ and the bowl was gone in 5 minutes' reaction.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": [
+          "#strawberrycheesecakedip",
+          "#dipofthesummer",
+          "#easyrecipe",
+          "#cookoutfood"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Philadelphia"
+        ],
+        "context": "viral no-bake summer dessert dip recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Grinder pasta salad is FoodTok's loaded cookout potluck hero",
+      "body": "The deli-sandwich-meets-pasta-salad mashup (salami, provolone, pepperoncini, shredded lettuce, creamy Italian dressing) is the summer potluck recipe creators keep remaking. Creator angle: a layered 'building the ultimate cookout side' assembly reel, or a 'this disappears before the burgers do' taste-test.",
+      "categories": [
+        "Food & Beverage"
+      ],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#grinderpastasalad",
+          "#pastasalad",
+          "#potluckrecipe",
+          "#summercookout"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer cookout pasta salad recipe",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Textured maximalism \u2014 clashing fur, sheer, denim and fringe \u2014 is FashionTok's eclectic summer styling shift",
+      "body": "Instead of loud colors, creators are mixing unexpected fabrics and textures (denim + sheer, embellishment + fringe) for a more-is-more look that reads as 'expensive eclectic.' Creator angle: a 'style one outfit with 3 clashing textures' challenge, or a thrift-haul 'texture mixing for beginners' tutorial.",
+      "categories": [
+        "Fashion & Apparel"
+      ],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#texturedmaximalism",
+          "#moreismore",
+          "#stylingtips",
+          "#outfitinspo"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral maximalist fabric-mixing styling format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Bed-cooling systems (Chilipad-style) are FitTok's summer 'recovery sleep' upgrade",
+      "body": "With heatwaves wrecking sleep, recovery creators are demoing water-cooled mattress pads as the fix for night sweats and better overnight muscle recovery. Creator angle: a '7 nights tracking my sleep score with vs. without' experiment, or a 'recovery tools that are actually worth it' honest review.",
+      "categories": [
+        "Health & Fitness",
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_wellness_trends",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#sleeprecovery",
+          "#bedcooling",
+          "#chilipad",
+          "#recoverytools"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Chilipad",
+          "Eight Sleep"
+        ],
+        "context": "viral cooling sleep recovery gadget",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Dopamine-decor gallery and plate walls are HomeTok's 'add personality' room refresh",
+      "body": "2026 interiors are leaning warm, storied and maximalist \u2014 layered art, plate walls and curated gallery clusters are the cheap-but-high-impact upgrade creators film. Creator angle: a 'building a renter-friendly gallery wall for under $50' time-lapse, or a 'dopamine decor corner glow-up' before/after.",
+      "categories": [
+        "Home & Lifestyle"
+      ],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-gb/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dopaminedecor",
+          "#gallerywall",
+          "#platewall",
+          "#roommakeover"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral maximalist room-refresh decor format",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-in-1 magnetic charging stands are TechTok's 'satisfying snap' desk-setup buy",
+      "body": "Foldable stands that charge phone, watch and earbuds at once are going viral on the magnetic 'snap' sound and the cable-clutter-to-clean-setup payoff \u2014 and most land under $50. Creator angle: an ASMR 'snap' close-up, or a 'desk setup that finally killed my cable mess' review.",
+      "categories": [
+        "Tech & Gadgets"
+      ],
+      "source": "Web",
+      "source_url": "https://www.viralproduct.shop/blog/10-tiktok-viral-gadgets-2026",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#3in1charger",
+          "#desksetup",
+          "#techtok",
+          "#gadgets"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Anker",
+          "Belkin"
+        ],
+        "context": "viral consumer charging gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Toddler learning towers are ParentTok's viral 'kitchen helper' summer buy",
+      "body": "Budget learning/kitchen-helper towers (the Lidl \u00a339.99 version went viral) are the screen-free summer win parents film as toddlers 'help' bake and wash up. Creator angle: a 'is the cheap learning tower worth it?' honest review, or a 'screen-free summer kitchen activities with my toddler' day-in-the-life.",
+      "categories": [
+        "Baby & Kids"
+      ],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/toddler-tower-lidl",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#learningtower",
+          "#kitchenhelper",
+          "#toddleractivities",
+          "#screenfree"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [
+          "Lidl",
+          "Montessori"
+        ],
+        "context": "viral budget toddler kitchen-helper product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "3-in-1 dog water bottles are PetTok's viral summer walk gadget",
+      "body": "All-in-one dog walk bottles (water dispenser + treat compartment + poop-bag/scraper) are blowing up as the heatwave essential for keeping dogs hydrated on walks. Creator angle: a 'testing the viral dog walk bottle on a 90-degree day' demo, or a 'summer dog-walk essentials' POV.",
+      "categories": [
+        "Pets"
+      ],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#dogsoftiktok",
+          "#dogwalk",
+          "#petgadgets",
+          "#summerpets"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer dog hydration gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Destination dupe' videos are TravelTok's most-saved summer planning format",
+      "body": "Creators are pairing overcrowded hotspots with cheaper, quieter lookalikes (e.g., Siargao instead of Palawan, Jeju instead of Bali) in fast before/after splits. Creator angle: a 'skip [famous place], go here instead \u2014 same vibe, half the price' split-screen with real cost callouts.",
+      "categories": [
+        "Travel & Hospitality"
+      ],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#destinationdupe",
+          "#traveltok",
+          "#hiddengems",
+          "#budgettravel"
+        ],
+        "engagement": {
+          "mentions": "high",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral travel comparison/planning format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Beaded bracelet stacking is JewelryTok's coastal 'stack-with-me' summer trend",
+      "body": "Bracelet stacks have overtaken ring stacks \u2014 chunky beads, shells and color-mixing feed the coastal/mermaid-core summer aesthetic. Creator angle: a 'build a summer bead stack with me' make-along, or a 'one stack, beach-to-dinner' restyle.",
+      "categories": [
+        "Jewelry & Accessories"
+      ],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": [
+          "#braceletstack",
+          "#beadedbracelets",
+          "#mermaidcore",
+          "#stackwithme"
+        ],
+        "engagement": {
+          "mentions": "medium",
+          "editor_approved": true
+        },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral maximalist beaded jewelry styling format",
+        "price_point": "budget"
+      }
+    }
+  ]
+}

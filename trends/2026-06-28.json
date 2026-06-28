@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-06-28",
+  "scraped_at": "2026-06-28T10:00:00Z",
+  "expires_at": "2026-07-01T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube Collagen Night Wrapping Mask is SkinTok's overnight 'wake up glowing' test",
+      "body": "This collagen-rich overnight wrapping mask is trending again as the lazy-girl alternative to a 10-step routine, with creators showing the 'apply, sleep, peel, glow' payoff. Creator angle: a same-bed before/after where you film the application at night and the un-edited skin reveal the next morning, or a 'overnight masks ranked by morning bounce' wear-test.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#medicube", "#overnightmask", "#glassskin", "#kbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Biodance", "Beauty of Joseon"],
+        "context": "viral overnight collagen wrapping mask",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Glycolic acid body sticks fuel the 'summer body-skin prep' wave on BeautyTok",
+      "body": "Body-care is having its skincare moment, with glycolic acid sticks, azelaic body washes and KP-smoothing routines trending as creators prep skin for shorts-and-tanks season. Creator angle: a 'two-week glycolic body stick on my arms — KP before/after' diary, or a 'summer shower routine for glowy bacne-free skin' GRWM.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#bodycare", "#glycolicacid", "#kpskin", "#summerskinprep"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Nip + Fab", "The Inkey List", "First Aid Beauty"],
+        "context": "summer body-skincare routine trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Coastal Cowgirl 2.0: turquoise, shell details and statement buttons own summer outfit videos",
+      "body": "The coastal-cowgirl aesthetic is back for summer with a turquoise-and-shell refresh — denim, linen tops, wide-brim hats and beachy hardware. Creator angle: a 'styling one turquoise piece three ways' transition, or a thrift-haul 'building a coastal cowgirl fit for under $40' video.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coastalcowgirl", "#summeroutfit", "#turquoise", "#outfitinspo"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People", "Reformation", "Madewell"],
+        "context": "summer aesthetic styling trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Capris and Bermuda shorts complete their comeback in summer try-on hauls",
+      "body": "Capris, Bermuda shorts and balloon pants are dominating fashion try-ons as the leg-lengthening, 'not-quite-jeans' summer staple, often paired with ballet flats and loafers. Creator angle: a 'capris are back and here's how to not look 2004' styling video, or a 'Bermuda shorts for every body type' fitting-room try-on.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/clothes_trending_on_tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#capris", "#bermudashorts", "#tryonhaul", "#summerstyle"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Zara", "H&M", "Abercrombie"],
+        "context": "summer apparel silhouette comeback",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Pistachio-tahini chocolate bars are the Dubai-chocolate sequel blowing up FoodTok",
+      "body": "The viral pistachio-tahini-cream filled chocolate bar is the next evolution of the Dubai chocolate craze, supercharged after a celebrity vegan remake racked up huge views. Creator angle: a 'making the viral pistachio bar at home for $10 vs $20 store version' build, or an honest ASMR taste-test ranking the copycats.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "product",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pistachiochocolate", "#dubaichocolate", "#foodtok", "#dessert"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Lindt", "Fix Dessert Chocolatier"],
+        "context": "viral dessert recipe trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yogurt tiramisu and frozen yogurt clusters lead the 'high-protein anti-sweet' dessert wave",
+      "body": "Yogurt-based desserts — Biscoff yogurt tiramisu and frozen fruit-and-yogurt clusters — are viral as the protein-forward, low-effort treat creators batch for the week. Creator angle: a '3-ingredient yogurt tiramisu, no bake' speed-build, or a 'frozen yogurt clusters: 4 flavors for summer' satisfying ASMR reel.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://blogzioverse.com/viral-tiktok-food-recipes-you-must-try-in-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#yogurttiramisu", "#frozenyogurtclusters", "#highprotein", "#easyrecipe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Chobani", "Lotus Biscoff", "Fage"],
+        "context": "high-protein dessert recipe trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Striviks foam roller rides the 'recovery is the new workout' fitness wave",
+      "body": "Recovery gear — led by a trending foam roller and core tools like the Merach ab twister — is surging as creators reframe rest days as content. Creator angle: a '5-minute post-leg-day foam roll routine' follow-along, or a 'gym gadgets I actually use vs viral junk' honest review.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/trending-fitness-products?lang=en",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#foamroller", "#recoveryday", "#fitnessgear", "#gymtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Striviks", "Merach", "TriggerPoint"],
+        "context": "fitness recovery equipment trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "$15 LED galaxy projectors power the endless 'bedroom glow-up' content loop",
+      "body": "Sub-$30 mood lights and a breakout $15 LED galaxy projector keep going viral because they look incredible on camera and make any room feel cinematic. Creator angle: a 'lights off, projector on — instant cozy room transformation' reveal, or a 'viral mood lights tested, which actually looks good on camera' roundup.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://printify.com/blog/tiktok-trending-products/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#galaxyprojector", "#roomtransformation", "#moodlighting", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Govee", "BlissLights"],
+        "context": "viral affordable home lighting",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Dopamine decor goes 'radioactive brights' for a maximalist summer refresh",
+      "body": "Bold, mood-boosting dopamine decor — acid yellows, bubblegum pinks, psychedelic prints — is the dominant interiors aesthetic creators are filming this summer. Creator angle: a 'one bold color, whole-room refresh on a budget' makeover, or a 'dopamine decor finds under $50' haul-and-style.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.net-a-porter.com/en-us/porter/article-1d806c783d208d1d/lifestyle/interiors/tiktok-interior-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#dopaminedecor", "#maximalism", "#homerefresh", "#interiorstyling"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["IKEA", "HomeGoods"],
+        "context": "maximalist interior decor trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Divoom Ditoo pixel speaker is the desk-gadget creators keep reviewing",
+      "body": "The retro Divoom Ditoo pixel-display Bluetooth speaker is a steady viral gadget thanks to its customizable pixel art and nostalgic charm that films beautifully. Creator angle: a 'desk setup glow-up with the pixel speaker' aesthetic reveal, or a 'making custom pixel animations for my Ditoo' how-to.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#divoomditoo", "#pixelart", "#desksetup", "#techtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Divoom"],
+        "context": "viral consumer gadget review",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Yoto Player anchors the 'screen-free summer' parenting content surge",
+      "body": "The Yoto Player audio device is trending with parents as the screen-free way to keep kids entertained on road trips and quiet time, with its $5-$25 story cards driving repeat content. Creator angle: a 'screen-free travel kit for toddlers' pack-with-me, or an honest 'is the Yoto worth it after 6 months?' review.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#yotoplayer", "#screenfree", "#momtok", "#toddleractivities"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Yoto", "Tonies"],
+        "context": "screen-free kids entertainment trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Summer cooling pet beds and 90%-off deshedding brushes top PetTok shopping hauls",
+      "body": "Heat-season pet gear is surging: cooling water beds and ice mats plus a viral double-sided deshedding brush that owners say removes mountains of fur. Creator angle: a 'deshedding my husky — satisfying brush-out' ASMR reel, or a 'keeping pets cool this summer: 3 products tested' roundup.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#deshedding", "#coolingbed", "#dogsoftiktok", "#pettok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Furminator", "Chewy"],
+        "context": "summer pet product trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cat-POV cameras turn pets into the main character on PetTok",
+      "body": "Lightweight cat-POV cameras are racking up tens of millions of views per video by showing the world from the pet's eye level. Creator angle: a 'I put a camera on my cat for 24 hours' day-in-the-life, or a 'POV: you're my dog at the park' edit set to a trending sound.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://www.accio.com/business/tiktok_pet_trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#catpov", "#petcam", "#catsoftiktok", "#petpov"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Insta360"],
+        "context": "pet POV video format trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Greece or Turkey?' comparison videos drive summer TravelTok engagement",
+      "body": "Destination head-to-head videos — 'Is Greece or Turkey better for a summer trip?' — are outperforming cinematic montages because the format is inherently shareable and tag-able. Creator angle: a side-by-side 'same budget, two countries: which wins?' breakdown, or a 'hyper-local find: the one taverna locals line up for' clip.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#traveltok", "#greecevsturkey", "#summertravel", "#traveltips"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "travel comparison video format trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces lead the 'jewelry that tells a story' summer trend",
+      "body": "Overloaded charm necklaces and chunky dopamine pieces are replacing dainty minimalism as creators build jewelry around identity and memories. Creator angle: a 'building my charm necklace — what each charm means' storytelling reel, or a 'minimalist to maximalist jewelry glow-up' transition.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#maximalistjewelry", "#jewelrytok", "#dopaminejewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Mejuri"],
+        "context": "maximalist charm jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

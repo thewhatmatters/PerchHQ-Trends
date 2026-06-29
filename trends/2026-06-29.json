@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-06-29",
+  "scraped_at": "2026-06-29T10:00:00Z",
+  "expires_at": "2026-07-02T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Beauty of Joseon Rice Sunscreen is SkinTok's go-to for the 'no-white-cast summer SPF' test",
+      "body": "This SPF 50+ rice-water sunscreen is surging as creators reframe daily SPF as the core of 'skin longevity' and put it through real-world summer wear tests. Creator angle: a 'sunscreens that pass the no-white-cast test on deeper skin tones' side-by-side, or a 'one-week dewy SPF base under makeup' wear diary.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#beautyofjoseon", "#ricesunscreen", "#spf", "#kbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Beauty of Joseon", "Biodance", "Medicube"],
+        "context": "viral summer sunscreen product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Cloud skin' is the soft-focus makeup technique replacing high-glow on BeautyTok",
+      "body": "Cloud skin — a blurred, diffused finish that mimics a digital filter in real life — is trending as the breathable summer alternative to dewy glass skin. Creator angle: a 'glass skin vs cloud skin, same face' split-screen, or a 'cloud skin in 5 steps for oily skin in humidity' tutorial.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cloudskin", "#softfocus", "#makeuptutorial", "#summermakeup"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rare Beauty", "Charlotte Tilbury"],
+        "context": "viral makeup finish technique",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "#80sLuxury revival sends shoulder pads and flashy prints up 225% in fashion searches",
+      "body": "An 80s-luxury revival — bold shoulders, glossy textures and loud prints — is one of the fastest-rising fashion aesthetics, up a reported 225% in searches. Creator angle: a 'thrifting one 80s power-blazer and styling it 3 ways' transition, or a 'how to do 80s luxury without looking like a costume' do's-and-don'ts.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#80sluxury", "#shoulderpads", "#outfitinspo", "#vintagestyle"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "Mango"],
+        "context": "retro fashion aesthetic revival",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Lightweight linen co-ord sets dominate summer try-on hauls",
+      "body": "Coordinated linen sets — matching top with wide-leg pants or shorts in neutral tones — are the polished-but-breathable staple all over summer fashion try-ons. Creator angle: a 'one linen set, day-to-night styled 3 ways' video, or a 'best linen sets by price: $30 vs $80 vs $150' honest comparison haul.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#linenset", "#summeroutfit", "#tryonhaul", "#coords"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["H&M", "Quince", "Abercrombie"],
+        "context": "summer apparel co-ord trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Coconut iced coffee is the tropical drink upgrade taking over summer FoodTok",
+      "body": "Coconut milk and coconut cream iced coffees are this summer's it-drink, beating last year's cold-brew wave thanks to a creamy tropical look that films beautifully. Creator angle: a 'viral coconut iced coffee at home vs the $7 cafe version' build, or a 'coconut coffee 3 ways: blended, layered, espresso-over-coconut-water' recipe reel.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#coconutcoffee", "#icedcoffee", "#coffeetok", "#summerdrinks"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Chamberlain Coffee", "Starbucks"],
+        "context": "viral summer beverage trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Swicy' sweet-and-spicy bowls power the savory anti-sweet FoodTok wave",
+      "body": "Swicy — sweet-meets-spicy — is 2026's defining flavor, headlined by hot-honey-drizzled sweet potato, cottage cheese and ground beef bowls. Creator angle: a 'swicy high-protein bowl I can't stop making' speed-build, or a 'rating swicy combos from 1-10' taste-test where you push the heat each round.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://canadiangrocer.com/most-viral-tiktok-food-trends-2026-so-far",
+      "trend_type": "content_format",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#swicy", "#hothoney", "#highprotein", "#foodtok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Mike's Hot Honey", "Good Culture"],
+        "context": "viral sweet-spicy flavor trend",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Matcha adaptogen mocktails lead the 'functional drink' wellness wave",
+      "body": "Wellness mocktails — matcha blended with oat milk, mushroom adaptogens or calming powders — are trending as the zero-proof, good-for-you summer sip creators batch on camera. Creator angle: a 'functional matcha mocktail for focus, no crash' recipe, or a 'I swapped my afternoon coffee for adaptogen matcha for a week' diary.",
+      "categories": ["Food & Beverage", "Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://tastewise.io/blog/summer-drink-trends",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#matcha", "#mocktail", "#adaptogens", "#wellnesstok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Four Sigmatic", "Blume"],
+        "context": "functional wellness beverage trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Theragun Mini 2 is the recovery gadget creators keep filming for ASMR",
+      "body": "The pocket-sized Theragun Mini 2 is a steady viral pick as 'recovery is the new workout' content grows, prized for its quiet motor that works in relaxation and ASMR clips. Creator angle: a '5-minute post-workout percussion routine' follow-along, or a 'mini massage guns tested: which is actually quiet?' honest review.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#theragun", "#recoveryday", "#massagegun", "#gymtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Therabody", "Hyperice"],
+        "context": "fitness recovery gadget trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bedside water dispensers are the 'why didn't I have this sooner' bedroom gadget",
+      "body": "Compact bedside water dispensers that fill your glass at the press of a button are going viral for the satisfying, problem-solving demo that performs perfectly in short-form. Creator angle: a 'nightstand gadgets that upgraded my sleep, ranked' roundup, or a 'lazy-girl bedroom finds under $40' haul-and-test.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.tasteofhome.com/collection/tiktok-made-me-buy-it/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#bedsidedispenser", "#tiktokmademebuyit", "#bedroomfinds", "#homegadgets"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Amazon Basics"],
+        "context": "viral bedroom convenience gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The $47 'designer-look' viral rug is HomeTok's easiest room glow-up",
+      "body": "A soft, chic budget rug around $47 keeps going viral for delivering an 'effortless designer vibe' that instantly transforms a room on camera. Creator angle: a 'one $47 rug, three room styles' transformation, or a 'viral rugs tested: do they actually look expensive?' unbox-and-style review.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-home-decor?lang=en",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#viralrug", "#roomtransformation", "#budgetdecor", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Ruggable", "HomeGoods"],
+        "context": "viral affordable home decor",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "MOFT Invisible Stand is the desk-and-travel gadget tech creators keep demoing",
+      "body": "The ultra-thin, stick-on MOFT Invisible Stand exploded in TikTok's tech community for the satisfying fold-out reveal and its 'fixed my posture instantly' utility. Creator angle: a 'desk setup upgrades under $30' roundup, or a 'minimalist travel tech that fits in a laptop sleeve' pack-with-me.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#moft", "#desksetup", "#techtok", "#gadgets"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["MOFT"],
+        "context": "viral consumer tech accessory",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Wearable hands-free breast pumps are MomTok's most-requested honest review",
+      "body": "Wearable, hands-free breast pumps are surging with working parents who want discreet, multitask-friendly pumping, driving steady 'is it worth it' content. Creator angle: a 'wearable pumps ranked by suction, noise and price' comparison, or a 'real day pumping hands-free at work' realistic vlog.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/baby-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#wearablepump", "#momtok", "#newmom", "#pumpingmom"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Elvie", "Willow", "Momcozy"],
+        "context": "hands-free pumping product trend",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The 3-in-1 dog walking water bottle is PetTok's viral 'one-tool walk' gadget",
+      "body": "A 3-in-1 dog bottle that combines a water dispenser, treat compartment and poop scraper is trending for replacing a pocketful of gear on every walk. Creator angle: a 'walk essentials that fit in one bottle' demo, or a 'gadgets that made dog walks easier this summer, tested' roundup.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://pbfulfill.com/blogs/marketing-strategy/tiktok-viral-pet-products-to-dropship",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dogwalk", "#dogsoftiktok", "#petgadgets", "#pettok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Chewy"],
+        "context": "viral dog walking product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'The one stall locals line up for' hyper-local food format wins summer TravelTok",
+      "body": "Travel creators are ditching cinematic montages for hyper-specific advice videos — 'the one dumpling stall in Chinatown locals line up for' — opened with a bold hook in the first second. Creator angle: a 'don't go to the tourist spot, go HERE' single-stall feature, or a '$30 hotel room that looks 5-star' surprise-hook reveal.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#traveltok", "#hiddengem", "#streetfood", "#traveltips"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "hyper-local travel video format trend",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist colorful stacking rings are the defining summer jewelry accessory",
+      "body": "Bold, colorful stackable rings — mixed, stacked and clashed on purpose — are the standout summer jewelry trend as minimalism fades for playful maximalism. Creator angle: a 'building a colorful ring stack for under $25' haul, or a 'one outfit, minimalist vs maximalist ring styling' transition.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#stackingrings", "#maximalistjewelry", "#jewelrytok", "#summerjewelry"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Astrid & Miyu"],
+        "context": "maximalist summer jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

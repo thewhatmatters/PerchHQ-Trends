@@ -1,0 +1,277 @@
+{
+  "batch_id": "trends-2026-06-30",
+  "scraped_at": "2026-06-30T10:00:00Z",
+  "expires_at": "2026-07-03T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Medicube PDRN Pink Peptide Serum is SkinTok's affordable 'salmon-DNA glow' pick",
+      "body": "PDRN (the buzzy 'salmon DNA' repair ingredient) is the skincare obsession of the moment, and Medicube's pink peptide serum is the budget hero creators reach for to demo it. Creator angle: a 14-day 'PDRN bounce test' before/after, or a 'luxury PDRN vs the $30 dupe' split-screen comparison.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#pdrn", "#medicube", "#peptideserum", "#kbeauty"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Medicube", "Beauty of Joseon"],
+        "context": "viral repair-ingredient serum",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Mediterranean glow' is replacing glazed-donut skin as summer's radiance look",
+      "body": "Warm apricot-and-terracotta tones, sun-kissed blush drifted high across the cheekbones and a brick lip define the Mediterranean glow taking over BeautyTok this summer. Creator angle: a 'glazed donut vs Mediterranean glow, same face' split, or a 'sun-kissed blush placement for your face shape' quick tutorial.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.qogita.com/blog/tiktok-beauty-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#mediterraneanglow", "#sunkissedmakeup", "#blushplacement", "#summermakeup"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Rare Beauty", "Saie"],
+        "context": "viral summer radiance makeup look",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "'Coastal cowgirl' is the summer styling format mixing denim, linen and western hats",
+      "body": "Coastal cowgirl — denim and leather mixed with sheer linen, wide-brim hats and sandy-beige-to-ocean-blue palettes — is one of the most shoppable styling formats right now as creators layer western shirts over swimsuits. Creator angle: a 'one western shirt, three coastal-cowgirl outfits' transition, or a 'thrifted vs new' get-the-look haul.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://itismandystyle.com/blog/tiktok-fashion-trends-summer-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coastalcowgirl", "#outfitinspo", "#summerstyle", "#getthelook"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Wrangler", "Free People"],
+        "context": "viral summer styling aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Multi-layered tops fuel the 'more-is-more' maximalist styling wave",
+      "body": "Stacking multiple tops at once — a Friends-era revival creators credit to a more-is-more maximalist mood — is one of the fastest-spreading outfit formats this season. Creator angle: a 'how many tops can I layer and still look styled' challenge, or a 'maximalist layering rules so it reads intentional, not messy' do's-and-don'ts.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#layering", "#maximalism", "#outfitideas", "#styling"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Zara", "Urban Outfitters"],
+        "context": "viral maximalist layering format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Layered iced matcha lemonade is the photogenic drink-of-the-summer DIY",
+      "body": "The green-on-yellow layered iced matcha lemonade — matcha poured over ice first, lemonade added slowly for the ombre split — is racking up sustained traction as the prettiest easy summer sip. Creator angle: a slow-pour ASMR layering reveal, or a 'cafe matcha lemonade vs my $2 home version' taste-and-cost test.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#matchalemonade", "#icedmatcha", "#summerdrinks", "#matchatok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Jade Leaf", "Ito En"],
+        "context": "viral layered summer drink",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Cucumber agua fresca ('agua de pepino') is FoodTok's go-to heat-wave hydrator",
+      "body": "Blended cucumber-lime agua fresca with a hit of mint is trending as the refreshing, barely-any-effort drink creators are batching for hot days. Creator angle: a 'making agua fresca for 30 people' big-batch pour, or a 'electrolyte agua de pepino so you actually stay hydrated' wellness-spin recipe.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://totallythebomb.com/viral-summer-drink-recipes-tested/",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#aguafresca", "#aguadepepino", "#summerdrink", "#hydration"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Villa Cocina"],
+        "context": "viral hydrating summer drink",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Vibration plates are FitnessTok's most film-friendly buy-out-of-stock gadget",
+      "body": "Vibration plates are the #1 trending fitness product because the visible high-frequency shake reads instantly on camera, making sub-30-second clips that pop in-feed. Creator angle: a 'I did 10 minutes a day on a vibration plate for two weeks' results diary, or a 'does it actually do anything? honest review' debunk.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://artbellfitness.com/fitness-equipment-americans-are-buying-out-of-stock-on-tiktok/",
+      "trend_type": "product",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#vibrationplate", "#fitnesstok", "#homegym", "#recovery"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["LifePro", "Bluefin"],
+        "context": "viral home-fitness gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Smart rings are the 'optimize, don't grind' biometric flex (398% YoY search growth)",
+      "body": "Smart rings have exploded as the wellness status symbol, with searches up a reported 398% year-over-year as creators shift from 'grind harder' to 'optimize my recovery and sleep.' Creator angle: a 'reading my sleep score every morning for a week' vlog, or an 'Oura vs the budget smart ring' data face-off.",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://artbellfitness.com/fitness-equipment-americans-are-buying-out-of-stock-on-tiktok/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#smartring", "#ouraring", "#sleepscore", "#recovery"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Oura", "Ultrahuman", "Samsung"],
+        "context": "viral biometric wearable",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "The $299 'cloud couch' is HomeTok's easiest big-ticket glow-up unboxing",
+      "body": "The boneless, no-assembly cloud sofa keeps going viral on the 'unbox-it-and-it-fluffs-itself' reveal and the deep-sink comfort test, racking up millions of views. Creator angle: a 'box-to-couch in real time' unboxing, or a 'is the $299 viral cloud couch actually worth it after 30 days' honest verdict.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://homiodecor.com/blogs/for-inspiration/10-viral-tiktok-home-decor-items-that-are-worth-the-hype",
+      "trend_type": "product",
+      "confidence_score": 0.76,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#cloudcouch", "#amazonhome", "#homedecor", "#unboxing"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Amazon"],
+        "context": "viral affordable furniture",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Wireless mini projectors are TechTok's 'didn't know I needed it' summer gadget",
+      "body": "Rechargeable pocket projectors are surging as the low-cost-but-high-perceived-value lifestyle gadget creators use for backyard movie nights and cozy bedroom-ceiling setups. Creator angle: a 'turning my blank wall into a home cinema for under $100' setup, or a 'cheap vs pricey mini projector in a dark room' brightness test.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://gagadget.com/en/577968-trending-tiktok-tech/",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#miniprojector", "#techtok", "#movienight", "#gadgets"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anker Nebula", "Xgimi"],
+        "context": "viral lifestyle tech gadget",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Soundcore Boom 2 'floating LED speaker' is the viral summer-by-the-water pick",
+      "body": "The rugged, IPX7-waterproof Soundcore Boom 2 — it floats and runs a music-synced LED light show — is the speaker creators are demoing for pool, lake and beach content. Creator angle: a 'tossing it in the pool to prove it floats and keeps playing' durability test, or a 'best budget party speaker for summer' showdown.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://www.techbuzz.ai/articles/tiktok-s-most-hyped-gadgets-which-ones-actually-deliver",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#soundcore", "#bluetoothspeaker", "#poolparty", "#techtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Anker", "Soundcore"],
+        "context": "viral waterproof speaker",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "The Honey Bear straw cup is MomTok's most-recommended new-parent buy",
+      "body": "The Honey Bear straw cup (a squeezable bear that teaches straw-drinking) is the product parent-creators name when asked for the one thing to recommend to every new parent. Creator angle: a 'teaching my toddler to use a straw in real time' clip, or a 'viral toddler cups ranked by least-spill' tested roundup.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://tinybeans.com/tiktok-baby-and-kids-products/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#honeybearcup", "#momtok", "#toddlermusthaves", "#newparent"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Legendairy Milk"],
+        "context": "viral toddler feeding product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The 90%-less-shedding double-sided deshedding brush is PetTok's satisfying-clip hero",
+      "body": "A double-sided deshedding brush that claims to cut shedding by up to 90% is a #1 grooming pick driving oddly-satisfying 'look how much fur came off' clips. Creator angle: a 'one-pass fur-pile reveal' on a heavy shedder, or a 'does the viral deshedding brush beat my old one' side-by-side.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/trending-pet-products",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#deshedding", "#petgrooming", "#dogsoftiktok", "#tiktokmademebuyit"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["FURminator"],
+        "context": "viral pet grooming gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Underrated Southeast Asia spotlights are out-performing cinematic travel montages",
+      "body": "Single-destination features on lesser-known spots — Luang Prabang's alms ceremony, Siargao and Siquijor, Vietnam's Ha Giang Loop — are pulling outsized engagement, and half the top travel videos now come from creators under 10k followers. Creator angle: a bold-hook 'the SE Asia stop nobody films' single-spot reel, or a 'skip the overcrowded beach, go here instead' swap.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#hiddengems", "#southeastasia", "#traveltok", "#offthebeatenpath"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Agoda"],
+        "context": "viral hidden-gem travel format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Maximalist charm necklaces are the 'jewelry that tells a story' summer staple",
+      "body": "Overloaded charm necklaces — trinkets that signal identity and memories rather than a single pendant — are replacing minimalist chains as the defining accessory of the season. Creator angle: a 'build your charm necklace with me, each charm has a meaning' story piece, or a 'where to source affordable charms' haul.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "content_format",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#charmnecklace", "#charmjewelry", "#jewelrytrends", "#maximalist"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Pandora", "Mejuri"],
+        "context": "viral personalized jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}

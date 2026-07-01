@@ -1,0 +1,241 @@
+{
+  "batch_id": "trends-2026-07-01",
+  "scraped_at": "2026-07-01T10:00:00Z",
+  "expires_at": "2026-07-04T10:00:00Z",
+  "trends": [
+    {
+      "headline": "Biodance Bio-Collagen Real Deep Mask is the 'one-use glass skin' overnight sell-out",
+      "body": "The overnight bio-collagen mask keeps selling out as creators film the peel-off 'morning-after' reveal — a hydrogel that melts into skin and comes off in one satisfying piece. Creator angle: an 'I wore it 8 hours, here's the peel' close-up, or a 'wedding-week glass skin prep' 3-night routine.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cosmetify.com/blog/tik-tok-approved-beauty-products-you-need/",
+      "trend_type": "product",
+      "confidence_score": 0.85,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#biodance", "#glassskin", "#collagenmask", "#skintok"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Biodance", "Medicube"],
+        "context": "viral overnight hydrating mask",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Made By Mitchell Curve Case is BeautyTok's sold-out all-in-one contour + blush palette",
+      "body": "The eight-pan cream palette (four contours, four blushes) keeps going out of stock as creators demo a full sculpted face from a single compact. Creator angle: a 'whole face with ONE palette' one-take tutorial, or a 'is the hype real?' first-impression review on the restock.",
+      "categories": ["Beauty & Skincare"],
+      "source": "Web",
+      "source_url": "https://www.cultbeauty.com/c/top-10/tiktok/",
+      "trend_type": "product",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#madebymitchell", "#curvecase", "#creamblush", "#makeuptutorial"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Made By Mitchell"],
+        "context": "viral multitasking cream palette",
+        "price_point": "mid-range"
+      }
+    },
+    {
+      "headline": "Bohemian revival with an 'indie-chic grunge twist' is summer's rising styling aesthetic",
+      "body": "Boho is back on the FYP but reworked with grungier, indie-leaning layering — flowy pieces styled down instead of prairie-sweet. Creator angle: a 'boho but make it grunge' closet remix, or a thrift-haul styling three ways from one bohemian base piece.",
+      "categories": ["Fashion & Apparel"],
+      "source": "Web",
+      "source_url": "https://www.whowhatwear.com/fashion/trends/tiktok-fashion-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.72,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#boho", "#indiechic", "#summeroutfits", "#styling"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["Free People"],
+        "context": "rising summer styling aesthetic",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Whipped lemonade is the frothy heat-wave drink DIY creators are blending on camera",
+      "body": "Blending lemonade with condensed milk and cream into a frappe-like froth is the photogenic summer drink-of-the-moment. Creator angle: a slow-pour 'is this too sweet?' taste test, or a 'viral drink for under $3' cost breakdown.",
+      "categories": ["Food & Beverage"],
+      "source": "Web",
+      "source_url": "https://www.foodvlove.com/viral-tiktok-drinks-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#whippedlemonade", "#summerdrinks", "#tiktokrecipe", "#heatwave"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer drink DIY",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'Food Jutsu' anime-summoning transition is the breakout food/product reveal format",
+      "body": "Creators throw up Naruto-style hand signs and a CapCut template 'summons' their meal or drink into frame — the transition has 36.9M+ videos and works for any dish or SKU. Creator angle: summon your signature order or a new menu item; the more unexpected the reveal, the harder the comments hit.",
+      "categories": ["Food & Beverage"],
+      "source": "New Engen",
+      "source_url": "https://newengen.com/insights/june-tiktok-trends/",
+      "trend_type": "content_format",
+      "confidence_score": 0.82,
+      "relevance_score": 9,
+      "metadata": {
+        "hashtags": ["#foodjutsu", "#capcut", "#foodtok", "#transition"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral anime-transition food format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "The 3-2-8 Method is FitnessTok's structured routine driving pastel Pilates-gear hauls",
+      "body": "The 3-2-8 split (3 days weights, 2 days Pilates/barre, 8,000 daily steps) has taken over fitness feeds, pulling demand for aesthetic pastel Pilates rings and ankle weights. Creator angle: a 'what a 3-2-8 week actually looks like' vlog, or a color-coordinated 'Pilates-girl starter kit' haul.",
+      "categories": ["Health & Fitness"],
+      "source": "Web",
+      "source_url": "https://artbellfitness.com/fitness-equipment-americans-are-buying-out-of-stock-on-tiktok/",
+      "trend_type": "content_format",
+      "confidence_score": 0.78,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#328method", "#pilatesprincess", "#fittok", "#wellnessroutine"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral structured fitness routine",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Portable USB blender cups are the 'smoothie on the go' morning-routine staple",
+      "body": "The rechargeable single-serve blender cup keeps showing up in aesthetic morning-routine and gym-bag clips, blending a protein shake anywhere in seconds. Creator angle: a 'week of blender-cup breakfasts' series, or a 'does the $25 one actually work?' durability test.",
+      "categories": ["Health & Fitness", "Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://cjdropshipping.com/blogs/winning-products/TikTok-Viral-products-2026",
+      "trend_type": "product",
+      "confidence_score": 0.72,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#portableblender", "#morningroutine", "#proteinshake", "#gymtok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": ["BlendJet"],
+        "context": "viral morning-routine gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Mini portable AC units are HomeTok's timely heat-wave impulse buy",
+      "body": "Compact desktop AC/evaporative coolers are surging as creators film 'surviving the heat wave' desk and bedside setups. Creator angle: a 'does a $40 mini AC actually cool a room?' honest test, or a 'summer desk-cooling setup' room refresh.",
+      "categories": ["Home & Lifestyle"],
+      "source": "Web",
+      "source_url": "https://www.tiktok.com/discover/tiktok-made-me-buy-it-home-decor",
+      "trend_type": "product",
+      "confidence_score": 0.73,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#miniac", "#heatwave", "#amazonfinds", "#hometok"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer cooling gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "Magic device-cleaning gel is TechTok's most satisfying oddly-clean unboxing",
+      "body": "The reusable cleaning gel that pulls dust from keyboards, vents and car crevices is a satisfying-content magnet with a built-in before/after payoff. Creator angle: a 'cleaning my disgusting keyboard' ASMR clip, or a 'trying every viral desk-cleaning gadget' ranking.",
+      "categories": ["Tech & Gadgets"],
+      "source": "Web",
+      "source_url": "https://eprolo.com/top-selling-items-on-tiktok",
+      "trend_type": "product",
+      "confidence_score": 0.7,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#cleaningel", "#satisfying", "#techtok", "#desksetup"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral satisfying cleaning gadget",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "The Artipoppe carrier is MomTok's aspirational 'baby-wearing flex' pick",
+      "body": "The luxury woven baby carrier keeps circulating in MomTok 'worth the splurge?' debates and stylish babywearing outfit clips. Creator angle: a 'luxury carrier vs. the $60 dupe' honest comparison, or a 'baby-wearing fits' styling reel for the summer stroll.",
+      "categories": ["Baby & Kids"],
+      "source": "Web",
+      "source_url": "https://www.babylist.com/hello-baby/viral-baby-products",
+      "trend_type": "product",
+      "confidence_score": 0.68,
+      "relevance_score": 7,
+      "metadata": {
+        "hashtags": ["#artipoppe", "#babywearing", "#momtok", "#newmom"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "mixed",
+        "related_brands": ["Artipoppe"],
+        "context": "viral premium baby carrier",
+        "price_point": "luxury"
+      }
+    },
+    {
+      "headline": "Cooling pet beds and ice mats are PetTok's timely summer must-have",
+      "body": "Self-cooling gel pet beds and ice pads are going viral as owners film their dogs and cats flopping onto them during the heat wave. Creator angle: a 'my dog's reaction to the cooling mat' before/after, or a 'summer heat essentials for pets' roundup.",
+      "categories": ["Pets"],
+      "source": "Web",
+      "source_url": "https://meetglimpse.com/trends/pet-trends/",
+      "trend_type": "product",
+      "confidence_score": 0.75,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#coolingbed", "#dogsoftiktok", "#pettok", "#summerpets"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral summer pet cooling product",
+        "price_point": "budget"
+      }
+    },
+    {
+      "headline": "'How much a week in [destination] actually costs' is TravelTok's dominant save-bait format",
+      "body": "Cost-breakdown videos tallying a full week's spend in a destination are out-performing cinematic montages and racking up saves and shares. Creator angle: an honest line-item 'a week in [your city] for $X' breakdown, or a '$50/day here vs. there' destination-dupe comparison.",
+      "categories": ["Travel & Hospitality"],
+      "source": "Web",
+      "source_url": "https://viryze.com/blog/tiktok-travel-trends-2026",
+      "trend_type": "content_format",
+      "confidence_score": 0.8,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#traveltok", "#budgettravel", "#costbreakdown", "#destinationdupe"],
+        "engagement": { "mentions": "high", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral cost-breakdown travel format",
+        "price_point": "various"
+      }
+    },
+    {
+      "headline": "Chunky 'dopamine' necklaces are summer's bold color-pop statement piece",
+      "body": "Oversized, brightly colored beaded and resin necklaces are replacing dainty pendants as the season's mood-boosting accessory. Creator angle: a 'styling one dopamine necklace with five outfits' reel, or a 'making my own chunky beaded necklace' DIY.",
+      "categories": ["Jewelry & Accessories"],
+      "source": "Web",
+      "source_url": "https://unique-accessories.com/blog/tiktok-jewellery-trends-2026/",
+      "trend_type": "product",
+      "confidence_score": 0.74,
+      "relevance_score": 8,
+      "metadata": {
+        "hashtags": ["#dopaminejewelry", "#statementnecklace", "#beadedjewelry", "#summerstyle"],
+        "engagement": { "mentions": "medium", "editor_approved": true },
+        "sentiment": "positive",
+        "related_brands": [],
+        "context": "viral maximalist jewelry trend",
+        "price_point": "various"
+      }
+    }
+  ]
+}
